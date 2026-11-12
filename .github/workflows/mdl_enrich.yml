@@ -30,18 +30,15 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Install Dependencies
-        working-directory: NekoScrappers/MDL_GHA
         run: npm install
 
       - name: Probe Cloudflare Connectivity
-        working-directory: NekoScrappers/MDL_GHA
         run: node src/probe.js
 
       - name: Run Deep Detail Enrichment
-        working-directory: NekoScrappers/MDL_GHA
         run: |
           node src/enricher.js --year ${{ github.event.inputs.year || '2026' }} --limit ${{ github.event.inputs.limit || '0' }} --max-minutes ${{ github.event.inputs.max_minutes || '270' }}
 
@@ -49,7 +46,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add NekoScrappers/MDL_GHA/data/
+          git add data/
           git commit -m "Auto-enrich: sync MDL dossiers for ${{ github.event.inputs.year || '2026' }} [skip ci]" || echo "No changes to commit"
           git push
 
