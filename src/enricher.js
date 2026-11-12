@@ -44,14 +44,6 @@ function loadSearchIndex(year) {
     if (fs.existsSync(localFile)) {
         return JSON.parse(fs.readFileSync(localFile, 'utf8'));
     }
-
-    // Try fallback to MDL_DB search file if running in local repository
-    const fallbackFile = path.join(LOCAL_MDL_DB, `mdl_search_${year}.json`);
-    if (fs.existsSync(fallbackFile)) {
-        console.log(`ℹ️ Using search index from local MDL_DB: mdl_search_${year}.json`);
-        return JSON.parse(fs.readFileSync(fallbackFile, 'utf8'));
-    }
-
     return null;
 }
 
@@ -67,18 +59,6 @@ function loadEnrichedArchive(year) {
             }
         } catch (e) {
             console.warn(`Warning reading ${enrichedFile}: ${e.message}`);
-        }
-    } else {
-        // Fallback to existing enriched file in MDL_DB if available
-        const fallbackFile = path.join(LOCAL_MDL_DB, `mdl_enriched_${year}.json`);
-        if (fs.existsSync(fallbackFile)) {
-            try {
-                const arr = JSON.parse(fs.readFileSync(fallbackFile, 'utf8'));
-                for (const item of arr) {
-                    if (item && item.id) map.set(item.id, item);
-                }
-                console.log(`ℹ️ Seeded ${map.size} existing dossiers from MDL_DB/mdl_enriched_${year}.json`);
-            } catch {}
         }
     }
 

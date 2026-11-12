@@ -20,6 +20,8 @@ jobs:
   enrich:
     runs-on: ubuntu-latest
     timeout-minutes: 360
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -43,6 +45,7 @@ jobs:
           node src/enricher.js --year ${{ github.event.inputs.year || '2026' }} --limit ${{ github.event.inputs.limit || '0' }} --max-minutes ${{ github.event.inputs.max_minutes || '270' }}
 
       - name: Commit and Push Enriched JSON Data
+        if: always()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
