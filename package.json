@@ -1,0 +1,16 @@
+{
+  "name": "mdl-gha-scraper",
+  "version": "1.0.0",
+  "description": "Standalone JSON-based MyDramaList Scraper and DB builder for GitHub Actions",
+  "type": "module",
+  "main": "src/enricher.js",
+  "scripts": {
+    "start": "node src/enricher.js",
+    "status": "node src/status.js",
+    "test": "node src/probe.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
+

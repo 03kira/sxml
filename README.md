@@ -1,0 +1,118 @@
+# Neko MDL Scraper & Database Builder (GitHub Actions & JSON Edition)
+
+A high-performance, standalone, pure-JSON scraper and dataset enrichment engine for **MyDramaList (MDL)**.
+
+Built specifically to run seamlessly on **GitHub Actions** (or locally) without any native C++ binary dependencies (`better-sqlite3` not required).
+
+---
+
+## 🌟 Key Features
+
+1. **Pure JSON Architecture**:
+   - Reads search index JSON files from `data/search/` (e.g. `mdl_search_2026.json`).
+   - Progressively writes enriched dossiers to `data/enriched/` (e.g. `mdl_enriched_2026.json`).
+   - Checkpoint tracking in `data/checkpoint.json` ensures zero duplicated work on resumes.
+2. **Zero Native Dependencies**:
+   - Only dependency is `cheerio`.
+   - Runs on standard Node.js (v18+) with system `curl` on Linux, macOS, and Windows.
+3. **GitHub Actions 4.5-Hour Safety Cutoff**:
+   - Accepts `--max-minutes 270` (4.5 hours).
+   - Gracefully stops, flushes all pending records to disk, and exits with code 0 before GitHub Actions' 6-hour runner timeout.
+   - Automatically commits and pushes updated JSON files back to the repository.
+4. **Resilient Retry & Zero Half-Data Protection**:
+   - Automatic 3-attempt exponential backoff.
+   - Atomic validation before saving (`id`, `slug`, `title`).
+   - Never saves incomplete/half records on network glitches.
+   - True HTTP 404 detection (only marks genuine 404s).
+5. **Built-in Cloudflare Probe**:
+   - `npm test` checks if the runner's IP address is accepted or challenged by Cloudflare CDN.
+
+---
+
+## 📁 Directory Structure
+
+```
+MDL_GHA/
+├── .github/
+│   └── workflows/
+│       └── mdl_enrich.yml        <-- GitHub Actions workflow definition
+├── data/
+│   ├── search/                   <-- Source search indexes (e.g. mdl_search_2026.json)
+│   ├── enriched/                 <-- Output full dossiers (e.g. mdl_enriched_2026.json)
+│   └── checkpoint.json           <-- Resume checkpoint state
+├── src/
+│   ├── client.js                 <-- System curl HTTP client with retry & status parser
+│   ├── helpers.js                <-- Text, date, and image URL upgrade utilities
+│   ├── parsers.js                <-- Cheerio HTML parsers (cast, episodes, reviews, recs)
+│   ├── scraper.js                <-- Complete drama stitcher (all 43 schema keys)
+│   ├── enricher.js               <-- Main runner with safety timer and progressive sync
+│   ├── probe.js                  <-- Cloudflare connectivity tester
+│   └── status.js                 <-- Pretty status table across all 37 years
+├── package.json
+└── README.md
+```
+
+---
+
+## 🚀 Quick Start (Local Testing)
+
+### 1. Check Cloudflare Connectivity
+Run the probe to test if your IP passes Cloudflare without challenges:
+```bash
+npm test
+```
+
+### 2. View Dataset Status
+Check current enrichment progress across all indexed years (1990–2026):
+```bash
+npm run status
+```
+
+### 3. Run a Small Test (e.g. 5 titles)
+```bash
+node src/enricher.js --year 2026 --limit 5
+```
+
+### 4. Run Full Year Enrichment
+```bash
+node src/enricher.js --year 2026
+```
+
+---
+
+## ☁️ Running on GitHub Actions
+
+### Step 1: Push to GitHub
+If pushing this directory to a GitHub repository:
+```bash
+git init
+git add .
+git commit -m "Initial commit: MDL GitHub Actions scraper"
+git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+git branch -M main
+git push -u origin main
+```
+
+*(Tip: In a **Public** GitHub repository, GitHub Actions compute minutes are **100% UNLIMITED and FREE**).*
+
+### Step 2: Grant Workflow Write Permissions
+In your GitHub repository:
+1. Go to **Settings** → **Actions** → **General**.
+2. Under **Workflow permissions**, select **Read and write permissions**.
+3. Check the box **"Allow GitHub Actions to create and approve pull requests"**.
+4. Click **Save**.
+
+*(This allows the GitHub Actions bot to commit the updated JSON files back to your repo).*
+
+### Step 3: Trigger the Workflow
+1. Go to the **Actions** tab in your GitHub repository.
+2. Select **"MDL Data Enrichment Worker"** from the left sidebar.
+3. Click **"Run workflow"**.
+4. Choose the target year (e.g. `2026`), limit (e.g. `50` for a test or `0` for all), and click **Run workflow**.
+
+The workflow will:
+1. Run `node src/probe.js` to verify Cloudflare connectivity.
+2. Enrich pending titles progressively.
+3. Stop safely at the 4.5-hour mark.
+4. Auto-commit the updated `data/enriched/mdl_enriched_<year>.json` and push it back to the repo!
+
