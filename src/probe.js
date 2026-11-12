@@ -23,7 +23,9 @@ async function runProbe() {
         console.log('Runner Public IP: Could not resolve');
     }
 
-    const testUrl = 'https://mydramalist.com/712367-crash-landing-on-you';
+    // Test with actual valid slugs on MDL
+    const testSlug = '35729-emergency-lands-of-love';
+    const testUrl = `https://mydramalist.com/${testSlug}`;
     console.log(`Target URL:       ${testUrl}\n`);
 
     const userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';

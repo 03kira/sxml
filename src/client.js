@@ -66,8 +66,8 @@ export class HttpClient {
                         statusCode = parseInt(statusStr, 10) || 0;
                     }
 
-                    // Genuine 404 Not Found on MDL
-                    if (statusCode === 404 || body.includes('Page not found') || body.includes('404 Not Found')) {
+                    // Genuine 404 Not Found on MDL (Note: MDL returns empty 500 for unknown drama IDs)
+                    if (statusCode === 404 || (statusCode === 500 && body.trim().length <= 5) || body.includes('Page not found') || body.includes('404 Not Found')) {
                         return null;
                     }
 
