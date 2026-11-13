@@ -6,6 +6,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { execSync } from 'node:child_process';
 import { MdlScraper } from './scraper.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -16,9 +17,6 @@ const DATA_DIR = path.join(ROOT_DIR, 'data');
 const SEARCH_DIR = path.join(DATA_DIR, 'search');
 const ENRICHED_DIR = path.join(DATA_DIR, 'enriched');
 const CHECKPOINT_PATH = path.join(DATA_DIR, 'checkpoint.json');
-
-// Local fallback to MDL_DB if running in the workspace
-const LOCAL_MDL_DB = path.resolve(__dirname, '../../MDL/MDL_DB');
 
 function ensureDirs() {
     if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
@@ -68,6 +66,23 @@ function loadEnrichedArchive(year) {
 function flushEnriched(filePath, map) {
     const arr = Array.from(map.values());
     fs.writeFileSync(filePath, JSON.stringify(arr, null, 2), 'utf8');
+}
+
+function syncToGit(year, enrichedCount, totalCount) {
+    if (process.env.GITHUB_ACTIONS) {
+        try {
+            console.log(`\n💾 Auto-sync: committing ${enrichedCount}/${totalCount} titles to GitHub...`);
+            execSync('git config user.name "github-actions[bot]"', { stdio: 'ignore' });
+            execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { stdio: 'ignore' });
+            execSync('git add data/', { stdio: 'ignore' });
+            execSync(`git commit -m "Auto-enrich: sync ${enrichedCount}/${totalCount} titles for ${year} [skip ci]"`, { stdio: 'ignore' });
+            execSync('git pull --rebase origin main', { stdio: 'ignore' });
+            execSync('git push origin HEAD:main', { stdio: 'ignore' });
+            console.log(`✅ Progress safely committed & pushed to GitHub!\n`);
+        } catch {
+            // Quietly ignore if no changes or transient network sync issue
+        }
+    }
 }
 
 function randomDelay(min = 1200, max = 2000) {
@@ -152,8 +167,13 @@ async function main() {
     const { filePath, map: enrichedMap } = loadEnrichedArchive(year);
     console.log(`Already Enriched:    ${enrichedMap.size} titles`);
 
-    // 3. Filter Pending Queue
-    const pendingItems = searchItems.filter(item => !enrichedMap.has(item.id));
+    // 3. Filter Pending Queue (Resilient: match by both ID and Slug)
+    const enrichedSlugs = new Set();
+    for (const d of enrichedMap.values()) {
+        if (d.slug) enrichedSlugs.add(d.slug);
+    }
+
+    const pendingItems = searchItems.filter(item => !enrichedMap.has(item.id) && !enrichedSlugs.has(item.slug));
     console.log(`Pending Queue:       ${pendingItems.length} titles`);
 
     if (pendingItems.length === 0) {
@@ -162,7 +182,8 @@ async function main() {
     }
 
     const queue = limit > 0 ? pendingItems.slice(0, limit) : pendingItems;
-    console.log(`Processing Queue:    ${queue.length} titles`);
+    console.log(`Processing Queue:    ${queue.length} titles in this run`);
+    console.log(`Starting with:       "${queue[0].title}" (ID: ${queue[0].id})`);
     console.log('═'.repeat(65) + '\n');
 
     const scraper = new MdlScraper({
@@ -173,6 +194,7 @@ async function main() {
 
     const checkpoint = loadCheckpoint();
     const jobStartTime = Date.now();
+    const initialEnriched = enrichedMap.size;
     let processed = 0;
     let successful = 0;
 
@@ -180,6 +202,8 @@ async function main() {
     const onExit = () => {
         console.log('\n💾 Flushing enriched dossiers to disk before exit...');
         flushEnriched(filePath, enrichedMap);
+        saveCheckpoint(checkpoint);
+        syncToGit(year, enrichedMap.size, searchItems.length);
         console.log(`✅ Saved ${enrichedMap.size} dossiers to ${filePath}`);
     };
     process.on('SIGINT', () => { onExit(); process.exit(0); });
@@ -195,8 +219,10 @@ async function main() {
         }
 
         processed++;
-        const pct = ((processed / queue.length) * 100).toFixed(1);
-        process.stdout.write(`[${processed}/${queue.length} (${pct}%)] `);
+        const currentTotal = initialEnriched + successful + 1;
+        const totalPct = ((currentTotal / searchItems.length) * 100).toFixed(1);
+
+        process.stdout.write(`[${currentTotal}/${searchItems.length} (${totalPct}%)] (Batch: ${processed}/${queue.length}) `);
 
         const result = await enrichTitle(scraper, item);
 
@@ -207,6 +233,13 @@ async function main() {
             // Periodically sync to disk every 5 completed titles
             if (successful % 5 === 0) {
                 flushEnriched(filePath, enrichedMap);
+            }
+
+            // Periodically commit and push to GitHub every 20 completed titles!
+            if (successful % 20 === 0) {
+                flushEnriched(filePath, enrichedMap);
+                saveCheckpoint(checkpoint);
+                syncToGit(year, enrichedMap.size, searchItems.length);
             }
         }
 
@@ -224,13 +257,15 @@ async function main() {
         await randomDelay(1200, 2000);
     }
 
-    // Final flush
+    // Final flush and push
     flushEnriched(filePath, enrichedMap);
+    saveCheckpoint(checkpoint);
+    syncToGit(year, enrichedMap.size, searchItems.length);
 
     const totalElapsedMins = ((Date.now() - jobStartTime) / 60000).toFixed(1);
     console.log('\n' + '═'.repeat(65));
     console.log(`🎉 Batch Finished in ${totalElapsedMins} mins!`);
-    console.log(`Successfully Enriched: ${successful}/${processed} titles`);
+    console.log(`Successfully Enriched in this run: ${successful}/${processed} titles`);
     console.log(`Total Year ${year} Progress: ${enrichedMap.size}/${searchItems.length} (${((enrichedMap.size / searchItems.length) * 100).toFixed(1)}%)`);
     console.log(`Archive file updated: ${filePath}`);
     console.log('═'.repeat(65) + '\n');
@@ -240,4 +275,3 @@ main().catch(err => {
     console.error('Fatal Runner Error:', err);
     process.exit(1);
 });
-
