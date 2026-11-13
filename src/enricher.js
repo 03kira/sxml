@@ -53,7 +53,7 @@ function loadEnrichedArchive(year) {
         try {
             const arr = JSON.parse(fs.readFileSync(enrichedFile, 'utf8'));
             for (const item of arr) {
-                if (item && item.id) map.set(item.id, item);
+                if (item && item.id) map.set(Number(item.id), item);
             }
         } catch (e) {
             console.warn(`Warning reading ${enrichedFile}: ${e.message}`);
@@ -64,7 +64,11 @@ function loadEnrichedArchive(year) {
 }
 
 function flushEnriched(filePath, map) {
-    const arr = Array.from(map.values());
+    const unique = new Map();
+    for (const item of map.values()) {
+        if (item && item.id) unique.set(Number(item.id), item);
+    }
+    const arr = Array.from(unique.values());
     fs.writeFileSync(filePath, JSON.stringify(arr, null, 2), 'utf8');
 }
 
@@ -72,15 +76,24 @@ function syncToGit(year, enrichedCount, totalCount) {
     if (process.env.GITHUB_ACTIONS) {
         try {
             console.log(`\n💾 Auto-sync: committing ${enrichedCount}/${totalCount} titles to GitHub...`);
-            execSync('git config user.name "github-actions[bot]"', { stdio: 'ignore' });
-            execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { stdio: 'ignore' });
-            execSync('git add data/', { stdio: 'ignore' });
-            execSync(`git commit -m "Auto-enrich: sync ${enrichedCount}/${totalCount} titles for ${year} [skip ci]"`, { stdio: 'ignore' });
-            execSync('git pull --rebase origin main', { stdio: 'ignore' });
-            execSync('git push origin HEAD:main', { stdio: 'ignore' });
+            execSync('git config user.name "github-actions[bot]"');
+            execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
+            const repo = process.env.GITHUB_REPOSITORY;
+            const token = process.env.GITHUB_TOKEN;
+            if (repo && token) {
+                execSync(`git remote set-url origin https://x-access-token:${token}@github.com/${repo}.git`);
+            }
+            execSync('git add data/');
+            try {
+                execSync(`git commit -m "Auto-enrich: sync ${enrichedCount}/${totalCount} titles for ${year} [skip ci]"`);
+            } catch {
+                return; // Nothing new to commit
+            }
+            execSync('git pull --rebase origin main');
+            execSync('git push origin HEAD:main');
             console.log(`✅ Progress safely committed & pushed to GitHub!\n`);
-        } catch {
-            // Quietly ignore if no changes or transient network sync issue
+        } catch (gitErr) {
+            console.warn(`⚠️ Auto-sync to Git notice: ${gitErr.message}`);
         }
     }
 }
@@ -167,13 +180,22 @@ async function main() {
     const { filePath, map: enrichedMap } = loadEnrichedArchive(year);
     console.log(`Already Enriched:    ${enrichedMap.size} titles`);
 
-    // 3. Filter Pending Queue (Resilient: match by both ID and Slug)
+    // 3. Filter Pending Queue (Resilient: match by ID number/string and Slug)
     const enrichedSlugs = new Set();
+    const enrichedIds = new Set();
     for (const d of enrichedMap.values()) {
-        if (d.slug) enrichedSlugs.add(d.slug);
+        if (d.slug) enrichedSlugs.add(String(d.slug).toLowerCase());
+        if (d.id) {
+            enrichedIds.add(Number(d.id));
+            enrichedIds.add(String(d.id));
+        }
     }
 
-    const pendingItems = searchItems.filter(item => !enrichedMap.has(item.id) && !enrichedSlugs.has(item.slug));
+    const pendingItems = searchItems.filter(item => {
+        const idMatches = enrichedIds.has(Number(item.id)) || enrichedIds.has(String(item.id));
+        const slugMatches = item.slug && enrichedSlugs.has(String(item.slug).toLowerCase());
+        return !idMatches && !slugMatches;
+    });
     console.log(`Pending Queue:       ${pendingItems.length} titles`);
 
     if (pendingItems.length === 0) {
@@ -227,7 +249,7 @@ async function main() {
         const result = await enrichTitle(scraper, item);
 
         if (result.drama) {
-            enrichedMap.set(result.drama.id, result.drama);
+            enrichedMap.set(Number(result.drama.id), result.drama);
             successful++;
 
             // Periodically sync to disk every 5 completed titles

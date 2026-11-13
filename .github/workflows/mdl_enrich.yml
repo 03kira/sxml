@@ -28,6 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -41,16 +42,33 @@ jobs:
         run: node src/probe.js
 
       - name: Run Deep Detail Enrichment
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           node src/enricher.js --year ${{ github.event.inputs.year || '2026' }} --limit ${{ github.event.inputs.limit || '0' }} --max-minutes ${{ github.event.inputs.max_minutes || '270' }}
 
       - name: Commit and Push Enriched JSON Data
         if: always()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           git add data/
-          git commit -m "Auto-enrich: sync MDL dossiers for ${{ github.event.inputs.year || '2026' }} [skip ci]" || echo "No changes to commit"
-          git pull --rebase origin main || true
-          git push origin HEAD:main || echo "Already up to date"
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-enrich: sync MDL dossiers for ${{ github.event.inputs.year || '2026' }} [skip ci]"
+            git pull --rebase origin main || true
+            git push origin HEAD:main
+          else
+            echo "No changes in data/ to commit"
+          fi
+
+      - name: Upload Enriched Data Artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mdl-enriched-${{ github.event.inputs.year || '2026' }}
+          path: data/
+          retention-days: 14
 
