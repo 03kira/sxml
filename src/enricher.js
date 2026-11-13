@@ -53,7 +53,7 @@ function loadEnrichedArchive(year) {
         try {
             const arr = JSON.parse(fs.readFileSync(enrichedFile, 'utf8'));
             for (const item of arr) {
-                if (item && item.id) map.set(Number(item.id), item);
+                if (item && item.id) map.set(item.id, item);
             }
         } catch (e) {
             console.warn(`Warning reading ${enrichedFile}: ${e.message}`);
@@ -64,11 +64,7 @@ function loadEnrichedArchive(year) {
 }
 
 function flushEnriched(filePath, map) {
-    const unique = new Map();
-    for (const item of map.values()) {
-        if (item && item.id) unique.set(Number(item.id), item);
-    }
-    const arr = Array.from(unique.values());
+    const arr = Array.from(map.values());
     fs.writeFileSync(filePath, JSON.stringify(arr, null, 2), 'utf8');
 }
 
@@ -76,24 +72,15 @@ function syncToGit(year, enrichedCount, totalCount) {
     if (process.env.GITHUB_ACTIONS) {
         try {
             console.log(`\n💾 Auto-sync: committing ${enrichedCount}/${totalCount} titles to GitHub...`);
-            execSync('git config user.name "github-actions[bot]"');
-            execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
-            const repo = process.env.GITHUB_REPOSITORY;
-            const token = process.env.GITHUB_TOKEN;
-            if (repo && token) {
-                execSync(`git remote set-url origin https://x-access-token:${token}@github.com/${repo}.git`);
-            }
-            execSync('git add data/');
-            try {
-                execSync(`git commit -m "Auto-enrich: sync ${enrichedCount}/${totalCount} titles for ${year} [skip ci]"`);
-            } catch {
-                return; // Nothing new to commit
-            }
-            execSync('git pull --rebase origin main');
-            execSync('git push origin HEAD:main');
+            execSync('git config user.name "github-actions[bot]"', { stdio: 'ignore' });
+            execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { stdio: 'ignore' });
+            execSync('git add data/', { stdio: 'ignore' });
+            execSync(`git commit -m "Auto-enrich: sync ${enrichedCount}/${totalCount} titles for ${year} [skip ci]"`, { stdio: 'ignore' });
+            execSync('git pull --rebase origin main', { stdio: 'ignore' });
+            execSync('git push origin HEAD:main', { stdio: 'ignore' });
             console.log(`✅ Progress safely committed & pushed to GitHub!\n`);
-        } catch (gitErr) {
-            console.warn(`⚠️ Auto-sync to Git notice: ${gitErr.message}`);
+        } catch {
+            // Quietly ignore if no changes or transient network sync issue
         }
     }
 }
@@ -200,6 +187,11 @@ async function main() {
 
     if (pendingItems.length === 0) {
         console.log(`🎉 All ${searchItems.length} titles for ${year} are 100% enriched! Nothing to do.`);
+        if (process.env.GITHUB_OUTPUT) {
+            try {
+                fs.appendFileSync(process.env.GITHUB_OUTPUT, `has_pending=false\nremaining=0\n`);
+            } catch {}
+        }
         process.exit(0);
     }
 
@@ -249,7 +241,7 @@ async function main() {
         const result = await enrichTitle(scraper, item);
 
         if (result.drama) {
-            enrichedMap.set(Number(result.drama.id), result.drama);
+            enrichedMap.set(result.drama.id, result.drama);
             successful++;
 
             // Periodically sync to disk every 5 completed titles
@@ -284,11 +276,21 @@ async function main() {
     saveCheckpoint(checkpoint);
     syncToGit(year, enrichedMap.size, searchItems.length);
 
+    const remainingTitles = Math.max(0, searchItems.length - enrichedMap.size);
+    const hasPendingRemaining = remainingTitles > 0;
+
+    if (process.env.GITHUB_OUTPUT) {
+        try {
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, `has_pending=${hasPendingRemaining}\nremaining=${remainingTitles}\n`);
+        } catch {}
+    }
+
     const totalElapsedMins = ((Date.now() - jobStartTime) / 60000).toFixed(1);
     console.log('\n' + '═'.repeat(65));
     console.log(`🎉 Batch Finished in ${totalElapsedMins} mins!`);
     console.log(`Successfully Enriched in this run: ${successful}/${processed} titles`);
     console.log(`Total Year ${year} Progress: ${enrichedMap.size}/${searchItems.length} (${((enrichedMap.size / searchItems.length) * 100).toFixed(1)}%)`);
+    console.log(`Remaining Pending: ${remainingTitles} titles`);
     console.log(`Archive file updated: ${filePath}`);
     console.log('═'.repeat(65) + '\n');
 }

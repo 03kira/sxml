@@ -6,7 +6,7 @@ on:
       year:
         description: 'Target Year to enrich (e.g. 2026, 2025, 2024)'
         required: true
-        default: '2026'
+        default: '2025'
       limit:
         description: 'Limit titles to scrape in this run (0 for all pending)'
         required: false
@@ -15,6 +15,10 @@ on:
         description: 'Safety timer in minutes before graceful commit (default 270 = 4.5 hours)'
         required: false
         default: '270'
+      auto_continue:
+        description: 'Auto-restart workflow after 5 min cooldown if pending titles remain (true/false)'
+        required: false
+        default: 'true'
 
 jobs:
   enrich:
@@ -22,13 +26,13 @@ jobs:
     timeout-minutes: 360
     permissions:
       contents: write
+      actions: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+          token: ${{ secrets.WORKFLOW_PAT || secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -42,33 +46,71 @@ jobs:
         run: node src/probe.js
 
       - name: Run Deep Detail Enrichment
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        id: enricher
         run: |
-          node src/enricher.js --year ${{ github.event.inputs.year || '2026' }} --limit ${{ github.event.inputs.limit || '0' }} --max-minutes ${{ github.event.inputs.max_minutes || '270' }}
+          node src/enricher.js --year ${{ github.event.inputs.year || '2025' }} --limit ${{ github.event.inputs.limit || '0' }} --max-minutes ${{ github.event.inputs.max_minutes || '270' }}
 
       - name: Commit and Push Enriched JSON Data
         if: always()
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           git add data/
-          if ! git diff --staged --quiet; then
-            git commit -m "Auto-enrich: sync MDL dossiers for ${{ github.event.inputs.year || '2026' }} [skip ci]"
-            git pull --rebase origin main || true
-            git push origin HEAD:main
-          else
-            echo "No changes in data/ to commit"
+          git commit -m "Auto-enrich: sync MDL dossiers for ${{ github.event.inputs.year || '2025' }} [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin main || true
+          git push origin HEAD:main || echo "Already up to date"
+
+      - name: Auto-Restart Next Run After 5-Minute Cooldown
+        if: success() && (github.event.inputs.auto_continue != 'false')
+        env:
+          GH_TOKEN: ${{ secrets.WORKFLOW_PAT || secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_PAT || secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          TARGET_YEAR: ${{ github.event.inputs.year || '2025' }}
+          BATCH_LIMIT: ${{ github.event.inputs.limit || '0' }}
+          MAX_MINUTES: ${{ github.event.inputs.max_minutes || '270' }}
+          HAS_PENDING: ${{ steps.enricher.outputs.has_pending }}
+        run: |
+          echo "=========================================================="
+          echo "🔍 Checking completion status for Year $TARGET_YEAR..."
+          echo "=========================================================="
+
+          SHOULD_RESTART="false"
+          if [ "$HAS_PENDING" = "true" ]; then
+            SHOULD_RESTART="true"
+          elif [ -f "data/checkpoint.json" ]; then
+            PENDING_COUNT=$(node -e "
+              try {
+                const cp = JSON.parse(require('fs').readFileSync('data/checkpoint.json', 'utf8'));
+                const y = process.env.TARGET_YEAR;
+                console.log(cp[y]?.pending ?? 1);
+              } catch { console.log(1); }
+            ")
+            echo "Pending count from checkpoint: $PENDING_COUNT"
+            if [ "$PENDING_COUNT" -gt 0 ]; then
+              SHOULD_RESTART="true"
+            fi
           fi
 
-      - name: Upload Enriched Data Artifact
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: mdl-enriched-${{ github.event.inputs.year || '2026' }}
-          path: data/
-          retention-days: 14
+          if [ "$SHOULD_RESTART" = "true" ]; then
+            echo "⏳ Pending titles remain to be enriched for Year $TARGET_YEAR."
+            echo "💤 Waiting 5 minutes (300 seconds) cooldown before triggering next cycle..."
+            sleep 300
 
+            echo "🚀 Launching next enrichment cycle via GitHub CLI..."
+            gh workflow run mdl_enrich.yml \
+              --ref "${{ github.ref_name || 'main' }}" \
+              -f year="$TARGET_YEAR" \
+              -f limit="$BATCH_LIMIT" \
+              -f max_minutes="$MAX_MINUTES" \
+              -f auto_continue="true" || {
+                echo "⚠️ 'gh workflow run' failed. Falling back to GitHub REST API dispatch..."
+                curl -s -X POST \
+                  -H "Authorization: Bearer $GH_TOKEN" \
+                  -H "Accept: application/vnd.github+json" \
+                  "https://api.github.com/repos/${{ github.repository }}/actions/workflows/mdl_enrich.yml/dispatches" \
+                  -d "{\"ref\":\"${{ github.ref_name || 'main' }}\",\"inputs\":{\"year\":\"$TARGET_YEAR\",\"limit\":\"$BATCH_LIMIT\",\"max_minutes\":\"$MAX_MINUTES\",\"auto_continue\":\"true\"}}"
+              }
+            echo "✅ Next workflow run successfully queued!"
+          else
+            echo "🎉 All titles for year $TARGET_YEAR are 100% enriched! Workflow chain complete."
+          fi
