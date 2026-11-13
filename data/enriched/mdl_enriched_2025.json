@@ -1266518,5 +1266518,4705 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-13T20:48:39.820Z"
+  },
+  {
+    "id": 790970,
+    "slug": "790970-king-of-comedy-season-2",
+    "url": "https://mydramalist.com/790970-king-of-comedy-season-2",
+    "title": "King of Comedy Season 2",
+    "complete_title": "King of Comedy Season 2 (2025)",
+    "native_title": "喜剧之王单口季 第二季",
+    "sub_title": "喜剧之王单口季 第二季 ‧ TV Program ‧ 2025",
+    "also_known_as": [
+      "King of Comedy 2 , Xi Ju Zhi Wang Dan Kou Ji 2 , Xi Ju Zhi Wang Dan Kou Ji Di Er Ji , 喜剧之王单口季 第2季 , 喜剧之王单口季2 , 喜劇之王單口季 第二季"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": 40,
+    "aired_string": "Jul 11, 2025 - Sep 13, 2025",
+    "aired_start": "2025-07-11",
+    "aired_end": "2025-09-13",
+    "aired_on": [
+      "Friday",
+      "Saturday"
+    ],
+    "original_network": "iQiyi",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 23,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 23,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Comedy Show",
+        "id": "16461"
+      },
+      {
+        "name": "Competition",
+        "id": "100"
+      },
+      {
+        "name": "Stand-up Comedy",
+        "id": "80"
+      }
+    ],
+    "synopsis": "The new season of the show will continue the spiritual core of \"from a small person to the king of comedy\" and inspire every extraordinary comedy dream. This year, the atmosphere group, which the audience loves, returns as promised. The top actors continue to produce humor online, and there are also super newcomers from first-class talk show clubs at home and abroad. New and old actors compete on the same stage to compete for the annual championship. (Source: Chinese = Douban || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/ABmKgX_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ABmKgX_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "title": "King of Comedy Season 2 (2025) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "King of Comedy",
+        "slug": "776857-king-of-comedy",
+        "url": "https://mydramalist.com/776857-king-of-comedy",
+        "relation": "Chinese prequel"
+      },
+      {
+        "title": "King of Comedy Season 3",
+        "slug": "811206-king-of-comedy-season-3",
+        "url": "https://mydramalist.com/811206-king-of-comedy-season-3",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Pang Bo",
+          "slug": "people/112239-pang-bo",
+          "url": "https://mydramalist.com/people/112239-pang-bo",
+          "image_url": "https://i.mydramalist.com/oQkezk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQkezk_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Kevin Guo",
+          "slug": "people/34973-guo-qi-lin",
+          "url": "https://mydramalist.com/people/34973-guo-qi-lin",
+          "image_url": "https://i.mydramalist.com/AB6wwZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/AB6wwZ_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Yang Tian Zhen",
+          "slug": "people/111951-yang-tian-zhen",
+          "url": "https://mydramalist.com/people/111951-yang-tian-zhen",
+          "image_url": "https://i.mydramalist.com/2R28V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2R28V_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Fu Hang",
+          "slug": "people/146384-fu-hang",
+          "url": "https://mydramalist.com/people/146384-fu-hang",
+          "image_url": "https://i.mydramalist.com/O8yYVL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8yYVL_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Xiao Lu",
+          "slug": "people/146164-xiao-lu",
+          "url": "https://mydramalist.com/people/146164-xiao-lu",
+          "image_url": "https://i.mydramalist.com/YYn8YA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYn8YA_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Liu Yang",
+          "slug": "people/129947-jerry",
+          "url": "https://mydramalist.com/people/129947-jerry",
+          "image_url": "https://i.mydramalist.com/Pxzg0y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Pxzg0y_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Shi Yan",
+          "slug": "people/148604-shi-yan",
+          "url": "https://mydramalist.com/people/148604-shi-yan",
+          "image_url": "https://i.mydramalist.com/3oj4lA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3oj4lA_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Yang Meng En",
+          "slug": "people/122613-yang-meng-en",
+          "url": "https://mydramalist.com/people/122613-yang-meng-en",
+          "image_url": "https://i.mydramalist.com/wJ00Wb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJ00Wb_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Tang Xiang Yu",
+          "slug": "people/165510-tang-xiang-yu",
+          "url": "https://mydramalist.com/people/165510-tang-xiang-yu",
+          "image_url": "https://i.mydramalist.com/7r3y8R_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/7r3y8R_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Da Peng",
+          "slug": "people/14537-da-peng",
+          "url": "https://mydramalist.com/people/14537-da-peng",
+          "image_url": "https://i.mydramalist.com/lJ84Js.jpg",
+          "image_hd_url": "https://i.mydramalist.com/lJ84Js.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Patty Hou",
+          "slug": "people/10287-hou-patty",
+          "url": "https://mydramalist.com/people/10287-hou-patty",
+          "image_url": "https://i.mydramalist.com/6K4BK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6K4BK_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ma Dong",
+          "slug": "people/49229-ma-dong",
+          "url": "https://mydramalist.com/people/49229-ma-dong",
+          "image_url": "https://i.mydramalist.com/jg2E8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jg2E8_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Wang Jian Guo",
+          "slug": "people/143569-wang-jian-guo",
+          "url": "https://mydramalist.com/people/143569-wang-jian-guo",
+          "image_url": "https://i.mydramalist.com/pdrzpE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pdrzpE_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Yan He Xiang",
+          "slug": "people/95377-yan-he-xiang",
+          "url": "https://mydramalist.com/people/95377-yan-he-xiang",
+          "image_url": "https://i.mydramalist.com/E1PgQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E1PgQ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Vinida",
+          "slug": "people/85657-vinida",
+          "url": "https://mydramalist.com/people/85657-vinida",
+          "image_url": "https://i.mydramalist.com/Dk6epy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Dk6epy_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Yue Yun Peng",
+          "slug": "people/13254-yue-yun-peng",
+          "url": "https://mydramalist.com/people/13254-yue-yun-peng",
+          "image_url": "https://i.mydramalist.com/RBPVAP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RBPVAP_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Tiger Hu",
+          "slug": "people/39613-tiger-hu",
+          "url": "https://mydramalist.com/people/39613-tiger-hu",
+          "image_url": "https://i.mydramalist.com/nO81pW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nO81pW_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Cheng Xiao",
+          "slug": "people/16297-cheng-xiao",
+          "url": "https://mydramalist.com/people/16297-cheng-xiao",
+          "image_url": "https://i.mydramalist.com/YYPbxo_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYPbxo_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Zhu Zhu",
+          "slug": "people/10976-zhu-zhu",
+          "url": "https://mydramalist.com/people/10976-zhu-zhu",
+          "image_url": "https://i.mydramalist.com/yWKl0B_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWKl0B_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Yao Chen",
+          "slug": "people/6271-yao-chen",
+          "url": "https://mydramalist.com/people/6271-yao-chen",
+          "image_url": "https://i.mydramalist.com/XLgop_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XLgop_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Z. Tao",
+          "slug": "people/9444-z.-tao",
+          "url": "https://mydramalist.com/people/9444-z.-tao",
+          "image_url": "https://i.mydramalist.com/Rmpzg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rmpzg_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Meng Zi Yi",
+          "slug": "people/14044-meng-zoey",
+          "url": "https://mydramalist.com/people/14044-meng-zoey",
+          "image_url": "https://i.mydramalist.com/YYWz1z_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYWz1z_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "King of Comedy Season 2 Episode 1",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/1",
+        "air_date": "2025-07-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "King of Comedy Season 2 Episode 2",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/2",
+        "air_date": "2025-07-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "King of Comedy Season 2 Episode 3",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/3",
+        "air_date": "2025-07-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "King of Comedy Season 2 Episode 4",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/4",
+        "air_date": "2025-07-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "King of Comedy Season 2 Episode 5",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/5",
+        "air_date": "2025-07-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "King of Comedy Season 2 Episode 6",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/6",
+        "air_date": "2025-07-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "King of Comedy Season 2 Episode 7",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/7",
+        "air_date": "2025-07-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "King of Comedy Season 2 Episode 8",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/8",
+        "air_date": "2025-07-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "King of Comedy Season 2 Episode 9",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/9",
+        "air_date": "2025-07-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "King of Comedy Season 2 Episode 10",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/10",
+        "air_date": "2025-07-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "King of Comedy Season 2 Episode 11",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/11",
+        "air_date": "2025-07-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "King of Comedy Season 2 Episode 12",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/12",
+        "air_date": "2025-07-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "King of Comedy Season 2 Episode 13",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/13",
+        "air_date": "2025-08-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "King of Comedy Season 2 Episode 14",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/14",
+        "air_date": "2025-08-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "King of Comedy Season 2 Episode 15",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/15",
+        "air_date": "2025-08-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "King of Comedy Season 2 Episode 16",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/16",
+        "air_date": "2025-08-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "King of Comedy Season 2 Episode 17",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/17",
+        "air_date": "2025-08-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "King of Comedy Season 2 Episode 18",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/18",
+        "air_date": "2025-08-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "King of Comedy Season 2 Episode 19",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/19",
+        "air_date": "2025-08-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "King of Comedy Season 2 Episode 20",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/20",
+        "air_date": "2025-08-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "King of Comedy Season 2 Episode 21",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/21",
+        "air_date": "2025-08-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "King of Comedy Season 2 Episode 22",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/22",
+        "air_date": "2025-08-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "King of Comedy Season 2 Episode 23",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/23",
+        "air_date": "2025-08-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "King of Comedy Season 2 Episode 24",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/24",
+        "air_date": "2025-08-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "King of Comedy Season 2 Episode 25",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/25",
+        "air_date": "2025-08-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "King of Comedy Season 2 Episode 26",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/26",
+        "air_date": "2025-08-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "King of Comedy Season 2 Episode 27",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/27",
+        "air_date": "2025-08-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "King of Comedy Season 2 Episode 28",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/28",
+        "air_date": "2025-08-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 29,
+        "title": "King of Comedy Season 2 Episode 29",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/29",
+        "air_date": "2025-08-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 30,
+        "title": "King of Comedy Season 2 Episode 30",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/30",
+        "air_date": "2025-08-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 31,
+        "title": "King of Comedy Season 2 Episode 31",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/31",
+        "air_date": "2025-08-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 32,
+        "title": "King of Comedy Season 2 Episode 32",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/32",
+        "air_date": "2025-08-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 33,
+        "title": "King of Comedy Season 2 Episode 33",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/33",
+        "air_date": "2025-09-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 34,
+        "title": "King of Comedy Season 2 Episode 34",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/34",
+        "air_date": "2025-09-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 35,
+        "title": "King of Comedy Season 2 Episode 35",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/35",
+        "air_date": "2025-09-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 36,
+        "title": "King of Comedy Season 2 Episode 36",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/36",
+        "air_date": "2025-09-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 37,
+        "title": "King of Comedy Season 2 Episode 37",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/37",
+        "air_date": "2025-09-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 38,
+        "title": "King of Comedy Season 2 Episode 38",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/38",
+        "air_date": "2025-09-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 39,
+        "title": "King of Comedy Season 2 Episode 39",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/39",
+        "air_date": "2025-09-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 40,
+        "title": "King of Comedy Season 2 Episode 40",
+        "url": "https://mydramalist.com/790970-king-of-comedy-season-2/episode/40",
+        "air_date": "2025-09-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABmKgX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABmKgX_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-13T20:48:52.406Z"
+  },
+  {
+    "id": 764027,
+    "slug": "764027-po-ju-zhe-mi",
+    "url": "https://mydramalist.com/764027-po-ju-zhe-mi",
+    "title": "Threads of the Game",
+    "complete_title": "Threads of the Game (2025)",
+    "native_title": "册杀",
+    "sub_title": "册杀 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Po Ju Zhe Mi , Breaking the Game , 破局者迷 , Ce Sha , 冊殺"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 37 min.",
+    "duration_minutes": 97,
+    "content_rating": "Not Yet Rated",
+    "rating": 40,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 40,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Chinese Republican Era",
+        "id": "1293"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "The Li family’s private library, the Linyuan Pavilion, which had never been open to outsiders, was suddenly burglarized. Detective Bai Fei was invited to assist with the investigation. At the mysterious locked-room crime scene, he discovered that what seemed like an ordinary theft was fraught with hidden dangers—everyone appeared to be harboring secrets they dared not reveal. (Source: Chinese = Douban || Translation = MyDramaList) English Русский Français Español",
+    "poster_url": "https://i.mydramalist.com/O8WYLg_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/O8WYLg_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/O8WYLg_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/O8WYLg_4f.jpg",
+        "title": "Threads of the Game (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/73xqqn_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/73xqqn_4f.jpg",
+        "title": "Threads of the Game Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/kAd60r_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/kAd60r_3f.jpg",
+        "title": "Threads of the Game Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/d0J6OW_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/d0J6OW_3f.jpg",
+        "title": "Threads of the Game Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bd1Lr1_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/Bd1Lr1_3f.jpg",
+        "title": "Threads of the Game Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/jQb6j8_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/jQb6j8_3f.jpg",
+        "title": "Threads of the Game Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/XdE63w_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/XdE63w_3f.jpg",
+        "title": "Threads of the Game (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/2wzvmd_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/2wzvmd_3f.jpg",
+        "title": "Threads of the Game (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/qY56VQ_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/qY56VQ_3f.jpg",
+        "title": "Threads of the Game (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/pdV6BE_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/pdV6BE_3f.jpg",
+        "title": "Threads of the Game (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/x4wlj3_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/x4wlj3_3f.jpg",
+        "title": "Threads of the Game (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/1wzVdy_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/1wzVdy_3f.jpg",
+        "title": "Threads of the Game (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/0wKV4k_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/0wKV4k_3f.jpg",
+        "title": "Threads of the Game (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/60zAXW_4m.jpg",
+        "hd_url": "https://i.mydramalist.com/60zAXW_4f.jpg",
+        "title": "Threads of the Game (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/WPrXQm_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/WPrXQm_3f.jpg",
+        "title": "Threads of the Game (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/QJ7lyv_4m.jpg",
+        "hd_url": "https://i.mydramalist.com/QJ7lyv_4f.jpg",
+        "title": "Threads of the Game (2025)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Niu Jun Feng",
+          "slug": "people/7544-niu-jun-feng",
+          "url": "https://mydramalist.com/people/7544-niu-jun-feng",
+          "image_url": "https://i.mydramalist.com/KpeX6X_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/KpeX6X_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Shang Yu Xian",
+          "slug": "people/22931-shang-yu-xian",
+          "url": "https://mydramalist.com/people/22931-shang-yu-xian",
+          "image_url": "https://i.mydramalist.com/ZXxn1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZXxn1_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Bai En",
+          "slug": "people/58173-bai-en",
+          "url": "https://mydramalist.com/people/58173-bai-en",
+          "image_url": "https://i.mydramalist.com/XX4vn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XX4vn_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ma Yu Jie",
+          "slug": "people/32903-ma-yu-jie",
+          "url": "https://mydramalist.com/people/32903-ma-yu-jie",
+          "image_url": "https://i.mydramalist.com/RBYl3o_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RBYl3o_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xu Yun",
+          "slug": "people/61665-xu-yun",
+          "url": "https://mydramalist.com/people/61665-xu-yun",
+          "image_url": "https://i.mydramalist.com/ZLZRO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZLZRO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hu Yun Hao",
+          "slug": "people/13208-hu-yun-hao",
+          "url": "https://mydramalist.com/people/13208-hu-yun-hao",
+          "image_url": "https://i.mydramalist.com/YY6g6Q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YY6g6Q_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Deng Zhi Hao",
+          "slug": "people/128127-deng-zhi-hao",
+          "url": "https://mydramalist.com/people/128127-deng-zhi-hao",
+          "image_url": "https://i.mydramalist.com/Z83yEY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Z83yEY_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wu Qian",
+          "slug": "people/75351-nuo-nuo",
+          "url": "https://mydramalist.com/people/75351-nuo-nuo",
+          "image_url": "https://i.mydramalist.com/3oWRnm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3oWRnm_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Otto Chan",
+          "slug": "people/10193-chan-otto",
+          "url": "https://mydramalist.com/people/10193-chan-otto",
+          "image_url": "https://i.mydramalist.com/l0LzpE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0LzpE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhu Hai Jun",
+          "slug": "people/79707-zhu-hai-jun",
+          "url": "https://mydramalist.com/people/79707-zhu-hai-jun",
+          "image_url": "https://i.mydramalist.com/EEbmz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EEbmz_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Li Guang Fu",
+          "slug": "people/15269-li-guang-fu",
+          "url": "https://mydramalist.com/people/15269-li-guang-fu",
+          "image_url": "https://i.mydramalist.com/rZqLj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rZqLj_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Wang Kui Rong",
+          "slug": "people/7747-wang-kui-rong",
+          "url": "https://mydramalist.com/people/7747-wang-kui-rong",
+          "image_url": "https://i.mydramalist.com/Rr186s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rr186s.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:48:59.023Z"
+  },
+  {
+    "id": 795508,
+    "slug": "795508-love-please-close-your-eyes",
+    "url": "https://mydramalist.com/795508-love-please-close-your-eyes",
+    "title": "Love Please Close Your Eyes",
+    "complete_title": "Love Please Close Your Eyes (2025)",
+    "native_title": "心动请闭眼",
+    "sub_title": "心动请闭眼 ‧ TV Program ‧ 2025",
+    "also_known_as": [
+      "Xin Dong Qing Bi Yan , 心動請閉眼"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": 6,
+    "aired_string": "Jul 8, 2025 - Jul 13, 2025",
+    "aired_start": "2025-07-08",
+    "aired_end": "2025-07-13",
+    "aired_on": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Douyin",
+    "duration_string": "5 hr. 0 min.",
+    "duration_minutes": 300,
+    "content_rating": "Not Yet Rated",
+    "rating": 16,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 16,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Dating Show",
+        "id": "409"
+      },
+      {
+        "name": "Variety Show",
+        "id": "184"
+      },
+      {
+        "name": "Reality Show",
+        "id": "89"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/ABWVRX_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ABWVRX_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ABWVRX_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ABWVRX_4f.jpg",
+        "title": "Love Please Close Your Eyes (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/g0DANd_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/g0DANd_3f.jpg",
+        "title": "Love Please Close Your Eyes Chinese TV Program(2025) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/O8WpdQ_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/O8WpdQ_3f.jpg",
+        "title": "Love Please Close Your Eyes Chinese TV Program(2025) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/NdDVbJ_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/NdDVbJ_3f.jpg",
+        "title": "Love Please Close Your Eyes Chinese TV Program(2025) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/LwWV7b_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/LwWV7b_3f.jpg",
+        "title": "Love Please Close Your Eyes Chinese TV Program(2025) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/3oNKER_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/3oNKER_3f.jpg",
+        "title": "Love Please Close Your Eyes Chinese TV Program(2025) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/VXDVzL_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/VXDVzL_3f.jpg",
+        "title": "Love Please Close Your Eyes Chinese TV Program(2025) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/yW87Ad_4m.jpg",
+        "hd_url": "https://i.mydramalist.com/yW87Ad_4f.jpg",
+        "title": "Love Please Close Your Eyes (2025)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Love Please Close Your Eyes Episode 1",
+        "url": "https://mydramalist.com/795508-love-please-close-your-eyes/episode/1",
+        "air_date": "2025-07-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABWVRX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABWVRX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Love Please Close Your Eyes Episode 2",
+        "url": "https://mydramalist.com/795508-love-please-close-your-eyes/episode/2",
+        "air_date": "2025-07-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABWVRX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABWVRX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Love Please Close Your Eyes Episode 3",
+        "url": "https://mydramalist.com/795508-love-please-close-your-eyes/episode/3",
+        "air_date": "2025-07-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABWVRX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABWVRX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Love Please Close Your Eyes Episode 4",
+        "url": "https://mydramalist.com/795508-love-please-close-your-eyes/episode/4",
+        "air_date": "2025-07-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABWVRX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABWVRX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Love Please Close Your Eyes Episode 5",
+        "url": "https://mydramalist.com/795508-love-please-close-your-eyes/episode/5",
+        "air_date": "2025-07-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABWVRX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABWVRX_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Love Please Close Your Eyes Episode 6",
+        "url": "https://mydramalist.com/795508-love-please-close-your-eyes/episode/6",
+        "air_date": "2025-07-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABWVRX_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABWVRX_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-13T20:49:04.480Z"
+  },
+  {
+    "id": 802774,
+    "slug": "802774-natural-school-season-2",
+    "url": "https://mydramalist.com/802774-natural-school-season-2",
+    "title": "Natural School Season 2",
+    "complete_title": "Natural School Season 2 (2025)",
+    "native_title": "自然学院林 第二季",
+    "sub_title": "自然学院林 第二季 ‧ TV Program ‧ 2025",
+    "also_known_as": [
+      "Natural School 2 , Zi Ran Xue Yuan Lin 2 , Zi Ran Xue Yuan Lin Di Er Ji , 自然学院林2 , 自然学院林 第2季 , 自然學院林 第二季"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": 12,
+    "aired_string": "Jul 8, 2025 - Aug 13, 2025",
+    "aired_start": "2025-07-08",
+    "aired_end": "2025-08-13",
+    "aired_on": [
+      "Tuesday",
+      "Wednesday"
+    ],
+    "original_network": "Tencent Video",
+    "duration_string": "25 min.",
+    "duration_minutes": 25,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Outdoor Variety Show",
+        "id": "98"
+      },
+      {
+        "name": "Reality Show",
+        "id": "89"
+      }
+    ],
+    "synopsis": "After a year, the nature exploration team, led by Captain Wang Yu Heng, Deputy Captain Xiao Miao, and three children, has set off once again. At latitude 1°N, they discovered a remarkable \"Ecological Cube\", a country uniquely encoded with tropical rainforest in its urban DNA: Singapore. While the world conquers nature with concrete and steel, Singapore's \"Urban Oasis\" serves as a habitat for wildlife and a spiritual totem for humanity. Now, the nature exploration team ventures deep into this fantastical city to uncover the secrets of coexistence between human civilization and primal life, revealing how this \"Lion City Oasis\" has tamed 100% of tropical wildness with just 0.01% of its land area. (Source: Chinese = Douban || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/5vkorA_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/5vkorA_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "title": "Natural School Season 2 (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/81KpmD_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/81KpmD_3f.jpg",
+        "title": "Natural School Season 2 Chinese TV Program(2025) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/JBOwdy_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/JBOwdy_4f.jpg",
+        "title": "Natural School Season 2 Chinese TV Program(2025) photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Natural School",
+        "slug": "802772-natural-school",
+        "url": "https://mydramalist.com/802772-natural-school",
+        "relation": "Chinese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Wang Yu Heng",
+          "slug": "people/132443-wang-yu-heng",
+          "url": "https://mydramalist.com/people/132443-wang-yu-heng",
+          "image_url": "https://i.mydramalist.com/jQVKpO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQVKpO_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Xiao Miao",
+          "slug": "people/95127-xiao-miao",
+          "url": "https://mydramalist.com/people/95127-xiao-miao",
+          "image_url": "https://i.mydramalist.com/65ngd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/65ngd_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Natural School Season 2 Episode 1",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/1",
+        "air_date": "2025-07-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Natural School Season 2 Episode 2",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/2",
+        "air_date": "2025-07-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Natural School Season 2 Episode 3",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/3",
+        "air_date": "2025-07-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Natural School Season 2 Episode 4",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/4",
+        "air_date": "2025-07-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Natural School Season 2 Episode 5",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/5",
+        "air_date": "2025-07-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Natural School Season 2 Episode 6",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/6",
+        "air_date": "2025-07-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Natural School Season 2 Episode 7",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/7",
+        "air_date": "2025-07-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Natural School Season 2 Episode 8",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/8",
+        "air_date": "2025-07-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Natural School Season 2 Episode 9",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/9",
+        "air_date": "2025-08-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Natural School Season 2 Episode 10",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/10",
+        "air_date": "2025-08-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Natural School Season 2 Episode 11",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/11",
+        "air_date": "2025-08-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Natural School Season 2 Episode 12",
+        "url": "https://mydramalist.com/802774-natural-school-season-2/episode/12",
+        "air_date": "2025-08-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/5vkorA_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/5vkorA_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-13T20:49:11.104Z"
+  },
+  {
+    "id": 786902,
+    "slug": "786902-guo-yi-shao-nian-zhi-season-2",
+    "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2",
+    "title": "Guo Yi Shao Nian Zhi Season 2",
+    "complete_title": "Guo Yi Shao Nian Zhi Season 2 (2025)",
+    "native_title": "国医少年志 第二季",
+    "sub_title": "国医少年志 第二季 ‧ TV Program ‧ 2025",
+    "also_known_as": [
+      "Guo Yi Shao Nian Zhi 2 , Guo Yi Shao Nian Zhi Di Er Ji , 国医少年志 第2季 , 国医少年志2 , 國醫少年志 第二季"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": 10,
+    "aired_string": "Jul 6, 2025 - Sep 7, 2025",
+    "aired_start": "2025-07-06",
+    "aired_end": "2025-09-07",
+    "aired_on": [
+      "Sunday"
+    ],
+    "original_network": "JSTV, Mango TV",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 18,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 18,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "HIT-5",
+        "id": "24661"
+      },
+      {
+        "name": "X Nine",
+        "id": "16785"
+      },
+      {
+        "name": "Traditional Medicine",
+        "id": "14131"
+      },
+      {
+        "name": "Chinese Culture",
+        "id": "12583"
+      },
+      {
+        "name": "R1SE",
+        "id": "9783"
+      },
+      {
+        "name": "Reality Show",
+        "id": "89"
+      },
+      {
+        "name": "Friendship",
+        "id": "6"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/LwWePB_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/LwWePB_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "title": "Guo Yi Shao Nian Zhi Season 2 (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/nONWZx_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/nONWZx_3f.jpg",
+        "title": "Guo Yi Shao Nian Zhi Season 2 Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/JBAglw_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/JBAglw_4f.jpg",
+        "title": "Guo Yi Shao Nian Zhi Season 2 Chinese TV Program photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Guo Yi Shao Nian Zhi",
+        "slug": "780224-guo-yi-shao-nian-zhi",
+        "url": "https://mydramalist.com/780224-guo-yi-shao-nian-zhi",
+        "relation": "Chinese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Xia Zhi Guang",
+          "slug": "people/22439-xia-zhi-guang",
+          "url": "https://mydramalist.com/people/22439-xia-zhi-guang",
+          "image_url": "https://i.mydramalist.com/zBmdrO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zBmdrO_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Xu Lu",
+          "slug": "people/7708-xu-lu",
+          "url": "https://mydramalist.com/people/7708-xu-lu",
+          "image_url": "https://i.mydramalist.com/RBrdwx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RBrdwx_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Gao Han Yu",
+          "slug": "people/12934-gao-han-yu",
+          "url": "https://mydramalist.com/people/12934-gao-han-yu",
+          "image_url": "https://i.mydramalist.com/PxDYAy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxDYAy_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Guo Yi Shao Nian Zhi Season 2 Episode 1",
+        "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2/episode/1",
+        "air_date": "2025-07-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwWePB_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Guo Yi Shao Nian Zhi Season 2 Episode 2",
+        "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2/episode/2",
+        "air_date": "2025-07-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwWePB_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Guo Yi Shao Nian Zhi Season 2 Episode 3",
+        "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2/episode/3",
+        "air_date": "2025-07-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwWePB_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Guo Yi Shao Nian Zhi Season 2 Episode 4",
+        "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2/episode/4",
+        "air_date": "2025-07-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwWePB_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Guo Yi Shao Nian Zhi Season 2 Episode 5",
+        "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2/episode/5",
+        "air_date": "2025-08-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwWePB_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Guo Yi Shao Nian Zhi Season 2 Episode 6",
+        "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2/episode/6",
+        "air_date": "2025-08-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwWePB_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Guo Yi Shao Nian Zhi Season 2 Episode 7",
+        "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2/episode/7",
+        "air_date": "2025-08-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwWePB_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Guo Yi Shao Nian Zhi Season 2 Episode 8",
+        "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2/episode/8",
+        "air_date": "2025-08-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwWePB_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Guo Yi Shao Nian Zhi Season 2 Episode 9",
+        "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2/episode/9",
+        "air_date": "2025-08-31",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwWePB_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Guo Yi Shao Nian Zhi Season 2 Episode 10",
+        "url": "https://mydramalist.com/786902-guo-yi-shao-nian-zhi-season-2/episode/10",
+        "air_date": "2025-09-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwWePB_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwWePB_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-13T20:49:18.154Z"
+  },
+  {
+    "id": 767891,
+    "slug": "767891-made-in-yiwu",
+    "url": "https://mydramalist.com/767891-made-in-yiwu",
+    "title": "A Cool Fish 2",
+    "complete_title": "A Cool Fish 2 (2025)",
+    "native_title": "无名之辈：否极泰来",
+    "sub_title": "无名之辈：否极泰来 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Made In Yiwu , Wu Ming Zhi Bei 2 , 无名之辈2 , 無名之輩2"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "2 hr. 2 min.",
+    "duration_minutes": 122,
+    "content_rating": "Not Yet Rated",
+    "rating": 35,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 35,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Crime",
+        "id": "21"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Black Comedy",
+        "id": "1047"
+      },
+      {
+        "name": "Survival",
+        "id": "896"
+      },
+      {
+        "name": "Kidnapping",
+        "id": "432"
+      }
+    ],
+    "synopsis": "When a street-smart petty thief and a sharp-tongued, lone-wolf woman cross paths in the mess of a city on edge, neither expects to get tangled in a dark web of criminal dealings and life-or-death stakes. Thrown into a game far above their pay grade, they become unwilling pawns with targets on their backs. As betrayal lurks and survival demands blood, the two must face both the enemies chasing them and the beasts inside themselves. In a world where nobodies are crushed before they can scream, can these two outcasts rewrite their fates… or will they vanish nameless, like all the rest? (Source: BeyondTheAstral at MyDramaList) English Русский Français हिन्दी",
+    "poster_url": "https://i.mydramalist.com/yWXLAN_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/yWXLAN_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/yWXLAN_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/yWXLAN_4f.jpg",
+        "title": "A Cool Fish 2 (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/oQlQbO_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/oQlQbO_3f.jpg",
+        "title": "A Cool Fish 2 Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Dkonz2_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/Dkonz2_3f.jpg",
+        "title": "A Cool Fish 2 Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/E5pqrm_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/E5pqrm_4f.jpg",
+        "title": "A Cool Fish 2 Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "A Cool Fish",
+        "slug": "32116-a-cool-fish",
+        "url": "https://mydramalist.com/32116-a-cool-fish",
+        "relation": "Chinese prequel"
+      },
+      {
+        "title": "Wu Ming Zhi Bei: Yi Yi Fei Fan",
+        "slug": "782294-a-cool-fish-3",
+        "url": "https://mydramalist.com/782294-a-cool-fish-3",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Chen Jian Bin",
+          "slug": "people/1483-chen-jian-bin",
+          "url": "https://mydramalist.com/people/1483-chen-jian-bin",
+          "image_url": "https://i.mydramalist.com/R5kEV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R5kEV_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Yu",
+          "slug": "people/21526-zhang-yu",
+          "url": "https://mydramalist.com/people/21526-zhang-yu",
+          "image_url": "https://i.mydramalist.com/eE4gps.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eE4gps.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Ren Su Xi",
+          "slug": "people/39087-ren-su-xi",
+          "url": "https://mydramalist.com/people/39087-ren-su-xi",
+          "image_url": "https://i.mydramalist.com/g0p8lr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0p8lr_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Pan Bin Long",
+          "slug": "people/69577-pan-bin-long",
+          "url": "https://mydramalist.com/people/69577-pan-bin-long",
+          "image_url": "https://i.mydramalist.com/ZJr3j_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZJr3j_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ma Yin Yin",
+          "slug": "people/13902-ma-yin-yin",
+          "url": "https://mydramalist.com/people/13902-ma-yin-yin",
+          "image_url": "https://i.mydramalist.com/zB1kQz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zB1kQz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Marisa Anita Fandeurwawdeu",
+          "slug": "people/12128-anita-marisa",
+          "url": "https://mydramalist.com/people/12128-anita-marisa",
+          "image_url": "https://i.mydramalist.com/ENON7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ENON7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Bank Pavarit Mongkolpisit",
+          "slug": "people/9568-mongkolpisit-pawalit",
+          "url": "https://mydramalist.com/people/9568-mongkolpisit-pawalit",
+          "image_url": "https://i.mydramalist.com/eeBnQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eeBnQ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ging Areeya Pholphutrakul",
+          "slug": "people/70939-ging-areeya-pholphutrakul",
+          "url": "https://mydramalist.com/people/70939-ging-areeya-pholphutrakul",
+          "image_url": "https://i.mydramalist.com/1j6V7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1j6V7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cheng Yi",
+          "slug": "people/103413-cheng-yi",
+          "url": "https://mydramalist.com/people/103413-cheng-yi",
+          "image_url": "https://i.mydramalist.com/73R6LD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73R6LD_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jane Nathamon Ngamkanok",
+          "slug": "people/85407-jane-nathamon-ngamkanok",
+          "url": "https://mydramalist.com/people/85407-jane-nathamon-ngamkanok",
+          "image_url": "https://i.mydramalist.com/ZbgW1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZbgW1_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Rao Xiao Zhi",
+          "slug": "people/88721-rao-xiao-zhi",
+          "url": "https://mydramalist.com/people/88721-rao-xiao-zhi",
+          "image_url": "https://i.mydramalist.com/EV6Am_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EV6Am_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Fu Ruo Qing",
+          "slug": "people/138939-fu-ruo-qing",
+          "url": "https://mydramalist.com/people/138939-fu-ruo-qing",
+          "image_url": "https://i.mydramalist.com/vXzqx2_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXzqx2_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Cai Yuan",
+          "slug": "people/139613-cai-yuan",
+          "url": "https://mydramalist.com/people/139613-cai-yuan",
+          "image_url": "https://i.mydramalist.com/QJlOBv_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJlOBv_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Andy Lau",
+          "slug": "people/362-lau-andy",
+          "url": "https://mydramalist.com/people/362-lau-andy",
+          "image_url": "https://i.mydramalist.com/PxZbK8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxZbK8_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Karry Wang",
+          "slug": "people/12294-wang-karry",
+          "url": "https://mydramalist.com/people/12294-wang-karry",
+          "image_url": "https://i.mydramalist.com/73ZoJr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73ZoJr_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Yang Chao Yue",
+          "slug": "people/20399-yang-chao-yue",
+          "url": "https://mydramalist.com/people/20399-yang-chao-yue",
+          "image_url": "https://i.mydramalist.com/zvvgBO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zvvgBO_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Chen Ming Hao",
+          "slug": "people/22442-chen-ming-hao",
+          "url": "https://mydramalist.com/people/22442-chen-ming-hao",
+          "image_url": "https://i.mydramalist.com/eYzrQ8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYzrQ8_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Celina Jade",
+          "slug": "people/14363-jade-celina",
+          "url": "https://mydramalist.com/people/14363-jade-celina",
+          "image_url": "https://i.mydramalist.com/22OQ2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/22OQ2_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Chin Shih Chieh",
+          "slug": "people/9358-chin-shih-chieh",
+          "url": "https://mydramalist.com/people/9358-chin-shih-chieh",
+          "image_url": "https://i.mydramalist.com/l0kwdv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0kwdv_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:49:25.348Z"
+  },
+  {
+    "id": 690403,
+    "slug": "690403-taboo-area",
+    "url": "https://mydramalist.com/690403-taboo-area",
+    "title": "Taboo Area",
+    "complete_title": "Taboo Area (2025)",
+    "native_title": "禁忌地带",
+    "sub_title": "禁忌地带 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Gam Gei Dei Daai , Jin Ji Di Dai , 禁忌地帶"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 16 min.",
+    "duration_minutes": 76,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "Zhang Ming fled to Southeast Asia with his fellow villagers after failing to start a business. He took on the job of forest expedition leader. They went into the primeval forest to dispel rumors about wild men, and experienced many twists and turns. After discovering the gold mine, they were attacked, and the wild men they met later turned out to be the rival group. (Source: Chinese = iQiyi || Translation = MyDramaList) English Français Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/VXDWd0_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/VXDWd0_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/VXDWd0_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/VXDWd0_4f.jpg",
+        "title": "Taboo Area (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/RpQOo_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/RpQOo_4f.jpg",
+        "title": "Taboo Area Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Jin Bo",
+          "slug": "people/95741-jin-bo",
+          "url": "https://mydramalist.com/people/95741-jin-bo",
+          "image_url": "https://i.mydramalist.com/0qdlr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0qdlr_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Sun Jia",
+          "slug": "people/58829-sun-jia",
+          "url": "https://mydramalist.com/people/58829-sun-jia",
+          "image_url": "https://i.mydramalist.com/rAglD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rAglD_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wu Ze Heng",
+          "slug": "people/72799-wu-ze-heng",
+          "url": "https://mydramalist.com/people/72799-wu-ze-heng",
+          "image_url": "https://i.mydramalist.com/ABj50q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABj50q_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:49:30.962Z"
+  },
+  {
+    "id": 781826,
+    "slug": "781826-detective-dee-the-ghosts-in-weird-town",
+    "url": "https://mydramalist.com/781826-detective-dee-the-ghosts-in-weird-town",
+    "title": "Detective Dee: The Ghosts in Weird Town",
+    "complete_title": "Detective Dee: The Ghosts in Weird Town (2025)",
+    "native_title": "狄仁杰之诡镇幽魂",
+    "sub_title": "狄仁杰之诡镇幽魂 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Di Ren Jie Zhi Gui Zhen You Hun , 狄仁傑之詭鎮幽魂"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 24,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 24,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Historical",
+        "id": "10"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Renowned Detective Di ventures into Weird Town—a haunted settlement teeming with restless spirits, cursed rituals, and spectral enigmas. As he unravels supernatural mysteries rooted in ancient folklore, Di must confront malevolent apparitions that blur the line between logic and the otherworldly. (Source: Global Premiere Trailers) English Français Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/73WYdL_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/73WYdL_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/73WYdL_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/73WYdL_4f.jpg",
+        "title": "Detective Dee: The Ghosts in Weird Town (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/nOnKnB_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/nOnKnB_3f.jpg",
+        "title": "Detective Dee: The Ghosts in Weird Town Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/JBvOzJ_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/JBvOzJ_4f.jpg",
+        "title": "Detective Dee: The Ghosts in Weird Town Chinese Movie photo"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Ggrosz",
+        "author_url": "https://mydramalist.com/profile/Ggrosz",
+        "scores": {
+          "overall": 7,
+          "story": 8,
+          "acting": 7,
+          "music": 7,
+          "rewatch_value": 5
+        },
+        "helpful_votes": 0,
+        "review_text": "Overall 7.0 Story 8.0 Acting/Cast 7.0 Music 7.0 Rewatch Value 5.0 Miss the old Dee Renjie directors Lord Pei's quirky, weak and childish character depiction do not meld well with Dee Renjie character portrayal of a very focused and serious personality. This entire production is a little disappointing after getting spoiled for years with excellent Dee Renjie stories, wardrobes, casting, and directing.Quite different from typical Dee Renjie works. This is my least favorite Dee Renjie production. The cast chosen is good but the way it was directed isn't fitting with typical Dee Renjie production. Need a different director who is knowledgeable about Dee Renjie characters. Read More Was this review helpful to you?",
+        "has_spoiler": false
+      }
+    ],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:49:36.349Z"
+  },
+  {
+    "id": 746901,
+    "slug": "746901-ren-sheng-hui-yi-zhi-tian-sheng-yi-dui",
+    "url": "https://mydramalist.com/746901-ren-sheng-hui-yi-zhi-tian-sheng-yi-dui",
+    "title": "Life Party",
+    "complete_title": "Life Party (2025)",
+    "native_title": "人生会议",
+    "sub_title": "人生会议 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Life Meeting: A Natural Couple , Ren Sheng Hui Yi , Ren Sheng Hui Yi Zhi Tian Sheng Yi Dui , 人生会议之天生一对 , 人生會議 , 人生會議之天生一對"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 44 min.",
+    "duration_minutes": 104,
+    "content_rating": "Not Yet Rated",
+    "rating": 15,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 15,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "At 46, Wei Xing uses a time machine to successfully travel back to when he was 20, unlocking the ultimate portal through time! He begins to manipulate (PUA) his younger self, tricking him into signing a \"Life Agreement\" in order to completely rewrite his destiny: becoming a powerful CEO, a PhD-level scientist, even the second prince of Planet Gamma... Everything he once regretted or was dissatisfied with in life is now subject to revision. Thus begins an overpowered, buff-stacked journey through time! (Source: Chinese = Douban || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/ABmjL4_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ABmjL4_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ABmjL4_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ABmjL4_4f.jpg",
+        "title": "Life Party (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bdvjg5_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/Bdvjg5_4f.jpg",
+        "title": "Life Party Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Xiao Yang",
+          "slug": "people/27323-yang-xiao",
+          "url": "https://mydramalist.com/people/27323-yang-xiao",
+          "image_url": "https://i.mydramalist.com/dKv80_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dKv80_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Gulnezer Bextiyar",
+          "slug": "people/5341-bextiyar-glnezer",
+          "url": "https://mydramalist.com/people/5341-bextiyar-glnezer",
+          "image_url": "https://i.mydramalist.com/NdXj1A_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdXj1A_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wang Xun",
+          "slug": "people/12118-wang-xun",
+          "url": "https://mydramalist.com/people/12118-wang-xun",
+          "image_url": "https://i.mydramalist.com/XdZJ1n_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdZJ1n_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liu Lin",
+          "slug": "people/14626-liu-lin",
+          "url": "https://mydramalist.com/people/14626-liu-lin",
+          "image_url": "https://i.mydramalist.com/eWNpd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eWNpd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Tai Li",
+          "slug": "people/86035-wang-tai-li",
+          "url": "https://mydramalist.com/people/86035-wang-tai-li",
+          "image_url": "https://i.mydramalist.com/Ewjoz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Ewjoz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Lin",
+          "slug": "people/5269-wang-lin",
+          "url": "https://mydramalist.com/people/5269-wang-lin",
+          "image_url": "https://i.mydramalist.com/E5p6d7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5p6d7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yang Hao Yu",
+          "slug": "people/6270-yang-hao-yu",
+          "url": "https://mydramalist.com/people/6270-yang-hao-yu",
+          "image_url": "https://i.mydramalist.com/VX8Pyy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VX8Pyy_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Dai Le Le",
+          "slug": "people/70535-dai-le-le",
+          "url": "https://mydramalist.com/people/70535-dai-le-le",
+          "image_url": "https://i.mydramalist.com/x4xjwz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4xjwz_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Su Biao",
+          "slug": "people/119881-su-biao",
+          "url": "https://mydramalist.com/people/119881-su-biao",
+          "image_url": "https://i.mydramalist.com/81ONZN_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81ONZN_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:49:42.141Z"
+  },
+  {
+    "id": 778914,
+    "slug": "778914-stand-up-comedy-market-season-2",
+    "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2",
+    "title": "Stand-Up Comedy Market Season 2",
+    "complete_title": "Stand-Up Comedy Market Season 2 (2025)",
+    "native_title": "脱口秀和Ta的朋友们 第二季",
+    "sub_title": "脱口秀和Ta的朋友们 第二季 ‧ TV Program ‧ 2025",
+    "also_known_as": [
+      "Stand-Up Comedy Market 2 , Tuo Kou Xiu He Ta De Peng You Men 2 , Tuo Kou Xiu He Ta De Peng You Men Di Er Ji , 脫口秀和Ta的朋友們 第二季 , 脱口秀和Ta的朋友们 第2季 , 脱口秀和Ta的朋友们2"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": 20,
+    "aired_string": "Jun 27, 2025 - Aug 30, 2025",
+    "aired_start": "2025-06-27",
+    "aired_end": "2025-08-30",
+    "aired_on": [
+      "Friday",
+      "Saturday"
+    ],
+    "original_network": "Tencent Video",
+    "duration_string": "2 hr. 40 min.",
+    "duration_minutes": 160,
+    "content_rating": "Not Yet Rated",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Talk Show",
+        "id": "96"
+      }
+    ],
+    "synopsis": "The show is back with a hilarious return! A group of friends who love talk shows gather together—59 vibrant individuals, 59 authentic lives, using humor to lightly spar with life. The laughter squad—Li Yu Chun, Chen Lu Yu, Da Zhang Wei, Luo Yong Hao, and Zhang Shao Gang—accompany the journey throughout, with new and old friends delivering non-stop punchlines! (Source: Chinese = Tencent Video || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/l0opKL_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/l0opKL_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "title": "Stand-Up Comedy Market Season 2 (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/nORE5E_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/nORE5E_4f.jpg",
+        "title": "Stand-Up Comedy Market Season 2 Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/yWb3L1_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/yWb3L1_4f.jpg",
+        "title": "Stand-Up Comedy Market Season 2 Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Pxy7Kz_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/Pxy7Kz_4f.jpg",
+        "title": "Stand-Up Comedy Market Season 2 Chinese TV Program photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Stand-Up Comedy Market",
+        "slug": "776853-stand-up-comedy-market",
+        "url": "https://mydramalist.com/776853-stand-up-comedy-market",
+        "relation": "Chinese prequel"
+      },
+      {
+        "title": "Stand-Up Comedy Market Season 3",
+        "slug": "803628-stand-up-comedy-market-season-3",
+        "url": "https://mydramalist.com/803628-stand-up-comedy-market-season-3",
+        "relation": "Chinese sequel"
+      },
+      {
+        "title": "The Women You Meet",
+        "slug": "795008-the-women-you-meet",
+        "url": "https://mydramalist.com/795008-the-women-you-meet",
+        "relation": "Chinese spinoff"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Li Yu Chun",
+          "slug": "people/9880-lee-chris",
+          "url": "https://mydramalist.com/people/9880-lee-chris",
+          "image_url": "https://i.mydramalist.com/x4mJzw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4mJzw_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Chen Lu Yu",
+          "slug": "people/85201-chen-lu-yu",
+          "url": "https://mydramalist.com/people/85201-chen-lu-yu",
+          "image_url": "https://i.mydramalist.com/12v4K_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/12v4K_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Wowkie Zhang",
+          "slug": "people/17277-zhang-wowkie",
+          "url": "https://mydramalist.com/people/17277-zhang-wowkie",
+          "image_url": "https://i.mydramalist.com/Zg8gYs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Zg8gYs.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zhang Shao Gang",
+          "slug": "people/53667-zhang-shao-gang",
+          "url": "https://mydramalist.com/people/53667-zhang-shao-gang",
+          "image_url": "https://i.mydramalist.com/l0bkbe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0bkbe_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Ha Ha Cao",
+          "slug": "people/160968-ha-ha-cao",
+          "url": "https://mydramalist.com/people/160968-ha-ha-cao",
+          "image_url": "https://i.mydramalist.com/KpkNOR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/KpkNOR_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Wang Da Dao",
+          "slug": "people/158624-wang-da-dao",
+          "url": "https://mydramalist.com/people/158624-wang-da-dao",
+          "image_url": "https://i.mydramalist.com/VX8dY0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VX8dY0_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Ji Ye",
+          "slug": "people/158580-ji-ye",
+          "url": "https://mydramalist.com/people/158580-ji-ye",
+          "image_url": "https://i.mydramalist.com/PxA4e5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxA4e5_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Huo Guo",
+          "slug": "people/158484-huo-guo",
+          "url": "https://mydramalist.com/people/158484-huo-guo",
+          "image_url": "https://i.mydramalist.com/nOy6WE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOy6WE_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Stand-Up Comedy Market Season 2 Episode 1",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/1",
+        "air_date": "2025-06-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Stand-Up Comedy Market Season 2 Episode 2",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/2",
+        "air_date": "2025-06-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Stand-Up Comedy Market Season 2 Episode 3",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/3",
+        "air_date": "2025-07-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Stand-Up Comedy Market Season 2 Episode 4",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/4",
+        "air_date": "2025-07-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Stand-Up Comedy Market Season 2 Episode 5",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/5",
+        "air_date": "2025-07-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Stand-Up Comedy Market Season 2 Episode 6",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/6",
+        "air_date": "2025-07-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Stand-Up Comedy Market Season 2 Episode 7",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/7",
+        "air_date": "2025-07-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Stand-Up Comedy Market Season 2 Episode 8",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/8",
+        "air_date": "2025-07-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Stand-Up Comedy Market Season 2 Episode 9",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/9",
+        "air_date": "2025-07-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Stand-Up Comedy Market Season 2 Episode 10",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/10",
+        "air_date": "2025-07-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Stand-Up Comedy Market Season 2 Episode 11",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/11",
+        "air_date": "2025-08-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Stand-Up Comedy Market Season 2 Episode 12",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/12",
+        "air_date": "2025-08-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Stand-Up Comedy Market Season 2 Episode 13",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/13",
+        "air_date": "2025-08-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Stand-Up Comedy Market Season 2 Episode 14",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/14",
+        "air_date": "2025-08-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Stand-Up Comedy Market Season 2 Episode 15",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/15",
+        "air_date": "2025-08-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Stand-Up Comedy Market Season 2 Episode 16",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/16",
+        "air_date": "2025-08-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Stand-Up Comedy Market Season 2 Episode 17",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/17",
+        "air_date": "2025-08-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Stand-Up Comedy Market Season 2 Episode 18",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/18",
+        "air_date": "2025-08-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Stand-Up Comedy Market Season 2 Episode 19",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/19",
+        "air_date": "2025-08-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Stand-Up Comedy Market Season 2 Episode 20",
+        "url": "https://mydramalist.com/778914-stand-up-comedy-market-season-2/episode/20",
+        "air_date": "2025-08-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/l0opKL_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/l0opKL_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-13T20:49:48.111Z"
+  },
+  {
+    "id": 800756,
+    "slug": "800756-red-land",
+    "url": "https://mydramalist.com/800756-red-land",
+    "title": "Red Land",
+    "complete_title": "Red Land (2025)",
+    "native_title": "红土地",
+    "sub_title": "红土地 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Hong Tu Di , 紅土地"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 16 min.",
+    "duration_minutes": 76,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 8,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Sci-Fi",
+        "id": "27"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "It tells the story of a sudden battle called the “Battle of Qianyang,” which ultimately destroyed the surface world. The survivors gathered in the deeply buried Chongqing Red Land subway station, struggling to survive for over twenty years. In this underground world, they wage a desperate fight against the Rat Clan—a science fiction story about humanity’s uncertain future and where it will go from here. (Source: Chinese = Douban || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/b383Qx_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/b383Qx_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/b383Qx_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/b383Qx_4f.jpg",
+        "title": "Red Land (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/DkVB42_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/DkVB42_4f.jpg",
+        "title": "Red Land Chinese Movie(2025) photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Liu Jian Yu",
+          "slug": "people/14355-liu-jian-yu",
+          "url": "https://mydramalist.com/people/14355-liu-jian-yu",
+          "image_url": "https://i.mydramalist.com/Xd8QOp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xd8QOp_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Aliya",
+          "slug": "people/12748-a-aly",
+          "url": "https://mydramalist.com/people/12748-a-aly",
+          "image_url": "https://i.mydramalist.com/XdA1Xp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdA1Xp_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Luo Li Qun",
+          "slug": "people/86233-luo-li-qun",
+          "url": "https://mydramalist.com/people/86233-luo-li-qun",
+          "image_url": "https://i.mydramalist.com/rJZAm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rJZAm_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Huang Ge Xuan",
+          "slug": "people/10474-huang-ge-xuan",
+          "url": "https://mydramalist.com/people/10474-huang-ge-xuan",
+          "image_url": "https://i.mydramalist.com/Ekdmms.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Ekdmms.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Chun Zhong",
+          "slug": "people/16369-zhang-chun-zhong",
+          "url": "https://mydramalist.com/people/16369-zhang-chun-zhong",
+          "image_url": "https://i.mydramalist.com/R34nEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R34nEs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Ding Yi Nuo",
+          "slug": "people/144387-ding-yi-nuo",
+          "url": "https://mydramalist.com/people/144387-ding-yi-nuo",
+          "image_url": "https://i.mydramalist.com/YYpyBg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYpyBg_5f.jpg",
+          "role_type": "Voice Actor"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:49:55.878Z"
+  },
+  {
+    "id": 810492,
+    "slug": "810492-our-dormitories-pilot",
+    "url": "https://mydramalist.com/810492-our-dormitories-pilot",
+    "title": "Our Dormitories Pilot",
+    "complete_title": "Our Dormitories Pilot (2025)",
+    "native_title": "我们的宿舍 先导片",
+    "sub_title": "我们的宿舍 先导片 ‧ TV Program ‧ 2025",
+    "also_known_as": [
+      "Wo Men De Su She Xian Dao Pian , 我們的宿舍 先導片"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": 1,
+    "aired_string": "Jun 23, 2025",
+    "aired_start": "2025-06-23",
+    "aired_end": "2025-06-23",
+    "aired_on": [
+      "Monday"
+    ],
+    "original_network": "Mango TV",
+    "duration_string": "1 hr. 5 min.",
+    "duration_minutes": 65,
+    "content_rating": "Not Yet Rated",
+    "rating": 20,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 20,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "TNT",
+        "id": "15613"
+      },
+      {
+        "name": "R1SE",
+        "id": "9783"
+      },
+      {
+        "name": "Variety Show",
+        "id": "184"
+      },
+      {
+        "name": "Reality Show",
+        "id": "89"
+      },
+      {
+        "name": "Friendship",
+        "id": "6"
+      }
+    ],
+    "synopsis": "A healing variety show featuring genuine gathering scenes with friends. Shoot seamlessly in real gathering scenes to capture the natural interaction between acquaintances. The program revolves around the \"Hao Liujie\" universe and uses friendship as a bond. After the recording of \"Hello, Saturday\", Teacher He led old friends and new friends in Changsha to get together and come to our dormitory after work to have dinner, communicate, and talk. (Source: Chinese = Douban || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/YY2AwW_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/YY2AwW_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/YY2AwW_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/YY2AwW_4f.jpg",
+        "title": "Our Dormitories Pilot (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/b37vnZ_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/b37vnZ_3f.jpg",
+        "title": "Our Dormitories Pilot Chinese TV Program(2025) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/JB0jKd_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/JB0jKd_4f.jpg",
+        "title": "Our Dormitories Pilot Chinese TV Program(2025) photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Our Dormitories",
+        "slug": "786892-hao-liu-jie-su-she",
+        "url": "https://mydramalist.com/786892-hao-liu-jie-su-she",
+        "relation": "Chinese sequel"
+      },
+      {
+        "title": "Hello, Saturday 2025",
+        "slug": "779876-hello-saturday-2025",
+        "url": "https://mydramalist.com/779876-hello-saturday-2025",
+        "relation": "Chinese parent story"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "He Jiong",
+          "slug": "people/5265-he-jiong",
+          "url": "https://mydramalist.com/people/5265-he-jiong",
+          "image_url": "https://i.mydramalist.com/2wov7w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wov7w_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zoelly Wu",
+          "slug": "people/75099-zoelly-wu",
+          "url": "https://mydramalist.com/people/75099-zoelly-wu",
+          "image_url": "https://i.mydramalist.com/zBJQ4W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zBJQ4W_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Li Xue Qin",
+          "slug": "people/59585-li-xue-qin",
+          "url": "https://mydramalist.com/people/59585-li-xue-qin",
+          "image_url": "https://i.mydramalist.com/l0me8L_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0me8L_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Yang Di",
+          "slug": "people/21808-yang-di",
+          "url": "https://mydramalist.com/people/21808-yang-di",
+          "image_url": "https://i.mydramalist.com/YYrRwo_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYrRwo_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Ding Cheng Xin",
+          "slug": "people/19322-ding-cheng-xin",
+          "url": "https://mydramalist.com/people/19322-ding-cheng-xin",
+          "image_url": "https://i.mydramalist.com/81Wjql_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81Wjql_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zhang Yan Qi",
+          "slug": "people/29921-zhang-yan-qi",
+          "url": "https://mydramalist.com/people/29921-zhang-yan-qi",
+          "image_url": "https://i.mydramalist.com/VX6jwy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VX6jwy_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Lars Huang",
+          "slug": "people/36021-lars-huang",
+          "url": "https://mydramalist.com/people/36021-lars-huang",
+          "image_url": "https://i.mydramalist.com/3oVY4W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3oVY4W_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Victor Ma",
+          "slug": "people/31361-victor-ma",
+          "url": "https://mydramalist.com/people/31361-victor-ma",
+          "image_url": "https://i.mydramalist.com/eYwmDn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYwmDn_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zhai Xiao Wen",
+          "slug": "people/36997-zhai-xiao-wen",
+          "url": "https://mydramalist.com/people/36997-zhai-xiao-wen",
+          "image_url": "https://i.mydramalist.com/nO7276_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nO7276_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Our Dormitories Pilot Episode 1",
+        "url": "https://mydramalist.com/810492-our-dormitories-pilot/episode/1",
+        "air_date": "2025-06-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/YY2AwW_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/YY2AwW_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-13T20:50:01.572Z"
+  },
+  {
+    "id": 768595,
+    "slug": "768595-ni-feng-er-xing",
+    "url": "https://mydramalist.com/768595-ni-feng-er-xing",
+    "title": "Odds Beater",
+    "complete_title": "Odds Beater (2025)",
+    "native_title": "逆风而行",
+    "sub_title": "逆风而行 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Dian Di La Mei Zhong Guo Ban , Ni Feng Er Xing , Ni Xi , Ni Xi Shao Nv , 垫底辣妹中国版 , 墊底辣妹中國版 , 逆袭 , 逆袭少女 , 逆襲 , 逆襲少女 , 逆風而行"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 38 min.",
+    "duration_minutes": 98,
+    "content_rating": "Not Yet Rated",
+    "rating": 200,
+    "scored_by": 0,
+    "ranked": 94016,
+    "popularity": 25059,
+    "watchers": 200,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Youth",
+        "id": "24"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Adapted From A Novel",
+        "id": "133"
+      }
+    ],
+    "synopsis": "It tells the story of Cai Wan Jin, a teacher who was frustrated in his career, and helped Huang Deng Yu, a student who was looked down upon by everyone, to spend an irreplaceable and precious journey in his senior year of high school. They illuminated each other's lives, and both found the meaning of persistence in adversity and went against the wind. (Source: Chinese = Douban || Translation = MyDramaList) ~~ Adapted from the novel \"Gakunen Biri no Gyaru ga 1 Nen de Hensachi wo 40 Agete Keio Daigaku ni Geneki Gokakushita Hanashi\" (学年ビリのギャルが1年で偏差値を40上げて慶應大学に現役合格した話) by Nobutaka Tsubota (坪田信贵). ~~ Release date: Jun 21, 2025 (Festival) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/yWXYKN_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/yWXYKN_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/yWXYKN_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/yWXYKN_4f.jpg",
+        "title": "Odds Beater (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/RBJbRz_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/RBJbRz_3f.jpg",
+        "title": "Odds Beater Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/2wD5zE_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/2wD5zE_3f.jpg",
+        "title": "Odds Beater Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/BdwN15_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/BdwN15_3f.jpg",
+        "title": "Odds Beater Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/jQ43bb_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/jQ43bb_3f.jpg",
+        "title": "Odds Beater Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/wJ2myJ_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/wJ2myJ_4f.jpg",
+        "title": "Odds Beater Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Flying Colors",
+        "slug": "11952-flying-colors",
+        "url": "https://mydramalist.com/11952-flying-colors",
+        "relation": "Japanese adaptation"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Jing Bo Ran",
+          "slug": "people/5987-jing-boran",
+          "url": "https://mydramalist.com/people/5987-jing-boran",
+          "image_url": "https://i.mydramalist.com/JB8jgJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB8jgJ_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Sabrina Zhuang",
+          "slug": "people/25731-zhuang-da-fei",
+          "url": "https://mydramalist.com/people/25731-zhuang-da-fei",
+          "image_url": "https://i.mydramalist.com/g0qzpP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0qzpP_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Xiao Tian Ren",
+          "slug": "people/42083-xiao-tian-ren",
+          "url": "https://mydramalist.com/people/42083-xiao-tian-ren",
+          "image_url": "https://i.mydramalist.com/731l4L_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/731l4L_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Du Lan",
+          "slug": "people/134773-du-lan",
+          "url": "https://mydramalist.com/people/134773-du-lan",
+          "image_url": "https://i.mydramalist.com/XdbzLd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdbzLd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Daniel Zhou",
+          "slug": "people/29547-daniel-zhou",
+          "url": "https://mydramalist.com/people/29547-daniel-zhou",
+          "image_url": "https://i.mydramalist.com/yWkex6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWkex6_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Geng Le",
+          "slug": "people/7814-geng-le",
+          "url": "https://mydramalist.com/people/7814-geng-le",
+          "image_url": "https://i.mydramalist.com/xN5Dy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xN5Dy_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "David Chiang",
+          "slug": "people/4927-chiang-david",
+          "url": "https://mydramalist.com/people/4927-chiang-david",
+          "image_url": "https://i.mydramalist.com/73Pk0n_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73Pk0n_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Ni Hong Jie",
+          "slug": "people/23823-ni-hong-jie",
+          "url": "https://mydramalist.com/people/23823-ni-hong-jie",
+          "image_url": "https://i.mydramalist.com/JB86NJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB86NJ_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Cheng Liang",
+          "slug": "people/51323-liang-cheng",
+          "url": "https://mydramalist.com/people/51323-liang-cheng",
+          "image_url": "https://i.mydramalist.com/1BpAR_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1BpAR_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Wu Tong",
+          "slug": "people/23615-wu-tong",
+          "url": "https://mydramalist.com/people/23615-wu-tong",
+          "image_url": "https://i.mydramalist.com/WQDzDm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WQDzDm.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Wang Yi Miao",
+          "slug": "people/35465-wang-yi-miao",
+          "url": "https://mydramalist.com/people/35465-wang-yi-miao",
+          "image_url": "https://i.mydramalist.com/6lw0W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6lw0W_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:50:08.604Z"
+  },
+  {
+    "id": 776425,
+    "slug": "776425-a-mighty-heart",
+    "url": "https://mydramalist.com/776425-a-mighty-heart",
+    "title": "Flames of Resilience",
+    "complete_title": "Flames of Resilience (2025)",
+    "native_title": "炽热年华",
+    "sub_title": "炽热年华 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "A Mighty Heart , Chi Re Nian Hua , Wo Xin Ru Pan , Wo Yao Huo Chu Zhe Yang De Ren Sheng , 我心如磐 , 我要活出这样的人生 , 我要活出這樣的人生 , 熾熱年華"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "This is an inspirational story about the innocent and cheerful female college student Ji Hui Ying, who musters up the courage and perseverance to move forward after a sudden family change, and creates a new world for herself in the coal industry, which is dominated by men. (Source: Chinese = Douban || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/O8LKZk_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/O8LKZk_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/O8LKZk_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/O8LKZk_4f.jpg",
+        "title": "Flames of Resilience (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/73xqQn_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/73xqQn_4f.jpg",
+        "title": "Flames of Resilience Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/wJrjPA_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/wJrjPA_3f.jpg",
+        "title": "Flames of Resilience Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/QJg2D2_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/QJg2D2_3f.jpg",
+        "title": "Flames of Resilience Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/eYmy7Y_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/eYmy7Y_3f.jpg",
+        "title": "Flames of Resilience Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/kArvwg_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/kArvwg_3f.jpg",
+        "title": "Flames of Resilience Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/d0Zy8b_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/d0Zy8b_3f.jpg",
+        "title": "Flames of Resilience (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bd5766_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/Bd5766_3f.jpg",
+        "title": "Flames of Resilience (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/E5Zk6z_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/E5Zk6z_3f.jpg",
+        "title": "Flames of Resilience (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/jQvyzd_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/jQvyzd_3f.jpg",
+        "title": "Flames of Resilience (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/Xd1AYq_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/Xd1AYq_3f.jpg",
+        "title": "Flames of Resilience (2025)"
+      },
+      {
+        "url": "https://i.mydramalist.com/4eNVwK_4m.jpg",
+        "hd_url": "https://i.mydramalist.com/4eNVwK_4f.jpg",
+        "title": "Flames of Resilience (2025)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Joyce Feng",
+          "slug": "people/15780-feng-joyce",
+          "url": "https://mydramalist.com/people/15780-feng-joyce",
+          "image_url": "https://i.mydramalist.com/e5PmY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e5PmY_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Natas Asoka",
+          "slug": "people/26923-natas-asoka",
+          "url": "https://mydramalist.com/people/26923-natas-asoka",
+          "image_url": "https://i.mydramalist.com/vXvZzD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXvZzD_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wu Hao Chen",
+          "slug": "people/14401-wu-hao-chen",
+          "url": "https://mydramalist.com/people/14401-wu-hao-chen",
+          "image_url": "https://i.mydramalist.com/Dkqkyr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Dkqkyr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yu Hao Yang",
+          "slug": "people/18838-yu-hao-yang",
+          "url": "https://mydramalist.com/people/18838-yu-hao-yang",
+          "image_url": "https://i.mydramalist.com/Vb1x0s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Vb1x0s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Biao Ma",
+          "slug": "people/66667-biao-ma",
+          "url": "https://mydramalist.com/people/66667-biao-ma",
+          "image_url": "https://i.mydramalist.com/eBnzE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eBnzE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Song Yu",
+          "slug": "people/102113-song-yu",
+          "url": "https://mydramalist.com/people/102113-song-yu",
+          "image_url": "https://i.mydramalist.com/rKnXN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rKnXN_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ma Fei",
+          "slug": "people/119933-ma-fei",
+          "url": "https://mydramalist.com/people/119933-ma-fei",
+          "image_url": "https://i.mydramalist.com/jQjgYJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQjgYJ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Chang Zheng",
+          "slug": "people/98881-chang-zheng",
+          "url": "https://mydramalist.com/people/98881-chang-zheng",
+          "image_url": "https://i.mydramalist.com/x4wD33_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4wD33_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Meng Guang Shun",
+          "slug": "people/139999-meng-guang-shun",
+          "url": "https://mydramalist.com/people/139999-meng-guang-shun",
+          "image_url": "https://i.mydramalist.com/rNzQL2_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rNzQL2_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:50:14.158Z"
+  },
+  {
+    "id": 761675,
+    "slug": "761675-shadow",
+    "url": "https://mydramalist.com/761675-shadow",
+    "title": "Shadow",
+    "complete_title": "Shadow (2025)",
+    "native_title": "替身拳手",
+    "sub_title": "替身拳手 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Quan Quan Xiang Bao , Ti Shen Quan Shou , Tian Ma Liu Xing , 天馬流星 , 天马流星 , 拳拳相抱"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 33 min.",
+    "duration_minutes": 93,
+    "content_rating": "Not Yet Rated",
+    "rating": 75,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 75,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Sports",
+        "id": "31"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Boxing",
+        "id": "1015"
+      }
+    ],
+    "synopsis": "It tells the story of Tian Ye, a young boxer from a poor family, who makes a living with his father, Tian Hai Jun, by delivering water. Through the schemes of overseas study agent Li Qian and the wealthy couple Chen Hui and his wife, Tian Ye is deceived into becoming the stand-in for their privileged son, Chen Huo Ju, in boxing competitions. Unaware of the truth, Tian Ye and Chen Huo Ju unexpectedly become close friends. However, once the deception is revealed, they find themselves forced onto opposing sides. Determined to break through the illusions surrounding their lives, the two young men choose to use boxing as their means of resistance, fighting passionately for their shared ideals and dreams. (Source: Chinese = Tencent Video || Translation = MyDramaList) ~~ Release dates: Jun 20, 2025 (Festival) || Feb 7, 2026 (Cinema) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/3o0ZXm_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/3o0ZXm_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/3o0ZXm_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/3o0ZXm_4f.jpg",
+        "title": "Shadow (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bdx7jA_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/Bdx7jA_4f.jpg",
+        "title": "Shadow Chinese Movie(2025) photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Victor Ma",
+          "slug": "people/31361-victor-ma",
+          "url": "https://mydramalist.com/people/31361-victor-ma",
+          "image_url": "https://i.mydramalist.com/eYwmDn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYwmDn_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Alan Aruna",
+          "slug": "people/59945-alan-aruna",
+          "url": "https://mydramalist.com/people/59945-alan-aruna",
+          "image_url": "https://i.mydramalist.com/81Alqm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81Alqm_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Hu Jun",
+          "slug": "people/5114-hu-jun",
+          "url": "https://mydramalist.com/people/5114-hu-jun",
+          "image_url": "https://i.mydramalist.com/g07oAd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g07oAd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Xue Qin",
+          "slug": "people/59585-li-xue-qin",
+          "url": "https://mydramalist.com/people/59585-li-xue-qin",
+          "image_url": "https://i.mydramalist.com/l0me8L_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0me8L_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "David Wang",
+          "slug": "people/11867-wang-david",
+          "url": "https://mydramalist.com/people/11867-wang-david",
+          "image_url": "https://i.mydramalist.com/3voOvA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3voOvA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gong Bei Bi",
+          "slug": "people/8276-gong-beibi",
+          "url": "https://mydramalist.com/people/8276-gong-beibi",
+          "image_url": "https://i.mydramalist.com/1xrnz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1xrnz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zong Jun Tao",
+          "slug": "people/129485-zong-jun-tao",
+          "url": "https://mydramalist.com/people/129485-zong-jun-tao",
+          "image_url": "https://i.mydramalist.com/BdbopA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BdbopA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "He Nan",
+          "slug": "people/29345-her-nan",
+          "url": "https://mydramalist.com/people/29345-her-nan",
+          "image_url": "https://i.mydramalist.com/dAZoes.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dAZoes.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Li Xiao Feng",
+          "slug": "people/39747-li-xiao-feng",
+          "url": "https://mydramalist.com/people/39747-li-xiao-feng",
+          "image_url": "https://i.mydramalist.com/eVZlKm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eVZlKm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Xu Lu Yang",
+          "slug": "people/135135-xu-lu-yang",
+          "url": "https://mydramalist.com/people/135135-xu-lu-yang",
+          "image_url": "https://i.mydramalist.com/81AmL2_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81AmL2_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:50:19.716Z"
+  },
+  {
+    "id": 786958,
+    "slug": "786958-forest-evolutionism-season-3",
+    "url": "https://mydramalist.com/786958-forest-evolutionism-season-3",
+    "title": "Forest Evolutionism Season 3",
+    "complete_title": "Forest Evolutionism Season 3 (2025)",
+    "native_title": "森林进化论2025",
+    "sub_title": "森林进化论2025 ‧ TV Program ‧ 2025 - 2026",
+    "also_known_as": [
+      "Forest Evolutionism 3 , Sen Lin Jin Hua Lun 2025 , Sen Lin Jin Hua Lun 3 , Sen Lin Jin Hua Lun Di San Ji , 森林进化论 第3季 , 森林进化论 第三季 , 森林进化论3 , 森林進化論 第三季 , 森林進化論2025"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": 25,
+    "aired_string": "Jun 20, 2025 - Jan 14, 2026",
+    "aired_start": "2025-06-20",
+    "aired_end": "2026-01-14",
+    "aired_on": [
+      "Wednesday"
+    ],
+    "original_network": "Mango TV",
+    "duration_string": "2 hr. 0 min.",
+    "duration_minutes": 120,
+    "content_rating": "Not Yet Rated",
+    "rating": 32,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 32,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Psychological",
+        "id": "15"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [
+      {
+        "name": "No. 1",
+        "id": "26977"
+      },
+      {
+        "name": "INTO1",
+        "id": "15967"
+      },
+      {
+        "name": "R1SE",
+        "id": "9783"
+      },
+      {
+        "name": "Mind Sport",
+        "id": "2291"
+      },
+      {
+        "name": "Variety Show",
+        "id": "184"
+      },
+      {
+        "name": "Game Show",
+        "id": "76"
+      },
+      {
+        "name": "Friendship",
+        "id": "6"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/ABLOe8_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ABLOe8_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "title": "Forest Evolutionism Season 3 (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/5vBAX0_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/5vBAX0_3f.jpg",
+        "title": "Forest Evolutionism Season 3 Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Px8RLw_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/Px8RLw_4f.jpg",
+        "title": "Forest Evolutionism Season 3 Chinese TV Program photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Forest Evolutionism Season 2",
+        "slug": "778554-forest-evolutionism-season-2",
+        "url": "https://mydramalist.com/778554-forest-evolutionism-season-2",
+        "relation": "Chinese prequel"
+      },
+      {
+        "title": "Forest Evolutionism 2026",
+        "slug": "808484-forest-evolutionism-2026",
+        "url": "https://mydramalist.com/808484-forest-evolutionism-2026",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Luo Yu Tong",
+          "slug": "people/16410-luo-yu-tong",
+          "url": "https://mydramalist.com/people/16410-luo-yu-tong",
+          "image_url": "https://i.mydramalist.com/YYZkAz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYZkAz_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "He Yun Chen",
+          "slug": "people/62067-he-yun-chen",
+          "url": "https://mydramalist.com/people/62067-he-yun-chen",
+          "image_url": "https://i.mydramalist.com/nO8P5Q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nO8P5Q_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Li Jin Ye",
+          "slug": "people/117341-li-jin-ye",
+          "url": "https://mydramalist.com/people/117341-li-jin-ye",
+          "image_url": "https://i.mydramalist.com/l0b5wx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0b5wx_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zoelly Wu",
+          "slug": "people/75099-zoelly-wu",
+          "url": "https://mydramalist.com/people/75099-zoelly-wu",
+          "image_url": "https://i.mydramalist.com/zBJQ4W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zBJQ4W_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Vincent Cao",
+          "slug": "people/21046-vincent-cao",
+          "url": "https://mydramalist.com/people/21046-vincent-cao",
+          "image_url": "https://i.mydramalist.com/qYPAEQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYPAEQ_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zhang Yan Qi",
+          "slug": "people/29921-zhang-yan-qi",
+          "url": "https://mydramalist.com/people/29921-zhang-yan-qi",
+          "image_url": "https://i.mydramalist.com/VX6jwy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VX6jwy_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Stefan Guo",
+          "slug": "people/50067-guo-wen-tao",
+          "url": "https://mydramalist.com/people/50067-guo-wen-tao",
+          "image_url": "https://i.mydramalist.com/l0bEyQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0bEyQ_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Qu Jing",
+          "slug": "people/138985-qu-jing",
+          "url": "https://mydramalist.com/people/138985-qu-jing",
+          "image_url": "https://i.mydramalist.com/4ejwpZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4ejwpZ_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Liu Xiao Song",
+          "slug": "people/135631-liu-xiao-song",
+          "url": "https://mydramalist.com/people/135631-liu-xiao-song",
+          "image_url": "https://i.mydramalist.com/2wzdxw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wzdxw_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Huo Shu",
+          "slug": "people/106343-huo-shu",
+          "url": "https://mydramalist.com/people/106343-huo-shu",
+          "image_url": "https://i.mydramalist.com/DkARgr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/DkARgr_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Chen Xu Heng",
+          "slug": "people/148868-chen-xu-heng",
+          "url": "https://mydramalist.com/people/148868-chen-xu-heng",
+          "image_url": "https://i.mydramalist.com/73B87n_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73B87n_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Shi Ming Xin",
+          "slug": "people/127067-shi-ming-xin",
+          "url": "https://mydramalist.com/people/127067-shi-ming-xin",
+          "image_url": "https://i.mydramalist.com/nOy3q4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOy3q4_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Li You Chuan",
+          "slug": "people/124409-li-you-chuan",
+          "url": "https://mydramalist.com/people/124409-li-you-chuan",
+          "image_url": "https://i.mydramalist.com/60yABj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/60yABj_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Wang Chu Ling",
+          "slug": "people/122519-wang-chu-ling",
+          "url": "https://mydramalist.com/people/122519-wang-chu-ling",
+          "image_url": "https://i.mydramalist.com/Bdprm6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bdprm6_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Wang You Shuo",
+          "slug": "people/19150-wang-you-shuo",
+          "url": "https://mydramalist.com/people/19150-wang-you-shuo",
+          "image_url": "https://i.mydramalist.com/JBbbdj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBbbdj_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Patrick Nattawat Finkler",
+          "slug": "people/36319-patrick-nattawat-finkler",
+          "url": "https://mydramalist.com/people/36319-patrick-nattawat-finkler",
+          "image_url": "https://i.mydramalist.com/AB5AVL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/AB5AVL_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zhou Jun Wei",
+          "slug": "people/25953-zhou-jun-wei",
+          "url": "https://mydramalist.com/people/25953-zhou-jun-wei",
+          "image_url": "https://i.mydramalist.com/vXxyge_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXxyge_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Forest Evolutionism Season 3 Episode 1",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/1",
+        "air_date": "2025-06-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Forest Evolutionism Season 3 Episode 2",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/2",
+        "air_date": "2025-06-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Forest Evolutionism Season 3 Episode 3",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/3",
+        "air_date": "2025-06-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Forest Evolutionism Season 3 Episode 4",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/4",
+        "air_date": "2025-07-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Forest Evolutionism Season 3 Episode 5",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/5",
+        "air_date": "2025-07-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Forest Evolutionism Season 3 Episode 6",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/6",
+        "air_date": "2025-07-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Forest Evolutionism Season 3 Episode 7",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/7",
+        "air_date": "2025-07-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Forest Evolutionism Season 3 Episode 8",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/8",
+        "air_date": "2025-07-31",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Forest Evolutionism Season 3 Episode 9",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/9",
+        "air_date": "2025-08-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Forest Evolutionism Season 3 Episode 10",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/10",
+        "air_date": "2025-08-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Forest Evolutionism Season 3 Episode 11",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/11",
+        "air_date": "2025-08-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Forest Evolutionism Season 3 Episode 12",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/12",
+        "air_date": "2025-08-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Forest Evolutionism Season 3 Episode 13",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/13",
+        "air_date": "2025-10-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Forest Evolutionism Season 3 Episode 14",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/14",
+        "air_date": "2025-10-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Forest Evolutionism Season 3 Episode 15",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/15",
+        "air_date": "2025-11-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Forest Evolutionism Season 3 Episode 16",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/16",
+        "air_date": "2025-11-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Forest Evolutionism Season 3 Episode 17",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/17",
+        "air_date": "2025-11-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Forest Evolutionism Season 3 Episode 18",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/18",
+        "air_date": "2025-11-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Forest Evolutionism Season 3 Episode 19",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/19",
+        "air_date": "2025-12-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Forest Evolutionism Season 3 Episode 20",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/20",
+        "air_date": "2025-12-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Forest Evolutionism Season 3 Episode 21",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/21",
+        "air_date": "2025-12-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Forest Evolutionism Season 3 Episode 22",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/22",
+        "air_date": "2025-12-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Forest Evolutionism Season 3 Episode 23",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/23",
+        "air_date": "2025-12-31",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Forest Evolutionism Season 3 Episode 24",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/24",
+        "air_date": "2026-01-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "Forest Evolutionism Season 3 Episode 25",
+        "url": "https://mydramalist.com/786958-forest-evolutionism-season-3/episode/25",
+        "air_date": "2026-01-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ABLOe8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ABLOe8_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-13T20:50:26.164Z"
+  },
+  {
+    "id": 696961,
+    "slug": "696961-skin-of-love",
+    "url": "https://mydramalist.com/696961-skin-of-love",
+    "title": "All the Things Belong to the River",
+    "complete_title": "All the Things Belong to the River (2025)",
+    "native_title": "去看大海",
+    "sub_title": "去看大海 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Go to See the Ocean , Skin of Love"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "2 hr. 11 min.",
+    "duration_minutes": 131,
+    "content_rating": "Not Yet Rated",
+    "rating": 36,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 36,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Youth",
+        "id": "24"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Series",
+        "id": "466"
+      }
+    ],
+    "synopsis": "~~ Release date: Jun 19, 2025 (Festival) English Français Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/LwLYkg_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/LwLYkg_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/LwLYkg_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/LwLYkg_4f.jpg",
+        "title": "All the Things Belong to the River (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/j6mXb_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/j6mXb_4f.jpg",
+        "title": "All the Things Belong to the River Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/pDqp8_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/pDqp8_4f.jpg",
+        "title": "All the Things Belong to the River Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Shi Peng Yuan",
+          "slug": "people/44735-shi-peng-yuan",
+          "url": "https://mydramalist.com/people/44735-shi-peng-yuan",
+          "image_url": "https://i.mydramalist.com/XkjmJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XkjmJ_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "He Yu He",
+          "slug": "people/81553-yu-he-yu",
+          "url": "https://mydramalist.com/people/81553-yu-he-yu",
+          "image_url": "https://i.mydramalist.com/jQyQLb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQyQLb_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Liu Yang",
+          "slug": "people/107657-liu-yang",
+          "url": "https://mydramalist.com/people/107657-liu-yang",
+          "image_url": "https://i.mydramalist.com/eY0XXd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eY0XXd_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Liang Ying",
+          "slug": "people/103733-liang-ying",
+          "url": "https://mydramalist.com/people/103733-liang-ying",
+          "image_url": "https://i.mydramalist.com/xpQWy_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xpQWy_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:50:33.202Z"
+  },
+  {
+    "id": 731033,
+    "slug": "731033-candle-shade-ancient-city",
+    "url": "https://mydramalist.com/731033-candle-shade-ancient-city",
+    "title": "The Guardians of Zhu Yin",
+    "complete_title": "The Guardians of Zhu Yin (2025)",
+    "native_title": "烛阴古城",
+    "sub_title": "烛阴古城 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Candle Shade Ancient City , Zhu Yin Gu Cheng , Si Wang Zhi Ku Zhi Zhu Yin Gu Cheng , 死亡之窟之烛阴古城 , 燭陰古城 , 死亡之窟之燭陰古城"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 43,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 43,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Treasure Hunting",
+        "id": "8131"
+      },
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Adapted From A Novel",
+        "id": "133"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      },
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "synopsis": "Yin Feng An, a young girl who is proficient in astronomy and calendar calculations, bravely ventures into the Zhu Yin Underground Palace to save her mother. She unexpectedly uncovers the mystery of the destruction of the ancient Zhu Yin Kingdom that has been buried for thousands of years. To protect the Zhu Yin civilization and fulfill the family mission of \"reforming the stars and relieving the catastrophe,\" Feng An embarks on a dangerous journey to find the legendary \"nine-color glazed dzi-bead instrument\" in order to relieve the coming meteorite catastrophe. (Source: iQiyi) ~~ Adapted from the novel \"Si Wang Zhi Ku\" (死亡之窟) by Chen Shi (沉石). English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/ABWomZ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ABWomZ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ABWomZ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ABWomZ_4f.jpg",
+        "title": "The Guardians of Zhu Yin (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/Xp76x_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/Xp76x_4f.jpg",
+        "title": "The Guardians of Zhu Yin Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Dong Si Yi",
+          "slug": "people/34339-dong-si-yi",
+          "url": "https://mydramalist.com/people/34339-dong-si-yi",
+          "image_url": "https://i.mydramalist.com/qe5w2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qe5w2_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wesley Wong",
+          "slug": "people/19476-wesley-wong",
+          "url": "https://mydramalist.com/people/19476-wesley-wong",
+          "image_url": "https://i.mydramalist.com/271WEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/271WEs.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Jeana Ho",
+          "slug": "people/9818-ho-jeana",
+          "url": "https://mydramalist.com/people/9818-ho-jeana",
+          "image_url": "https://i.mydramalist.com/l0qX7e_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0qX7e_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ma Rui Han",
+          "slug": "people/87597-ma-rui-han",
+          "url": "https://mydramalist.com/people/87597-ma-rui-han",
+          "image_url": "https://i.mydramalist.com/wP1lJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wP1lJ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Jing Wei",
+          "slug": "people/78243-zhang-jing-wei",
+          "url": "https://mydramalist.com/people/78243-zhang-jing-wei",
+          "image_url": "https://i.mydramalist.com/woZAb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/woZAb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Han Cong Cong",
+          "slug": "people/58873-han-cong-cong",
+          "url": "https://mydramalist.com/people/58873-han-cong-cong",
+          "image_url": "https://i.mydramalist.com/xNxkE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xNxkE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Rong Rong",
+          "slug": "people/3029-rong-rong",
+          "url": "https://mydramalist.com/people/3029-rong-rong",
+          "image_url": "https://i.mydramalist.com/DkQ82N_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/DkQ82N_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chang Jin",
+          "slug": "people/60901-chang-jin",
+          "url": "https://mydramalist.com/people/60901-chang-jin",
+          "image_url": "https://i.mydramalist.com/JB6RPX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB6RPX_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Luo Da Tao",
+          "slug": "people/148614-luo-da-tao",
+          "url": "https://mydramalist.com/people/148614-luo-da-tao",
+          "image_url": "https://i.mydramalist.com/Ndq0DR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Ndq0DR_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gong Xi",
+          "slug": "people/159606-gong-xi",
+          "url": "https://mydramalist.com/people/159606-gong-xi",
+          "image_url": "https://i.mydramalist.com/NdKBmR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdKBmR_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Zhang Shang Ming Zhu",
+          "slug": "people/41035-zhangshang-mingzhu",
+          "url": "https://mydramalist.com/people/41035-zhangshang-mingzhu",
+          "image_url": "https://i.mydramalist.com/ABKJK3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABKJK3_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Dong Sira Rattanapokasatit",
+          "slug": "people/58113-dong-sira-rattanapokasatit",
+          "url": "https://mydramalist.com/people/58113-dong-sira-rattanapokasatit",
+          "image_url": "https://i.mydramalist.com/prmde_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/prmde_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:50:38.871Z"
+  },
+  {
+    "id": 747493,
+    "slug": "747493-xia-zhui",
+    "url": "https://mydramalist.com/747493-xia-zhui",
+    "title": "The Last Summer",
+    "complete_title": "The Last Summer (2025)",
+    "native_title": "夏坠",
+    "sub_title": "夏坠 ‧ Movie ‧ 2025",
+    "also_known_as": [
+      "Xia Zhu , 夏墜"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "Not Yet Rated",
+    "rating": 12,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 12,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Youth",
+        "id": "24"
+      },
+      {
+        "name": "Family",
+        "id": "29"
+      }
+    ],
+    "tags": [],
+    "synopsis": "~~ Release date: Jun 18, 2025 (Festival) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/mO6X02_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/mO6X02_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/mO6X02_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/mO6X02_4f.jpg",
+        "title": "The Last Summer (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/2wrJQP_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/2wrJQP_4f.jpg",
+        "title": "The Last Summer Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Cui Nan",
+          "slug": "people/91719-cui-nan",
+          "url": "https://mydramalist.com/people/91719-cui-nan",
+          "image_url": "https://i.mydramalist.com/4zKzd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4zKzd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ye Fu Sheng",
+          "slug": "people/89353-ye-fu-sheng",
+          "url": "https://mydramalist.com/people/89353-ye-fu-sheng",
+          "image_url": "https://i.mydramalist.com/60zxbK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/60zxbK_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-13T20:50:44.366Z"
+  },
+  {
+    "id": 791944,
+    "slug": "791944-shen-qi-de-peng-you",
+    "url": "https://mydramalist.com/791944-shen-qi-de-peng-you",
+    "title": "Amazing Friends",
+    "complete_title": "Amazing Friends (2025)",
+    "native_title": "神奇的朋友",
+    "sub_title": "神奇的朋友 ‧ TV Program ‧ 2025",
+    "also_known_as": [
+      "Shen Qi De Peng You"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2025,
+    "status": "Aired",
+    "episodes": 8,
+    "aired_string": "Jun 18, 2025 - Aug 6, 2025",
+    "aired_start": "2025-06-18",
+    "aired_end": "2025-08-06",
+    "aired_on": [
+      "Wednesday"
+    ],
+    "original_network": "Youku, ZJTV",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 7,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Reality Show",
+        "id": "89"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/73xOdN_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/73xOdN_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/73xOdN_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/73xOdN_4f.jpg",
+        "title": "Amazing Friends (2025) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/b3rdgx_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/b3rdgx_4f.jpg",
+        "title": "Amazing Friends Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/VXdOJE_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/VXdOJE_4f.jpg",
+        "title": "Amazing Friends Chinese TV Program photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Meng He Tang",
+          "slug": "people/73107-meng-he-tang",
+          "url": "https://mydramalist.com/people/73107-meng-he-tang",
+          "image_url": "https://i.mydramalist.com/WDo8l_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WDo8l_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Eliza Liang",
+          "slug": "people/14748-liang-eliza",
+          "url": "https://mydramalist.com/people/14748-liang-eliza",
+          "image_url": "https://i.mydramalist.com/X7N6Z_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X7N6Z_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Ji Ling Chen",
+          "slug": "people/34801-ji-ling-chen",
+          "url": "https://mydramalist.com/people/34801-ji-ling-chen",
+          "image_url": "https://i.mydramalist.com/vV7o2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vV7o2_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Amazing Friends Episode 1",
+        "url": "https://mydramalist.com/791944-shen-qi-de-peng-you/episode/1",
+        "air_date": "2025-06-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/73xOdN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/73xOdN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Amazing Friends Episode 2",
+        "url": "https://mydramalist.com/791944-shen-qi-de-peng-you/episode/2",
+        "air_date": "2025-06-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/73xOdN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/73xOdN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Amazing Friends Episode 3",
+        "url": "https://mydramalist.com/791944-shen-qi-de-peng-you/episode/3",
+        "air_date": "2025-07-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/73xOdN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/73xOdN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Amazing Friends Episode 4",
+        "url": "https://mydramalist.com/791944-shen-qi-de-peng-you/episode/4",
+        "air_date": "2025-07-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/73xOdN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/73xOdN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Amazing Friends Episode 5",
+        "url": "https://mydramalist.com/791944-shen-qi-de-peng-you/episode/5",
+        "air_date": "2025-07-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/73xOdN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/73xOdN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Amazing Friends Episode 6",
+        "url": "https://mydramalist.com/791944-shen-qi-de-peng-you/episode/6",
+        "air_date": "2025-07-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/73xOdN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/73xOdN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Amazing Friends Episode 7",
+        "url": "https://mydramalist.com/791944-shen-qi-de-peng-you/episode/7",
+        "air_date": "2025-07-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/73xOdN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/73xOdN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Amazing Friends Episode 8",
+        "url": "https://mydramalist.com/791944-shen-qi-de-peng-you/episode/8",
+        "air_date": "2025-08-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/73xOdN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/73xOdN_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-13T20:50:50.044Z"
   }
 ]
