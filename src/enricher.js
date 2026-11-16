@@ -46,8 +46,8 @@ function loadSearchIndex(year) {
 }
 
 // GitHub hard limits files to 100 MB (104,857,600 bytes).
-// Safe rollover threshold: 95 MB (99,614,720 bytes). Formatted JSON will stay strictly under 99-100 MB.
-const MAX_PART_SIZE_BYTES = 95 * 1024 * 1024;
+// Safe rollover threshold: 80 MB (83,886,080 bytes) ensures formatted JSON will always stay strictly under 90-95 MB.
+const MAX_PART_SIZE_BYTES = 80 * 1024 * 1024;
 
 class EnrichedPart {
     constructor(filePath, partNum, items = [], isLegacySingle = false) {
@@ -77,9 +77,13 @@ class PartitionManager {
             fs.mkdirSync(this.enrichedDir, { recursive: true });
         }
 
-        // Auto-split any pre-existing oversized single file if it already exceeds maxPartSizeBytes
-        const legacySinglePath = path.join(this.enrichedDir, `mdl_enriched_${this.year}.json`);
-        this._splitOversizedFileIfAny(legacySinglePath);
+        // Auto-split any pre-existing oversized files (legacy single or existing parts)
+        const initialScan = fs.readdirSync(this.enrichedDir);
+        for (const f of initialScan) {
+            if (f === `mdl_enriched_${this.year}.json` || new RegExp(`^mdl_enriched_${this.year}_part\\d+\\.json$`).test(f)) {
+                this._splitOversizedFileIfAny(path.join(this.enrichedDir, f));
+            }
+        }
 
         const files = fs.readdirSync(this.enrichedDir);
         const singleRegex = new RegExp(`^mdl_enriched_${this.year}\\.json$`);
@@ -174,34 +178,26 @@ class PartitionManager {
         }
         if (!Array.isArray(items) || items.length === 0) return;
 
-        let currentPartNum = 1;
-        let currentChunk = [];
-        let currentChunkSize = 2;
+        const safeTargetBytes = this.maxPartSizeBytes * 0.85;
+        const numParts = Math.max(2, Math.ceil(stats.size / safeTargetBytes));
+        const itemsPerPart = Math.ceil(items.length / numParts);
 
-        for (const item of items) {
-            const itemStr = JSON.stringify(item, null, 2);
-            const itemBytes = Buffer.byteLength(itemStr, 'utf8') + 3;
-            if (currentChunk.length > 0 && (currentChunkSize + itemBytes) >= this.maxPartSizeBytes) {
-                const outPath = path.join(this.enrichedDir, `mdl_enriched_${this.year}_part${currentPartNum}.json`);
-                fs.writeFileSync(outPath, JSON.stringify(currentChunk, null, 2), 'utf8');
-                console.log(`  -> Wrote ${path.basename(outPath)} (${currentChunk.length} titles, ${(fs.statSync(outPath).size / 1024 / 1024).toFixed(1)} MB)`);
-                currentPartNum++;
-                currentChunk = [];
-                currentChunkSize = 2;
-            }
-            currentChunk.push(item);
-            currentChunkSize += itemBytes;
+        console.log(`  Dividing ${items.length} titles into ${numParts} parts (~${itemsPerPart} titles per part)...`);
+
+        for (let i = 0; i < numParts; i++) {
+            const chunk = items.slice(i * itemsPerPart, (i + 1) * itemsPerPart);
+            if (chunk.length === 0) continue;
+            const partNum = i + 1;
+            const outPath = path.join(this.enrichedDir, `mdl_enriched_${this.year}_part${partNum}.json`);
+            fs.writeFileSync(outPath, JSON.stringify(chunk, null, 2), 'utf8');
+            const partSizeMB = (fs.statSync(outPath).size / (1024 * 1024)).toFixed(1);
+            console.log(`  -> Wrote ${path.basename(outPath)} (${chunk.length} titles, ${partSizeMB} MB)`);
         }
 
-        if (currentChunk.length > 0) {
-            const outPath = path.join(this.enrichedDir, `mdl_enriched_${this.year}_part${currentPartNum}.json`);
-            fs.writeFileSync(outPath, JSON.stringify(currentChunk, null, 2), 'utf8');
-            console.log(`  -> Wrote ${path.basename(outPath)} (${currentChunk.length} titles, ${(fs.statSync(outPath).size / 1024 / 1024).toFixed(1)} MB)`);
-        }
-
-        if (filePath !== path.join(this.enrichedDir, `mdl_enriched_${this.year}_part1.json`)) {
-            fs.unlinkSync(filePath);
-            console.log(`  -> Removed original oversized file: ${path.basename(filePath)}`);
+        const legacyPath = path.join(this.enrichedDir, `mdl_enriched_${this.year}.json`);
+        if (filePath === legacyPath && fs.existsSync(legacyPath)) {
+            fs.unlinkSync(legacyPath);
+            console.log(`  -> Removed original oversized file: ${path.basename(legacyPath)}`);
         }
     }
 
