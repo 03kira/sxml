@@ -15,6 +15,10 @@ on:
         description: 'Safety timer in minutes before graceful commit (default 270 = 4.5 hours)'
         required: false
         default: '270'
+      max_part_mb:
+        description: 'Max size in MB per partition file before sharding (default 95 to stay under GitHub 100MB limit)'
+        required: false
+        default: '95'
       auto_continue:
         description: 'Auto-restart workflow after 5 min cooldown if pending titles remain (true/false)'
         required: false
@@ -48,11 +52,18 @@ jobs:
       - name: Run Deep Detail Enrichment
         id: enricher
         run: |
-          node src/enricher.js --year ${{ github.event.inputs.year || '2025' }} --limit ${{ github.event.inputs.limit || '0' }} --max-minutes ${{ github.event.inputs.max_minutes || '270' }}
+          node src/enricher.js \
+            --year ${{ github.event.inputs.year || '2025' }} \
+            --limit ${{ github.event.inputs.limit || '0' }} \
+            --max-minutes ${{ github.event.inputs.max_minutes || '270' }} \
+            --max-part-mb ${{ github.event.inputs.max_part_mb || '95' }}
 
       - name: Commit and Push Enriched JSON Data
         if: always()
         run: |
+          echo "📊 Current dataset partitions status:"
+          node src/status.js || true
+
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
@@ -68,6 +79,7 @@ jobs:
           TARGET_YEAR: ${{ github.event.inputs.year || '2025' }}
           BATCH_LIMIT: ${{ github.event.inputs.limit || '0' }}
           MAX_MINUTES: ${{ github.event.inputs.max_minutes || '270' }}
+          MAX_PART_MB: ${{ github.event.inputs.max_part_mb || '95' }}
           HAS_PENDING: ${{ steps.enricher.outputs.has_pending }}
         run: |
           echo "=========================================================="
@@ -102,13 +114,14 @@ jobs:
               -f year="$TARGET_YEAR" \
               -f limit="$BATCH_LIMIT" \
               -f max_minutes="$MAX_MINUTES" \
+              -f max_part_mb="$MAX_PART_MB" \
               -f auto_continue="true" || {
                 echo "⚠️ 'gh workflow run' failed. Falling back to GitHub REST API dispatch..."
                 curl -s -X POST \
                   -H "Authorization: Bearer $GH_TOKEN" \
                   -H "Accept: application/vnd.github+json" \
                   "https://api.github.com/repos/${{ github.repository }}/actions/workflows/mdl_enrich.yml/dispatches" \
-                  -d "{\"ref\":\"${{ github.ref_name || 'main' }}\",\"inputs\":{\"year\":\"$TARGET_YEAR\",\"limit\":\"$BATCH_LIMIT\",\"max_minutes\":\"$MAX_MINUTES\",\"auto_continue\":\"true\"}}"
+                  -d "{\"ref\":\"${{ github.ref_name || 'main' }}\",\"inputs\":{\"year\":\"$TARGET_YEAR\",\"limit\":\"$BATCH_LIMIT\",\"max_minutes\":\"$MAX_MINUTES\",\"max_part_mb\":\"$MAX_PART_MB\",\"auto_continue\":\"true\"}}"
               }
             echo "✅ Next workflow run successfully queued!"
           else

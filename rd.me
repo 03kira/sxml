@@ -8,9 +8,10 @@ Built specifically to run seamlessly on **GitHub Actions** (or locally) without 
 
 ## 🌟 Key Features
 
-1. **Pure JSON Architecture**:
+1. **Pure JSON & Auto-Partitioning Architecture**:
    - Reads search index JSON files from `data/search/` (e.g. `mdl_search_2026.json`).
    - Progressively writes enriched dossiers to `data/enriched/` (e.g. `mdl_enriched_2026.json`).
+   - **GitHub 100MB File Limit Protection**: Automatically monitors file sizes. When any file approaches 95 MB - 99 MB, it seals the file and seamlessly shards into parts (`mdl_enriched_<year>_part1.json`, `mdl_enriched_<year>_part2.json`, etc.). Resumes read across all parts with zero duplicates.
    - Checkpoint tracking in `data/checkpoint.json` ensures zero duplicated work on resumes.
 2. **Zero Native Dependencies**:
    - Only dependency is `cheerio`.
@@ -88,7 +89,7 @@ If pushing this directory to a GitHub repository:
 git init
 git add .
 git commit -m "Initial commit: MDL GitHub Actions scraper"
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+git remote add origin https://github.com/03kira/sxml.git
 git branch -M main
 git push -u origin main
 ```

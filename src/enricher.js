@@ -45,27 +45,219 @@ function loadSearchIndex(year) {
     return null;
 }
 
-function loadEnrichedArchive(year) {
-    const enrichedFile = path.join(ENRICHED_DIR, `mdl_enriched_${year}.json`);
-    const map = new Map();
+// GitHub hard limits files to 100 MB (104,857,600 bytes).
+// Safe rollover threshold: 95 MB (99,614,720 bytes). Formatted JSON will stay strictly under 99-100 MB.
+const MAX_PART_SIZE_BYTES = 95 * 1024 * 1024;
 
-    if (fs.existsSync(enrichedFile)) {
-        try {
-            const arr = JSON.parse(fs.readFileSync(enrichedFile, 'utf8'));
-            for (const item of arr) {
-                if (item && item.id) map.set(item.id, item);
+class EnrichedPart {
+    constructor(filePath, partNum, items = [], isLegacySingle = false) {
+        this.filePath = filePath;
+        this.partNum = partNum;
+        this.items = items;
+        this.dirty = false;
+        this.isSealed = false;
+        this.size = 0;
+        this.isLegacySingle = isLegacySingle;
+    }
+}
+
+class PartitionManager {
+    constructor(year, enrichedDir, maxPartSizeBytes = MAX_PART_SIZE_BYTES) {
+        this.year = year;
+        this.enrichedDir = enrichedDir;
+        this.maxPartSizeBytes = maxPartSizeBytes;
+        this.parts = [];
+        this.allMap = new Map();
+        this.activePart = null;
+        this._init();
+    }
+
+    _init() {
+        if (!fs.existsSync(this.enrichedDir)) {
+            fs.mkdirSync(this.enrichedDir, { recursive: true });
+        }
+
+        // Auto-split any pre-existing oversized single file if it already exceeds maxPartSizeBytes
+        const legacySinglePath = path.join(this.enrichedDir, `mdl_enriched_${this.year}.json`);
+        this._splitOversizedFileIfAny(legacySinglePath);
+
+        const files = fs.readdirSync(this.enrichedDir);
+        const singleRegex = new RegExp(`^mdl_enriched_${this.year}\\.json$`);
+        const partRegex = new RegExp(`^mdl_enriched_${this.year}_part(\\d+)\\.json$`);
+
+        const partFiles = [];
+        for (const file of files) {
+            const singleMatch = file.match(singleRegex);
+            const partMatch = file.match(partRegex);
+            if (singleMatch) {
+                partFiles.push({ file, partNum: 1, isLegacySingle: true });
+            } else if (partMatch) {
+                partFiles.push({ file, partNum: parseInt(partMatch[1], 10), isLegacySingle: false });
             }
-        } catch (e) {
-            console.warn(`Warning reading ${enrichedFile}: ${e.message}`);
+        }
+
+        // Deduplicate in case both mdl_enriched_2025.json and mdl_enriched_2025_part1.json exist
+        const hasPart1 = partFiles.some(p => !p.isLegacySingle && p.partNum === 1);
+        const validPartFiles = partFiles.filter(p => !(p.isLegacySingle && hasPart1));
+
+        validPartFiles.sort((a, b) => a.partNum - b.partNum);
+
+        if (validPartFiles.length === 0) {
+            // No existing files, start with single format
+            const initialPath = path.join(this.enrichedDir, `mdl_enriched_${this.year}.json`);
+            const p = new EnrichedPart(initialPath, 1, [], true);
+            this.parts.push(p);
+            this.activePart = p;
+            return;
+        }
+
+        for (const pf of validPartFiles) {
+            const fullPath = path.join(this.enrichedDir, pf.file);
+            let items = [];
+            try {
+                items = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+                if (!Array.isArray(items)) items = [];
+            } catch (err) {
+                console.warn(`Warning reading ${fullPath}: ${err.message}`);
+            }
+
+            const stats = fs.statSync(fullPath);
+            const part = new EnrichedPart(fullPath, pf.partNum, items, pf.isLegacySingle);
+            part.size = stats.size;
+
+            for (const item of items) {
+                if (item && item.id) {
+                    this.allMap.set(item.id, item);
+                }
+            }
+
+            this.parts.push(part);
+        }
+
+        // Determine active part
+        const lastPart = this.parts[this.parts.length - 1];
+        if (lastPart.size >= this.maxPartSizeBytes) {
+            lastPart.isSealed = true;
+            if (lastPart.isLegacySingle) {
+                const renamedPath = path.join(this.enrichedDir, `mdl_enriched_${this.year}_part1.json`);
+                fs.renameSync(lastPart.filePath, renamedPath);
+                lastPart.filePath = renamedPath;
+                lastPart.isLegacySingle = false;
+                console.log(`📦 Sealed Part 1 as ${path.basename(renamedPath)}`);
+            }
+
+            const nextPartNum = lastPart.partNum + 1;
+            const nextPath = path.join(this.enrichedDir, `mdl_enriched_${this.year}_part${nextPartNum}.json`);
+            const newPart = new EnrichedPart(nextPath, nextPartNum, [], false);
+            fs.writeFileSync(nextPath, '[\n]\n', 'utf8');
+            newPart.size = fs.statSync(nextPath).size;
+            this.parts.push(newPart);
+            this.activePart = newPart;
+            console.log(`✨ Created new archive partition: ${path.basename(nextPath)}`);
+        } else {
+            this.activePart = lastPart;
         }
     }
 
-    return { filePath: enrichedFile, map };
-}
+    _splitOversizedFileIfAny(filePath) {
+        if (!fs.existsSync(filePath)) return;
+        const stats = fs.statSync(filePath);
+        if (stats.size < this.maxPartSizeBytes) return;
 
-function flushEnriched(filePath, map) {
-    const arr = Array.from(map.values());
-    fs.writeFileSync(filePath, JSON.stringify(arr, null, 2), 'utf8');
+        console.log(`⚠️ File ${path.basename(filePath)} (${(stats.size / 1024 / 1024).toFixed(1)} MB) exceeds ${(this.maxPartSizeBytes / 1024 / 1024).toFixed(0)} MB limit. Auto-splitting into safe parts...`);
+        let items = [];
+        try {
+            items = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        } catch (e) {
+            console.error(`Failed to parse oversized file ${filePath}: ${e.message}`);
+            return;
+        }
+        if (!Array.isArray(items) || items.length === 0) return;
+
+        let currentPartNum = 1;
+        let currentChunk = [];
+        let currentChunkSize = 2;
+
+        for (const item of items) {
+            const itemStr = JSON.stringify(item, null, 2);
+            const itemBytes = Buffer.byteLength(itemStr, 'utf8') + 3;
+            if (currentChunk.length > 0 && (currentChunkSize + itemBytes) >= this.maxPartSizeBytes) {
+                const outPath = path.join(this.enrichedDir, `mdl_enriched_${this.year}_part${currentPartNum}.json`);
+                fs.writeFileSync(outPath, JSON.stringify(currentChunk, null, 2), 'utf8');
+                console.log(`  -> Wrote ${path.basename(outPath)} (${currentChunk.length} titles, ${(fs.statSync(outPath).size / 1024 / 1024).toFixed(1)} MB)`);
+                currentPartNum++;
+                currentChunk = [];
+                currentChunkSize = 2;
+            }
+            currentChunk.push(item);
+            currentChunkSize += itemBytes;
+        }
+
+        if (currentChunk.length > 0) {
+            const outPath = path.join(this.enrichedDir, `mdl_enriched_${this.year}_part${currentPartNum}.json`);
+            fs.writeFileSync(outPath, JSON.stringify(currentChunk, null, 2), 'utf8');
+            console.log(`  -> Wrote ${path.basename(outPath)} (${currentChunk.length} titles, ${(fs.statSync(outPath).size / 1024 / 1024).toFixed(1)} MB)`);
+        }
+
+        if (filePath !== path.join(this.enrichedDir, `mdl_enriched_${this.year}_part1.json`)) {
+            fs.unlinkSync(filePath);
+            console.log(`  -> Removed original oversized file: ${path.basename(filePath)}`);
+        }
+    }
+
+    addItem(item) {
+        if (!item || !item.id) return;
+        this.allMap.set(item.id, item);
+        this.activePart.items.push(item);
+        this.activePart.dirty = true;
+    }
+
+    flush() {
+        if (!this.activePart || !this.activePart.dirty) return;
+
+        const content = JSON.stringify(this.activePart.items, null, 2);
+        const byteLength = Buffer.byteLength(content, 'utf8');
+        fs.writeFileSync(this.activePart.filePath, content, 'utf8');
+        this.activePart.size = byteLength;
+        this.activePart.dirty = false;
+
+        // Check rollover if active part size reached threshold
+        if (this.activePart.size >= this.maxPartSizeBytes) {
+            console.log(`\n📦 Partition reached ${(this.activePart.size / 1024 / 1024).toFixed(1)} MB (threshold: ${(this.maxPartSizeBytes / 1024 / 1024).toFixed(0)} MB).`);
+            this.activePart.isSealed = true;
+
+            // If it was legacy single filename, rename to _part1.json
+            if (this.activePart.isLegacySingle) {
+                const renamedPath = path.join(this.enrichedDir, `mdl_enriched_${this.year}_part1.json`);
+                fs.renameSync(this.activePart.filePath, renamedPath);
+                this.activePart.filePath = renamedPath;
+                this.activePart.isLegacySingle = false;
+                console.log(`  Renamed to ${path.basename(renamedPath)}`);
+            }
+
+            const nextPartNum = this.activePart.partNum + 1;
+            const nextFileName = `mdl_enriched_${this.year}_part${nextPartNum}.json`;
+            const nextPath = path.join(this.enrichedDir, nextFileName);
+            const newPart = new EnrichedPart(nextPath, nextPartNum, [], false);
+            fs.writeFileSync(nextPath, '[\n]\n', 'utf8');
+            newPart.size = fs.statSync(nextPath).size;
+            this.parts.push(newPart);
+            this.activePart = newPart;
+            console.log(`✨ Created new archive partition: ${nextFileName} (all subsequent titles will be written here)\n`);
+        }
+    }
+
+    get totalCount() {
+        return this.allMap.size;
+    }
+
+    get activeFilePath() {
+        return this.activePart ? this.activePart.filePath : '';
+    }
+
+    getAllItems() {
+        return Array.from(this.allMap.values());
+    }
 }
 
 function syncToGit(year, enrichedCount, totalCount) {
@@ -142,17 +334,20 @@ async function main() {
     const yearArg = args.find((_, i) => args[i - 1] === '--year') || '2026';
     const limitArg = args.find((_, i) => args[i - 1] === '--limit');
     const maxMinutesArg = args.find((_, i) => args[i - 1] === '--max-minutes') || '270'; // Default 4.5 hrs for GHA safe cutoff
+    const maxPartMbArg = args.find((_, i) => args[i - 1] === '--max-part-mb') || '95'; // Safe threshold (under GitHub's 100MB limit)
 
     const year = parseInt(yearArg, 10);
     const limit = limitArg ? parseInt(limitArg, 10) : 0;
     const maxMinutes = parseFloat(maxMinutesArg);
     const maxDurationMs = maxMinutes * 60 * 1000;
+    const maxPartSizeBytes = parseFloat(maxPartMbArg) * 1024 * 1024;
 
     console.log('\n🚀 MDL STANDALONE ENRICHMENT ENGINE (GitHub Actions & JSON Edition)');
     console.log('═'.repeat(65));
     console.log(`Target Year:        ${year}`);
     console.log(`Batch Limit:        ${limit > 0 ? limit : 'All Pending'}`);
     console.log(`Safety Cutoff:      ${maxMinutes} minutes (${(maxMinutes / 60).toFixed(1)} hours)`);
+    console.log(`Part Size Cap:      ${maxPartMbArg} MB (auto-splits before 100 MB GitHub limit)`);
 
     // 1. Load Search Index
     const searchItems = loadSearchIndex(year);
@@ -163,14 +358,15 @@ async function main() {
     }
     console.log(`Total Search Titles: ${searchItems.length}`);
 
-    // 2. Load Existing Enriched Dossiers
-    const { filePath, map: enrichedMap } = loadEnrichedArchive(year);
-    console.log(`Already Enriched:    ${enrichedMap.size} titles`);
+    // 2. Load Existing Enriched Dossiers via PartitionManager
+    const archive = new PartitionManager(year, ENRICHED_DIR, maxPartSizeBytes);
+    console.log(`Already Enriched:    ${archive.totalCount} titles`);
+    console.log(`Partitions:          ${archive.parts.length} file(s) (Active: ${path.basename(archive.activeFilePath)})`);
 
     // 3. Filter Pending Queue (Resilient: match by ID number/string and Slug)
     const enrichedSlugs = new Set();
     const enrichedIds = new Set();
-    for (const d of enrichedMap.values()) {
+    for (const d of archive.getAllItems()) {
         if (d.slug) enrichedSlugs.add(String(d.slug).toLowerCase());
         if (d.id) {
             enrichedIds.add(Number(d.id));
@@ -208,17 +404,17 @@ async function main() {
 
     const checkpoint = loadCheckpoint();
     const jobStartTime = Date.now();
-    const initialEnriched = enrichedMap.size;
+    const initialEnriched = archive.totalCount;
     let processed = 0;
     let successful = 0;
 
     // Graceful exit handling
     const onExit = () => {
         console.log('\n💾 Flushing enriched dossiers to disk before exit...');
-        flushEnriched(filePath, enrichedMap);
+        archive.flush();
         saveCheckpoint(checkpoint);
-        syncToGit(year, enrichedMap.size, searchItems.length);
-        console.log(`✅ Saved ${enrichedMap.size} dossiers to ${filePath}`);
+        syncToGit(year, archive.totalCount, searchItems.length);
+        console.log(`✅ Saved ${archive.totalCount} dossiers across ${archive.parts.length} partition(s)`);
     };
     process.on('SIGINT', () => { onExit(); process.exit(0); });
     process.on('SIGTERM', () => { onExit(); process.exit(0); });
@@ -241,27 +437,29 @@ async function main() {
         const result = await enrichTitle(scraper, item);
 
         if (result.drama) {
-            enrichedMap.set(result.drama.id, result.drama);
+            archive.addItem(result.drama);
             successful++;
 
             // Periodically sync to disk every 5 completed titles
             if (successful % 5 === 0) {
-                flushEnriched(filePath, enrichedMap);
+                archive.flush();
             }
 
             // Periodically commit and push to GitHub every 20 completed titles!
             if (successful % 20 === 0) {
-                flushEnriched(filePath, enrichedMap);
+                archive.flush();
                 saveCheckpoint(checkpoint);
-                syncToGit(year, enrichedMap.size, searchItems.length);
+                syncToGit(year, archive.totalCount, searchItems.length);
             }
         }
 
         // Save progress to checkpoint
         checkpoint[year] = {
             total_titles: searchItems.length,
-            enriched: enrichedMap.size,
-            pending: searchItems.length - enrichedMap.size,
+            enriched: archive.totalCount,
+            pending: searchItems.length - archive.totalCount,
+            parts_count: archive.parts.length,
+            active_part: path.basename(archive.activeFilePath),
             last_id: item.id,
             last_title: item.title,
             last_updated: new Date().toISOString()
@@ -272,11 +470,11 @@ async function main() {
     }
 
     // Final flush and push
-    flushEnriched(filePath, enrichedMap);
+    archive.flush();
     saveCheckpoint(checkpoint);
-    syncToGit(year, enrichedMap.size, searchItems.length);
+    syncToGit(year, archive.totalCount, searchItems.length);
 
-    const remainingTitles = Math.max(0, searchItems.length - enrichedMap.size);
+    const remainingTitles = Math.max(0, searchItems.length - archive.totalCount);
     const hasPendingRemaining = remainingTitles > 0;
 
     if (process.env.GITHUB_OUTPUT) {
@@ -289,9 +487,10 @@ async function main() {
     console.log('\n' + '═'.repeat(65));
     console.log(`🎉 Batch Finished in ${totalElapsedMins} mins!`);
     console.log(`Successfully Enriched in this run: ${successful}/${processed} titles`);
-    console.log(`Total Year ${year} Progress: ${enrichedMap.size}/${searchItems.length} (${((enrichedMap.size / searchItems.length) * 100).toFixed(1)}%)`);
+    console.log(`Total Year ${year} Progress: ${archive.totalCount}/${searchItems.length} (${((archive.totalCount / searchItems.length) * 100).toFixed(1)}%)`);
     console.log(`Remaining Pending: ${remainingTitles} titles`);
-    console.log(`Archive file updated: ${filePath}`);
+    console.log(`Partitions Count:  ${archive.parts.length} file(s)`);
+    console.log(`Active Partition:  ${archive.activeFilePath}`);
     console.log('═'.repeat(65) + '\n');
 }
 
