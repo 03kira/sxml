@@ -2431069,5 +2431069,948 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-17T22:46:42.779Z"
+  },
+  {
+    "id": 775127,
+    "slug": "775127-haha-maker",
+    "url": "https://mydramalist.com/775127-haha-maker",
+    "title": "HaHa Maker",
+    "complete_title": "HaHa Maker (2024)",
+    "native_title": "非常敢想队",
+    "sub_title": "非常敢想队 ‧ TV Program ‧ 2024",
+    "also_known_as": [
+      "Fei Chang Gan Xiang Dui , 非常敢想隊"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": 40,
+    "aired_string": "May 15, 2024 - ?",
+    "aired_start": "2024-05-15",
+    "aired_end": null,
+    "aired_on": [
+      "Wednesday"
+    ],
+    "original_network": "Tencent Video",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 10,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 10,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [
+      {
+        "name": "INTO1",
+        "id": "15967"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/E5Qq3W_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/E5Qq3W_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "title": "HaHa Maker (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "HaHa Maker Character Pilot",
+        "slug": "775129-haha-maker-character-pilot",
+        "url": "https://mydramalist.com/775129-haha-maker-character-pilot",
+        "relation": "Chinese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Chui Na Li Sha",
+          "slug": "people/82603-ji-jia-he",
+          "url": "https://mydramalist.com/people/82603-ji-jia-he",
+          "image_url": "https://i.mydramalist.com/2w4W0E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2w4W0E_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Li Chuan",
+          "slug": "people/11061-li-chuan",
+          "url": "https://mydramalist.com/people/11061-li-chuan",
+          "image_url": "https://i.mydramalist.com/WENVp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WENVp_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Vincent Zhang",
+          "slug": "people/60357-vincent-zhang",
+          "url": "https://mydramalist.com/people/60357-vincent-zhang",
+          "image_url": "https://i.mydramalist.com/2woxEP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2woxEP_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Lin Mo",
+          "slug": "people/60099-lin-mo",
+          "url": "https://mydramalist.com/people/60099-lin-mo",
+          "image_url": "https://i.mydramalist.com/PxzVJZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxzVJZ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Meng He Tang",
+          "slug": "people/73107-meng-he-tang",
+          "url": "https://mydramalist.com/people/73107-meng-he-tang",
+          "image_url": "https://i.mydramalist.com/WDo8l_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WDo8l_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Liu Mei Han",
+          "slug": "people/2862-liu-mikan",
+          "url": "https://mydramalist.com/people/2862-liu-mikan",
+          "image_url": "https://i.mydramalist.com/kAyBpj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kAyBpj_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ji Ling Chen",
+          "slug": "people/34801-ji-ling-chen",
+          "url": "https://mydramalist.com/people/34801-ji-ling-chen",
+          "image_url": "https://i.mydramalist.com/vV7o2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vV7o2_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Wen Ying Qian",
+          "slug": "people/149368-wen-ying-qian",
+          "url": "https://mydramalist.com/people/149368-wen-ying-qian",
+          "image_url": "https://i.mydramalist.com/l0DYgE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0DYgE_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "HaHa Maker Episode 1",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/1",
+        "air_date": "2024-05-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "HaHa Maker Episode 2",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/2",
+        "air_date": "2024-05-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/LwQPpr_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/LwQPpr_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "HaHa Maker Episode 3",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/3",
+        "air_date": "2024-12-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "HaHa Maker Episode 4",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/4",
+        "air_date": "2024-12-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/VXeAq0_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/VXeAq0_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "HaHa Maker Episode 5",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/5",
+        "air_date": "2025-01-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "HaHa Maker Episode 6",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/6",
+        "air_date": "2025-01-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "HaHa Maker Episode 7",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/7",
+        "air_date": "2025-01-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "HaHa Maker Episode 8",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/8",
+        "air_date": "2025-01-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "HaHa Maker Episode 9",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/9",
+        "air_date": "2025-01-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "HaHa Maker Episode 10",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/10",
+        "air_date": "2025-02-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "HaHa Maker Episode 11",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/11",
+        "air_date": "2025-02-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "HaHa Maker Episode 12",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/12",
+        "air_date": "2025-02-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "HaHa Maker Episode 13",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/13",
+        "air_date": "2025-02-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "HaHa Maker Episode 14",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/14",
+        "air_date": "2025-03-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "HaHa Maker Episode 15",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/15",
+        "air_date": "2025-03-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "HaHa Maker Episode 16",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/16",
+        "air_date": "2025-03-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "HaHa Maker Episode 17",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/17",
+        "air_date": "2025-03-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "HaHa Maker Episode 18",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/18",
+        "air_date": "2025-04-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "HaHa Maker Episode 19",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/19",
+        "air_date": "2025-04-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "HaHa Maker Episode 20",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/20",
+        "air_date": "2025-04-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "HaHa Maker Episode 21",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/21",
+        "air_date": "2025-04-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "HaHa Maker Episode 22",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/22",
+        "air_date": "2025-04-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "HaHa Maker Episode 23",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/23",
+        "air_date": "2025-05-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "HaHa Maker Episode 24",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/24",
+        "air_date": "2025-05-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "HaHa Maker Episode 25",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/25",
+        "air_date": "2025-05-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "HaHa Maker Episode 26",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/26",
+        "air_date": "2025-05-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "HaHa Maker Episode 27",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/27",
+        "air_date": "2025-06-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "HaHa Maker Episode 28",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/28",
+        "air_date": "2025-06-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 29,
+        "title": "HaHa Maker Episode 29",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/29",
+        "air_date": "2025-06-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 30,
+        "title": "HaHa Maker Episode 30",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/30",
+        "air_date": "2025-06-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 31,
+        "title": "HaHa Maker Episode 31",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/31",
+        "air_date": "2025-07-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 32,
+        "title": "HaHa Maker Episode 32",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/32",
+        "air_date": "2025-07-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 33,
+        "title": "HaHa Maker Episode 33",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/33",
+        "air_date": "2025-07-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 34,
+        "title": "HaHa Maker Episode 34",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/34",
+        "air_date": "2025-07-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 35,
+        "title": "HaHa Maker Episode 35",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/35",
+        "air_date": "2025-07-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 36,
+        "title": "HaHa Maker Episode 36",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/36",
+        "air_date": "2025-08-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 37,
+        "title": "HaHa Maker Episode 37",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/37",
+        "air_date": "2025-08-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 38,
+        "title": "HaHa Maker Episode 38",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/38",
+        "air_date": "2025-08-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 39,
+        "title": "HaHa Maker Episode 39",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/39",
+        "air_date": "2025-08-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 40,
+        "title": "HaHa Maker Episode 40",
+        "url": "https://mydramalist.com/775127-haha-maker/episode/40",
+        "air_date": "2025-09-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E5Qq3W_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E5Qq3W_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-17T22:46:56.044Z"
+  },
+  {
+    "id": 775131,
+    "slug": "775131-hong-long-long-long-yu-jian-ni",
+    "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni",
+    "title": "Hong Long Long Long Yu Jian Ni",
+    "complete_title": "Hong Long Long Long Yu Jian Ni (2024)",
+    "native_title": "轰隆隆隆遇见你",
+    "sub_title": "轰隆隆隆遇见你 ‧ TV Program ‧ 2024",
+    "also_known_as": [
+      "Hōng Lōng Lōng Lōng , 轟隆隆隆遇見你"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": 24,
+    "aired_string": "May 15, 2024 - Aug 14, 2024",
+    "aired_start": "2024-05-15",
+    "aired_end": "2024-08-14",
+    "aired_on": [
+      "Wednesday"
+    ],
+    "original_network": "Bilibili",
+    "duration_string": "52 min.",
+    "duration_minutes": 52,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.816,
+    "scored_by": 3,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 16,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Dating Show",
+        "id": "409"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/RBQmXz_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RBQmXz_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "title": "Hong Long Long Long Yu Jian Ni (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Vega Li",
+          "slug": "people/7905-li-vega",
+          "url": "https://mydramalist.com/people/7905-li-vega",
+          "image_url": "https://i.mydramalist.com/NdKVvy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdKVvy_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Philip Lau",
+          "slug": "people/2467-wu-yi",
+          "url": "https://mydramalist.com/people/2467-wu-yi",
+          "image_url": "https://i.mydramalist.com/NdKYJA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdKYJA_5f.jpg",
+          "role_type": "Main Host"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 1",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/1",
+        "air_date": "2024-05-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 2",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/2",
+        "air_date": "2024-05-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 3",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/3",
+        "air_date": "2024-05-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 4",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/4",
+        "air_date": "2024-05-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 5",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/5",
+        "air_date": "2024-05-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 6",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/6",
+        "air_date": "2024-06-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 7",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/7",
+        "air_date": "2024-06-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 8",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/8",
+        "air_date": "2024-06-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 9",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/9",
+        "air_date": "2024-06-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 10",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/10",
+        "air_date": "2024-06-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 11",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/11",
+        "air_date": "2024-06-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 12",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/12",
+        "air_date": "2024-06-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 13",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/13",
+        "air_date": "2024-06-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 14",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/14",
+        "air_date": "2024-07-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 15",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/15",
+        "air_date": "2024-07-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 16",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/16",
+        "air_date": "2024-07-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 17",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/17",
+        "air_date": "2024-07-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 18",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/18",
+        "air_date": "2024-07-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 19",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/19",
+        "air_date": "2024-07-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 20",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/20",
+        "air_date": "2024-07-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 21",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/21",
+        "air_date": "2024-07-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 22",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/22",
+        "air_date": "2024-07-31",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 23",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/23",
+        "air_date": "2024-08-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Hong Long Long Long Yu Jian Ni Episode 24",
+        "url": "https://mydramalist.com/775131-hong-long-long-long-yu-jian-ni/episode/24",
+        "air_date": "2024-08-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBQmXz_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBQmXz_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-17T22:47:03.000Z"
   }
 ]
