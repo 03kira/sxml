@@ -2403009,5 +2403009,2101 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-17T22:18:48.097Z"
+  },
+  {
+    "id": 774967,
+    "slug": "774967-let-you-have-a-story",
+    "url": "https://mydramalist.com/774967-let-you-have-a-story",
+    "title": "Let You Have a Story",
+    "complete_title": "Let You Have a Story (2024)",
+    "native_title": "包你有戏",
+    "sub_title": "包你有戏 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Bao Li You Xi , Bao Ni You Xi , 包你有戲 , 包裡有戲 , 包里有戏"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 26 min.",
+    "duration_minutes": 86,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/qYgZOz_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/qYgZOz_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/qYgZOz_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/qYgZOz_4f.jpg",
+        "title": "Let You Have a Story (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Du Yu Ming",
+          "slug": "people/18419-du-yu-ming",
+          "url": "https://mydramalist.com/people/18419-du-yu-ming",
+          "image_url": "https://i.mydramalist.com/Bdqy25_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bdqy25_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:19:01.964Z"
+  },
+  {
+    "id": 772693,
+    "slug": "772693-go-for-it",
+    "url": "https://mydramalist.com/772693-go-for-it",
+    "title": "Go for It!",
+    "complete_title": "Go for It! (2024)",
+    "native_title": "奔赴万人现场",
+    "sub_title": "奔赴万人现场 ‧ TV Program ‧ 2024",
+    "also_known_as": [
+      "Ben Fu Wan Ren Xian Chang , 奔赴萬人現場"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": 19,
+    "aired_string": "Jul 6, 2024 - Sep 7, 2024",
+    "aired_start": "2024-07-06",
+    "aired_end": "2024-09-07",
+    "aired_on": [
+      "Saturday"
+    ],
+    "original_network": "Tencent Video",
+    "duration_string": "1 hr. 40 min.",
+    "duration_minutes": 100,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.527,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 27,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Gen1es",
+        "id": "27837"
+      },
+      {
+        "name": "INTERSECTION",
+        "id": "24385"
+      },
+      {
+        "name": "THE9 (Girl Group)",
+        "id": "22857"
+      },
+      {
+        "name": "INTO1",
+        "id": "15967"
+      },
+      {
+        "name": "R1SE",
+        "id": "9783"
+      },
+      {
+        "name": "Live Performance",
+        "id": "7021"
+      },
+      {
+        "name": "Music Show",
+        "id": "95"
+      },
+      {
+        "name": "Reality Show",
+        "id": "89"
+      }
+    ],
+    "synopsis": "Groups of musicians perform live to accumulate popularity. The winner gets to perform a concert for 10,000 people. (Source: MyDramaList) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/kAxNOj_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/kAxNOj_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "title": "Go for It! (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Go for It! Season 2",
+        "slug": "786838-go-for-it-season-2",
+        "url": "https://mydramalist.com/786838-go-for-it-season-2",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Zhang Yu An",
+          "slug": "people/22376-zhang-yu-an",
+          "url": "https://mydramalist.com/people/22376-zhang-yu-an",
+          "image_url": "https://i.mydramalist.com/Bdr2ER_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bdr2ER_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Joker Xue",
+          "slug": "people/3882-xue-joker",
+          "url": "https://mydramalist.com/people/3882-xue-joker",
+          "image_url": "https://i.mydramalist.com/2zmrR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2zmrR_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Liang Long",
+          "slug": "people/53059-liang-long",
+          "url": "https://mydramalist.com/people/53059-liang-long",
+          "image_url": "https://i.mydramalist.com/E5k74z_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5k74z_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Wayne Zhang",
+          "slug": "people/20704-wayne-zhang",
+          "url": "https://mydramalist.com/people/20704-wayne-zhang",
+          "image_url": "https://i.mydramalist.com/wJW3mY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJW3mY_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Samuel",
+          "slug": "people/17541-samuel",
+          "url": "https://mydramalist.com/people/17541-samuel",
+          "image_url": "https://i.mydramalist.com/vXexQq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXexQq_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Indahkus",
+          "slug": "people/121207-indahkus",
+          "url": "https://mydramalist.com/people/121207-indahkus",
+          "image_url": "https://i.mydramalist.com/rNe8dj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rNe8dj_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Wang Jing Wen",
+          "slug": "people/95557-wang-jing-wen",
+          "url": "https://mydramalist.com/people/95557-wang-jing-wen",
+          "image_url": "https://i.mydramalist.com/Dk77qz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Dk77qz_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Sun Tian Yu",
+          "slug": "people/35643-sun-tian-yu",
+          "url": "https://mydramalist.com/people/35643-sun-tian-yu",
+          "image_url": "https://i.mydramalist.com/mOwdw1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mOwdw1_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Amber Liu",
+          "slug": "people/12134-amber",
+          "url": "https://mydramalist.com/people/12134-amber",
+          "image_url": "https://i.mydramalist.com/pdVbvV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pdVbvV_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Hashizume Mika",
+          "slug": "people/61399-mika-hashizume",
+          "url": "https://mydramalist.com/people/61399-mika-hashizume",
+          "image_url": "https://i.mydramalist.com/Lw5KJx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lw5KJx_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Qiao Yi Yu",
+          "slug": "people/127343-qiao-yi-yu",
+          "url": "https://mydramalist.com/people/127343-qiao-yi-yu",
+          "image_url": "https://i.mydramalist.com/kAYeOr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kAYeOr_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Ikema Ruan",
+          "slug": "people/77191-ikema-ruan",
+          "url": "https://mydramalist.com/people/77191-ikema-ruan",
+          "image_url": "https://i.mydramalist.com/WP3xrO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WP3xrO_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Pailiu Kamonwarai Prajakrattanakul",
+          "slug": "people/127315-pailiu-kamonwalai-prajakrattanakul",
+          "url": "https://mydramalist.com/people/127315-pailiu-kamonwalai-prajakrattanakul",
+          "image_url": "https://i.mydramalist.com/PxVQLL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxVQLL_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Yean Papitchaya Ekyotsuporn",
+          "slug": "people/127473-yean-papitchaya-ekyotsuporn",
+          "url": "https://mydramalist.com/people/127473-yean-papitchaya-ekyotsuporn",
+          "image_url": "https://i.mydramalist.com/jQAV0v_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQAV0v_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Elyn Leong",
+          "slug": "people/128149-elyn-leong",
+          "url": "https://mydramalist.com/people/128149-elyn-leong",
+          "image_url": "https://i.mydramalist.com/1wqryd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wqryd_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Wang Ke",
+          "slug": "people/20567-wang-ke",
+          "url": "https://mydramalist.com/people/20567-wang-ke",
+          "image_url": "https://i.mydramalist.com/XdgLrw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdgLrw_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zeng Xue Yao",
+          "slug": "people/47817-zeng-xue-yao",
+          "url": "https://mydramalist.com/people/47817-zeng-xue-yao",
+          "image_url": "https://i.mydramalist.com/E5pePb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5pePb_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Ouyang Di Di",
+          "slug": "people/53071-ouyang-di-di",
+          "url": "https://mydramalist.com/people/53071-ouyang-di-di",
+          "image_url": "https://i.mydramalist.com/d0A7VD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d0A7VD_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Emma Zhu",
+          "slug": "people/128151-zhu-yi-meng",
+          "url": "https://mydramalist.com/people/128151-zhu-yi-meng",
+          "image_url": "https://i.mydramalist.com/0wbooN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wbooN_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Tang Han Xiao",
+          "slug": "people/141403-tang-han-xiao",
+          "url": "https://mydramalist.com/people/141403-tang-han-xiao",
+          "image_url": "https://i.mydramalist.com/Z8W458_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Z8W458_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Lu Lu",
+          "slug": "people/158664-lu-lu",
+          "url": "https://mydramalist.com/people/158664-lu-lu",
+          "image_url": "https://i.mydramalist.com/nOlkW6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOlkW6_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Xiao Pang",
+          "slug": "people/158662-xiao-pang",
+          "url": "https://mydramalist.com/people/158662-xiao-pang",
+          "image_url": "https://i.mydramalist.com/VX8VEJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VX8VEJ_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Kai Jiao",
+          "slug": "people/158660-kai-jiao",
+          "url": "https://mydramalist.com/people/158660-kai-jiao",
+          "image_url": "https://i.mydramalist.com/oQX5yz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQX5yz_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Ling Ling",
+          "slug": "people/158646-ling-ling",
+          "url": "https://mydramalist.com/people/158646-ling-ling",
+          "image_url": "https://i.mydramalist.com/KpOWx0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/KpOWx0_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Wei Li Wen",
+          "slug": "people/158644-wei-li-wen",
+          "url": "https://mydramalist.com/people/158644-wei-li-wen",
+          "image_url": "https://i.mydramalist.com/oQ0lvk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQ0lvk_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zhang Teng Long",
+          "slug": "people/158392-zhang-teng-long",
+          "url": "https://mydramalist.com/people/158392-zhang-teng-long",
+          "image_url": "https://i.mydramalist.com/l0oqOx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0oqOx_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Liu Yu Xin",
+          "slug": "people/42273-xin-liu",
+          "url": "https://mydramalist.com/people/42273-xin-liu",
+          "image_url": "https://i.mydramalist.com/l0nkXN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0nkXN_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Tia Ray",
+          "slug": "people/42537-tia-ray",
+          "url": "https://mydramalist.com/people/42537-tia-ray",
+          "image_url": "https://i.mydramalist.com/XdB7gd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdB7gd_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Lars Huang",
+          "slug": "people/36021-lars-huang",
+          "url": "https://mydramalist.com/people/36021-lars-huang",
+          "image_url": "https://i.mydramalist.com/3oVY4W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3oVY4W_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Fiona Sit",
+          "slug": "people/2997-sit-fiona",
+          "url": "https://mydramalist.com/people/2997-sit-fiona",
+          "image_url": "https://i.mydramalist.com/0wvxA6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wvxA6_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Li Yu Chun",
+          "slug": "people/9880-lee-chris",
+          "url": "https://mydramalist.com/people/9880-lee-chris",
+          "image_url": "https://i.mydramalist.com/x4mJzw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4mJzw_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Vin Zhou",
+          "slug": "people/19006-zhou-vin",
+          "url": "https://mydramalist.com/people/19006-zhou-vin",
+          "image_url": "https://i.mydramalist.com/e2X1n_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e2X1n_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Go for It! Episode 1",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/1",
+        "air_date": "2024-07-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Go for It! Episode 2",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/2",
+        "air_date": "2024-07-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Go for It! Episode 3",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/3",
+        "air_date": "2024-07-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Go for It! Episode 4",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/4",
+        "air_date": "2024-07-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Go for It! Episode 5",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/5",
+        "air_date": "2024-07-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Go for It! Episode 6",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/6",
+        "air_date": "2024-07-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Go for It! Episode 7",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/7",
+        "air_date": "2024-07-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Go for It! Episode 8",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/8",
+        "air_date": "2024-07-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Go for It! Episode 9",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/9",
+        "air_date": "2024-08-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Go for It! Episode 10",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/10",
+        "air_date": "2024-08-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Go for It! Episode 11",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/11",
+        "air_date": "2024-08-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Go for It! Episode 12",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/12",
+        "air_date": "2024-08-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Go for It! Episode 13",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/13",
+        "air_date": "2024-08-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Go for It! Episode 14",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/14",
+        "air_date": "2024-08-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Go for It! Episode 15",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/15",
+        "air_date": "2024-08-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Go for It! Episode 16",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/16",
+        "air_date": "2024-08-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Go for It! Episode 17",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/17",
+        "air_date": "2024-08-31",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Go for It! Episode 18",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/18",
+        "air_date": "2024-08-31",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Go for It! Episode 19",
+        "url": "https://mydramalist.com/772693-go-for-it/episode/19",
+        "air_date": "2024-09-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/kAxNOj_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kAxNOj_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-17T22:19:07.324Z"
+  },
+  {
+    "id": 773811,
+    "slug": "773811-big-project",
+    "url": "https://mydramalist.com/773811-big-project",
+    "title": "Big Project",
+    "complete_title": "Big Project (2024)",
+    "native_title": "大项目",
+    "sub_title": "大项目 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Da Xiang Mu , 大項目"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Crime",
+        "id": "21"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Русский Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/1w80eQ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1w80eQ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1w80eQ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1w80eQ_4f.jpg",
+        "title": "Big Project (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zhang Hao Sen",
+          "slug": "people/47141-zhang-hao-sen",
+          "url": "https://mydramalist.com/people/47141-zhang-hao-sen",
+          "image_url": "https://i.mydramalist.com/4XBZJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4XBZJ_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wang Wei Shen",
+          "slug": "people/86799-wang-wei-shen",
+          "url": "https://mydramalist.com/people/86799-wang-wei-shen",
+          "image_url": "https://i.mydramalist.com/WEpRR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WEpRR_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zoe Zhou",
+          "slug": "people/11093-zhou-zoe",
+          "url": "https://mydramalist.com/people/11093-zhou-zoe",
+          "image_url": "https://i.mydramalist.com/QBBP7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QBBP7_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Xing Han Qing",
+          "slug": "people/47387-xing-han-qing",
+          "url": "https://mydramalist.com/people/47387-xing-han-qing",
+          "image_url": "https://i.mydramalist.com/r43Zg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r43Zg_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:19:14.167Z"
+  },
+  {
+    "id": 773859,
+    "slug": "773859-where-is-my-mind",
+    "url": "https://mydramalist.com/773859-where-is-my-mind",
+    "title": "Where Is My Mind",
+    "complete_title": "Where Is My Mind (2024)",
+    "native_title": "21世纪狂想曲",
+    "sub_title": "21世纪狂想曲 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "21 Shi Ji Kuang Xiang Qu , 21世紀狂想曲"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "7 min.",
+    "duration_minutes": 7,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Z8W1qq_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Z8W1qq_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Z8W1qq_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Z8W1qq_4f.jpg",
+        "title": "Where Is My Mind (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:19:20.133Z"
+  },
+  {
+    "id": 770293,
+    "slug": "770293-qiao-guo-fu-ren",
+    "url": "https://mydramalist.com/770293-qiao-guo-fu-ren",
+    "title": "Qiao Guo Fu Ren",
+    "complete_title": "Qiao Guo Fu Ren (2024)",
+    "native_title": "谯国夫人",
+    "sub_title": "谯国夫人 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Mrs. Qiao Guo , 譙國夫人"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 50 min.",
+    "duration_minutes": 110,
+    "content_rating": "Not Yet Rated",
+    "rating": 42,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 42,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "War",
+        "id": "37"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Governor Female Lead",
+        "id": "20111"
+      },
+      {
+        "name": "General Female Lead",
+        "id": "19859"
+      },
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Sui Dynasty",
+        "id": "1752"
+      },
+      {
+        "name": "Rebellion",
+        "id": "887"
+      }
+    ],
+    "synopsis": "It tells the story of “the first heroine”, Xian Ying, who dedicated her life to maintaining national unity. When the Sui Dynasty was established, General Wei Guang led the Sui army to confront Lady Xian, who was faced with the most critical choice of her life. At this time, King Yang Guang of Jin was ordered to bring Emperor Chen's letter to Lady Xian in an attempt to persuade her to submit to the Sui Dynasty. On the other side, Wang Zhong Xuan learned of this and took the opportunity to act. He decided to kill Yang Guang, destroy the secret message and start a rebellion. For a while, the situation was tense, and Lady Xian was under pressure. All parties were ready to move. Faced with the life and death of the entire tribe, Lady Xian naturally had to make a difficult choice. Several events from the past come to her mind one by one: she fell in love with her husband Feng Bao and removed the obstacles to their marriage; She took benevolence as the principle of governance and implemented benevolent policies impartially; She conquered various tribes; She founded Yazhou, recovered and developed Hainan; She participated in suppressing Hou Jing's rebellion and ultimately supported Chen Ba Xian to establish the Chen Dynasty. These past events have made Lady Xian more determined in her lifelong beliefs. Ultimately, she reversed course and chose to pursue peace and unification, as always. She joined the Sui Dynasty, suppressed Wang Zhong Xuan's rebellion, and brought lasting peace to Lingnan, which was prospering. Lady Xian, who was revered by the people as the Holy Mother of Lingnan, was canonized as the Lady of Qiao State, becoming the world's number-one heroine for thousands of years. (Source: Chinese = Douban || Translation = MyDramaList) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/0wRxDr_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/0wRxDr_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/0wRxDr_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/0wRxDr_4f.jpg",
+        "title": "Qiao Guo Fu Ren (2024) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/4ermed_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/4ermed_4f.jpg",
+        "title": "Qiao Guo Fu Ren Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zeng Xiao Min",
+          "slug": "people/90573-zeng-xiao-min",
+          "url": "https://mydramalist.com/people/90573-zeng-xiao-min",
+          "image_url": "https://i.mydramalist.com/kL6vb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kL6vb_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:19:25.914Z"
+  },
+  {
+    "id": 773861,
+    "slug": "773861-fish",
+    "url": "https://mydramalist.com/773861-fish",
+    "title": "Fish",
+    "complete_title": "Fish (2024)",
+    "native_title": "鱼",
+    "sub_title": "鱼 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Yu , 魚"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "14 min.",
+    "duration_minutes": 14,
+    "content_rating": "Not Yet Rated",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "~~ Release date: Jul 5, 2024 (Festival) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/WPWmXR_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/WPWmXR_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/WPWmXR_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/WPWmXR_4f.jpg",
+        "title": "Fish (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:19:32.763Z"
+  },
+  {
+    "id": 774965,
+    "slug": "774965-madam-xian",
+    "url": "https://mydramalist.com/774965-madam-xian",
+    "title": "Madam Xian",
+    "complete_title": "Madam Xian (2024)",
+    "native_title": "谯国夫人",
+    "sub_title": "谯国夫人 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Qiao Guo Fu Ren , 譙國夫人"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 50 min.",
+    "duration_minutes": 110,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/WPWRmD_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/WPWRmD_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/WPWRmD_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/WPWRmD_4f.jpg",
+        "title": "Madam Xian (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:19:38.703Z"
+  },
+  {
+    "id": 773863,
+    "slug": "773863-a-four-color-driver",
+    "url": "https://mydramalist.com/773863-a-four-color-driver",
+    "title": "A Four-Color Driver",
+    "complete_title": "A Four-Color Driver (2024)",
+    "native_title": "开四色的车",
+    "sub_title": "开四色的车 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Kai Si Se De Che , 開四色的車"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "27 min.",
+    "duration_minutes": 27,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/RBQAnx_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RBQAnx_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RBQAnx_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RBQAnx_4f.jpg",
+        "title": "A Four-Color Driver (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:19:44.453Z"
+  },
+  {
+    "id": 774185,
+    "slug": "774185-dragon-stone-password",
+    "url": "https://mydramalist.com/774185-dragon-stone-password",
+    "title": "Dragon Stone Password",
+    "complete_title": "Dragon Stone Password (2024)",
+    "native_title": "龙石密码",
+    "sub_title": "龙石密码 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Long Shi Mi Ma , 龍石密碼"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 25 min.",
+    "duration_minutes": 85,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.913,
+    "scored_by": 3,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 13,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "In the early 1980s, in a small town by the mountains in the northwest, Chen Yong worked as an assistant in a herbal medicine shop run by Qi Yi Ran's family. When Qi Yi Ran went missing during a mountain expedition with her teammates to gather herbs, Chen Yong and his friend Fatty Han ventured into the mountains to find her. They stumbled upon a remote village called Xiaofeng Village, where they inadvertently entered an ancient tomb and discovered the legendary treasure of the \"Wei Fang Kingdom.\" (Source: youku.tv) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/pdgzNb_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pdgzNb_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pdgzNb_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pdgzNb_4f.jpg",
+        "title": "Dragon Stone Password (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Jarvis Wu",
+          "slug": "people/2170-wu-jerry",
+          "url": "https://mydramalist.com/people/2170-wu-jerry",
+          "image_url": "https://i.mydramalist.com/4LqXw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4LqXw_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Song Jia Teng",
+          "slug": "people/39349-song-jia-teng",
+          "url": "https://mydramalist.com/people/39349-song-jia-teng",
+          "image_url": "https://i.mydramalist.com/vrQX2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vrQX2_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mei Na",
+          "slug": "people/63105-song-mei-na",
+          "url": "https://mydramalist.com/people/63105-song-mei-na",
+          "image_url": "https://i.mydramalist.com/4lY3Z_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4lY3Z_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang De Hui",
+          "slug": "people/27689-zhang-de-hui",
+          "url": "https://mydramalist.com/people/27689-zhang-de-hui",
+          "image_url": "https://i.mydramalist.com/jRXq8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jRXq8_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:19:50.547Z"
+  },
+  {
+    "id": 774963,
+    "slug": "774963-pain",
+    "url": "https://mydramalist.com/774963-pain",
+    "title": "Pain",
+    "complete_title": "Pain (2024)",
+    "native_title": "痛",
+    "sub_title": "痛 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Tong"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "16 min.",
+    "duration_minutes": 16,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/x4nR2z_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/x4nR2z_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/x4nR2z_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/x4nR2z_4f.jpg",
+        "title": "Pain (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:19:56.201Z"
+  },
+  {
+    "id": 774959,
+    "slug": "774959-huan-xing",
+    "url": "https://mydramalist.com/774959-huan-xing",
+    "title": "Huan Xing",
+    "complete_title": "Huan Xing (2024)",
+    "native_title": "唤醒",
+    "sub_title": "唤醒 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "E Meng Jing Hun , 喚醒 , 噩夢驚魂 , 噩梦惊魂"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/rNgDmg_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/rNgDmg_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/rNgDmg_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/rNgDmg_4f.jpg",
+        "title": "Huan Xing (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:20:03.355Z"
+  },
+  {
+    "id": 774961,
+    "slug": "774961-xiao-xiao",
+    "url": "https://mydramalist.com/774961-xiao-xiao",
+    "title": "Xiao Xiao",
+    "complete_title": "Xiao Xiao (2024)",
+    "native_title": "小小",
+    "sub_title": "小小 ‧ Movie ‧ 2024",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "9 min.",
+    "duration_minutes": 9,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/1w81p7_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1w81p7_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1w81p7_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1w81p7_4f.jpg",
+        "title": "Xiao Xiao (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:20:08.863Z"
+  },
+  {
+    "id": 772931,
+    "slug": "772931-ying-han-ju-ji",
+    "url": "https://mydramalist.com/772931-ying-han-ju-ji",
+    "title": "Ying Han Ju Ji",
+    "complete_title": "Ying Han Ju Ji (2024)",
+    "native_title": "硬汉狙击",
+    "sub_title": "硬汉狙击 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "硬漢狙擊"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Former Police Officer Male Lead",
+        "id": "23075"
+      },
+      {
+        "name": "Gun Violence",
+        "id": "6977"
+      },
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Betrayal",
+        "id": "1304"
+      },
+      {
+        "name": "Violence",
+        "id": "336"
+      }
+    ],
+    "synopsis": "Zhang Xiao Long and Wang Tai were teammates who had been through thick and thin together. Later, Zhang Xiao Long and Wang Tai had a disagreement. Wang Tai became angry and turned evil. During a mission, he wanted to frame Zhang Xiao Long. A Lian died to save Zhang Xiao Long. He was disheartened and retired. Zhang Xiao Long suffered the tragic death of his girlfriend, betrayal by his brother, and was wanted by both the black and white worlds for murder. However, instead of falling into despair, he faced it positively. He summoned his former like-minded partners to fight a desperate battle with the black forces where Wang Tai was. (Source: Chinese = iQiyi || Translation = MyDramaList) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/pdgdY8_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pdgdY8_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pdgdY8_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pdgdY8_4f.jpg",
+        "title": "Ying Han Ju Ji (2024) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/60EJXX_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/60EJXX_4f.jpg",
+        "title": "Ying Han Ju Ji Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Jiang Yi Sheng",
+          "slug": "people/92299-jiang-yi-sheng",
+          "url": "https://mydramalist.com/people/92299-jiang-yi-sheng",
+          "image_url": "https://i.mydramalist.com/bveBqj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/bveBqj_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Xie Meng Wei",
+          "slug": "people/9690-xie-bruce",
+          "url": "https://mydramalist.com/people/9690-xie-bruce",
+          "image_url": "https://i.mydramalist.com/2kW3V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2kW3V_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Daniella Wang",
+          "slug": "people/20814-daniella-wang",
+          "url": "https://mydramalist.com/people/20814-daniella-wang",
+          "image_url": "https://i.mydramalist.com/w1kOY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/w1kOY_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ken Lok",
+          "slug": "people/3028-lok-ken",
+          "url": "https://mydramalist.com/people/3028-lok-ken",
+          "image_url": "https://i.mydramalist.com/Lw5A6r_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lw5A6r_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Bruce Leung",
+          "slug": "people/63571-bruce-leung",
+          "url": "https://mydramalist.com/people/63571-bruce-leung",
+          "image_url": "https://i.mydramalist.com/BEOLA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BEOLA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zuo Teng Yun",
+          "slug": "people/38615-zuo-teng-yun",
+          "url": "https://mydramalist.com/people/38615-zuo-teng-yun",
+          "image_url": "https://i.mydramalist.com/R3Qmxs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R3Qmxs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Jiang Yi Sheng",
+          "slug": "people/92299-jiang-yi-sheng",
+          "url": "https://mydramalist.com/people/92299-jiang-yi-sheng",
+          "image_url": "https://i.mydramalist.com/bveBqj_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/bveBqj_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:20:15.164Z"
+  },
+  {
+    "id": 774579,
+    "slug": "774579-adventures-in-western-sichuan-movie",
+    "url": "https://mydramalist.com/774579-adventures-in-western-sichuan-movie",
+    "title": "Adventures in Western Sichuan (Movie)",
+    "complete_title": "Adventures in Western Sichuan (Movie) (2024)",
+    "native_title": "川西奇遇记 (电影版)",
+    "sub_title": "川西奇遇记 (电影版) ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Adventures in Western Sichuan (Movie Version) , Chuan Xi Qi Yu Ji (Dian Ying Ban) , Chuan Xi Qi Yu Ji Dian Ying Ban , 川西奇遇記 (電影版) , 川西奇遇記 電影版 , 川西奇遇记 电影版"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "22 min.",
+    "duration_minutes": 22,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "Traveling",
+        "id": "1053"
+      },
+      {
+        "name": "Advertisement",
+        "id": "260"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XdOyzg_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XdOyzg_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XdOyzg_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XdOyzg_4f.jpg",
+        "title": "Adventures in Western Sichuan (Movie) (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Adventures in Western Sichuan",
+        "slug": "774577-adventures-in-western-sichuan",
+        "url": "https://mydramalist.com/774577-adventures-in-western-sichuan",
+        "relation": "Chinese parent story"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:20:20.861Z"
+  },
+  {
+    "id": 775221,
+    "slug": "775221-house-of-goddesses",
+    "url": "https://mydramalist.com/775221-house-of-goddesses",
+    "title": "House of Goddesses",
+    "complete_title": "House of Goddesses (2024)",
+    "native_title": "女神之家",
+    "sub_title": "女神之家 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Nv Shen Zhi Jia"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "46 min.",
+    "duration_minutes": 46,
+    "content_rating": "Not Yet Rated",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/RBQvW6_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RBQvW6_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RBQvW6_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RBQvW6_4f.jpg",
+        "title": "House of Goddesses (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:20:26.610Z"
+  },
+  {
+    "id": 774957,
+    "slug": "774957-a-life-of-loyalty",
+    "url": "https://mydramalist.com/774957-a-life-of-loyalty",
+    "title": "A Life of Loyalty",
+    "complete_title": "A Life of Loyalty (2024)",
+    "native_title": "一生交给党",
+    "sub_title": "一生交给党 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Yi Sheng Jiao Gei Dang , 一生交給黨"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/E5QOl5_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/E5QOl5_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/E5QOl5_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/E5QOl5_4f.jpg",
+        "title": "A Life of Loyalty (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:20:33.286Z"
+  },
+  {
+    "id": 805156,
+    "slug": "805156-lie-detected-lost-lily",
+    "url": "https://mydramalist.com/805156-lie-detected-lost-lily",
+    "title": "Lie Detected: Lost Lily",
+    "complete_title": "Lie Detected: Lost Lily (2024)",
+    "native_title": "猎心之迷毒之罪",
+    "sub_title": "猎心之迷毒之罪 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Lie Xin Zhi Mi Du Zhi Zui , 獵心之迷毒之罪"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 5 min.",
+    "duration_minutes": 65,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "A poisoning case occurs in a certain city, but the lack of evidence makes it difficult to solve. Police officer Mu Qing relies on her advanced lie-detection and micro-reaction analysis skills to conduct polygraph tests on individuals connected to the case. By carefully analyzing each layer, she gradually uncovers the truth and, together with criminal investigator Gao Xiang and others, brings the perpetrator to justice. (Source: Chinese = Douban || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/JB8qEd_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/JB8qEd_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/JB8qEd_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/JB8qEd_4f.jpg",
+        "title": "Lie Detected: Lost Lily (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Lie Detected: Bone Ashes",
+        "slug": "805154-lie-detected-bone-ashes",
+        "url": "https://mydramalist.com/805154-lie-detected-bone-ashes",
+        "relation": "Chinese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:20:38.730Z"
+  },
+  {
+    "id": 773871,
+    "slug": "773871-s-he",
+    "url": "https://mydramalist.com/773871-s-he",
+    "title": "(S)He",
+    "complete_title": "(S)He (2024)",
+    "native_title": "她/他",
+    "sub_title": "她/他 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "Ta/Ta"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "5 min.",
+    "duration_minutes": 5,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/E5QlnQ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/E5QlnQ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/E5QlnQ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/E5QlnQ_4f.jpg",
+        "title": "(S)He (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:20:44.707Z"
+  },
+  {
+    "id": 775223,
+    "slug": "775223-she-is-dancing-in-beijing",
+    "url": "https://mydramalist.com/775223-she-is-dancing-in-beijing",
+    "title": "She Is Dancing in Beijing",
+    "complete_title": "She Is Dancing in Beijing (2024)",
+    "native_title": "三姝媚·旧人京时蝶纷飞",
+    "sub_title": "三姝媚·旧人京时蝶纷飞 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "San Shu Mei: Jiu Ren Jing Shi Die Fen Fei , 三姝媚·舊人京時蝶紛飛"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 35 min.",
+    "duration_minutes": 95,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XdOpen_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XdOpen_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XdOpen_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XdOpen_4f.jpg",
+        "title": "She Is Dancing in Beijing (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:20:50.460Z"
+  },
+  {
+    "id": 775225,
+    "slug": "775225-the-lost-city-of-sanxingdui",
+    "url": "https://mydramalist.com/775225-the-lost-city-of-sanxingdui",
+    "title": "The Lost City of Sanxingdui",
+    "complete_title": "The Lost City of Sanxingdui (2024)",
+    "native_title": "三星堆 古老的城市",
+    "sub_title": "三星堆 古老的城市 ‧ Movie ‧ 2024",
+    "also_known_as": [
+      "San Xing Dui Gu Lao De Cheng Shi , San Xing Dui, la cité ancienne"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2024,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Co-produced",
+        "id": "3959"
+      }
+    ],
+    "synopsis": "~~ Co-production with France. ~~ Release date: Jun 2024 (Festival) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/BdDe27_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/BdDe27_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/BdDe27_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/BdDe27_4f.jpg",
+        "title": "The Lost City of Sanxingdui (2024) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-17T22:20:56.101Z"
   }
 ]
