@@ -66,8 +66,16 @@ export class HttpClient {
                         statusCode = parseInt(statusStr, 10) || 0;
                     }
 
-                    // Genuine 404 Not Found on MDL (Note: MDL returns empty 500 for unknown drama IDs)
-                    if (statusCode === 404 || (statusCode === 500 && body.trim().length <= 5) || body.includes('Page not found') || body.includes('404 Not Found')) {
+                    // Genuine 404 Not Found on MDL:
+                    // 1. HTTP status 404
+                    // 2. HTTP status 500 with blank body (MDL returns empty 500 for missing/deleted drama IDs)
+                    // 3. Official MDL 404 page title (<title>Page not found - MyDramaList or <title>404 Not Found - MyDramaList)
+                    // NOTE: Do NOT check body.includes('404 Not Found') globally, because dramas can be titled "404 Not Found" (e.g. ID 806916) or reviews can mention "404 Not Found" (e.g. ID 791006)!
+                    const is404 = statusCode === 404 || 
+                                  (statusCode === 500 && body.trim().length <= 20) ||
+                                  /<title>\s*(?:404\s+Not\s+Found|Page\s+not\s+found)\s*-\s*MyDramaList/i.test(body);
+
+                    if (is404) {
                         return null;
                     }
 

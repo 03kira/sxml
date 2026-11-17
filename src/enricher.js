@@ -294,9 +294,17 @@ async function enrichTitle(scraper, item) {
             });
 
             if (drama === null) {
-                // Verified 404 Not Found on MDL
-                console.log(`[Enricher] ⚠️ 404 Not Found on MDL: "${item.title}" (ID: ${item.id}). Skipped.`);
-                return { notFound: true, drama: null };
+                // Verified 404 Not Found on MDL - record tombstone so queue is not stuck in infinite retry
+                console.log(`[Enricher] ⚠️ Genuine 404 Not Found on MDL: "${item.title}" (ID: ${item.id}). Recorded tombstone.`);
+                const tombstone = {
+                    id: item.id,
+                    slug: item.slug || String(item.id),
+                    title: item.title,
+                    year: item.year || null,
+                    notFound: true,
+                    scraped_at: new Date().toISOString()
+                };
+                return { notFound: true, drama: tombstone };
             }
 
             if (!drama.id || !drama.slug || !drama.title) {
