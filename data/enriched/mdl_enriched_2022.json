@@ -1021143,5 +1021143,4203 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-18T15:23:20.146Z"
+  },
+  {
+    "id": 732325,
+    "slug": "732325-re-love",
+    "url": "https://mydramalist.com/732325-re-love",
+    "title": "Re-Love",
+    "complete_title": "Re-Love (2022)",
+    "native_title": "리-러브",
+    "sub_title": "리-러브 ‧ Movie ‧ 2022",
+    "also_known_as": [
+      "Reamar , Ri-Reobeu"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 34 min.",
+    "duration_minutes": 94,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 7.59,
+    "scored_by": 4,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 90,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Melodrama",
+        "id": "33"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Omnibus",
+        "id": "1381"
+      }
+    ],
+    "synopsis": "1. \"Sunwoo and Ikjune\" (42min, 선우와 익준, Seonwoowa Ikjun) by Yang Ik June It is a story about a couple who co-direct a movie and contemplate love and separation. 2. \"Hana\" (25min, 하나이야기, Hanaiyagi) by Kim In Seon Ha Na took over her half-brother, whom she had never met in her life, after her father, who'd been with her for a long time, suddenly passed away. 3. \"Light as a Feather\" (27min, 깃털처럼 가볍게, Gitteolcheoreom Gabyeopge) It is a love story of lovers who wish to become lighter day by day in the backdrop of Seoul and Jeonju, where music flows. (Source: HanCinema) English Português (Brasil) Français हिन्दी",
+    "poster_url": "https://i.mydramalist.com/wZnpk_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/wZnpk_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/wZnpk_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/wZnpk_4f.jpg",
+        "title": "Re-Love (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Im Seon Woo",
+          "slug": "people/21858-im-seon-woo",
+          "url": "https://mydramalist.com/people/21858-im-seon-woo",
+          "image_url": "https://i.mydramalist.com/2wDebd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wDebd_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Yang Ik June",
+          "slug": "people/4622-yang-ik-jun",
+          "url": "https://mydramalist.com/people/4622-yang-ik-jun",
+          "image_url": "https://i.mydramalist.com/XV3xJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XV3xJ_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Kim Sae Byuk",
+          "slug": "people/2795-kim-sae-byeok",
+          "url": "https://mydramalist.com/people/2795-kim-sae-byeok",
+          "image_url": "https://i.mydramalist.com/1qq5Qs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1qq5Qs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Kim Jun Han",
+          "slug": "people/15803-kim-joon-han",
+          "url": "https://mydramalist.com/people/15803-kim-joon-han",
+          "image_url": "https://i.mydramalist.com/qYVQJd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYVQJd_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Yoo Joon Sang",
+          "slug": "people/2422-yoo-joon-sang",
+          "url": "https://mydramalist.com/people/2422-yoo-joon-sang",
+          "image_url": "https://i.mydramalist.com/ZN4EY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZN4EY_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Chung Ye Jin",
+          "slug": "people/29827-jung-ye-jin",
+          "url": "https://mydramalist.com/people/29827-jung-ye-jin",
+          "image_url": "https://i.mydramalist.com/1wEdp6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wEdp6_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Kim In Seon",
+          "slug": "people/21302-kim-in-seon",
+          "url": "https://mydramalist.com/people/21302-kim-in-seon",
+          "image_url": "https://i.mydramalist.com/E876Wm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E876Wm.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Yang Ik June",
+          "slug": "people/4622-yang-ik-jun",
+          "url": "https://mydramalist.com/people/4622-yang-ik-jun",
+          "image_url": "https://i.mydramalist.com/XV3xJ_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XV3xJ_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Yoo Joon Sang",
+          "slug": "people/2422-yoo-joon-sang",
+          "url": "https://mydramalist.com/people/2422-yoo-joon-sang",
+          "image_url": "https://i.mydramalist.com/ZN4EY_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZN4EY_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T15:23:33.854Z"
+  },
+  {
+    "id": 736001,
+    "slug": "736001-twin",
+    "url": "https://mydramalist.com/736001-twin",
+    "title": "Twin",
+    "complete_title": "Twin (2022)",
+    "native_title": "트윈",
+    "sub_title": "트윈 ‧ Drama ‧ 2022",
+    "also_known_as": [
+      "Teuwin"
+    ],
+    "type": "Drama",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 8,
+    "aired_string": "Jul 1, 2022 - Aug 19, 2022",
+    "aired_start": "2022-07-01",
+    "aired_end": "2022-08-19",
+    "aired_on": [
+      "Friday"
+    ],
+    "original_network": null,
+    "duration_string": "8 min.",
+    "duration_minutes": 8,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.087,
+    "scored_by": 6,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 87,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Part-time Worker Female Lead",
+        "id": "19561"
+      },
+      {
+        "name": "Part-time Worker Male Lead",
+        "id": "19559"
+      },
+      {
+        "name": "Short Length Series",
+        "id": "18003"
+      },
+      {
+        "name": "Miniseries",
+        "id": "964"
+      },
+      {
+        "name": "Web Series",
+        "id": "466"
+      }
+    ],
+    "synopsis": "Training received while on vacation, so when I was angry, I stepped on shit and met a shit pervert... But it turns out that pervert is... a colleague I have to work with...?! A meeting that starts with shit and ends with shit. (Source: LXTV 국토인터넷방송국 YouTube) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/XYx6n_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XYx6n_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XYx6n_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XYx6n_4f.jpg",
+        "title": "Twin (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Twin Episode 1",
+        "url": "https://mydramalist.com/736001-twin/episode/1",
+        "air_date": "2022-07-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XYx6n_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XYx6n_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Twin Episode 2",
+        "url": "https://mydramalist.com/736001-twin/episode/2",
+        "air_date": "2022-07-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XYx6n_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XYx6n_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Twin Episode 3",
+        "url": "https://mydramalist.com/736001-twin/episode/3",
+        "air_date": "2022-07-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XYx6n_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XYx6n_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Twin Episode 4",
+        "url": "https://mydramalist.com/736001-twin/episode/4",
+        "air_date": "2022-07-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XYx6n_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XYx6n_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Twin Episode 5",
+        "url": "https://mydramalist.com/736001-twin/episode/5",
+        "air_date": "2022-07-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XYx6n_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XYx6n_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Twin Episode 6",
+        "url": "https://mydramalist.com/736001-twin/episode/6",
+        "air_date": "2022-08-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XYx6n_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XYx6n_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Twin Episode 7",
+        "url": "https://mydramalist.com/736001-twin/episode/7",
+        "air_date": "2022-08-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XYx6n_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XYx6n_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Twin Episode 8",
+        "url": "https://mydramalist.com/736001-twin/episode/8",
+        "air_date": "2022-08-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XYx6n_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XYx6n_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:23:39.667Z"
+  },
+  {
+    "id": 738157,
+    "slug": "738157-secretly-sweetly-s2",
+    "url": "https://mydramalist.com/738157-secretly-sweetly-s2",
+    "title": "Secretly Sweetly Season 2",
+    "complete_title": "Secretly Sweetly Season 2 (2022)",
+    "native_title": "달콤살콤 시즌2",
+    "sub_title": "달콤살콤 시즌2 ‧ Drama ‧ 2022",
+    "also_known_as": [
+      "Dalkomsalkom Sijeun 2 , Secretly Sweetly S2"
+    ],
+    "type": "Drama",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 1,
+    "aired_string": "Jul 1, 2022",
+    "aired_start": "2022-07-01",
+    "aired_end": "2022-07-01",
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "38 min.",
+    "duration_minutes": 38,
+    "content_rating": "Not Yet Rated",
+    "rating": 2.033,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 33,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "A new private investigator mission that he was commissioned by eight secret painters. The task is look at their works and find a hidden masterpiece by solving puzzles. It's a billion-dollars painting by a famous artist whom you don't know. (Source: IMDb) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/r43qm_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/r43qm_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/r43qm_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/r43qm_4f.jpg",
+        "title": "Secretly Sweetly Season 2 (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Secretly Sweetly",
+        "slug": "738755-secretly-sweetly-season-1",
+        "url": "https://mydramalist.com/738755-secretly-sweetly-season-1",
+        "relation": "Korean prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Song Min Kyung",
+          "slug": "people/22659-song-min-kyung",
+          "url": "https://mydramalist.com/people/22659-song-min-kyung",
+          "image_url": "https://i.mydramalist.com/2wQ0E7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wQ0E7_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Kim Myeong Ho",
+          "slug": "people/109267-kim-myeong-ho",
+          "url": "https://mydramalist.com/people/109267-kim-myeong-ho",
+          "image_url": "https://i.mydramalist.com/EKwqW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EKwqW_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Yoon Ra Young",
+          "slug": "people/38101-yoon-ra-young",
+          "url": "https://mydramalist.com/people/38101-yoon-ra-young",
+          "image_url": "https://i.mydramalist.com/dpNbW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dpNbW_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jeon Se Yong",
+          "slug": "people/91767-jeon-se-yong",
+          "url": "https://mydramalist.com/people/91767-jeon-se-yong",
+          "image_url": "https://i.mydramalist.com/ee0qE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ee0qE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jung Eui Gab",
+          "slug": "people/3217-jung-ui-kap",
+          "url": "https://mydramalist.com/people/3217-jung-ui-kap",
+          "image_url": "https://i.mydramalist.com/64g3Ks.jpg",
+          "image_hd_url": "https://i.mydramalist.com/64g3Ks.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Secretly Sweetly Season 2 Episode 1",
+        "url": "https://mydramalist.com/738157-secretly-sweetly-s2/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r43qm_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r43qm_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:23:46.022Z"
+  },
+  {
+    "id": 738191,
+    "slug": "738191-make-some-beer",
+    "url": "https://mydramalist.com/738191-make-some-beer",
+    "title": "Make Some Beer",
+    "complete_title": "Make Some Beer (2022)",
+    "native_title": "메이크썸비어",
+    "sub_title": "메이크썸비어 ‧ TV Program ‧ 2022",
+    "also_known_as": [
+      "메이크 썸 비어"
+    ],
+    "type": "TV Program",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 9,
+    "aired_string": "Jul 1, 2022 - Aug 26, 2022",
+    "aired_start": "2022-07-01",
+    "aired_end": "2022-08-26",
+    "aired_on": [],
+    "original_network": "MBC",
+    "duration_string": "15 min.",
+    "duration_minutes": 15,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.711,
+    "scored_by": 3,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 11,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Food",
+        "id": "2"
+      }
+    ],
+    "tags": [
+      {
+        "name": "2PM",
+        "id": "1563"
+      },
+      {
+        "name": "Loona",
+        "id": "1294"
+      }
+    ],
+    "synopsis": "The journey of Honey J's beer-making! (Source: 14F 일사에프 YouTube) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/QDoW6_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/QDoW6_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+        "title": "Make Some Beer (2022) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/v0l3g_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/v0l3g_4f.jpg",
+        "title": "Make Some Beer Korean TV Program photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Honey J",
+          "slug": "people/83657-honey-j",
+          "url": "https://mydramalist.com/people/83657-honey-j",
+          "image_url": "https://i.mydramalist.com/d0OpKA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d0OpKA_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Hertz",
+          "slug": "people/83885-hertz",
+          "url": "https://mydramalist.com/people/83885-hertz",
+          "image_url": "https://i.mydramalist.com/XxNmw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XxNmw_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "EEVEE",
+          "slug": "people/83879-eevee",
+          "url": "https://mydramalist.com/people/83879-eevee",
+          "image_url": "https://i.mydramalist.com/6W7k0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6W7k0_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Taro",
+          "slug": "people/83883-taro",
+          "url": "https://mydramalist.com/people/83883-taro",
+          "image_url": "https://i.mydramalist.com/vBA6p_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vBA6p_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Jane",
+          "slug": "people/83881-jane",
+          "url": "https://mydramalist.com/people/83881-jane",
+          "image_url": "https://i.mydramalist.com/knPmr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/knPmr_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Mull",
+          "slug": "people/83871-mull",
+          "url": "https://mydramalist.com/people/83871-mull",
+          "image_url": "https://i.mydramalist.com/knPPr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/knPPr_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Lo-A",
+          "slug": "people/83877-lo-a",
+          "url": "https://mydramalist.com/people/83877-lo-a",
+          "image_url": "https://i.mydramalist.com/2WJJd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2WJJd_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Belle",
+          "slug": "people/83873-belle",
+          "url": "https://mydramalist.com/people/83873-belle",
+          "image_url": "https://i.mydramalist.com/QqrrQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QqrrQ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Gonzo",
+          "slug": "people/100151-gonzo",
+          "url": "https://mydramalist.com/people/100151-gonzo",
+          "image_url": "https://i.mydramalist.com/x0Zgz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x0Zgz_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Shorty Force",
+          "slug": "people/108987-shorty-force",
+          "url": "https://mydramalist.com/people/108987-shorty-force",
+          "image_url": "https://i.mydramalist.com/WLwzl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WLwzl_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Jay Park",
+          "slug": "people/2377-jay-park",
+          "url": "https://mydramalist.com/people/2377-jay-park",
+          "image_url": "https://i.mydramalist.com/nO7rwN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nO7rwN_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Monika Shin",
+          "slug": "people/83735-monika-shin",
+          "url": "https://mydramalist.com/people/83735-monika-shin",
+          "image_url": "https://i.mydramalist.com/2ebk7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2ebk7_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Lip J",
+          "slug": "people/83737-lip-j",
+          "url": "https://mydramalist.com/people/83737-lip-j",
+          "image_url": "https://i.mydramalist.com/2WzXE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2WzXE_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Chuu",
+          "slug": "people/17427-chuu",
+          "url": "https://mydramalist.com/people/17427-chuu",
+          "image_url": "https://i.mydramalist.com/73ljLD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73ljLD_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Make Some Beer Episode 1",
+        "url": "https://mydramalist.com/738191-make-some-beer/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QDoW6_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Make Some Beer Episode 2",
+        "url": "https://mydramalist.com/738191-make-some-beer/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QDoW6_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Make Some Beer Episode 3",
+        "url": "https://mydramalist.com/738191-make-some-beer/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QDoW6_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Make Some Beer Episode 4",
+        "url": "https://mydramalist.com/738191-make-some-beer/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QDoW6_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Make Some Beer Episode 5",
+        "url": "https://mydramalist.com/738191-make-some-beer/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QDoW6_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Make Some Beer Episode 6",
+        "url": "https://mydramalist.com/738191-make-some-beer/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QDoW6_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Make Some Beer Episode 7",
+        "url": "https://mydramalist.com/738191-make-some-beer/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QDoW6_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Make Some Beer Episode 8",
+        "url": "https://mydramalist.com/738191-make-some-beer/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QDoW6_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Make Some Beer Episode 9",
+        "url": "https://mydramalist.com/738191-make-some-beer/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QDoW6_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QDoW6_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:23:53.002Z"
+  },
+  {
+    "id": 742371,
+    "slug": "742371-memory-onf",
+    "url": "https://mydramalist.com/742371-memory-onf",
+    "title": "Memory (Onf:)",
+    "complete_title": "Memory (Onf:) (2022)",
+    "native_title": "MEMORY (ONF:)",
+    "sub_title": "MEMORY (ONF:) ‧ TV Program ‧ 2022",
+    "also_known_as": [],
+    "type": "TV Program",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 12,
+    "aired_string": "Jul 1, 2022 - ?",
+    "aired_start": "2022-07-01",
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "9 min.",
+    "duration_minutes": 9,
+    "content_rating": "Not Yet Rated",
+    "rating": 8.06,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Pop Music",
+        "id": "29420"
+      },
+      {
+        "name": "ONF",
+        "id": "3185"
+      },
+      {
+        "name": "K-Pop",
+        "id": "1042"
+      },
+      {
+        "name": "Friendship",
+        "id": "6"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/poQxQ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/poQxQ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "title": "Memory (Onf:) (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Kim Hyo Jin",
+          "slug": "people/16982-kim-hyo-jin",
+          "url": "https://mydramalist.com/people/16982-kim-hyo-jin",
+          "image_url": "https://i.mydramalist.com/0wBKQr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wBKQr_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "E-Tion",
+          "slug": "people/16983-e-tion",
+          "url": "https://mydramalist.com/people/16983-e-tion",
+          "image_url": "https://i.mydramalist.com/eY8jKp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eY8jKp_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Lee Seung Jun",
+          "slug": "people/16993-j-us",
+          "url": "https://mydramalist.com/people/16993-j-us",
+          "image_url": "https://i.mydramalist.com/x4Aw7X_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4Aw7X_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Wyatt",
+          "slug": "people/16986-wyatt",
+          "url": "https://mydramalist.com/people/16986-wyatt",
+          "image_url": "https://i.mydramalist.com/rN25vN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rN25vN_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Park Min Kyun",
+          "slug": "people/16990-mk",
+          "url": "https://mydramalist.com/people/16990-mk",
+          "image_url": "https://i.mydramalist.com/E573jm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E573jm_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Yuto",
+          "slug": "people/16991-u",
+          "url": "https://mydramalist.com/people/16991-u",
+          "image_url": "https://i.mydramalist.com/1w4zjK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1w4zjK_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Memory (Onf:) Episode 1",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Memory (Onf:) Episode 2",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Memory (Onf:) Episode 3",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Memory (Onf:) Episode 4",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Memory (Onf:) Episode 5",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Memory (Onf:) Episode 6",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Memory (Onf:) Episode 7",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Memory (Onf:) Episode 8",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Memory (Onf:) Episode 9",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Memory (Onf:) Episode 10",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Memory (Onf:) Episode 11",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Memory (Onf:) Episode 12",
+        "url": "https://mydramalist.com/742371-memory-onf/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/poQxQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/poQxQ_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:23:59.697Z"
+  },
+  {
+    "id": 786366,
+    "slug": "786366-blt-sandwich-cafe",
+    "url": "https://mydramalist.com/786366-blt-sandwich-cafe",
+    "title": "BLT Sandwich Cafe",
+    "complete_title": "BLT Sandwich Cafe (2022)",
+    "native_title": "BLTサンドイッチカフェ",
+    "sub_title": "BLTサンドイッチカフェ ‧ Drama ‧ 2022",
+    "also_known_as": [
+      "BLT Sandoitchi Kafe , BLT Sandwich Cafe"
+    ],
+    "type": "Drama",
+    "country": "Japan",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 12,
+    "aired_string": "Jul 1, 2022 - Sep 16, 2022",
+    "aired_start": "2022-07-01",
+    "aired_end": "2022-09-16",
+    "aired_on": [
+      "Friday"
+    ],
+    "original_network": "Tokyo MX",
+    "duration_string": "27 min.",
+    "duration_minutes": 27,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.71,
+    "scored_by": 6,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 10,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Aso Riku walks into the world of \"La Grande Baguette Tokyo\", the Sandwich Café of European owner Tom West, and finds a family of Japanese society outcasts who welcome him as a new member of their twisted community. (Source: IMDb) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/AB4Eb4_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/AB4Eb4_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "title": "BLT Sandwich Cafe (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Ichishima Rinka",
+          "slug": "people/64909-ichishima-rinka",
+          "url": "https://mydramalist.com/people/64909-ichishima-rinka",
+          "image_url": "https://i.mydramalist.com/5vBbmA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5vBbmA_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Hirata Yuya",
+          "slug": "people/14736-hirata-yuya",
+          "url": "https://mydramalist.com/people/14736-hirata-yuya",
+          "image_url": "https://i.mydramalist.com/4JO2w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4JO2w_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jeffrey Rowe",
+          "slug": "people/33849-jeffrey-rowe",
+          "url": "https://mydramalist.com/people/33849-jeffrey-rowe",
+          "image_url": "https://i.mydramalist.com/kEwnws.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kEwnws.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "BLT Sandwich Cafe Episode 1",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "BLT Sandwich Cafe Episode 2",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "BLT Sandwich Cafe Episode 3",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "BLT Sandwich Cafe Episode 4",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "BLT Sandwich Cafe Episode 5",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "BLT Sandwich Cafe Episode 6",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "BLT Sandwich Cafe Episode 7",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "BLT Sandwich Cafe Episode 8",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "BLT Sandwich Cafe Episode 9",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "BLT Sandwich Cafe Episode 10",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "BLT Sandwich Cafe Episode 11",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "BLT Sandwich Cafe Episode 12",
+        "url": "https://mydramalist.com/786366-blt-sandwich-cafe/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AB4Eb4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AB4Eb4_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:24:06.560Z"
+  },
+  {
+    "id": 682943,
+    "slug": "682943-yoon-shi-nae-has-disappeared",
+    "url": "https://mydramalist.com/682943-yoon-shi-nae-has-disappeared",
+    "title": "Missing Yoon",
+    "complete_title": "Missing Yoon (2022)",
+    "native_title": "윤시내가 사라졌다",
+    "sub_title": "윤시내가 사라졌다 ‧ Movie ‧ 2022",
+    "also_known_as": [
+      "Yoon Shi Nae has Disappeared , Yoon Shi Nae is Gone , Yunsinaega Salajyeossda , Yunsinaega Sarajyeossda"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 47 min.",
+    "duration_minutes": 107,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 90,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 90,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "A road movie where daughter Ha Da, a YouTuber, mother Soon Yi, an imitation singer of Yoon Shi Nae, and charming young man Joon Ok leave to find legendary singer Yoon Shi Nae, who disappeared on the day of her concert due to respective circumstances. (Source: HanCinema) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/W0KgO_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/W0KgO_4f.jpg",
+    "trailer_id": "33297",
+    "trailers": [
+      {
+        "id": "33297",
+        "title": "Missing Yoon Official Trailer",
+        "url": "https://v.mydramalist.com/0dc/0dcd794d2a317673735c3baf4bf63b71.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/W0KgO_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/W0KgO_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/W0KgO_4f.jpg",
+        "title": "Missing Yoon (2022) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/2yNdW_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/2yNdW_4f.jpg",
+        "title": "Missing Yoon Korean Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/emd1Y_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/emd1Y_4f.jpg",
+        "title": "Missing Yoon Korean Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Lee Joo Young",
+          "slug": "people/17954-lee-joo-young",
+          "url": "https://mydramalist.com/people/17954-lee-joo-young",
+          "image_url": "https://i.mydramalist.com/XdEmQn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdEmQn_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Oh Min Ae",
+          "slug": "people/54675-oh-min-ae",
+          "url": "https://mydramalist.com/people/54675-oh-min-ae",
+          "image_url": "https://i.mydramalist.com/r7Kz2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r7Kz2_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Kim Jae Hwa",
+          "slug": "people/4461-kim-jae-hwa",
+          "url": "https://mydramalist.com/people/4461-kim-jae-hwa",
+          "image_url": "https://i.mydramalist.com/j2N88s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/j2N88s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Roh Jae Won",
+          "slug": "people/104931-noh-jae-won",
+          "url": "https://mydramalist.com/people/104931-noh-jae-won",
+          "image_url": "https://i.mydramalist.com/Lwlkv7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lwlkv7_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Kim Jin Hwa",
+          "slug": "people/36449-kim-jin-hwa",
+          "url": "https://mydramalist.com/people/36449-kim-jin-hwa",
+          "image_url": "https://i.mydramalist.com/q8LBPm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/q8LBPm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Kim Kyung Duk",
+          "slug": "people/28545-kim-kyung-duk",
+          "url": "https://mydramalist.com/people/28545-kim-kyung-duk",
+          "image_url": "https://i.mydramalist.com/XOZxX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XOZxX_5f.jpg",
+          "role_type": "Bit part"
+        },
+        {
+          "name": "Lee Byeong Soo",
+          "slug": "people/105733-lee-byung-soo",
+          "url": "https://mydramalist.com/people/105733-lee-byung-soo",
+          "image_url": "https://i.mydramalist.com/zvBbA1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zvBbA1_5f.jpg",
+          "role_type": "Bit part"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T15:24:13.317Z"
+  },
+  {
+    "id": 702445,
+    "slug": "702445-bodyguard-morlam",
+    "url": "https://mydramalist.com/702445-bodyguard-morlam",
+    "title": "Morlam Bodyguard",
+    "complete_title": "Morlam Bodyguard (2022)",
+    "native_title": "บอดี้การ์ดหมอลำ",
+    "sub_title": "บอดี้การ์ดหมอลำ ‧ Drama ‧ 2022",
+    "also_known_as": [
+      "Bodyguard Molam , Bodyguard Morlam"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 44,
+    "aired_string": "Jun 30, 2022 - Sep 2, 2022",
+    "aired_start": "2022-06-30",
+    "aired_end": "2022-09-02",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "original_network": "One 31",
+    "duration_string": "41 min.",
+    "duration_minutes": 41,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.2153,
+    "scored_by": 8,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 153,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Police Captain Male Lead",
+        "id": "21879"
+      },
+      {
+        "name": "Bodyguard Male Lead",
+        "id": "19287"
+      },
+      {
+        "name": "Doctor Female Lead",
+        "id": "17831"
+      }
+    ],
+    "synopsis": "\"Morlam Bodyguard\" is the story of Captain Thepthai, a police officer assigned as a secret bodyguard to Dr. Nicha, the daughter of a leading businessman in Thailand. Nicha was recently confronted by a group of people who had a business conflict with her father. Captain Thepthai disguises himself as Rungfah to protect Dr. Nicha from the bad guys. (Source: Thai = one31.net || Translation = MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/jpdPv_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jpdPv_4f.jpg",
+    "trailer_id": "33459",
+    "trailers": [
+      {
+        "id": "33459",
+        "title": "Morlam Bodyguard Official Trailer",
+        "url": "https://v.mydramalist.com/9b9/9b949ed09d89d211938bc18620855069.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/jpdPv_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jpdPv_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jpdPv_4f.jpg",
+        "title": "Morlam Bodyguard (2022) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/x4XxvE_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/x4XxvE_3f.jpg",
+        "title": "Morlam Bodyguard Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Ezb00_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/Ezb00_3f.jpg",
+        "title": "Morlam Bodyguard Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/qpvE8_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/qpvE8_3f.jpg",
+        "title": "Morlam Bodyguard Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/epP4d_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/epP4d_4f.jpg",
+        "title": "Morlam Bodyguard Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/XpbEq_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/XpbEq_4f.jpg",
+        "title": "Morlam Bodyguard Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/RvPvY_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/RvPvY_3f.jpg",
+        "title": "Morlam Bodyguard (2022)"
+      },
+      {
+        "url": "https://i.mydramalist.com/2242w_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/2242w_3f.jpg",
+        "title": "Morlam Bodyguard (2022)"
+      },
+      {
+        "url": "https://i.mydramalist.com/qp2eB_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/qp2eB_3f.jpg",
+        "title": "Morlam Bodyguard (2022)"
+      },
+      {
+        "url": "https://i.mydramalist.com/6XyDj_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/6XyDj_3f.jpg",
+        "title": "Morlam Bodyguard (2022)"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bejgq_4m.jpg",
+        "hd_url": "https://i.mydramalist.com/Bejgq_4f.jpg",
+        "title": "Morlam Bodyguard (2022)"
+      },
+      {
+        "url": "https://i.mydramalist.com/jBz8b_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/jBz8b_3f.jpg",
+        "title": "Morlam Bodyguard (2022)"
+      },
+      {
+        "url": "https://i.mydramalist.com/xO5mz_4m.jpg",
+        "hd_url": "https://i.mydramalist.com/xO5mz_4f.jpg",
+        "title": "Morlam Bodyguard (2022)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Point Cholawit Meetongcom",
+          "slug": "people/21402-point-cholawit-meetongcom",
+          "url": "https://mydramalist.com/people/21402-point-cholawit-meetongcom",
+          "image_url": "https://i.mydramalist.com/Dykvky_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Dykvky_5f.jpg",
+          "character": "Thepthai / Rungfah",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Nat Aniporn Chalermburanawong",
+          "slug": "people/21449-aniporn-chalermburanawong",
+          "url": "https://mydramalist.com/people/21449-aniporn-chalermburanawong",
+          "image_url": "https://i.mydramalist.com/WyWe5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WyWe5_5f.jpg",
+          "character": "Nicha",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Zak Chumpae",
+          "slug": "people/82485-zak-chumpae",
+          "url": "https://mydramalist.com/people/82485-zak-chumpae",
+          "image_url": "https://i.mydramalist.com/BWd3b_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BWd3b_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kaothip Tidadin",
+          "slug": "people/22905-kaothip-tidadin",
+          "url": "https://mydramalist.com/people/22905-kaothip-tidadin",
+          "image_url": "https://i.mydramalist.com/mj3qks.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mj3qks.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Noom Surawut Maikun",
+          "slug": "people/22822-noom-surawut-maikun",
+          "url": "https://mydramalist.com/people/22822-noom-surawut-maikun",
+          "image_url": "https://i.mydramalist.com/ZyDLk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZyDLk_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Muay Angsana Buranon",
+          "slug": "people/21825-muay-angsana-buranon",
+          "url": "https://mydramalist.com/people/21825-muay-angsana-buranon",
+          "image_url": "https://i.mydramalist.com/j2vYrs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/j2vYrs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Orly Tatiya Sonsagun",
+          "slug": "people/39939-orly-tatiya-sonsagun",
+          "url": "https://mydramalist.com/people/39939-orly-tatiya-sonsagun",
+          "image_url": "https://i.mydramalist.com/XvPAgs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XvPAgs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wit Phutharit Prombandal",
+          "slug": "people/15234-prombandal-phutharit",
+          "url": "https://mydramalist.com/people/15234-prombandal-phutharit",
+          "image_url": "https://i.mydramalist.com/rNm1Jg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rNm1Jg_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mam Vichuda Pindum",
+          "slug": "people/9815-pindum-vichuda",
+          "url": "https://mydramalist.com/people/9815-pindum-vichuda",
+          "image_url": "https://i.mydramalist.com/x4AA0r_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4AA0r_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Khaimoog Chananya Lertwattanamongkol",
+          "slug": "people/103561-khaimoog-chananya-lertwattanamongkol",
+          "url": "https://mydramalist.com/people/103561-khaimoog-chananya-lertwattanamongkol",
+          "image_url": "https://i.mydramalist.com/xpA5N_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xpA5N_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Poyfai Malaiporn",
+          "slug": "people/26917-poyfai-malaiporn",
+          "url": "https://mydramalist.com/people/26917-poyfai-malaiporn",
+          "image_url": "https://i.mydramalist.com/B22Q1s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B22Q1s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nek Naruepol",
+          "slug": "people/39547-nek-naruepol",
+          "url": "https://mydramalist.com/people/39547-nek-naruepol",
+          "image_url": "https://i.mydramalist.com/3oK0Re_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3oK0Re_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mackay Gongprich Sukittharaphirom",
+          "slug": "people/41819-mackay-pongnarin-maikami",
+          "url": "https://mydramalist.com/people/41819-mackay-pongnarin-maikami",
+          "image_url": "https://i.mydramalist.com/rNk2xj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rNk2xj_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sern Ratchapong Thivathanaset",
+          "slug": "people/88095-sern-ratchapong-thivathanaset",
+          "url": "https://mydramalist.com/people/88095-sern-ratchapong-thivathanaset",
+          "image_url": "https://i.mydramalist.com/WVo5l_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WVo5l_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kimmy Thitisan Goodburn",
+          "slug": "people/92297-kim-goodburn",
+          "url": "https://mydramalist.com/people/92297-kim-goodburn",
+          "image_url": "https://i.mydramalist.com/11qmb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/11qmb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yao Lookyee",
+          "slug": "people/46029-yao-lookyee",
+          "url": "https://mydramalist.com/people/46029-yao-lookyee",
+          "image_url": "https://i.mydramalist.com/RX2gz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RX2gz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hong Suchada Poonpattanasuk",
+          "slug": "people/26883-suchada-poonpattanasuk",
+          "url": "https://mydramalist.com/people/26883-suchada-poonpattanasuk",
+          "image_url": "https://i.mydramalist.com/XwwOXs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XwwOXs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Am Suthee Siangwaan",
+          "slug": "people/14001-siangwaan-thanwisit",
+          "url": "https://mydramalist.com/people/14001-siangwaan-thanwisit",
+          "image_url": "https://i.mydramalist.com/VXdEgQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXdEgQ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lerm Chalermsak Yamchamang",
+          "slug": "people/112483-lerm-chalerm-yamchamang",
+          "url": "https://mydramalist.com/people/112483-lerm-chalerm-yamchamang",
+          "image_url": "https://i.mydramalist.com/vkQme_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vkQme_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Miu Kamonrat Areesanun",
+          "slug": "people/133995-kamonrat-areesanun",
+          "url": "https://mydramalist.com/people/133995-kamonrat-areesanun",
+          "image_url": "https://i.mydramalist.com/73X1NN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73X1NN_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Boky Suphach Tawsagun",
+          "slug": "people/123415-boky-suphach-tawsagun",
+          "url": "https://mydramalist.com/people/123415-boky-suphach-tawsagun",
+          "image_url": "https://i.mydramalist.com/0wy616_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wy616_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Nantharat Nanthaekkaphong",
+          "slug": "people/98535-nantharat-nanthaekkaphong",
+          "url": "https://mydramalist.com/people/98535-nantharat-nanthaekkaphong",
+          "image_url": "https://i.mydramalist.com/Be0ZA_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Be0ZA_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Thongchai Prasongsanti",
+          "slug": "people/19718-thongchai-prasonsanti",
+          "url": "https://mydramalist.com/people/19718-thongchai-prasonsanti",
+          "image_url": "https://i.mydramalist.com/BqAVRm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BqAVRm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Suphachai Sittiaumponpan",
+          "slug": "people/95213-suphachai-sittiaumponpan",
+          "url": "https://mydramalist.com/people/95213-suphachai-sittiaumponpan",
+          "image_url": "https://i.mydramalist.com/wdnYY_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wdnYY_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Ek Wichai Jongprasitporn",
+          "slug": "people/21846-wichai-jongprasitporn",
+          "url": "https://mydramalist.com/people/21846-wichai-jongprasitporn",
+          "image_url": "https://i.mydramalist.com/y7Ykks.jpg",
+          "image_hd_url": "https://i.mydramalist.com/y7Ykks.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Morlam Bodyguard Episode 1",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/1",
+        "air_date": "2022-06-30",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/j5bgJ_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/j5bgJ_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Morlam Bodyguard Episode 2",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/2",
+        "air_date": "2022-07-01",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/Ee3QW_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Ee3QW_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Morlam Bodyguard Episode 3",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/3",
+        "air_date": "2022-07-04",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/B8l26_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B8l26_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Morlam Bodyguard Episode 4",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/4",
+        "air_date": "2022-07-05",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/kemJg_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/kemJg_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Morlam Bodyguard Episode 5",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/5",
+        "air_date": "2022-07-06",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/eB5RY_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eB5RY_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Morlam Bodyguard Episode 6",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/6",
+        "air_date": "2022-07-07",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/03EbN_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/03EbN_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Morlam Bodyguard Episode 7",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/7",
+        "air_date": "2022-07-08",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/B8Lzl_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B8Lzl_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Morlam Bodyguard Episode 8",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/8",
+        "air_date": "2022-07-11",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/d76nK_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d76nK_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Morlam Bodyguard Episode 9",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/9",
+        "air_date": "2022-07-12",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/ZnD8Y_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ZnD8Y_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Morlam Bodyguard Episode 10",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/10",
+        "air_date": "2022-07-13",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/1xrwb_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1xrwb_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Morlam Bodyguard Episode 11",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/11",
+        "air_date": "2022-07-14",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/j5zE8_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/j5zE8_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Morlam Bodyguard Episode 12",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/12",
+        "air_date": "2022-07-15",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/Ee6d5_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Ee6d5_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Morlam Bodyguard Episode 13",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/13",
+        "air_date": "2022-07-18",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/RDDx6_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RDDx6_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Morlam Bodyguard Episode 14",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/14",
+        "air_date": "2022-07-19",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/q44Bz_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/q44Bz_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Morlam Bodyguard Episode 15",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/15",
+        "air_date": "2022-07-20",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/Q60NQ_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Q60NQ_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Morlam Bodyguard Episode 16",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/16",
+        "air_date": "2022-07-21",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/wvAKN_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wvAKN_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Morlam Bodyguard Episode 17",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/17",
+        "air_date": "2022-07-22",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/46o4J_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/46o4J_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Morlam Bodyguard Episode 18",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/18",
+        "air_date": "2022-07-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/06LON_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/06LON_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Morlam Bodyguard Episode 19",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/19",
+        "air_date": "2022-07-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/vVpJg_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/vVpJg_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Morlam Bodyguard Episode 20",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/20",
+        "air_date": "2022-07-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/W2pbl_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/W2pbl_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Morlam Bodyguard Episode 21",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/21",
+        "air_date": "2022-08-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pypnD_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pypnD_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Morlam Bodyguard Episode 22",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/22",
+        "air_date": "2022-08-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/66XyP_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/66XyP_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Morlam Bodyguard Episode 23",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/23",
+        "air_date": "2022-08-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/q0p2d_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/q0p2d_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Morlam Bodyguard Episode 24",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/24",
+        "air_date": "2022-08-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/R6vPV_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/R6vPV_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "Morlam Bodyguard Episode 25",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/25",
+        "air_date": "2022-08-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XYp8q_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XYp8q_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "Morlam Bodyguard Episode 26",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/26",
+        "air_date": "2022-08-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/jzprd_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/jzprd_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "Morlam Bodyguard Episode 27",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/27",
+        "air_date": "2022-08-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B6eq6_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B6eq6_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "Morlam Bodyguard Episode 28",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/28",
+        "air_date": "2022-08-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Q6VK2_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Q6VK2_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 29,
+        "title": "Morlam Bodyguard Episode 29",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/29",
+        "air_date": "2022-08-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/rPpqm_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/rPpqm_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 30,
+        "title": "Morlam Bodyguard Episode 30",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/30",
+        "air_date": "2022-08-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/16n0z_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/16n0z_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 31,
+        "title": "Morlam Bodyguard Episode 31",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/31",
+        "air_date": "2022-08-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/W2pQl_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/W2pQl_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 32,
+        "title": "Morlam Bodyguard Episode 32",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/32",
+        "air_date": "2022-08-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pypWD_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pypWD_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 33,
+        "title": "Morlam Bodyguard Episode 33",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/33",
+        "air_date": "2022-08-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/66XnP_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/66XnP_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 34,
+        "title": "Morlam Bodyguard Episode 34",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/34",
+        "air_date": "2022-08-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/q0pqd_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/q0pqd_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 35,
+        "title": "Morlam Bodyguard Episode 35",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/35",
+        "air_date": "2022-08-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/262xW_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/262xW_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 36,
+        "title": "Morlam Bodyguard Episode 36",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/36",
+        "air_date": "2022-08-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XYpeq_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XYpeq_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 37,
+        "title": "Morlam Bodyguard Episode 37",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/37",
+        "air_date": "2022-08-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/jzpld_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/jzpld_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 38,
+        "title": "Morlam Bodyguard Episode 38",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/38",
+        "air_date": "2022-08-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E6z8z_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E6z8z_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 39,
+        "title": "Morlam Bodyguard Episode 39",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/39",
+        "air_date": "2022-08-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1Nd0Q_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1Nd0Q_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 40,
+        "title": "Morlam Bodyguard Episode 40",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/40",
+        "air_date": "2022-08-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/jk2w8_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/jk2w8_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 41,
+        "title": "Morlam Bodyguard Episode 41",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/41",
+        "air_date": "2022-08-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/e78k8_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/e78k8_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 42,
+        "title": "Morlam Bodyguard Episode 42",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/42",
+        "air_date": "2022-08-31",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4moE_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4moE_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 43,
+        "title": "Morlam Bodyguard Episode 43",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/43",
+        "air_date": "2022-09-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/0Wp3K_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/0Wp3K_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 44,
+        "title": "Morlam Bodyguard Episode 44",
+        "url": "https://mydramalist.com/702445-bodyguard-morlam/episode/44",
+        "air_date": "2022-09-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1NpxK_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1NpxK_3f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:24:20.058Z"
+  },
+  {
+    "id": 721565,
+    "slug": "721565-lovely-voice-the-beginning",
+    "url": "https://mydramalist.com/721565-lovely-voice-the-beginning",
+    "title": "From Today's Choir",
+    "complete_title": "From Today's Choir (2022)",
+    "native_title": "오늘부터 합창단",
+    "sub_title": "오늘부터 합창단 ‧ Movie ‧ 2022",
+    "also_known_as": [
+      "Leobeulli Boiseu: Deobigining , Lovely Voice: The Beginning , 러블리 보이스: 더비기닝"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 46,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 46,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Teacher Female Lead",
+        "id": "17911"
+      },
+      {
+        "name": "Choir",
+        "id": "13149"
+      },
+      {
+        "name": "Singing",
+        "id": "1343"
+      }
+    ],
+    "synopsis": "Follows the story of part-time teacher Da Jung and Kei, who was once a promising producer but suddenly hits rock bottom, as they become in charge of a children’s choir and find their lost passion and love along the way. (Source: Naver) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/djBX5_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/djBX5_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/djBX5_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/djBX5_4f.jpg",
+        "title": "From Today's Choir (2022) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/BAoY1_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/BAoY1_3f.jpg",
+        "title": "From Today's Choir Korean Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/ZK7LW_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/ZK7LW_4f.jpg",
+        "title": "From Today's Choir Korean Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/k2ABw_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/k2ABw_4f.jpg",
+        "title": "From Today's Choir Korean Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Jung Jin Woon",
+          "slug": "people/1767-jung-jin-woon",
+          "url": "https://mydramalist.com/people/1767-jung-jin-woon",
+          "image_url": "https://i.mydramalist.com/l0P1jx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0P1jx_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Shin Hye Jung",
+          "slug": "people/4431-shin-hye-jung",
+          "url": "https://mydramalist.com/people/4431-shin-hye-jung",
+          "image_url": "https://i.mydramalist.com/k424O_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/k424O_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Kim Yu Bin",
+          "slug": "people/5280-kim-yoo-bin",
+          "url": "https://mydramalist.com/people/5280-kim-yoo-bin",
+          "image_url": "https://i.mydramalist.com/jQj7kr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQj7kr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Minzy",
+          "slug": "people/16386-minzy",
+          "url": "https://mydramalist.com/people/16386-minzy",
+          "image_url": "https://i.mydramalist.com/Bdrkv6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bdrkv6_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Thunder",
+          "slug": "people/2149-thunder",
+          "url": "https://mydramalist.com/people/2149-thunder",
+          "image_url": "https://i.mydramalist.com/eYyd28_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYyd28_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kim Seol",
+          "slug": "people/11187-kim-seol",
+          "url": "https://mydramalist.com/people/11187-kim-seol",
+          "image_url": "https://i.mydramalist.com/x4vQdX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4vQdX_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lim Seo Won",
+          "slug": "people/87691-lim-seo-won",
+          "url": "https://mydramalist.com/people/87691-lim-seo-won",
+          "image_url": "https://i.mydramalist.com/x4KDo3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4KDo3_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jo Eun Sook",
+          "slug": "people/4972-jo-eun-sook",
+          "url": "https://mydramalist.com/people/4972-jo-eun-sook",
+          "image_url": "https://i.mydramalist.com/j4gKys.jpg",
+          "image_hd_url": "https://i.mydramalist.com/j4gKys.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jung Kyung Ho",
+          "slug": "people/1912-jung-kyung-ho",
+          "url": "https://mydramalist.com/people/1912-jung-kyung-ho",
+          "image_url": "https://i.mydramalist.com/E3gbQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E3gbQ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chae Eun Jung",
+          "slug": "people/50393-chae-eun-jung",
+          "url": "https://mydramalist.com/people/50393-chae-eun-jung",
+          "image_url": "https://i.mydramalist.com/E5Yw3p_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5Yw3p_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Noh Woo Jin",
+          "slug": "people/19154-noh-woo-jin",
+          "url": "https://mydramalist.com/people/19154-noh-woo-jin",
+          "image_url": "https://i.mydramalist.com/Ld7r7s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Ld7r7s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shorry J",
+          "slug": "people/10695-shorry-j",
+          "url": "https://mydramalist.com/people/10695-shorry-j",
+          "image_url": "https://i.mydramalist.com/1kxo5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1kxo5_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gabi",
+          "slug": "people/121779-gabi",
+          "url": "https://mydramalist.com/people/121779-gabi",
+          "image_url": "https://i.mydramalist.com/1wgkV7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wgkV7_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Park Chan Yool",
+          "slug": "people/20991-park-chan-yool",
+          "url": "https://mydramalist.com/people/20991-park-chan-yool",
+          "image_url": "https://i.mydramalist.com/bwBRVm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/bwBRVm.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Yang Hoon Jik",
+          "slug": "people/105135-yang-hoon-jik",
+          "url": "https://mydramalist.com/people/105135-yang-hoon-jik",
+          "image_url": "https://i.mydramalist.com/1nr6Q_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1nr6Q_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T15:24:27.776Z"
+  },
+  {
+    "id": 726981,
+    "slug": "726981-took-tak-s-counterattack",
+    "url": "https://mydramalist.com/726981-took-tak-s-counterattack",
+    "title": "Took Tak's Counterattack",
+    "complete_title": "Took Tak's Counterattack (2022)",
+    "native_title": "뚝딱이의 역습",
+    "sub_title": "뚝딱이의 역습 ‧ TV Program ‧ 2022",
+    "also_known_as": [
+      "Ttugttagiui Yeogseub"
+    ],
+    "type": "TV Program",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 1,
+    "aired_string": "Jun, 2022 - ?",
+    "aired_start": "2022-06-01",
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "Mnet",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/0o0Qr_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/0o0Qr_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/0o0Qr_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/0o0Qr_4f.jpg",
+        "title": "Took Tak's Counterattack (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Tae Yong",
+          "slug": "people/16169-lee-tae-yong",
+          "url": "https://mydramalist.com/people/16169-lee-tae-yong",
+          "image_url": "https://i.mydramalist.com/NdnrLy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdnrLy_5f.jpg",
+          "role_type": "Main Host"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Took Tak's Counterattack Episode 1",
+        "url": "https://mydramalist.com/726981-took-tak-s-counterattack/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xp5B0_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xp5B0_3f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:24:33.819Z"
+  },
+  {
+    "id": 730525,
+    "slug": "730525-ordinary-courage",
+    "url": "https://mydramalist.com/730525-ordinary-courage",
+    "title": "Ordinary Courage",
+    "complete_title": "Ordinary Courage (2022)",
+    "native_title": "보통의 용기",
+    "sub_title": "보통의 용기 ‧ Movie ‧ 2022",
+    "also_known_as": [
+      "Botongeui Yonggi , Botongui Yonggi"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 32 min.",
+    "duration_minutes": 92,
+    "content_rating": "Not Yet Rated",
+    "rating": 59,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 59,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Environmental Issues",
+        "id": "2599"
+      },
+      {
+        "name": "Social Issues",
+        "id": "1025"
+      }
+    ],
+    "synopsis": "Gong Hyo Jin, Korea's greatest rom-com queen. Lee Chun Hee, an actor reborn as a furniture businessman. Jeon Hye Jin, a housewife with 11 years of experience as a child actress. Three people from different backgrounds with different intentions unite for the sake of the Earth! They attempt to live a carbon-free life at Jukdo, the only energy-independent island that's left! After discovering a lot of plastic bottles on the beach, they call the water bottle company and start inviting unexpected people to the island! Gong Hyo Jin X Lee Chun Hee X Jeon Hye Jin's Zero Carbon Project! How are they so sincere about the Earth?! (Source: HanCinema) English हिन्दी magyar / magyar nyelv עברית / עִבְרִית",
+    "poster_url": "https://i.mydramalist.com/ep5We_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ep5We_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ep5We_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ep5We_4f.jpg",
+        "title": "Ordinary Courage (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Kong Hyo Jin",
+          "slug": "people/807-gong-hyo-jin",
+          "url": "https://mydramalist.com/people/807-gong-hyo-jin",
+          "image_url": "https://i.mydramalist.com/4k0oZs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4k0oZs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Lee Chun Hee",
+          "slug": "people/1289-lee-chun-hee",
+          "url": "https://mydramalist.com/people/1289-lee-chun-hee",
+          "image_url": "https://i.mydramalist.com/B3YD7s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B3YD7s.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jeon Hye Jin",
+          "slug": "people/4525-jun-hye-jin",
+          "url": "https://mydramalist.com/people/4525-jun-hye-jin",
+          "image_url": "https://i.mydramalist.com/33k2Ds.jpg",
+          "image_hd_url": "https://i.mydramalist.com/33k2Ds.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Goo Min Kyung",
+          "slug": "people/104563-goo-min-kyung",
+          "url": "https://mydramalist.com/people/104563-goo-min-kyung",
+          "image_url": "https://i.mydramalist.com/xp1NN_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xp1NN_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T15:24:41.288Z"
+  },
+  {
+    "id": 730971,
+    "slug": "730971-full-profiler",
+    "url": "https://mydramalist.com/730971-full-profiler",
+    "title": "Full Profiler",
+    "complete_title": "Full Profiler (2022)",
+    "native_title": "풀어파일러",
+    "sub_title": "풀어파일러 ‧ TV Program ‧ 2022",
+    "also_known_as": [
+      "Puleopailleo"
+    ],
+    "type": "TV Program",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 12,
+    "aired_string": "Jun 30, 2022 - Sep 15, 2022",
+    "aired_start": "2022-06-30",
+    "aired_end": "2022-09-15",
+    "aired_on": [
+      "Thursday"
+    ],
+    "original_network": null,
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "15+ - Teens 15 or older",
+    "rating": 40,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 40,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Mystery",
+        "id": "11"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Uniq",
+        "id": "18221"
+      },
+      {
+        "name": "X1",
+        "id": "15457"
+      },
+      {
+        "name": "Quiz Show",
+        "id": "194"
+      },
+      {
+        "name": "Variety Show",
+        "id": "184"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      }
+    ],
+    "synopsis": "Crimes are becoming more diverse day by day, and still, there is always an answer for every crime! Professional profiler Kwon Il Yong opens a training school for aspiring profilers to find a step-by-step solution to these crimes through deduction quizzes. Will they be able to solve them and become \"full profilers\"? (Source: Korean = TVING || Translation = MyDramaList) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/pmK6V_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pmK6V_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+        "title": "Full Profiler (2022) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/qpJKd_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/qpJKd_4f.jpg",
+        "title": "Full Profiler Korean TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Be4X5_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/Be4X5_4f.jpg",
+        "title": "Full Profiler Korean TV Program photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Full Profiler Season 2",
+        "slug": "763155-full-profiler-season-2",
+        "url": "https://mydramalist.com/763155-full-profiler-season-2",
+        "relation": "Korean sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Kwon Il Yong",
+          "slug": "people/95071-kwon-il-yong",
+          "url": "https://mydramalist.com/people/95071-kwon-il-yong",
+          "image_url": "https://i.mydramalist.com/Xd3rEZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xd3rEZ_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Seo Jang Hoon",
+          "slug": "people/15893-seo-jang-hoon",
+          "url": "https://mydramalist.com/people/15893-seo-jang-hoon",
+          "image_url": "https://i.mydramalist.com/6Ekb2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6Ekb2_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Lee Jin Ho",
+          "slug": "people/8448-lee-jin-ho",
+          "url": "https://mydramalist.com/people/8448-lee-jin-ho",
+          "image_url": "https://i.mydramalist.com/EPVpps.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EPVpps.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Kim Min Ah",
+          "slug": "people/39671-kim-min-ah",
+          "url": "https://mydramalist.com/people/39671-kim-min-ah",
+          "image_url": "https://i.mydramalist.com/Z8gxlk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Z8gxlk_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Kim Byung Ok",
+          "slug": "people/3275-kim-byung-ok",
+          "url": "https://mydramalist.com/people/3275-kim-byung-ok",
+          "image_url": "https://i.mydramalist.com/ro6py_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ro6py_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Woodz",
+          "slug": "people/14497-jo-seung-yeon",
+          "url": "https://mydramalist.com/people/14497-jo-seung-yeon",
+          "image_url": "https://i.mydramalist.com/AB2DN3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/AB2DN3_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Shin Ji Won",
+          "slug": "people/39193-johyun",
+          "url": "https://mydramalist.com/people/39193-johyun",
+          "image_url": "https://i.mydramalist.com/XDwdn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XDwdn_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Yoon Joo Man",
+          "slug": "people/10717-yoon-joo-man",
+          "url": "https://mydramalist.com/people/10717-yoon-joo-man",
+          "image_url": "https://i.mydramalist.com/qxWk2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qxWk2_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Narsha",
+          "slug": "people/4236-narsha",
+          "url": "https://mydramalist.com/people/4236-narsha",
+          "image_url": "https://i.mydramalist.com/x4vANX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4vANX_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Park Eun Ji",
+          "slug": "people/6343-park-eun-ji",
+          "url": "https://mydramalist.com/people/6343-park-eun-ji",
+          "image_url": "https://i.mydramalist.com/qYnJxD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYnJxD_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Choi Young Jae",
+          "slug": "people/112947-choi-young-jae",
+          "url": "https://mydramalist.com/people/112947-choi-young-jae",
+          "image_url": "https://i.mydramalist.com/RBPrXg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RBPrXg_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Lim Yun Seon",
+          "slug": "people/50165-lim-yun-seon",
+          "url": "https://mydramalist.com/people/50165-lim-yun-seon",
+          "image_url": "https://i.mydramalist.com/x4Qem0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4Qem0_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Kim Soo Yong",
+          "slug": "people/33545-kim-soo-yong",
+          "url": "https://mydramalist.com/people/33545-kim-soo-yong",
+          "image_url": "https://i.mydramalist.com/60rpBj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/60rpBj_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Lew",
+          "slug": "people/17009-lee-eui-woong",
+          "url": "https://mydramalist.com/people/17009-lee-eui-woong",
+          "image_url": "https://i.mydramalist.com/2wmE5E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wmE5E_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Full Profiler Episode 1",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/1",
+        "air_date": "2022-06-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ZnPlL_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ZnPlL_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Full Profiler Episode 2",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/2",
+        "air_date": "2022-07-07",
+        "rating": 10,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/rolPZ_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/rolPZ_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Full Profiler Episode 3",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/3",
+        "air_date": "2022-07-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B86B1_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B86B1_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Full Profiler Episode 4",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/4",
+        "air_date": "2022-07-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pmK6V_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Full Profiler Episode 5",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/5",
+        "air_date": "2022-07-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pmK6V_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Full Profiler Episode 6",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/6",
+        "air_date": "2022-08-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pmK6V_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Full Profiler Episode 7",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/7",
+        "air_date": "2022-08-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pmK6V_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Full Profiler Episode 8",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/8",
+        "air_date": "2022-08-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pmK6V_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Full Profiler Episode 9",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/9",
+        "air_date": "2022-08-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pmK6V_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Full Profiler Episode 10",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/10",
+        "air_date": "2022-09-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pmK6V_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Full Profiler Episode 11",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/11",
+        "air_date": "2022-09-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pmK6V_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Full Profiler Episode 12",
+        "url": "https://mydramalist.com/730971-full-profiler/episode/12",
+        "air_date": "2022-09-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pmK6V_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pmK6V_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:24:47.101Z"
+  },
+  {
+    "id": 791078,
+    "slug": "791078-motherland",
+    "url": "https://mydramalist.com/791078-motherland",
+    "title": "Motherland",
+    "complete_title": "Motherland (2022)",
+    "native_title": "Motherland",
+    "sub_title": "Motherland ‧ Movie ‧ 2022",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "18 min.",
+    "duration_minutes": 18,
+    "content_rating": "Not Yet Rated",
+    "rating": 36,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 36,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Family",
+        "id": "29"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Co-produced",
+        "id": "3959"
+      },
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "Leah, a Korean adoptee raised in America, returns to Korea to search for her birth mother. Leah is met with secrecy from the adoption agency as well as her own family, but remains relentless on her solo journey, driven by her longing to discover the truth of her origins. (Source: AAIFF.org) ~~ Co-production with the U.S.A. ~~ Release date: Jun 2022 (Festival) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/VXerLQ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/VXerLQ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/VXerLQ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/VXerLQ_4f.jpg",
+        "title": "Motherland (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Hong Kyung",
+          "slug": "people/15693-hong-kyung",
+          "url": "https://mydramalist.com/people/15693-hong-kyung",
+          "image_url": "https://i.mydramalist.com/O82gkY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O82gkY_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kim Tae Woo",
+          "slug": "people/4473-kim-tae-woo",
+          "url": "https://mydramalist.com/people/4473-kim-tae-woo",
+          "image_url": "https://i.mydramalist.com/47PO1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/47PO1_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Oh Min Ae",
+          "slug": "people/54675-oh-min-ae",
+          "url": "https://mydramalist.com/people/54675-oh-min-ae",
+          "image_url": "https://i.mydramalist.com/r7Kz2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r7Kz2_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T15:24:53.858Z"
+  },
+  {
+    "id": 728525,
+    "slug": "728525-great-silence",
+    "url": "https://mydramalist.com/728525-great-silence",
+    "title": "Great Silence",
+    "complete_title": "Great Silence (2022)",
+    "native_title": "위대한 침묵",
+    "sub_title": "위대한 침묵 ‧ Movie ‧ 2022",
+    "also_known_as": [
+      "Widaehan Chimmuk"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "2 hr. 4 min.",
+    "duration_minutes": 124,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 10.026,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 26,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [],
+    "synopsis": "A documentary recounting the events of the impeachment of Park Geun Hye, the 18th president of the Republic of Korea. (Source: HanCinema) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/RvYBV_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RvYBV_4f.jpg",
+    "trailer_id": "37341",
+    "trailers": [
+      {
+        "id": "37341",
+        "title": "Great Silence Official Trailer",
+        "url": "https://v.mydramalist.com/640/640dadd07c304cc6ab0aa772d032d31d.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/RvYBV_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RvYBV_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RvYBV_4f.jpg",
+        "title": "Great Silence (2022) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/4P8wk_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/4P8wk_4f.jpg",
+        "title": "Great Silence Korean Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Woo Jong Chang",
+          "slug": "people/102645-woo-jong-chang",
+          "url": "https://mydramalist.com/people/102645-woo-jong-chang",
+          "image_url": "https://i.mydramalist.com/Rm7mR_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rm7mR_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T15:24:59.918Z"
+  },
+  {
+    "id": 731815,
+    "slug": "731815-black-crowes",
+    "url": "https://mydramalist.com/731815-black-crowes",
+    "title": "Black / Crowes",
+    "complete_title": "Black / Crowes (2022)",
+    "native_title": "ブラック／クロウズ",
+    "sub_title": "ブラック／クロウズ ‧ Drama ‧ 2022",
+    "also_known_as": [
+      "Burakku / Kurozu"
+    ],
+    "type": "Drama",
+    "country": "Japan",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 2,
+    "aired_string": "Jun 29, 2022 - Jul 6, 2022",
+    "aired_start": "2022-06-29",
+    "aired_end": "2022-07-06",
+    "aired_on": [
+      "Wednesday"
+    ],
+    "original_network": "Fuji TV",
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.984,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 84,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Miniseries",
+        "id": "964"
+      }
+    ],
+    "synopsis": "An underworld picaresque drama set in the \"darkness casino\" of Roppongi, Tokyo, and is unfolded by people who are attracted to the \"darkness\" of Tokyo. (Source: Realsound.jp) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/pmKZB_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pmKZB_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pmKZB_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pmKZB_4f.jpg",
+        "title": "Black / Crowes (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Black / Crowes: Roppongi Underground",
+        "slug": "744309-black-crowes-roppongi-underground",
+        "url": "https://mydramalist.com/744309-black-crowes-roppongi-underground",
+        "relation": "Japanese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Koseki Yuta",
+          "slug": "people/8036-koseki-yuta",
+          "url": "https://mydramalist.com/people/8036-koseki-yuta",
+          "image_url": "https://i.mydramalist.com/v5Ak2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v5Ak2_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Matsui Airi",
+          "slug": "people/5934-matsui-airi",
+          "url": "https://mydramalist.com/people/5934-matsui-airi",
+          "image_url": "https://i.mydramalist.com/BnrBq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BnrBq_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mori Kanna",
+          "slug": "people/4328-mori-kanna",
+          "url": "https://mydramalist.com/people/4328-mori-kanna",
+          "image_url": "https://i.mydramalist.com/eAQgE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eAQgE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Miura Ryota",
+          "slug": "people/59277-miura-ryota",
+          "url": "https://mydramalist.com/people/59277-miura-ryota",
+          "image_url": "https://i.mydramalist.com/ZbOL8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZbOL8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tosaka Junichi",
+          "slug": "people/31601-tosaka-junichi",
+          "url": "https://mydramalist.com/people/31601-tosaka-junichi",
+          "image_url": "https://i.mydramalist.com/RB2LLV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RB2LLV_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hagiwara Masato",
+          "slug": "people/4217-hagiwara-masato",
+          "url": "https://mydramalist.com/people/4217-hagiwara-masato",
+          "image_url": "https://i.mydramalist.com/XdAond_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdAond_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yanagizawa Shingo",
+          "slug": "people/3602-yanagizawa-shingo",
+          "url": "https://mydramalist.com/people/3602-yanagizawa-shingo",
+          "image_url": "https://i.mydramalist.com/pYo4e_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pYo4e_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Komatsu Ayaka",
+          "slug": "people/2400-komatsu-ayaka",
+          "url": "https://mydramalist.com/people/2400-komatsu-ayaka",
+          "image_url": "https://i.mydramalist.com/pjV2rs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pjV2rs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hakamada Yoshihiko",
+          "slug": "people/3228-hakamada-yoshihiko",
+          "url": "https://mydramalist.com/people/3228-hakamada-yoshihiko",
+          "image_url": "https://i.mydramalist.com/eAnop_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eAnop_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Masaki Reiya",
+          "slug": "people/5358-masaki-reiya",
+          "url": "https://mydramalist.com/people/5358-masaki-reiya",
+          "image_url": "https://i.mydramalist.com/JBLVnY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBLVnY_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Moriguchi Yusuke",
+          "slug": "people/17211-moriguchi-yusuke",
+          "url": "https://mydramalist.com/people/17211-moriguchi-yusuke",
+          "image_url": "https://i.mydramalist.com/xx4zX_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xx4zX_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Takamaru Masataka",
+          "slug": "people/107029-takamaru-masataka",
+          "url": "https://mydramalist.com/people/107029-takamaru-masataka",
+          "image_url": "https://i.mydramalist.com/pykDQ_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pykDQ_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Black / Crowes Episode 1",
+        "url": "https://mydramalist.com/731815-black-crowes/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/keYJv_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/keYJv_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Black / Crowes Episode 2",
+        "url": "https://mydramalist.com/731815-black-crowes/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1xZkR_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1xZkR_3f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:25:06.384Z"
+  },
+  {
+    "id": 737261,
+    "slug": "737261-special-delivery-2",
+    "url": "https://mydramalist.com/737261-special-delivery-2",
+    "title": "Special Delivery 2",
+    "complete_title": "Special Delivery 2 (2022)",
+    "native_title": "무엇이든 딜리버리2",
+    "sub_title": "무엇이든 딜리버리2 ‧ TV Program ‧ 2022",
+    "also_known_as": [
+      "Mueosideun Dillibeori 2"
+    ],
+    "type": "TV Program",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 12,
+    "aired_string": "Jun 29, 2022 - Oct 12, 2022",
+    "aired_start": "2022-06-29",
+    "aired_end": "2022-10-12",
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "16 min.",
+    "duration_minutes": 16,
+    "content_rating": "15+ - Teens 15 or older",
+    "rating": 19,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 19,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/r4YL2_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/r4YL2_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "title": "Special Delivery 2 (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Yang Yo Seob",
+          "slug": "people/9966-yang-yo-seob",
+          "url": "https://mydramalist.com/people/9966-yang-yo-seob",
+          "image_url": "https://i.mydramalist.com/4e12rY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4e12rY_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Son Dong Woon",
+          "slug": "people/16713-son-dong-woon",
+          "url": "https://mydramalist.com/people/16713-son-dong-woon",
+          "image_url": "https://i.mydramalist.com/O8W7Y3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8W7Y3_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Yoon Doo Joon",
+          "slug": "people/1608-yoon-doo-joon",
+          "url": "https://mydramalist.com/people/1608-yoon-doo-joon",
+          "image_url": "https://i.mydramalist.com/73jLVL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73jLVL_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Special Delivery 2 Episode 1",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Special Delivery 2 Episode 2",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Special Delivery 2 Episode 3",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Special Delivery 2 Episode 4",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Special Delivery 2 Episode 5",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Special Delivery 2 Episode 6",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Special Delivery 2 Episode 7",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Special Delivery 2 Episode 8",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Special Delivery 2 Episode 9",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Special Delivery 2 Episode 10",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Special Delivery 2 Episode 11",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Special Delivery 2 Episode 12",
+        "url": "https://mydramalist.com/737261-special-delivery-2/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r4YL2_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r4YL2_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:25:13.515Z"
+  },
+  {
+    "id": 737595,
+    "slug": "737595-meeting",
+    "url": "https://mydramalist.com/737595-meeting",
+    "title": "MEETing",
+    "complete_title": "MEETing (2022)",
+    "native_title": "MEETing",
+    "sub_title": "MEETing ‧ TV Program ‧ 2022",
+    "also_known_as": [],
+    "type": "TV Program",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 4,
+    "aired_string": "Jun 29, 2022 - Sep 7, 2022",
+    "aired_start": "2022-06-29",
+    "aired_end": "2022-09-07",
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "15 min.",
+    "duration_minutes": 15,
+    "content_rating": "Not Yet Rated",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Interview",
+        "id": "1178"
+      },
+      {
+        "name": "Talk Show",
+        "id": "96"
+      },
+      {
+        "name": "Music",
+        "id": "7"
+      }
+    ],
+    "synopsis": "MEETing is a talk show presented by HIPHOPLE on youtube where artists interview each other. (Source: MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/XWBdJ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XWBdJ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XWBdJ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XWBdJ_4f.jpg",
+        "title": "MEETing (2022) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/0WdQe_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/0WdQe_3f.jpg",
+        "title": "MEETing Korean TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/r4gXg_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/r4gXg_3f.jpg",
+        "title": "MEETing Korean TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/42qxr_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/42qxr_3f.jpg",
+        "title": "MEETing Korean TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/wPg78_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/wPg78_3f.jpg",
+        "title": "MEETing Korean TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/e7Wbn_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/e7Wbn_3f.jpg",
+        "title": "MEETing Korean TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/k5qKk_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/k5qKk_3f.jpg",
+        "title": "MEETing Korean TV Program photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [
+        {
+          "name": "Lobonabeat!",
+          "slug": "people/108861-lobonabeat",
+          "url": "https://mydramalist.com/people/108861-lobonabeat",
+          "image_url": "https://i.mydramalist.com/R1bn6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R1bn6_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Aminé",
+          "slug": "people/108821-amin",
+          "url": "https://mydramalist.com/people/108821-amin",
+          "image_url": "https://i.mydramalist.com/EKgmp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EKgmp_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Blase",
+          "slug": "people/108949-blase",
+          "url": "https://mydramalist.com/people/108949-blase",
+          "image_url": "https://i.mydramalist.com/jQjdJb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQjdJb_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Moon Su Jin",
+          "slug": "people/107707-moon-su-jin",
+          "url": "https://mydramalist.com/people/107707-moon-su-jin",
+          "image_url": "https://i.mydramalist.com/2wmAYW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wmAYW_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Roh Yun Ha",
+          "slug": "people/108145-jam1e",
+          "url": "https://mydramalist.com/people/108145-jam1e",
+          "image_url": "https://i.mydramalist.com/XYqJn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XYqJn_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "SINCE",
+          "slug": "people/83033-since",
+          "url": "https://mydramalist.com/people/83033-since",
+          "image_url": "https://i.mydramalist.com/JBL1yd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBL1yd_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Bryn",
+          "slug": "people/87991-bryn",
+          "url": "https://mydramalist.com/people/87991-bryn",
+          "image_url": "https://i.mydramalist.com/vXOyl8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXOyl8_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "pH-1",
+          "slug": "people/48041-ph-1",
+          "url": "https://mydramalist.com/people/48041-ph-1",
+          "image_url": "https://i.mydramalist.com/WPbvvp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WPbvvp_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "MEETing Episode 1",
+        "url": "https://mydramalist.com/737595-meeting/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XWBdJ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XWBdJ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "MEETing Episode 2",
+        "url": "https://mydramalist.com/737595-meeting/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XWBdJ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XWBdJ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "MEETing Episode 3",
+        "url": "https://mydramalist.com/737595-meeting/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XWBdJ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XWBdJ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "MEETing Episode 4",
+        "url": "https://mydramalist.com/737595-meeting/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XWBdJ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XWBdJ_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:25:20.007Z"
+  },
+  {
+    "id": 771369,
+    "slug": "771369-yurei-hodo-2",
+    "url": "https://mydramalist.com/771369-yurei-hodo-2",
+    "title": "Yurei Hodo 2",
+    "complete_title": "Yurei Hodo 2 (2022)",
+    "native_title": "幽霊報道2",
+    "sub_title": "幽霊報道2 ‧ Movie ‧ 2022",
+    "also_known_as": [
+      "Yuurei Houdou 2 , ゆうれいほうどう2"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "2 hr. 2 min.",
+    "duration_minutes": 122,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Supernatural Being",
+        "id": "10467"
+      },
+      {
+        "name": "Spirit",
+        "id": "1551"
+      },
+      {
+        "name": "Mockumentary",
+        "id": "488"
+      },
+      {
+        "name": "Ghost",
+        "id": "130"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/pdVPKr_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pdVPKr_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pdVPKr_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pdVPKr_4f.jpg",
+        "title": "Yurei Hodo 2 (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Yurei Hodo",
+        "slug": "771367-yurei-hodo",
+        "url": "https://mydramalist.com/771367-yurei-hodo",
+        "relation": "Japanese prequel"
+      },
+      {
+        "title": "Yurei Hodo 3",
+        "slug": "771371-yurei-hodo-3",
+        "url": "https://mydramalist.com/771371-yurei-hodo-3",
+        "relation": "Japanese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Unno Yoji",
+          "slug": "people/138363-unno-yoji",
+          "url": "https://mydramalist.com/people/138363-unno-yoji",
+          "image_url": "https://i.mydramalist.com/QJY6k2_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJY6k2_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T15:25:26.826Z"
+  },
+  {
+    "id": 755507,
+    "slug": "755507-pure-life",
+    "url": "https://mydramalist.com/755507-pure-life",
+    "title": "Pure Life",
+    "complete_title": "Pure Life (2022)",
+    "native_title": "순수한 라이프",
+    "sub_title": "순수한 라이프 ‧ TV Program ‧ 2022",
+    "also_known_as": [
+      "Sunsuhan Raipeu"
+    ],
+    "type": "TV Program",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": 2,
+    "aired_string": "Jun 28, 2022 - Jul 5, 2022",
+    "aired_start": "2022-06-28",
+    "aired_end": "2022-07-05",
+    "aired_on": [],
+    "original_network": "MBC every1",
+    "duration_string": "30 min.",
+    "duration_minutes": 30,
+    "content_rating": "15+ - Teens 15 or older",
+    "rating": 33,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 33,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Yoga",
+        "id": "1584"
+      },
+      {
+        "name": "Healing",
+        "id": "1241"
+      },
+      {
+        "name": "Cooking Show",
+        "id": "380"
+      },
+      {
+        "name": "Variety Show",
+        "id": "184"
+      }
+    ],
+    "synopsis": "Four female South Korean celebrities – the comediennes Kim Ji Min and Hong Yoon Hwa, the actress Hwang Bo Ra, and the model and TV personality Song Hae Na – embark on a journey like no other! They hope to escape the buzz and noise of busy, everyday life and engage in some shared healing. They set off on adventures that will each last for one night and two days, traveling around South Korea in search of places where they can recharge their batteries. (Source: Viki) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/60geBP_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/60geBP_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/60geBP_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/60geBP_4f.jpg",
+        "title": "Pure Life (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Kim Ji Min",
+          "slug": "people/9973-kim-ji-min",
+          "url": "https://mydramalist.com/people/9973-kim-ji-min",
+          "image_url": "https://i.mydramalist.com/rNe5rg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rNe5rg_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Hwang Bo Ra",
+          "slug": "people/2577-hwang-bo-ra",
+          "url": "https://mydramalist.com/people/2577-hwang-bo-ra",
+          "image_url": "https://i.mydramalist.com/2z6BP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2z6BP_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Song Hae Na",
+          "slug": "people/10488-song-hae-na",
+          "url": "https://mydramalist.com/people/10488-song-hae-na",
+          "image_url": "https://i.mydramalist.com/x4vw53_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4vw53_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Hong Yoon Hwa",
+          "slug": "people/3535-hong-yoon-hwa",
+          "url": "https://mydramalist.com/people/3535-hong-yoon-hwa",
+          "image_url": "https://i.mydramalist.com/E578WW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E578WW_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Pure Life Episode 1",
+        "url": "https://mydramalist.com/755507-pure-life/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/60geBP_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/60geBP_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Pure Life Episode 2",
+        "url": "https://mydramalist.com/755507-pure-life/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/60geBP_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/60geBP_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T15:25:32.599Z"
+  },
+  {
+    "id": 732067,
+    "slug": "732067-yeolhwaokmun",
+    "url": "https://mydramalist.com/732067-yeolhwaokmun",
+    "title": "Yeolhwaokmun",
+    "complete_title": "Yeolhwaokmun (2022)",
+    "native_title": "열화옥문",
+    "sub_title": "열화옥문 ‧ Movie ‧ 2022",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2022,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 18 min.",
+    "duration_minutes": 78,
+    "content_rating": "Not Yet Rated",
+    "rating": 25,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 25,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Mature",
+        "id": "40"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Erotic",
+        "id": "789"
+      },
+      {
+        "name": "Nudity",
+        "id": "696"
+      },
+      {
+        "name": "Extreme Sexual Content",
+        "id": "428"
+      }
+    ],
+    "synopsis": "Dong Goo and Yeon Hee are losing their love and affection for each other because of their insensitivity to sex and sexual preference due to being married for a long time. Then one day, Dong Goo hears the story of sex master Wang Nan from his sex partner Yoo Gyeong and finds her for a different sex. After many twists and turns, the two, who found Wang Nan's disciple Min Yong, began training to receive the essence of sex from Wang Nan. However, Dong Goo began to rebel with doubts about the training of Wang Nan. However, Yeon Hee is so into Wang Nan. Will Dong Goo be able to protect Yeon Hee from them? (Source: HanCinema) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/WxmR3_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/WxmR3_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/WxmR3_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/WxmR3_4f.jpg",
+        "title": "Yeolhwaokmun (2022) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Lee Chae Dam",
+          "slug": "people/13120-lee-chae-dam",
+          "url": "https://mydramalist.com/people/13120-lee-chae-dam",
+          "image_url": "https://i.mydramalist.com/RB3nlz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RB3nlz_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Kang Min Woo",
+          "slug": "people/15064-kang-min-woo",
+          "url": "https://mydramalist.com/people/15064-kang-min-woo",
+          "image_url": "https://i.mydramalist.com/r83qN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r83qN_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Lee Soo",
+          "slug": "people/102135-lee-soo",
+          "url": "https://mydramalist.com/people/102135-lee-soo",
+          "image_url": "https://i.mydramalist.com/4P7YK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4P7YK_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "James",
+          "slug": "people/15875-james",
+          "url": "https://mydramalist.com/people/15875-james",
+          "image_url": "https://i.mydramalist.com/pZrXD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pZrXD_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Lim Ji Yeong",
+          "slug": "people/90935-lim-ji-yeong",
+          "url": "https://mydramalist.com/people/90935-lim-ji-yeong",
+          "image_url": "https://i.mydramalist.com/W4Eyl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W4Eyl_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T15:25:39.075Z"
   }
 ]
