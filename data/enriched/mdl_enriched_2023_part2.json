@@ -50367,5 +50367,2668 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-18T09:54:02.338Z"
+  },
+  {
+    "id": 753337,
+    "slug": "753337-the-coldest-city",
+    "url": "https://mydramalist.com/753337-the-coldest-city",
+    "title": "The Coldest City",
+    "complete_title": "The Coldest City (2023)",
+    "native_title": "极寒之城",
+    "sub_title": "极寒之城 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Hong Chen 1945 , Ji Han Zhi Cheng , Red Dust 1945 , 極寒之城 , 紅·塵 , 紅塵1945 , 红·尘 , 红尘1945"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "2 hr. 0 min.",
+    "duration_minutes": 120,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.322,
+    "scored_by": 7,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 22,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Underworld",
+        "id": "5261"
+      },
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "1940s",
+        "id": "2670"
+      },
+      {
+        "name": "Second Sino-Japanese War",
+        "id": "2603"
+      },
+      {
+        "name": "Chinese Republican Era",
+        "id": "1293"
+      },
+      {
+        "name": "Crime",
+        "id": "21"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "Set during the background of the World War 2 Japanese surrender in 1945, the movie tells the tale of a lawless city where underworld crime runs rampant. (Source: Letterboxd) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/kAv2Kk_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/kAv2Kk_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/kAv2Kk_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/kAv2Kk_4f.jpg",
+        "title": "The Coldest City (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Xia Yu",
+          "slug": "people/12756-yu-xia",
+          "url": "https://mydramalist.com/people/12756-yu-xia",
+          "image_url": "https://i.mydramalist.com/Q76p5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Q76p5s.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Tan Kai",
+          "slug": "people/6490-tan-kevin",
+          "url": "https://mydramalist.com/people/6490-tan-kevin",
+          "image_url": "https://i.mydramalist.com/DkDjwr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/DkDjwr_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Chang Kuo Chu",
+          "slug": "people/10995-chang-kuo-chu",
+          "url": "https://mydramalist.com/people/10995-chang-kuo-chu",
+          "image_url": "https://i.mydramalist.com/ZbKv8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZbKv8_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Lee Li Chun",
+          "slug": "people/9391-lee-li-chun",
+          "url": "https://mydramalist.com/people/9391-lee-li-chun",
+          "image_url": "https://i.mydramalist.com/E5k1db_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5k1db_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Chin Shih Chieh",
+          "slug": "people/9358-chin-shih-chieh",
+          "url": "https://mydramalist.com/people/9358-chin-shih-chieh",
+          "image_url": "https://i.mydramalist.com/l0kwdv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0kwdv_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Yi Cong",
+          "slug": "people/18435-zhang-yi-cong",
+          "url": "https://mydramalist.com/people/18435-zhang-yi-cong",
+          "image_url": "https://i.mydramalist.com/26p3V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/26p3V_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Fan",
+          "slug": "people/25825-zhang-fan",
+          "url": "https://mydramalist.com/people/25825-zhang-fan",
+          "image_url": "https://i.mydramalist.com/81lx0d_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81lx0d_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jack Kao",
+          "slug": "people/15584-kao-jack",
+          "url": "https://mydramalist.com/people/15584-kao-jack",
+          "image_url": "https://i.mydramalist.com/BmZjls.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BmZjls.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Nina Wang",
+          "slug": "people/27947-nina-wang",
+          "url": "https://mydramalist.com/people/27947-nina-wang",
+          "image_url": "https://i.mydramalist.com/BAAY7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BAAY7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yang Hao Yu",
+          "slug": "people/6270-yang-hao-yu",
+          "url": "https://mydramalist.com/people/6270-yang-hao-yu",
+          "image_url": "https://i.mydramalist.com/VX8Pyy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VX8Pyy_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Luo Jing Min",
+          "slug": "people/68157-luo-jing-min",
+          "url": "https://mydramalist.com/people/68157-luo-jing-min",
+          "image_url": "https://i.mydramalist.com/5vYv10_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5vYv10_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Feng Jia Yi",
+          "slug": "people/14834-feng-jia-yi",
+          "url": "https://mydramalist.com/people/14834-feng-jia-yi",
+          "image_url": "https://i.mydramalist.com/VXLzmv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXLzmv_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Na Zhi Dong",
+          "slug": "people/18368-na-zhi-dong",
+          "url": "https://mydramalist.com/people/18368-na-zhi-dong",
+          "image_url": "https://i.mydramalist.com/NdVQdE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdVQdE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xiao Me Ge",
+          "slug": "people/50415-xiaomege",
+          "url": "https://mydramalist.com/people/50415-xiaomege",
+          "image_url": "https://i.mydramalist.com/BDLbA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BDLbA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jiao Gang",
+          "slug": "people/35315-jiao-gang",
+          "url": "https://mydramalist.com/people/35315-jiao-gang",
+          "image_url": "https://i.mydramalist.com/x4P0Xz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4P0Xz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Bai Hong Biao",
+          "slug": "people/114095-bai-hong-biao",
+          "url": "https://mydramalist.com/people/114095-bai-hong-biao",
+          "image_url": "https://i.mydramalist.com/28O72_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/28O72_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hu Ming",
+          "slug": "people/67687-hu-ming",
+          "url": "https://mydramalist.com/people/67687-hu-ming",
+          "image_url": "https://i.mydramalist.com/W6Kpl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W6Kpl_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Bo",
+          "slug": "people/20107-li-bo",
+          "url": "https://mydramalist.com/people/20107-li-bo",
+          "image_url": "https://i.mydramalist.com/PxqZ3X_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxqZ3X_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gao Zi Feng",
+          "slug": "people/22295-gao-zi-feng",
+          "url": "https://mydramalist.com/people/22295-gao-zi-feng",
+          "image_url": "https://i.mydramalist.com/AvbKvs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/AvbKvs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Qian Da Wei",
+          "slug": "people/127555-qian-da-wei",
+          "url": "https://mydramalist.com/people/127555-qian-da-wei",
+          "image_url": "https://i.mydramalist.com/x4QxwE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4QxwE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Yi Long",
+          "slug": "people/42045-zhang-yi-long",
+          "url": "https://mydramalist.com/people/42045-zhang-yi-long",
+          "image_url": "https://i.mydramalist.com/RBPleg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RBPleg_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "An Dong",
+          "slug": "people/69811-an-dong",
+          "url": "https://mydramalist.com/people/69811-an-dong",
+          "image_url": "https://i.mydramalist.com/wodEN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wodEN_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jiang Yi Ru",
+          "slug": "people/54925-jiang-yi-ru",
+          "url": "https://mydramalist.com/people/54925-jiang-yi-ru",
+          "image_url": "https://i.mydramalist.com/pd21Bn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pd21Bn_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Jia Wen",
+          "slug": "people/23208-li-jia-wen",
+          "url": "https://mydramalist.com/people/23208-li-jia-wen",
+          "image_url": "https://i.mydramalist.com/XeNpds.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XeNpds.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Shu Yun",
+          "slug": "people/99495-wang-shu-yun",
+          "url": "https://mydramalist.com/people/99495-wang-shu-yun",
+          "image_url": "https://i.mydramalist.com/0wmnlK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wmnlK_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liu Xi Yuan",
+          "slug": "people/91053-liu-xi-yuan",
+          "url": "https://mydramalist.com/people/91053-liu-xi-yuan",
+          "image_url": "https://i.mydramalist.com/1wmyjK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wmyjK_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Bai Yao",
+          "slug": "people/67071-bai-yao",
+          "url": "https://mydramalist.com/people/67071-bai-yao",
+          "image_url": "https://i.mydramalist.com/Knbbn4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Knbbn4_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yan Wei Er",
+          "slug": "people/55981-yan-wei-er",
+          "url": "https://mydramalist.com/people/55981-yan-wei-er",
+          "image_url": "https://i.mydramalist.com/qPYr2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qPYr2_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:54:09.528Z"
+  },
+  {
+    "id": 768907,
+    "slug": "768907-gift",
+    "url": "https://mydramalist.com/768907-gift",
+    "title": "Gift",
+    "complete_title": "Gift (2023)",
+    "native_title": "劫日礼物",
+    "sub_title": "劫日礼物 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Jie Ri Li Wu , 劫日禮物"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "22 min.",
+    "duration_minutes": 22,
+    "content_rating": "Not Yet Rated",
+    "rating": 9,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 9,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "Two desperate men, Brother Shui and Jin Zi, are going to rob a gold store. Twenty minutes is their best time to start. The waiting process was long. They talked about the future after the robbery was successful. Jin Zi had no idea, but Brother Shui had a beautiful idea and wanted to take his dream lover to the Maldives. Jin Zi asked what that place was like. A leaflet with beautiful beach scenery posted on the windshield inspired Brother Shui. He followed the leaflet and gradually pieced together his own \"Utopia\" in his mind. The beautiful thoughts were also passed on to Jin Zi beside him. And it was the guidance of this beautiful idea that finally turned them into good people who were about to go astray. The leaflet was the best gift for them in their \"catastrophe\". (Source: Chinese = Douban || Translation = MyDramaList) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/jQ44nw_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jQ44nw_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jQ44nw_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jQ44nw_4f.jpg",
+        "title": "Gift (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Bai Ke",
+          "slug": "people/7611-luo-hong-ming",
+          "url": "https://mydramalist.com/people/7611-luo-hong-ming",
+          "image_url": "https://i.mydramalist.com/1wm50Q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wm50Q_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Ben Yu",
+          "slug": "people/34245-zhang-ben-yu",
+          "url": "https://mydramalist.com/people/34245-zhang-ben-yu",
+          "image_url": "https://i.mydramalist.com/VXAm0Q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXAm0Q_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Zheng He Hui Zi",
+          "slug": "people/13726-zheng-he-hui-zi",
+          "url": "https://mydramalist.com/people/13726-zheng-he-hui-zi",
+          "image_url": "https://i.mydramalist.com/DkVAOr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/DkVAOr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sun Zheng Yu",
+          "slug": "people/80601-sun-zheng-yu",
+          "url": "https://mydramalist.com/people/80601-sun-zheng-yu",
+          "image_url": "https://i.mydramalist.com/yW1z63_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yW1z63_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Zhan Yi",
+          "slug": "people/111635-zhang-zhan-yi",
+          "url": "https://mydramalist.com/people/111635-zhang-zhan-yi",
+          "image_url": "https://i.mydramalist.com/kQ4wO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kQ4wO_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:54:14.858Z"
+  },
+  {
+    "id": 776447,
+    "slug": "776447-great-love-dunhuang",
+    "url": "https://mydramalist.com/776447-great-love-dunhuang",
+    "title": "Great Love Dunhuang",
+    "complete_title": "Great Love Dunhuang (2023)",
+    "native_title": "吾爱敦煌",
+    "sub_title": "吾爱敦煌 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Wu Ai Dun Huang , 吾愛敦煌"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 41 min.",
+    "duration_minutes": 101,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [],
+    "synopsis": "A documentaristic movie about the life of Fan Jinshi, an archaeologist who dedicated her life to the preservation of the Dunhuang's \"Mogao Grottoes\". (Source: MyDramaList) ~~ Release dates: Jun 10, 2023 (Festival) || Nov 17, 2023 (Cinema) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/QJBq1Q_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/QJBq1Q_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/QJBq1Q_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/QJBq1Q_4f.jpg",
+        "title": "Great Love Dunhuang (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:54:20.846Z"
+  },
+  {
+    "id": 777387,
+    "slug": "777387-within",
+    "url": "https://mydramalist.com/777387-within",
+    "title": "Within",
+    "complete_title": "Within (2023)",
+    "native_title": "夹缝之间",
+    "sub_title": "夹缝之间 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Jia Feng Zhi Jian , Jiu Yue Yi Ri , On September 1st , 九月一日 , 夾縫之間"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 35 min.",
+    "duration_minutes": 95,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "Single mother Li Qing Cao works away from home while raising her daughter on her own. Without a permanent residence or household registration, she is desperate to find an elementary school willing to enroll her child. At the same time, a long-buried human skeleton is discovered hidden within the walls of an abandoned elementary school. While investigating the case, county criminal police captain Han Yan uncovers a connection to five teenagers from many years earlier. As the investigation progresses, it becomes clear that each of them carries a hidden secret—a crack in their heart that has never fully healed. (Source: Chinese = Tencent Video || Translation = MyDramaList) ~~ Release dates: Jun 10, 2023 (Festival) || Nov 8, 2024 (Cinema) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/eYmlRE_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/eYmlRE_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/eYmlRE_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/eYmlRE_4f.jpg",
+        "title": "Within (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Tao Xin Ran",
+          "slug": "people/7484-tao-xin-ran",
+          "url": "https://mydramalist.com/people/7484-tao-xin-ran",
+          "image_url": "https://i.mydramalist.com/nKO4NN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nKO4NN_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Ray Zhao",
+          "slug": "people/37263-ray-zhao",
+          "url": "https://mydramalist.com/people/37263-ray-zhao",
+          "image_url": "https://i.mydramalist.com/Qpj6Ys.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Qpj6Ys.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wang Yi Wen",
+          "slug": "people/139993-wang-yi-wen",
+          "url": "https://mydramalist.com/people/139993-wang-yi-wen",
+          "image_url": "https://i.mydramalist.com/qYxKKD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYxKKD_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Tao Xin Ran",
+          "slug": "people/7484-tao-xin-ran",
+          "url": "https://mydramalist.com/people/7484-tao-xin-ran",
+          "image_url": "https://i.mydramalist.com/nKO4NN_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nKO4NN_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:54:26.292Z"
+  },
+  {
+    "id": 750089,
+    "slug": "750089-lost-memories",
+    "url": "https://mydramalist.com/750089-lost-memories",
+    "title": "Lost Memories",
+    "complete_title": "Lost Memories (2023)",
+    "native_title": "煞面迷影",
+    "sub_title": "煞面迷影 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Sha Mian Mi Ying"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Z88pbJ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Z88pbJ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Z88pbJ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Z88pbJ_4f.jpg",
+        "title": "Lost Memories (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:54:32.400Z"
+  },
+  {
+    "id": 727227,
+    "slug": "727227-the-gathering-of-girls",
+    "url": "https://mydramalist.com/727227-the-gathering-of-girls",
+    "title": "The Gathering of Girls",
+    "complete_title": "The Gathering of Girls (2023)",
+    "native_title": "女孩们的聚会",
+    "sub_title": "女孩们的聚会 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Nv Hai Men De Ju Hui , 女孩們的聚會"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "30 min.",
+    "duration_minutes": 30,
+    "content_rating": "Not Yet Rated",
+    "rating": 43,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 43,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Youth",
+        "id": "24"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Ill Female Lead",
+        "id": "25039"
+      },
+      {
+        "name": "Ill Male Lead",
+        "id": "25037"
+      },
+      {
+        "name": "Student Film",
+        "id": "7159"
+      },
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "Illness",
+        "id": "624"
+      },
+      {
+        "name": "Family Pressure",
+        "id": "585"
+      },
+      {
+        "name": "Sismance",
+        "id": "366"
+      },
+      {
+        "name": "Based On A True Story",
+        "id": "113"
+      },
+      {
+        "name": "Friendship",
+        "id": "6"
+      }
+    ],
+    "synopsis": "Liang Yi, a lost female college student, receives an invitation from an old classmate to go to a southern city to choose a wedding dress for her. Girls gather in the bridal shop, and they talk about a lot of things at the party. Liang Yi ultimately decides not to attend the wedding and goes to visit an old friend in another city, but a shocking discovery changes everything she thought she knew... (Source: Chinese = Weibo || Translation = MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/RxQQg_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RxQQg_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RxQQg_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RxQQg_4f.jpg",
+        "title": "The Gathering of Girls (2023) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/4PDkk_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/4PDkk_3f.jpg",
+        "title": "The Gathering of Girls Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/eXo38_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/eXo38_3f.jpg",
+        "title": "The Gathering of Girls Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/kBWOv_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/kBWOv_3f.jpg",
+        "title": "The Gathering of Girls Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/RmJZo_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/RmJZo_3f.jpg",
+        "title": "The Gathering of Girls Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/dlV7D_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/dlV7D_4f.jpg",
+        "title": "The Gathering of Girls Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zhao Jia Min",
+          "slug": "people/60795-zhao-jia-min",
+          "url": "https://mydramalist.com/people/60795-zhao-jia-min",
+          "image_url": "https://i.mydramalist.com/l0kxBE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0kxBE_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Cheng Hong Xin",
+          "slug": "people/92161-cheng-hong-xin",
+          "url": "https://mydramalist.com/people/92161-cheng-hong-xin",
+          "image_url": "https://i.mydramalist.com/VXm1Qv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXm1Qv_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Pu Shi Yun",
+          "slug": "people/55051-pu-shi-yun",
+          "url": "https://mydramalist.com/people/55051-pu-shi-yun",
+          "image_url": "https://i.mydramalist.com/60Ep2g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/60Ep2g_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shu Yi Senseng",
+          "slug": "people/101415-shu-yi-senseng",
+          "url": "https://mydramalist.com/people/101415-shu-yi-senseng",
+          "image_url": "https://i.mydramalist.com/xowmy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xowmy_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Li Zhen",
+          "slug": "people/97725-li-zhen",
+          "url": "https://mydramalist.com/people/97725-li-zhen",
+          "image_url": "https://i.mydramalist.com/jd07y_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jd07y_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:54:38.385Z"
+  },
+  {
+    "id": 753657,
+    "slug": "753657-travel-to-the-east",
+    "url": "https://mydramalist.com/753657-travel-to-the-east",
+    "title": "Travel to the East",
+    "complete_title": "Travel to the East (2023)",
+    "native_title": "东游之八仙伏魔",
+    "sub_title": "东游之八仙伏魔 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Dong You Zhi Ba Xian Fu Mo , Journey to the East: Eight Immortals and Demons , 東游之八仙伏魔"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 26 min.",
+    "duration_minutes": 86,
+    "content_rating": "Not Yet Rated",
+    "rating": 22,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 22,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Bd76A5_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Bd76A5_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Bd76A5_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Bd76A5_4f.jpg",
+        "title": "Travel to the East (2023) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/0w42oe_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/0w42oe_3f.jpg",
+        "title": "Travel to the East Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Ma Jing Tao",
+          "slug": "people/18727-ma-jing-tao",
+          "url": "https://mydramalist.com/people/18727-ma-jing-tao",
+          "image_url": "https://i.mydramalist.com/7gNjLs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/7gNjLs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Vicki Dong",
+          "slug": "people/28347-dong-wei-jia",
+          "url": "https://mydramalist.com/people/28347-dong-wei-jia",
+          "image_url": "https://i.mydramalist.com/R33Zzs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R33Zzs.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Gong Han Lin",
+          "slug": "people/48077-gong-han-lin",
+          "url": "https://mydramalist.com/people/48077-gong-han-lin",
+          "image_url": "https://i.mydramalist.com/X7w2O_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X7w2O_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liang Yuan",
+          "slug": "people/16816-liang-yuan",
+          "url": "https://mydramalist.com/people/16816-liang-yuan",
+          "image_url": "https://i.mydramalist.com/vZLVW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vZLVW_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cui Zhi Gang",
+          "slug": "people/40907-cui-zhi-gang",
+          "url": "https://mydramalist.com/people/40907-cui-zhi-gang",
+          "image_url": "https://i.mydramalist.com/yWvDjk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWvDjk_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "He Qi Wei",
+          "slug": "people/36799-he-qi-wei",
+          "url": "https://mydramalist.com/people/36799-he-qi-wei",
+          "image_url": "https://i.mydramalist.com/Wr2QPs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Wr2QPs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:54:44.235Z"
+  },
+  {
+    "id": 793840,
+    "slug": "793840-what-you-can-t-see",
+    "url": "https://mydramalist.com/793840-what-you-can-t-see",
+    "title": "What You Can't See",
+    "complete_title": "What You Can't See (2023)",
+    "native_title": "海底世界",
+    "sub_title": "海底世界 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Hai Di Shi Jie"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "29 min.",
+    "duration_minutes": 29,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Crime",
+        "id": "21"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/nO6Ad8_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/nO6Ad8_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/nO6Ad8_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/nO6Ad8_4f.jpg",
+        "title": "What You Can't See (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Aniya Leung",
+          "slug": "people/155046-aniya-leung",
+          "url": "https://mydramalist.com/people/155046-aniya-leung",
+          "image_url": "https://i.mydramalist.com/g0rJgn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0rJgn_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:54:50.104Z"
+  },
+  {
+    "id": 753183,
+    "slug": "753183-shi-wan-ba-qian-li-season-2",
+    "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2",
+    "title": "Shi Wan Ba Qian Li Season 2",
+    "complete_title": "Shi Wan Ba Qian Li Season 2 (2023)",
+    "native_title": "食万八千里 第二季",
+    "sub_title": "食万八千里 第二季 ‧ TV Program ‧ 2023",
+    "also_known_as": [
+      "Shi Wan Ba Qian Li 2 , Shi Wan Ba Qian Li Di Er Ji , “食”万八千里 2 , 食万八千里 第2季 , 食万八千里2 , 食萬八千裡2"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": 12,
+    "aired_string": "Jun 3, 2023 - Aug 19, 2023",
+    "aired_start": "2023-06-03",
+    "aired_end": "2023-08-19",
+    "aired_on": [
+      "Saturday"
+    ],
+    "original_network": "ZJTV",
+    "duration_string": "1 hr. 15 min.",
+    "duration_minutes": 75,
+    "content_rating": "Not Yet Rated",
+    "rating": 8.19,
+    "scored_by": 3,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 9,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Food",
+        "id": "2"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "INTO1",
+        "id": "15967"
+      },
+      {
+        "name": "Variety Show",
+        "id": "184"
+      },
+      {
+        "name": "Outdoor Variety Show",
+        "id": "98"
+      },
+      {
+        "name": "Reality Show",
+        "id": "89"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/RBYNKY_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RBYNKY_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "title": "Shi Wan Ba Qian Li Season 2 (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Shi Wan Ba Qian Li",
+        "slug": "734903-shi-wan-ba-qian-li",
+        "url": "https://mydramalist.com/734903-shi-wan-ba-qian-li",
+        "relation": "Chinese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Tang Jiu Zhou",
+          "slug": "people/45713-tang-jiu-zhou",
+          "url": "https://mydramalist.com/people/45713-tang-jiu-zhou",
+          "image_url": "https://i.mydramalist.com/O8QARx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8QARx_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Chen Huan",
+          "slug": "people/107569-chen-huan",
+          "url": "https://mydramalist.com/people/107569-chen-huan",
+          "image_url": "https://i.mydramalist.com/Q6PB6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Q6PB6_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Philip Lau",
+          "slug": "people/2467-wu-yi",
+          "url": "https://mydramalist.com/people/2467-wu-yi",
+          "image_url": "https://i.mydramalist.com/NdKYJA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdKYJA_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Bo Yuan",
+          "slug": "people/61005-bo-yuan",
+          "url": "https://mydramalist.com/people/61005-bo-yuan",
+          "image_url": "https://i.mydramalist.com/DkApAo_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/DkApAo_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Wu Jia Cheng",
+          "slug": "people/13352-wu-jia-cheng",
+          "url": "https://mydramalist.com/people/13352-wu-jia-cheng",
+          "image_url": "https://i.mydramalist.com/73P2pj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73P2pj_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Sheng Yi Lun",
+          "slug": "people/11021-sheng-peter",
+          "url": "https://mydramalist.com/people/11021-sheng-peter",
+          "image_url": "https://i.mydramalist.com/Lw425g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lw425g_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Meng He Tang",
+          "slug": "people/73107-meng-he-tang",
+          "url": "https://mydramalist.com/people/73107-meng-he-tang",
+          "image_url": "https://i.mydramalist.com/WDo8l_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WDo8l_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Vision Wei",
+          "slug": "people/1830-wei-chen",
+          "url": "https://mydramalist.com/people/1830-wei-chen",
+          "image_url": "https://i.mydramalist.com/l0mlJN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0mlJN_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Tony Leung",
+          "slug": "people/1390-leung-tony",
+          "url": "https://mydramalist.com/people/1390-leung-tony",
+          "image_url": "https://i.mydramalist.com/yWpBnd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWpBnd_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Marco Lin",
+          "slug": "people/41599-marco-lin",
+          "url": "https://mydramalist.com/people/41599-marco-lin",
+          "image_url": "https://i.mydramalist.com/5vLpxe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5vLpxe_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Hu Yi Xuan",
+          "slug": "people/18852-hu-yi-xuan",
+          "url": "https://mydramalist.com/people/18852-hu-yi-xuan",
+          "image_url": "https://i.mydramalist.com/LwbXoL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/LwbXoL_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 1",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/1",
+        "air_date": "2023-06-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 2",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/2",
+        "air_date": "2023-06-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 3",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/3",
+        "air_date": "2023-06-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 4",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/4",
+        "air_date": "2023-06-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 5",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/5",
+        "air_date": "2023-07-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 6",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/6",
+        "air_date": "2023-07-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 7",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/7",
+        "air_date": "2023-07-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 8",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/8",
+        "air_date": "2023-07-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 9",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/9",
+        "air_date": "2023-07-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 10",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/10",
+        "air_date": "2023-08-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 11",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/11",
+        "air_date": "2023-08-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Shi Wan Ba Qian Li Season 2 Episode 12",
+        "url": "https://mydramalist.com/753183-shi-wan-ba-qian-li-season-2/episode/12",
+        "air_date": "2023-08-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RBYNKY_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RBYNKY_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-18T09:54:55.696Z"
+  },
+  {
+    "id": 753371,
+    "slug": "753371-hui-hun-zhi-ye",
+    "url": "https://mydramalist.com/753371-hui-hun-zhi-ye",
+    "title": "A Night of Soul Turning",
+    "complete_title": "A Night of Soul Turning (2023)",
+    "native_title": "回魂之夜",
+    "sub_title": "回魂之夜 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Hui Hun Zhi Ye"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 18 min.",
+    "duration_minutes": 78,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.424,
+    "scored_by": 7,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 24,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      }
+    ],
+    "synopsis": "The story is about the male protagonist, Du An, who was living in poverty. Not only was he unemployed, but he also experienced a car accident where he accidentally hit a pedestrian and lost consciousness. In his dream, guided by an old security guard, Du An understood that one should not always avoid responsibilities and should not harbor evil intentions due to temporary setbacks. Doing so would only lead to endless pain and misery. (Source: Youku) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/WPdkXm_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/WPdkXm_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/WPdkXm_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/WPdkXm_4f.jpg",
+        "title": "A Night of Soul Turning (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Wang Zi Yi",
+          "slug": "people/15007-wang-zi-yi",
+          "url": "https://mydramalist.com/people/15007-wang-zi-yi",
+          "image_url": "https://i.mydramalist.com/jQQ5Jb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQQ5Jb_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wang Jin Song",
+          "slug": "people/48225-qi-ke",
+          "url": "https://mydramalist.com/people/48225-qi-ke",
+          "image_url": "https://i.mydramalist.com/lB0AK6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/lB0AK6_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liu Yuan Yuan",
+          "slug": "people/87441-liu-yuan-yuan",
+          "url": "https://mydramalist.com/people/87441-liu-yuan-yuan",
+          "image_url": "https://i.mydramalist.com/PxvZo8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxvZo8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Qin Qin",
+          "slug": "people/5937-li-qin-qin",
+          "url": "https://mydramalist.com/people/5937-li-qin-qin",
+          "image_url": "https://i.mydramalist.com/4ewRwK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4ewRwK_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lily Zhao",
+          "slug": "people/54975-lily-zhao",
+          "url": "https://mydramalist.com/people/54975-lily-zhao",
+          "image_url": "https://i.mydramalist.com/kAvDNO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kAvDNO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liu Wei Xi",
+          "slug": "people/58927-ella-liu",
+          "url": "https://mydramalist.com/people/58927-ella-liu",
+          "image_url": "https://i.mydramalist.com/JB00rp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB00rp_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Xiang Qiu Liang",
+          "slug": "people/78037-xiang-qiu-liang",
+          "url": "https://mydramalist.com/people/78037-xiang-qiu-liang",
+          "image_url": "https://i.mydramalist.com/6ABEO_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6ABEO_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Xiang He Sheng",
+          "slug": "people/80147-xiang-he-sheng",
+          "url": "https://mydramalist.com/people/80147-xiang-he-sheng",
+          "image_url": "https://i.mydramalist.com/W6Ar5_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W6Ar5_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:55:02.579Z"
+  },
+  {
+    "id": 752881,
+    "slug": "752881-doudou",
+    "url": "https://mydramalist.com/752881-doudou",
+    "title": "Doudou",
+    "complete_title": "Doudou (2023)",
+    "native_title": "神兜兜和奶爸",
+    "sub_title": "神兜兜和奶爸 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Shen Dou Dou He Nai Ba , Shen Tou Tou Ho Nai Pa"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 43 min.",
+    "duration_minutes": 103,
+    "content_rating": "Not Yet Rated",
+    "rating": 12,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 12,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Traveling",
+        "id": "1053"
+      },
+      {
+        "name": "Father-Daughter Relationship",
+        "id": "849"
+      }
+    ],
+    "synopsis": "In April 2020, Doudou Children's Clothing store was forced to close down. Tou Hao Bei, who wanted to go back to his hometown for a break, saw that his daughter Dou Dou wanted to go to kindergarten, but the kindergarten was temporarily closed, so he chose to take his four-year-old daughter Dou Dou on a cycling trip to Lhasa. The beautiful scenery and warm father-daughter bonding gained attention, attracted controversy and questions, but also received more and more people's appreciation and help. This difficult but romantic ride became a journey of growth for the child and a journey of self-redemption for the father. It took them 71 days to travel 4,139 kilometres to reach Lhasa. (Source: Chinese = Douban || Translation = MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/2wQB0W_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2wQB0W_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2wQB0W_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2wQB0W_4f.jpg",
+        "title": "Doudou (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Jiang Ping",
+          "slug": "people/31653-jiang-ping",
+          "url": "https://mydramalist.com/people/31653-jiang-ping",
+          "image_url": "https://i.mydramalist.com/qYYXrD_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYYXrD_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:55:08.587Z"
+  },
+  {
+    "id": 755933,
+    "slug": "755933-ying-yang-kua-jie-ren",
+    "url": "https://mydramalist.com/755933-ying-yang-kua-jie-ren",
+    "title": "Yin-Yang Cross-Border Person",
+    "complete_title": "Yin-Yang Cross-Border Person (2023)",
+    "native_title": "阴阳跨界人",
+    "sub_title": "阴阳跨界人 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "The Yin Yang Crossover Man , Ying Yang Kua Jie Ren , 陰陽跨界人"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 21 min.",
+    "duration_minutes": 81,
+    "content_rating": "Not Yet Rated",
+    "rating": 5.927,
+    "scored_by": 9,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 27,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Disappearance",
+        "id": "1427"
+      },
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Kidnapping",
+        "id": "432"
+      },
+      {
+        "name": "Violence",
+        "id": "336"
+      },
+      {
+        "name": "Murder",
+        "id": "270"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "Yan Huang, a body retriever, and his master Jiang encounter a mysterious case in Tianshui Village. With Lin Yao's help, Yan Huang meticulously unravel the threads and search for the truth. In the end, they succeed in apprehending the culprit who, twenty years ago, committed a crime for personal gain and concealed the truth behind superstitious beliefs. (Source: iQiyi) English Русский हिन्दी Español",
+    "poster_url": "https://i.mydramalist.com/jQ0ZwB_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jQ0ZwB_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jQ0ZwB_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jQ0ZwB_4f.jpg",
+        "title": "Yin-Yang Cross-Border Person (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Wang Zhao",
+          "slug": "people/51725-wang-zhao",
+          "url": "https://mydramalist.com/people/51725-wang-zhao",
+          "image_url": "https://i.mydramalist.com/E4k4O_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E4k4O_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Shi Xuan Ru",
+          "slug": "people/23349-shi-xuan-ru",
+          "url": "https://mydramalist.com/people/23349-shi-xuan-ru",
+          "image_url": "https://i.mydramalist.com/ZJjpY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZJjpY_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Li Ming",
+          "slug": "people/56453-li-ming",
+          "url": "https://mydramalist.com/people/56453-li-ming",
+          "image_url": "https://i.mydramalist.com/l0zoy4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0zoy4_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:55:14.049Z"
+  },
+  {
+    "id": 757061,
+    "slug": "757061-the-general-yu-da-you",
+    "url": "https://mydramalist.com/757061-the-general-yu-da-you",
+    "title": "The General Yu Da You",
+    "complete_title": "The General Yu Da You (2023)",
+    "native_title": "大明奇将之荆楚剑义",
+    "sub_title": "大明奇将之荆楚剑义 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Da Ming Qi Jiang Zhi Jing Chu Jian Yi , 大明奇將之荊楚劍義"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 20 min.",
+    "duration_minutes": 80,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.842,
+    "scored_by": 10,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 42,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "General Male Lead",
+        "id": "19857"
+      },
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Ming Dynasty",
+        "id": "1175"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/pdkR1r_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pdkR1r_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pdkR1r_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pdkR1r_4f.jpg",
+        "title": "The General Yu Da You (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Han Dong",
+          "slug": "people/1599-han-dong",
+          "url": "https://mydramalist.com/people/1599-han-dong",
+          "image_url": "https://i.mydramalist.com/b3o6bN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b3o6bN_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Lu Xing Yu",
+          "slug": "people/14053-lu-xing-yu",
+          "url": "https://mydramalist.com/people/14053-lu-xing-yu",
+          "image_url": "https://i.mydramalist.com/5vYp40_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5vYp40_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Li Ming Xuan",
+          "slug": "people/46321-li-ming-xuan",
+          "url": "https://mydramalist.com/people/46321-li-ming-xuan",
+          "image_url": "https://i.mydramalist.com/W8mzm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W8mzm_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Cui Zhen Zhen",
+          "slug": "people/45333-cui-zhen-zhen",
+          "url": "https://mydramalist.com/people/45333-cui-zhen-zhen",
+          "image_url": "https://i.mydramalist.com/4RYN6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4RYN6_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhan Ni",
+          "slug": "people/65563-jenny",
+          "url": "https://mydramalist.com/people/65563-jenny",
+          "image_url": "https://i.mydramalist.com/0od77_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0od77_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:55:20.079Z"
+  },
+  {
+    "id": 758191,
+    "slug": "758191-marriage",
+    "url": "https://mydramalist.com/758191-marriage",
+    "title": "Marriage",
+    "complete_title": "Marriage (2023)",
+    "native_title": "婚事",
+    "sub_title": "婚事 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Hun Shi"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 28 min.",
+    "duration_minutes": 88,
+    "content_rating": "Not Yet Rated",
+    "rating": 12,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 12,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/wJmrOn_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/wJmrOn_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/wJmrOn_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/wJmrOn_4f.jpg",
+        "title": "Marriage (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Wang Zhi",
+          "slug": "people/6998-wang-zhi",
+          "url": "https://mydramalist.com/people/6998-wang-zhi",
+          "image_url": "https://i.mydramalist.com/BdBx0A_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BdBx0A_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Liu Qing",
+          "slug": "people/140163-liu-qing",
+          "url": "https://mydramalist.com/people/140163-liu-qing",
+          "image_url": "https://i.mydramalist.com/JB7Pnw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB7Pnw_5f.jpg",
+          "role_type": "Voice Actor"
+        },
+        {
+          "name": "Xu Jia Qi",
+          "slug": "people/136439-xu-jia-qi",
+          "url": "https://mydramalist.com/people/136439-xu-jia-qi",
+          "image_url": "https://i.mydramalist.com/g0pXvr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0pXvr_5f.jpg",
+          "role_type": "Voice Actor"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:55:26.808Z"
+  },
+  {
+    "id": 773813,
+    "slug": "773813-super-daddy",
+    "url": "https://mydramalist.com/773813-super-daddy",
+    "title": "Super Daddy",
+    "complete_title": "Super Daddy (2023)",
+    "native_title": "王牌替身",
+    "sub_title": "王牌替身 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Wang Pai Ti Shen , Wo Ba Shi Wang Zi , 我爸是王子"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 28 min.",
+    "duration_minutes": 88,
+    "content_rating": "Not Yet Rated",
+    "rating": 15,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 15,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/0wd0Lk_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/0wd0Lk_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/0wd0Lk_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/0wd0Lk_4f.jpg",
+        "title": "Super Daddy (2023) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/b38mle_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/b38mle_3f.jpg",
+        "title": "Super Daddy Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/ABOky8_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/ABOky8_3f.jpg",
+        "title": "Super Daddy Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/YYXmde_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/YYXmde_3f.jpg",
+        "title": "Super Daddy Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/nOyrwL_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/nOyrwL_3f.jpg",
+        "title": "Super Daddy Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/ABOkyL_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/ABOkyL_3f.jpg",
+        "title": "Super Daddy Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Wu Yue",
+          "slug": "people/16346-wu-yue",
+          "url": "https://mydramalist.com/people/16346-wu-yue",
+          "image_url": "https://i.mydramalist.com/XgrzJs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XgrzJs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Kimmy Tong",
+          "slug": "people/13915-tong-kimmy",
+          "url": "https://mydramalist.com/people/13915-tong-kimmy",
+          "image_url": "https://i.mydramalist.com/ZbqJ8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZbqJ8_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Sun Yue",
+          "slug": "people/73675-sun-yue",
+          "url": "https://mydramalist.com/people/73675-sun-yue",
+          "image_url": "https://i.mydramalist.com/rJqrZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rJqrZ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sammy Hung",
+          "slug": "people/66645-sammy-hung",
+          "url": "https://mydramalist.com/people/66645-sammy-hung",
+          "image_url": "https://i.mydramalist.com/jByNJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jByNJ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Dao Dao",
+          "slug": "people/93091-dao-dao",
+          "url": "https://mydramalist.com/people/93091-dao-dao",
+          "image_url": "https://i.mydramalist.com/AB6x73_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/AB6x73_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:55:32.363Z"
+  },
+  {
+    "id": 45311,
+    "slug": "45311-at-two-thirty-2",
+    "url": "https://mydramalist.com/45311-at-two-thirty-2",
+    "title": "Mid-Night Two",
+    "complete_title": "Mid-Night Two (2023)",
+    "native_title": "凌晨两点半2",
+    "sub_title": "凌晨两点半2 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "At Two Thirty 2 , Ling Chen Liang Dian Ban 2 , Mid-Night Two"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.322,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 22,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Horror",
+        "id": "14"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/kAvYWj_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/kAvYWj_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/kAvYWj_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/kAvYWj_4f.jpg",
+        "title": "Mid-Night Two (2023) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/xQJ7Es.jpg",
+        "hd_url": "https://i.mydramalist.com/xQJ7Es.jpg",
+        "title": "Mid-Night Two Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/xQJ7Em.jpg",
+        "hd_url": "https://i.mydramalist.com/xQJ7Em.jpg",
+        "title": "Mid-Night Two (2023)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Peng Jian Xiong",
+          "slug": "people/116931-peng-jian-xiong",
+          "url": "https://mydramalist.com/people/116931-peng-jian-xiong",
+          "image_url": "https://i.mydramalist.com/2wwD6w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wwD6w_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wang Zun",
+          "slug": "people/56017-wang-zun",
+          "url": "https://mydramalist.com/people/56017-wang-zun",
+          "image_url": "https://i.mydramalist.com/xp5my_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xp5my_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:55:37.909Z"
+  },
+  {
+    "id": 765991,
+    "slug": "765991-da-li-feng-yun-zhi-xue-hu-die",
+    "url": "https://mydramalist.com/765991-da-li-feng-yun-zhi-xue-hu-die",
+    "title": "Da Li Feng Yun Zhi Xue Hu Die",
+    "complete_title": "Da Li Feng Yun Zhi Xue Hu Die (2023)",
+    "native_title": "大理风云之血蝴蝶",
+    "sub_title": "大理风云之血蝴蝶 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Blood Butterfly: The Storm Over Dali , Legend of Da Li , 大理風雲之血蝴蝶"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 7 min.",
+    "duration_minutes": 67,
+    "content_rating": "Not Yet Rated",
+    "rating": 25,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 25,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Dali Kingdom",
+        "id": "31648"
+      },
+      {
+        "name": "Age Gap [Real Life]",
+        "id": "18159"
+      },
+      {
+        "name": "Emperor Male Lead",
+        "id": "17779"
+      },
+      {
+        "name": "Ethnic Minority",
+        "id": "12285"
+      },
+      {
+        "name": "Historical Figure",
+        "id": "8629"
+      },
+      {
+        "name": "Western Xia",
+        "id": "3983"
+      },
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Flirty Male Lead",
+        "id": "2785"
+      },
+      {
+        "name": "Unrequited Love",
+        "id": "156"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      }
+    ],
+    "synopsis": "When the Dali Kingdom faces threats from rival kingdoms, Emperor Duan He Yu embarks on a dangerous mission to recover a sacred treasure, accompanied by Wei Shu Yu, a courageous young woman who has captured his heart. Meanwhile, Princess Wen Wan Zhen, embittered by his rejection, marries the king of the Pagan Kingdom and conspires with Western Xia's Emperor Li Qian Shun to destroy Dali. (Source: kookiejamz at MyDramaList) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/d0V7me_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/d0V7me_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/d0V7me_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/d0V7me_4f.jpg",
+        "title": "Da Li Feng Yun Zhi Xue Hu Die (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [
+      {
+        "title": "The Demi-Gods and Semi-Devils",
+        "slug": "6355-the-demi-gods-and-semi-devils-1996",
+        "url": "https://mydramalist.com/6355-the-demi-gods-and-semi-devils-1996",
+        "poster_url": "https://i.mydramalist.com/9YB2Qt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/9YB2Qt.jpg",
+        "year": 1997,
+        "votes": 0
+      }
+    ],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Benny Chan",
+          "slug": "people/4917-chan-benny",
+          "url": "https://mydramalist.com/people/4917-chan-benny",
+          "image_url": "https://i.mydramalist.com/YALlnA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YALlnA_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Han",
+          "slug": "people/42543-zhang-han",
+          "url": "https://mydramalist.com/people/42543-zhang-han",
+          "image_url": "https://i.mydramalist.com/xYKers.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xYKers.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Ru Yi",
+          "slug": "people/90817-zhang-ru-yi",
+          "url": "https://mydramalist.com/people/90817-zhang-ru-yi",
+          "image_url": "https://i.mydramalist.com/kLZBk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kLZBk_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Jason Xu",
+          "slug": "people/13144-xu-feng",
+          "url": "https://mydramalist.com/people/13144-xu-feng",
+          "image_url": "https://i.mydramalist.com/wJ2pQb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJ2pQb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sun Xiao Min",
+          "slug": "people/23319-sun-xiao-min",
+          "url": "https://mydramalist.com/people/23319-sun-xiao-min",
+          "image_url": "https://i.mydramalist.com/vKekp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vKekp_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhao An Di",
+          "slug": "people/114465-zhao-an-di",
+          "url": "https://mydramalist.com/people/114465-zhao-an-di",
+          "image_url": "https://i.mydramalist.com/yWLprn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWLprn_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Wei An",
+          "slug": "people/71357-wang-wei-an",
+          "url": "https://mydramalist.com/people/71357-wang-wei-an",
+          "image_url": "https://i.mydramalist.com/qBAmQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qBAmQ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Liu Qing Song",
+          "slug": "people/69041-liu-qing-song",
+          "url": "https://mydramalist.com/people/69041-liu-qing-song",
+          "image_url": "https://i.mydramalist.com/kNzjO_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kNzjO_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:55:43.774Z"
+  },
+  {
+    "id": 753367,
+    "slug": "753367-walking-with-her-into-the-night",
+    "url": "https://mydramalist.com/753367-walking-with-her-into-the-night",
+    "title": "Walking with Her into the Night",
+    "complete_title": "Walking with Her into the Night (2023)",
+    "native_title": "一个散步的夜晚",
+    "sub_title": "一个散步的夜晚 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "A Night of Walking , Yi Ge San Bu De Ye Wan , 一個散步的夜晚"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "30 min.",
+    "duration_minutes": 30,
+    "content_rating": "Not Yet Rated",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XdA5RX_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XdA5RX_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XdA5RX_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XdA5RX_4f.jpg",
+        "title": "Walking with Her into the Night (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:55:50.732Z"
+  },
+  {
+    "id": 752753,
+    "slug": "752753-tong-xue-a-feng",
+    "url": "https://mydramalist.com/752753-tong-xue-a-feng",
+    "title": "Tong Xue A Feng",
+    "complete_title": "Tong Xue A Feng (2023)",
+    "native_title": "同学阿峰",
+    "sub_title": "同学阿峰 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Long Shao Nian , 同學阿峰 , 龍少年 , 龙少年"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 29 min.",
+    "duration_minutes": 89,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/wJjkA1_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/wJjkA1_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/wJjkA1_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/wJjkA1_4f.jpg",
+        "title": "Tong Xue A Feng (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:55:56.164Z"
+  },
+  {
+    "id": 753755,
+    "slug": "753755-three-days-and-two-nights",
+    "url": "https://mydramalist.com/753755-three-days-and-two-nights",
+    "title": "Three Days and Two Nights",
+    "complete_title": "Three Days and Two Nights (2023)",
+    "native_title": "云在江口",
+    "sub_title": "云在江口 ‧ Movie ‧ 2023",
+    "also_known_as": [
+      "Yun Zai Jiang Kou , 雲在江口"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2023,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 44 min.",
+    "duration_minutes": 104,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "~~ Two versions available: 101 min. || 104 min. (Release License) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/RBYqLo_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RBYqLo_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RBYqLo_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RBYqLo_4f.jpg",
+        "title": "Three Days and Two Nights (2023) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Long Li",
+          "slug": "people/120001-long-li",
+          "url": "https://mydramalist.com/people/120001-long-li",
+          "image_url": "https://i.mydramalist.com/E5kmO0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5kmO0_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Tan Qian Jun",
+          "slug": "people/119999-tan-qian-jun",
+          "url": "https://mydramalist.com/people/119999-tan-qian-jun",
+          "image_url": "https://i.mydramalist.com/2wQRV7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wQRV7_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Xie Cheng Ying",
+          "slug": "people/26547-xie-cheng-ying",
+          "url": "https://mydramalist.com/people/26547-xie-cheng-ying",
+          "image_url": "https://i.mydramalist.com/0nDrE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0nDrE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhu Yin",
+          "slug": "people/17692-zhu-yin",
+          "url": "https://mydramalist.com/people/17692-zhu-yin",
+          "image_url": "https://i.mydramalist.com/nORxB8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nORxB8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xue Jing Yi",
+          "slug": "people/120003-xue-jing-yi",
+          "url": "https://mydramalist.com/people/120003-xue-jing-yi",
+          "image_url": "https://i.mydramalist.com/Bd7QOA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bd7QOA_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Feng Shan",
+          "slug": "people/120005-feng-shan",
+          "url": "https://mydramalist.com/people/120005-feng-shan",
+          "image_url": "https://i.mydramalist.com/QJ23Ov_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJ23Ov_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Sun Qing",
+          "slug": "people/155124-sun-qing",
+          "url": "https://mydramalist.com/people/155124-sun-qing",
+          "image_url": "https://i.mydramalist.com/oQREov_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQREov_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-18T09:56:02.108Z"
   }
 ]
