@@ -16,25 +16,44 @@ const ROOT_DIR = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(ROOT_DIR, 'data');
 const SEARCH_DIR = path.join(DATA_DIR, 'search');
 const ENRICHED_DIR = path.join(DATA_DIR, 'enriched');
+const CHECKPOINTS_DIR = path.join(DATA_DIR, 'checkpoints');
 const CHECKPOINT_PATH = path.join(DATA_DIR, 'checkpoint.json');
 
 function ensureDirs() {
     if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
     if (!fs.existsSync(SEARCH_DIR)) fs.mkdirSync(SEARCH_DIR, { recursive: true });
     if (!fs.existsSync(ENRICHED_DIR)) fs.mkdirSync(ENRICHED_DIR, { recursive: true });
+    if (!fs.existsSync(CHECKPOINTS_DIR)) fs.mkdirSync(CHECKPOINTS_DIR, { recursive: true });
 }
 
 function loadCheckpoint() {
+    let cp = {};
     if (fs.existsSync(CHECKPOINT_PATH)) {
         try {
-            return JSON.parse(fs.readFileSync(CHECKPOINT_PATH, 'utf8'));
+            cp = JSON.parse(fs.readFileSync(CHECKPOINT_PATH, 'utf8'));
         } catch {}
     }
-    return {};
+    if (fs.existsSync(CHECKPOINTS_DIR)) {
+        try {
+            const cpFiles = fs.readdirSync(CHECKPOINTS_DIR).filter(f => /^checkpoint_\d{4}\.json$/.test(f));
+            for (const f of cpFiles) {
+                const yearData = JSON.parse(fs.readFileSync(path.join(CHECKPOINTS_DIR, f), 'utf8'));
+                Object.assign(cp, yearData);
+            }
+        } catch {}
+    }
+    return cp;
 }
 
-function saveCheckpoint(state) {
-    fs.writeFileSync(CHECKPOINT_PATH, JSON.stringify(state, null, 2), 'utf8');
+function saveCheckpoint(state, year) {
+    if (!fs.existsSync(CHECKPOINTS_DIR)) fs.mkdirSync(CHECKPOINTS_DIR, { recursive: true });
+    if (year && state && state[year]) {
+        const yearCpPath = path.join(CHECKPOINTS_DIR, `checkpoint_${year}.json`);
+        fs.writeFileSync(yearCpPath, JSON.stringify({ [year]: state[year] }, null, 2), 'utf8');
+    }
+    try {
+        fs.writeFileSync(CHECKPOINT_PATH, JSON.stringify(state, null, 2), 'utf8');
+    } catch {}
 }
 
 function loadSearchIndex(year) {
@@ -264,7 +283,7 @@ function syncToGit(year, enrichedCount, totalCount) {
             execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { stdio: 'ignore' });
             execSync('git add data/', { stdio: 'ignore' });
             execSync(`git commit -m "Auto-enrich: sync ${enrichedCount}/${totalCount} titles for ${year} [skip ci]"`, { stdio: 'ignore' });
-            execSync('git pull --rebase origin main', { stdio: 'ignore' });
+            execSync('git pull --rebase -X ours origin main', { stdio: 'ignore' });
             execSync('git push origin HEAD:main', { stdio: 'ignore' });
             console.log(`✅ Progress safely committed & pushed to GitHub!\n`);
         } catch {
@@ -416,7 +435,7 @@ async function main() {
     const onExit = () => {
         console.log('\n💾 Flushing enriched dossiers to disk before exit...');
         archive.flush();
-        saveCheckpoint(checkpoint);
+        saveCheckpoint(checkpoint, year);
         syncToGit(year, archive.totalCount, searchItems.length);
         console.log(`✅ Saved ${archive.totalCount} dossiers across ${archive.parts.length} partition(s)`);
     };
@@ -452,7 +471,7 @@ async function main() {
             // Periodically commit and push to GitHub every 20 completed titles!
             if (successful % 20 === 0) {
                 archive.flush();
-                saveCheckpoint(checkpoint);
+                saveCheckpoint(checkpoint, year);
                 syncToGit(year, archive.totalCount, searchItems.length);
             }
         }
@@ -468,14 +487,14 @@ async function main() {
             last_title: item.title,
             last_updated: new Date().toISOString()
         };
-        saveCheckpoint(checkpoint);
+        saveCheckpoint(checkpoint, year);
 
         await randomDelay(1200, 2000);
     }
 
     // Final flush and push
     archive.flush();
-    saveCheckpoint(checkpoint);
+    saveCheckpoint(checkpoint, year);
     syncToGit(year, archive.totalCount, searchItems.length);
 
     const remainingTitles = Math.max(0, searchItems.length - archive.totalCount);

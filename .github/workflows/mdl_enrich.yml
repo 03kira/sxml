@@ -23,6 +23,14 @@ on:
         description: 'Auto-restart workflow after 5 min cooldown if pending titles remain (true/false)'
         required: false
         default: 'true'
+      direction:
+        description: 'Cascade direction: desc (descending e.g. 2024->1990) or asc (ascending e.g. 1990->2026)'
+        required: false
+        default: 'desc'
+        type: choice
+        options:
+          - desc
+          - asc
 
 jobs:
   enrich:
@@ -68,7 +76,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
           git commit -m "Auto-enrich: sync MDL dossiers for ${{ github.event.inputs.year || '2024' }} [skip ci]" || echo "No changes to commit"
-          git pull --rebase origin main || true
+          git pull --rebase -X ours origin main || true
           git push origin HEAD:main || echo "Already up to date"
 
       - name: Auto-Continue or Advance to Next Year After 5-Minute Cooldown
@@ -77,15 +85,16 @@ jobs:
           GH_TOKEN: ${{ secrets.WORKFLOW_PAT || secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_PAT || secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           TARGET_YEAR: ${{ github.event.inputs.year || '2024' }}
+          DIRECTION: ${{ github.event.inputs.direction || 'desc' }}
           BATCH_LIMIT: ${{ github.event.inputs.limit || '0' }}
           MAX_MINUTES: ${{ github.event.inputs.max_minutes || '270' }}
           MAX_PART_MB: ${{ github.event.inputs.max_part_mb || '95' }}
         run: |
           echo "=========================================================="
-          echo "🔍 Evaluating next target year in enrichment pipeline..."
+          echo "🔍 Evaluating next target year in enrichment pipeline ($DIRECTION)..."
           echo "=========================================================="
 
-          NEXT_TARGET=$(node src/next-year.js --current "$TARGET_YEAR")
+          NEXT_TARGET=$(node src/next-year.js --current "$TARGET_YEAR" --direction "$DIRECTION")
           echo "Next Target Year: $NEXT_TARGET"
 
           if [ "$NEXT_TARGET" = "NONE" ] || [ -z "$NEXT_TARGET" ]; then
@@ -96,16 +105,17 @@ jobs:
           if [ "$NEXT_TARGET" = "$TARGET_YEAR" ]; then
             echo "⏳ Pending titles remain to be enriched for Year $TARGET_YEAR."
           else
-            echo "🎉 Year $TARGET_YEAR is 100% complete! Advancing automatically to Year $NEXT_TARGET..."
+            echo "🎉 Year $TARGET_YEAR is 100% complete! Advancing automatically to Year $NEXT_TARGET ($DIRECTION)..."
           fi
 
           echo "💤 Waiting 5 minutes (300 seconds) cooldown before triggering next cycle..."
           sleep 300
 
-          echo "🚀 Launching enrichment cycle for Year $NEXT_TARGET via GitHub CLI..."
+          echo "🚀 Launching enrichment cycle for Year $NEXT_TARGET ($DIRECTION) via GitHub CLI..."
           gh workflow run mdl_enrich.yml \
             --ref "${{ github.ref_name || 'main' }}" \
             -f year="$NEXT_TARGET" \
+            -f direction="$DIRECTION" \
             -f limit="$BATCH_LIMIT" \
             -f max_minutes="$MAX_MINUTES" \
             -f max_part_mb="$MAX_PART_MB" \
@@ -115,6 +125,6 @@ jobs:
                 -H "Authorization: Bearer $GH_TOKEN" \
                 -H "Accept: application/vnd.github+json" \
                 "https://api.github.com/repos/${{ github.repository }}/actions/workflows/mdl_enrich.yml/dispatches" \
-                -d "{\"ref\":\"${{ github.ref_name || 'main' }}\",\"inputs\":{\"year\":\"$NEXT_TARGET\",\"limit\":\"$BATCH_LIMIT\",\"max_minutes\":\"$MAX_MINUTES\",\"max_part_mb\":\"$MAX_PART_MB\",\"auto_continue\":\"true\"}}"
+                -d "{\"ref\":\"${{ github.ref_name || 'main' }}\",\"inputs\":{\"year\":\"$NEXT_TARGET\",\"direction\":\"$DIRECTION\",\"limit\":\"$BATCH_LIMIT\",\"max_minutes\":\"$MAX_MINUTES\",\"max_part_mb\":\"$MAX_PART_MB\",\"auto_continue\":\"true\"}}"
             }
-          echo "✅ Next workflow run for Year $NEXT_TARGET successfully queued!"
+          echo "✅ Next workflow run for Year $NEXT_TARGET ($DIRECTION) successfully queued!"
