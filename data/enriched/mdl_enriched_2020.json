@@ -896867,5 +896867,4160 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-19T13:25:36.317Z"
+  },
+  {
+    "id": 66465,
+    "slug": "66465-staycation",
+    "url": "https://mydramalist.com/66465-staycation",
+    "title": "Staycation",
+    "complete_title": "Staycation (2020)",
+    "native_title": "今晚瞓酒店",
+    "sub_title": "今晚瞓酒店 ‧ TV Program ‧ 2020",
+    "also_known_as": [],
+    "type": "TV Program",
+    "country": "Hong Kong",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": 10,
+    "aired_string": "Aug 10, 2020 - Aug 21, 2020",
+    "aired_start": "2020-08-10",
+    "aired_end": "2020-08-21",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "original_network": "ViuTV",
+    "duration_string": "23 min.",
+    "duration_minutes": 23,
+    "content_rating": "Not Yet Rated",
+    "rating": 10.012,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 12,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "MIRROR",
+        "id": "18225"
+      },
+      {
+        "name": "Variety Show",
+        "id": "184"
+      },
+      {
+        "name": "Travel Show",
+        "id": "168"
+      }
+    ],
+    "synopsis": "Since traveling abroad has been banned, this is the best time to explore the hotels in Hong Kong. The four hosts of the show, Dixon Wong, Edan Lui, Lam Ting, and Emily Lau, take you on an exploration of amazing hotels all over Hong Kong. Besides that, they also take you to do awesome activities around the hotels they stay in so your holidays will be more enjoyable. (Source: Viu) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/1kYqd_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+    "trailer_id": "27105",
+    "trailers": [
+      {
+        "id": "27105",
+        "title": "Staycation Official Trailer",
+        "url": "https://v.mydramalist.com/174/1745680a5a547dc1fb4b69f85054c299.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/1kYqd_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1kYqd_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "title": "Staycation (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/rzpvp_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/rzpvp_4f.jpg",
+        "title": "Staycation Hong Kong TV Program(2020) photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Liu Wai Hung",
+          "slug": "people/87331-liu-wai-hung",
+          "url": "https://mydramalist.com/people/87331-liu-wai-hung",
+          "image_url": "https://i.mydramalist.com/QWnY7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QWnY7_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Wong Wai Tong",
+          "slug": "people/84109-wong-wai-tong",
+          "url": "https://mydramalist.com/people/84109-wong-wai-tong",
+          "image_url": "https://i.mydramalist.com/rj83Z_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rj83Z_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Edan Lui",
+          "slug": "people/56263-edan-lui",
+          "url": "https://mydramalist.com/people/56263-edan-lui",
+          "image_url": "https://i.mydramalist.com/x0AXq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x0AXq_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Lam Ting",
+          "slug": "people/87917-lam-ting",
+          "url": "https://mydramalist.com/people/87917-lam-ting",
+          "image_url": "https://i.mydramalist.com/eJWLp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eJWLp_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Dixon Wong",
+          "slug": "people/69007-dixon-wong",
+          "url": "https://mydramalist.com/people/69007-dixon-wong",
+          "image_url": "https://i.mydramalist.com/0Jz04_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0Jz04_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Emily Lau",
+          "slug": "people/74191-emily-lau",
+          "url": "https://mydramalist.com/people/74191-emily-lau",
+          "image_url": "https://i.mydramalist.com/0XyWN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0XyWN_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Chu Chun Kit",
+          "slug": "people/87919-ck-chu",
+          "url": "https://mydramalist.com/people/87919-ck-chu",
+          "image_url": "https://i.mydramalist.com/0kdD4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0kdD4_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ying Chi Yuet",
+          "slug": "people/76523-ying-chi-yuet",
+          "url": "https://mydramalist.com/people/76523-ying-chi-yuet",
+          "image_url": "https://i.mydramalist.com/6Avv2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6Avv2_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Staycation Episode 1",
+        "url": "https://mydramalist.com/66465-staycation/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1kYqd_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Staycation Episode 2",
+        "url": "https://mydramalist.com/66465-staycation/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1kYqd_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Staycation Episode 3",
+        "url": "https://mydramalist.com/66465-staycation/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1kYqd_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Staycation Episode 4",
+        "url": "https://mydramalist.com/66465-staycation/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1kYqd_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Staycation Episode 5",
+        "url": "https://mydramalist.com/66465-staycation/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1kYqd_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Staycation Episode 6",
+        "url": "https://mydramalist.com/66465-staycation/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1kYqd_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Staycation Episode 7",
+        "url": "https://mydramalist.com/66465-staycation/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1kYqd_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Staycation Episode 8",
+        "url": "https://mydramalist.com/66465-staycation/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1kYqd_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Staycation Episode 9",
+        "url": "https://mydramalist.com/66465-staycation/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1kYqd_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Staycation Episode 10",
+        "url": "https://mydramalist.com/66465-staycation/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1kYqd_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1kYqd_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T13:25:49.674Z"
+  },
+  {
+    "id": 706443,
+    "slug": "706443-goynattydream-how-are-you",
+    "url": "https://mydramalist.com/706443-goynattydream-how-are-you",
+    "title": "GoyNattyDream - Tell Me All About You",
+    "complete_title": "GoyNattyDream - Tell Me All About You (2020)",
+    "native_title": "GoyNattyDream ยังไง ไหนเล่า",
+    "sub_title": "GoyNattyDream ยังไง ไหนเล่า ‧ TV Program ‧ 2020",
+    "also_known_as": [
+      "GoyNattyDream - How Are You? , Yangngai Nai Lao , Yung Ngai Nhai Lao"
+    ],
+    "type": "TV Program",
+    "country": "Thailand",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": 52,
+    "aired_string": "Aug 10, 2020 - ?",
+    "aired_start": "2020-08-10",
+    "aired_end": null,
+    "aired_on": [
+      "Friday"
+    ],
+    "original_network": null,
+    "duration_string": "21 min.",
+    "duration_minutes": 21,
+    "content_rating": "Not Yet Rated",
+    "rating": 8.233,
+    "scored_by": 9,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 33,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [
+      {
+        "name": "4EVE",
+        "id": "24323"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/wQjoN_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/wQjoN_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "title": "GoyNattyDream - Tell Me All About You (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "GoyNattyDream - Would You Love Us If We Love You",
+        "slug": "706445-goynattydream-if-i-accept-you-will-you-love-me",
+        "url": "https://mydramalist.com/706445-goynattydream-if-i-accept-you-will-you-love-me",
+        "relation": "Thai compilation"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Goy Arachaporn Pokinpakorn",
+          "slug": "people/17630-goy-arachaporn-pokinpakorn",
+          "url": "https://mydramalist.com/people/17630-goy-arachaporn-pokinpakorn",
+          "image_url": "https://i.mydramalist.com/rv3xj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rv3xj_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Natty Nantanat Thakadkul",
+          "slug": "people/67611-natty-nantanat-thakadkul",
+          "url": "https://mydramalist.com/people/67611-natty-nantanat-thakadkul",
+          "image_url": "https://i.mydramalist.com/Wq723_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Wq723_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Dream Apichaya Phanichtrakool",
+          "slug": "people/73549-dream-apichaya-phanichtrakool",
+          "url": "https://mydramalist.com/people/73549-dream-apichaya-phanichtrakool",
+          "image_url": "https://i.mydramalist.com/Qov8Y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Qov8Y_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Violette Wautier",
+          "slug": "people/12410-wautier-violette",
+          "url": "https://mydramalist.com/people/12410-wautier-violette",
+          "image_url": "https://i.mydramalist.com/E63VW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E63VW_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Milli Danupha Kanateerakul",
+          "slug": "people/76601-milli-danupha-khanatheerakul",
+          "url": "https://mydramalist.com/people/76601-milli-danupha-khanatheerakul",
+          "image_url": "https://i.mydramalist.com/wQWYJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wQWYJ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ink Waruntorn Paonil",
+          "slug": "people/42505-ink-waruntorn-paonil",
+          "url": "https://mydramalist.com/people/42505-ink-waruntorn-paonil",
+          "image_url": "https://i.mydramalist.com/YYNmBB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYNmBB_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ticha Kanticha Chumma",
+          "slug": "people/21900-kanticha-chuma",
+          "url": "https://mydramalist.com/people/21900-kanticha-chuma",
+          "image_url": "https://i.mydramalist.com/r8ezm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r8ezm_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Fon Sananthachat Thanapatpisal",
+          "slug": "people/7970-thanapatpisal-sananthachat",
+          "url": "https://mydramalist.com/people/7970-thanapatpisal-sananthachat",
+          "image_url": "https://i.mydramalist.com/jzXJv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jzXJv_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Taew Natapohn Tameeruks",
+          "slug": "people/7470-temeeruk-nataporn",
+          "url": "https://mydramalist.com/people/7470-temeeruk-nataporn",
+          "image_url": "https://i.mydramalist.com/3voYJj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3voYJj_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Bow Maylada Susri",
+          "slug": "people/12048-susri-maylada",
+          "url": "https://mydramalist.com/people/12048-susri-maylada",
+          "image_url": "https://i.mydramalist.com/r45nE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r45nE_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Punpun Sutatta Udomsilp",
+          "slug": "people/7373-udomsilp-sutatta",
+          "url": "https://mydramalist.com/people/7373-udomsilp-sutatta",
+          "image_url": "https://i.mydramalist.com/XdgBwq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdgBwq_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Mew Nittha Jirayungyurn",
+          "slug": "people/7467-nittha-jirayungyurn",
+          "url": "https://mydramalist.com/people/7467-nittha-jirayungyurn",
+          "image_url": "https://i.mydramalist.com/E5YodQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5YodQ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Marie Broenner",
+          "slug": "people/9846-broenner-marie",
+          "url": "https://mydramalist.com/people/9846-broenner-marie",
+          "image_url": "https://i.mydramalist.com/Y01XAs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Y01XAs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Toey Jarinporn Joonkiat",
+          "slug": "people/9051-joonkiat-jarinporn",
+          "url": "https://mydramalist.com/people/9051-joonkiat-jarinporn",
+          "image_url": "https://i.mydramalist.com/jogNz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jogNz_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Mai Davika Hoorne",
+          "slug": "people/7157-horne-davika",
+          "url": "https://mydramalist.com/people/7157-horne-davika",
+          "image_url": "https://i.mydramalist.com/JBDgOj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBDgOj_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Kaykai Nutticha Namwong",
+          "slug": "people/43931-kaykai-nutticha-namwong",
+          "url": "https://mydramalist.com/people/43931-kaykai-nutticha-namwong",
+          "image_url": "https://i.mydramalist.com/r6e2m_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r6e2m_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Jennie Panhan",
+          "slug": "people/17071-jennie-panhan",
+          "url": "https://mydramalist.com/people/17071-jennie-panhan",
+          "image_url": "https://i.mydramalist.com/O8OYZb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8OYZb_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Mild Lapassalan Jiravechsoontornkul",
+          "slug": "people/10592-jiravechsoontornkul-lapalal",
+          "url": "https://mydramalist.com/people/10592-jiravechsoontornkul-lapalal",
+          "image_url": "https://i.mydramalist.com/pddQb8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pddQb8_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Mook Worranit Thawornwong",
+          "slug": "people/9875-thawornwong-worranit",
+          "url": "https://mydramalist.com/people/9875-thawornwong-worranit",
+          "image_url": "https://i.mydramalist.com/ZY3JW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZY3JW_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Thanaerng Kanyawee Songmuang",
+          "slug": "people/10931-songmuang-kanyawee",
+          "url": "https://mydramalist.com/people/10931-songmuang-kanyawee",
+          "image_url": "https://i.mydramalist.com/JBWZ5Y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBWZ5Y_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Best Rakwanee Kamsing",
+          "slug": "people/78567-rakwanee-kamsing",
+          "url": "https://mydramalist.com/people/78567-rakwanee-kamsing",
+          "image_url": "https://i.mydramalist.com/jzQeb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jzQeb_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Seo Ji Yeon",
+          "slug": "people/5762-seo-ji-yeon",
+          "url": "https://mydramalist.com/people/5762-seo-ji-yeon",
+          "image_url": "https://i.mydramalist.com/pdWLn8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pdWLn8_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Minnie Phantira Pipityakorn",
+          "slug": "people/24861-minnie-phantira-pipityakorn",
+          "url": "https://mydramalist.com/people/24861-minnie-phantira-pipityakorn",
+          "image_url": "https://i.mydramalist.com/zB1xrJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zB1xrJ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Kao Supassrathip Akkrathaweepatch",
+          "slug": "people/7534-thanachart-supassara",
+          "url": "https://mydramalist.com/people/7534-thanachart-supassara",
+          "image_url": "https://i.mydramalist.com/R6Q06_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R6Q06_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Nui Thanawat Prasitsomporn",
+          "slug": "people/21662-thanawat-prasitsomporn",
+          "url": "https://mydramalist.com/people/21662-thanawat-prasitsomporn",
+          "image_url": "https://i.mydramalist.com/r5KAg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r5KAg_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ploy Chidjun Hung",
+          "slug": "people/26989-ploy-chidjun-hung",
+          "url": "https://mydramalist.com/people/26989-ploy-chidjun-hung",
+          "image_url": "https://i.mydramalist.com/vbZWZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vbZWZ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Belle Kemisara Paladesh",
+          "slug": "people/7972-paladesh-kemisara",
+          "url": "https://mydramalist.com/people/7972-paladesh-kemisara",
+          "image_url": "https://i.mydramalist.com/16pA3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/16pA3_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Chippy Sirin Preediyanon",
+          "slug": "people/12248-preediyanon-sirin",
+          "url": "https://mydramalist.com/people/12248-preediyanon-sirin",
+          "image_url": "https://i.mydramalist.com/zB14lA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zB14lA_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Maprang Alrisa Kunkwaeng",
+          "slug": "people/18774-alrisa-maprang",
+          "url": "https://mydramalist.com/people/18774-alrisa-maprang",
+          "image_url": "https://i.mydramalist.com/PxAryZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxAryZ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Fah Sarika Sathsilpsupa",
+          "slug": "people/36509-fah-sarika-sathsilpsupa",
+          "url": "https://mydramalist.com/people/36509-fah-sarika-sathsilpsupa",
+          "image_url": "https://i.mydramalist.com/BP6K5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BP6K5_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ploi Horwang",
+          "slug": "people/66139-ploi-horwang",
+          "url": "https://mydramalist.com/people/66139-ploi-horwang",
+          "image_url": "https://i.mydramalist.com/2wdpgd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wdpgd_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Pookie Paweenut Pangnakorn",
+          "slug": "people/23405-paweenut-pangnakorn",
+          "url": "https://mydramalist.com/people/23405-paweenut-pangnakorn",
+          "image_url": "https://i.mydramalist.com/Q6PLv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Q6PLv_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Matt Peeranee Kongthai",
+          "slug": "people/7234-kongthai-peeranee",
+          "url": "https://mydramalist.com/people/7234-kongthai-peeranee",
+          "image_url": "https://i.mydramalist.com/BLpnV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BLpnV_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Pim Pimprapa Tangprabhaporn",
+          "slug": "people/11141-tangprabhaporn-pimprapa",
+          "url": "https://mydramalist.com/people/11141-tangprabhaporn-pimprapa",
+          "image_url": "https://i.mydramalist.com/qZ0ed_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qZ0ed_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Kimberley Anne Woltemas",
+          "slug": "people/7159-voltemas-kimberley",
+          "url": "https://mydramalist.com/people/7159-voltemas-kimberley",
+          "image_url": "https://i.mydramalist.com/4OnOQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4OnOQ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Hannah Rosenbloom",
+          "slug": "people/70413-hannah-rosenbloom",
+          "url": "https://mydramalist.com/people/70413-hannah-rosenbloom",
+          "image_url": "https://i.mydramalist.com/4e4end_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4e4end_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Aheye Korranid Laosubinprasoet",
+          "slug": "people/15541-laosubinprasert-kornnit",
+          "url": "https://mydramalist.com/people/15541-laosubinprasert-kornnit",
+          "image_url": "https://i.mydramalist.com/E53K0O_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E53K0O_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Jorin Khumpiraphan",
+          "slug": "people/70629-jorin-khumpiraphan",
+          "url": "https://mydramalist.com/people/70629-jorin-khumpiraphan",
+          "image_url": "https://i.mydramalist.com/E5DDj0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5DDj0_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Four Sakonrut Woraurai",
+          "slug": "people/10814-wornurai-sakolrat",
+          "url": "https://mydramalist.com/people/10814-wornurai-sakolrat",
+          "image_url": "https://i.mydramalist.com/kJvLgs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kJvLgs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ja R-Siam",
+          "slug": "people/28287-nongpanee-mahadthai",
+          "url": "https://mydramalist.com/people/28287-nongpanee-mahadthai",
+          "image_url": "https://i.mydramalist.com/1VZyK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1VZyK_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Margie Rasri Balenciaga",
+          "slug": "people/7290-balenciaga-rasri",
+          "url": "https://mydramalist.com/people/7290-balenciaga-rasri",
+          "image_url": "https://i.mydramalist.com/QJ0VKg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJ0VKg_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Mint Chalida Vijitvongthong",
+          "slug": "people/7158-vijitvongtong-chalida",
+          "url": "https://mydramalist.com/people/7158-vijitvongtong-chalida",
+          "image_url": "https://i.mydramalist.com/4eeKPk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4eeKPk_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Faye Pompawee Neerasingh",
+          "slug": "people/50971-faye-pompawee-neerasingh",
+          "url": "https://mydramalist.com/people/50971-faye-pompawee-neerasingh",
+          "image_url": "https://i.mydramalist.com/j6qey_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/j6qey_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Love Pattranite Limpatiyakorn",
+          "slug": "people/30769-love-pattranite-limpatiyakorn",
+          "url": "https://mydramalist.com/people/30769-love-pattranite-limpatiyakorn",
+          "image_url": "https://i.mydramalist.com/l0L2VL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0L2VL_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Tu Tontawan Tantivejakul",
+          "slug": "people/50873-tu-tontawan-tantivejakul",
+          "url": "https://mydramalist.com/people/50873-tu-tontawan-tantivejakul",
+          "image_url": "https://i.mydramalist.com/epNPK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/epNPK_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Engfa Waraha",
+          "slug": "people/109275-engfa-waraha",
+          "url": "https://mydramalist.com/people/109275-engfa-waraha",
+          "image_url": "https://i.mydramalist.com/RB8WqR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RB8WqR_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ally Achiraya Nitibhon",
+          "slug": "people/57521-ally-achiraya-nitipon",
+          "url": "https://mydramalist.com/people/57521-ally-achiraya-nitipon",
+          "image_url": "https://i.mydramalist.com/x1bJw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x1bJw_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Nune Woranuch Bhirombhakdi",
+          "slug": "people/7131-bhirombhakdi-woranut",
+          "url": "https://mydramalist.com/people/7131-bhirombhakdi-woranut",
+          "image_url": "https://i.mydramalist.com/1wdVdb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wdVdb_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "GoyNattyDream - Tell Me All About You Episode 1",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/1",
+        "air_date": "2020-08-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/EeqgQ_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/EeqgQ_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "GoyNattyDream - Tell Me All About You Episode 2",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/2",
+        "air_date": "2020-09-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B8Jg5_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B8Jg5_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "GoyNattyDream - Tell Me All About You Episode 3",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/3",
+        "air_date": "2020-10-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d7lxe_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d7lxe_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "GoyNattyDream - Tell Me All About You Episode 4",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/4",
+        "air_date": "2020-10-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QZwlA_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QZwlA_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "GoyNattyDream - Tell Me All About You Episode 5",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/5",
+        "air_date": "2020-10-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/keBxm_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/keBxm_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "GoyNattyDream - Tell Me All About You Episode 6",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/6",
+        "air_date": "2020-11-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eBXxQ_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eBXxQ_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "GoyNattyDream - Tell Me All About You Episode 7",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/7",
+        "air_date": "2020-11-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wZqzb_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wZqzb_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "GoyNattyDream - Tell Me All About You Episode 8",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/8",
+        "air_date": "2020-11-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/03oRr_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/03oRr_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "GoyNattyDream - Tell Me All About You Episode 9",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/9",
+        "air_date": "2020-12-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4nPjQ_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4nPjQ_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "GoyNattyDream - Tell Me All About You Episode 10",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/10",
+        "air_date": "2021-01-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1xrl6_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1xrl6_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "GoyNattyDream - Tell Me All About You Episode 11",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/11",
+        "air_date": "2021-01-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xDoxr_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xDoxr_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "GoyNattyDream - Tell Me All About You Episode 12",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/12",
+        "air_date": "2021-01-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Wx0WP_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Wx0WP_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "GoyNattyDream - Tell Me All About You Episode 13",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/13",
+        "air_date": "2021-02-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/6YDKg_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/6YDKg_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "GoyNattyDream - Tell Me All About You Episode 14",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/14",
+        "air_date": "2021-02-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/2LykO_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/2LykO_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "GoyNattyDream - Tell Me All About You Episode 15",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/15",
+        "air_date": "2021-03-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XLPOg_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XLPOg_3f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "GoyNattyDream - Tell Me All About You Episode 16",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/16",
+        "air_date": "2021-03-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "GoyNattyDream - Tell Me All About You Episode 17",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/17",
+        "air_date": "2021-03-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "GoyNattyDream - Tell Me All About You Episode 18",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/18",
+        "air_date": "2021-04-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "GoyNattyDream - Tell Me All About You Episode 19",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/19",
+        "air_date": "2021-05-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "GoyNattyDream - Tell Me All About You Episode 20",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/20",
+        "air_date": "2021-05-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "GoyNattyDream - Tell Me All About You Episode 21",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/21",
+        "air_date": "2021-05-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "GoyNattyDream - Tell Me All About You Episode 22",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/22",
+        "air_date": "2021-06-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "GoyNattyDream - Tell Me All About You Episode 23",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/23",
+        "air_date": "2021-06-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "GoyNattyDream - Tell Me All About You Episode 24",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/24",
+        "air_date": "2021-06-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "GoyNattyDream - Tell Me All About You Episode 25",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/25",
+        "air_date": "2021-07-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "GoyNattyDream - Tell Me All About You Episode 26",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/26",
+        "air_date": "2021-07-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "GoyNattyDream - Tell Me All About You Episode 27",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/27",
+        "air_date": "2021-07-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "GoyNattyDream - Tell Me All About You Episode 28",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/28",
+        "air_date": "2021-07-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 29,
+        "title": "GoyNattyDream - Tell Me All About You Episode 29",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/29",
+        "air_date": "2021-08-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 30,
+        "title": "GoyNattyDream - Tell Me All About You Episode 30",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/30",
+        "air_date": "2021-08-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 31,
+        "title": "GoyNattyDream - Tell Me All About You Episode 31",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/31",
+        "air_date": "2021-09-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 32,
+        "title": "GoyNattyDream - Tell Me All About You Episode 32",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/32",
+        "air_date": "2021-09-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 33,
+        "title": "GoyNattyDream - Tell Me All About You Episode 33",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/33",
+        "air_date": "2021-10-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 34,
+        "title": "GoyNattyDream - Tell Me All About You Episode 34",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/34",
+        "air_date": "2021-10-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 35,
+        "title": "GoyNattyDream - Tell Me All About You Episode 35",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/35",
+        "air_date": "2021-10-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 36,
+        "title": "GoyNattyDream - Tell Me All About You Episode 36",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/36",
+        "air_date": "2021-11-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 37,
+        "title": "GoyNattyDream - Tell Me All About You Episode 37",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/37",
+        "air_date": "2021-11-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 38,
+        "title": "GoyNattyDream - Tell Me All About You Episode 38",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/38",
+        "air_date": "2021-12-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 39,
+        "title": "GoyNattyDream - Tell Me All About You Episode 39",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/39",
+        "air_date": "2022-01-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 40,
+        "title": "GoyNattyDream - Tell Me All About You Episode 40",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/40",
+        "air_date": "2022-02-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 41,
+        "title": "GoyNattyDream - Tell Me All About You Episode 41",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/41",
+        "air_date": "2022-02-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 42,
+        "title": "GoyNattyDream - Tell Me All About You Episode 42",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/42",
+        "air_date": "2022-03-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 43,
+        "title": "GoyNattyDream - Tell Me All About You Episode 43",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/43",
+        "air_date": "2022-03-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 44,
+        "title": "GoyNattyDream - Tell Me All About You Episode 44",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/44",
+        "air_date": "2022-03-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 45,
+        "title": "GoyNattyDream - Tell Me All About You Episode 45",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/45",
+        "air_date": "2022-05-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 46,
+        "title": "GoyNattyDream - Tell Me All About You Episode 46",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/46",
+        "air_date": "2022-06-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 47,
+        "title": "GoyNattyDream - Tell Me All About You Episode 47",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/47",
+        "air_date": "2022-06-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 48,
+        "title": "GoyNattyDream - Tell Me All About You Episode 48",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/48",
+        "air_date": "2022-06-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 49,
+        "title": "GoyNattyDream - Tell Me All About You Episode 49",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/49",
+        "air_date": "2022-07-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 50,
+        "title": "GoyNattyDream - Tell Me All About You Episode 50",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/50",
+        "air_date": "2022-07-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 51,
+        "title": "GoyNattyDream - Tell Me All About You Episode 51",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/51",
+        "air_date": "2022-08-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 52,
+        "title": "GoyNattyDream - Tell Me All About You Episode 52",
+        "url": "https://mydramalist.com/706443-goynattydream-how-are-you/episode/52",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/wQjoN_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/wQjoN_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T13:25:57.429Z"
+  },
+  {
+    "id": 687123,
+    "slug": "687123-red-aninsri",
+    "url": "https://mydramalist.com/687123-red-aninsri",
+    "title": "Red Aninsri",
+    "complete_title": "Red Aninsri (2020)",
+    "native_title": "อนินทรีย์แดง",
+    "sub_title": "อนินทรีย์แดง ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Aninsri daeng , Tiptoeing on the Still Trembling Berlin Wall"
+    ],
+    "type": "Movie",
+    "country": "Thailand",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "30 min.",
+    "duration_minutes": 30,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.681,
+    "scored_by": 10,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 81,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "LGBTQ+",
+        "id": "1045"
+      },
+      {
+        "name": "Social Commentary",
+        "id": "890"
+      },
+      {
+        "name": "Dubbing",
+        "id": "14851"
+      },
+      {
+        "name": "Hidden Identity",
+        "id": "971"
+      },
+      {
+        "name": "Transgender Female Lead",
+        "id": "18109"
+      },
+      {
+        "name": "Independent Film",
+        "id": "1525"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Spy Female Lead",
+        "id": "19543"
+      },
+      {
+        "name": "Surrealism",
+        "id": "8649"
+      }
+    ],
+    "synopsis": "The film follows the conventions of Thai cinema during the Cold War, where every actor is dubbed by the voice that suits their roles. The hero sounds heroic and the villain sounds villainous. Ang, a transgender sex worker with a pretty, feminine voice is assigned a special mission as an undercover spy. She disguises herself as a cisgender man to enter into a romantic relationship with Jit, a belligerent yet idealistic student activist with an evil voice. Ang must extract important information from Jit. However, the mission goes awry as she slowly falls for him. Apolitical at first, Ang is slowly awakened by Jit to see the other world where people speak in another way. English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/XXOkx_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XXOkx_4f.jpg",
+    "trailer_id": "30805",
+    "trailers": [
+      {
+        "id": "30805",
+        "title": "Red Aninsri Official Trailer",
+        "url": "https://v.mydramalist.com/334/3340d90f2875506693f0c0a8e693be86.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/XXOkx_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XXOkx_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XXOkx_4f.jpg",
+        "title": "Red Aninsri (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/0Wgde_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/0Wgde_3f.jpg",
+        "title": "Red Aninsri Thai Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Earth Atikhun Adulpocatorn",
+          "slug": "people/96357-earth-atikhun-adulpocatorn",
+          "url": "https://mydramalist.com/people/96357-earth-atikhun-adulpocatorn",
+          "image_url": "https://i.mydramalist.com/2bAqR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2bAqR_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Golf Ornanong Thaisriwong",
+          "slug": "people/62025-golf-ornanong-thaisriwong",
+          "url": "https://mydramalist.com/people/62025-golf-ornanong-thaisriwong",
+          "image_url": "https://i.mydramalist.com/2EXKR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2EXKR_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Om Pathavee Thepkraiwan",
+          "slug": "people/17622-amadiva",
+          "url": "https://mydramalist.com/people/17622-amadiva",
+          "image_url": "https://i.mydramalist.com/xZ3gr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xZ3gr_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Ratchapoom Boonbunchachoke",
+          "slug": "people/62001-ratchapoom-boonbunchachoke",
+          "url": "https://mydramalist.com/people/62001-ratchapoom-boonbunchachoke",
+          "image_url": "https://i.mydramalist.com/73jW7e_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73jW7e_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Guide Wachara Kanha",
+          "slug": "people/117173-wachara-kanha",
+          "url": "https://mydramalist.com/people/117173-wachara-kanha",
+          "image_url": "https://i.mydramalist.com/0wwQgY_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wwQgY_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Aekaphong Saransate",
+          "slug": "people/56479-aekaphong-saransate",
+          "url": "https://mydramalist.com/people/56479-aekaphong-saransate",
+          "image_url": "https://i.mydramalist.com/3oNvqA_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3oNvqA_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Nopawat Likitwong",
+          "slug": "people/84449-nopawat-likitwong",
+          "url": "https://mydramalist.com/people/84449-nopawat-likitwong",
+          "image_url": "https://i.mydramalist.com/pXPyE_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pXPyE_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Gandhi Wasuwitchayagit",
+          "slug": "people/105569-gandhi-wasuwitchayagit",
+          "url": "https://mydramalist.com/people/105569-gandhi-wasuwitchayagit",
+          "image_url": "https://i.mydramalist.com/O87ZOb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O87ZOb_5f.jpg",
+          "role_type": "Voice Actor"
+        },
+        {
+          "name": "Bee Napat Kiatkwankul",
+          "slug": "people/67379-bee-napat",
+          "url": "https://mydramalist.com/people/67379-bee-napat",
+          "image_url": "https://i.mydramalist.com/v6qj2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v6qj2_5f.jpg",
+          "role_type": "Voice Actor"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:26:04.030Z"
+  },
+  {
+    "id": 728981,
+    "slug": "728981-liza-s-online-4",
+    "url": "https://mydramalist.com/728981-liza-s-online-4",
+    "title": "Liza's Online Season 4",
+    "complete_title": "Liza's Online Season 4 (2020)",
+    "native_title": "娛樂大家4",
+    "sub_title": "娛樂大家4 ‧ TV Program ‧ 2020",
+    "also_known_as": [
+      "Liza's Online 4 , 娛樂大家 , 娛樂大家第四季"
+    ],
+    "type": "TV Program",
+    "country": "Hong Kong",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": 10,
+    "aired_string": "Aug 9, 2020 - Oct 18, 2020",
+    "aired_start": "2020-08-09",
+    "aired_end": "2020-10-18",
+    "aired_on": [
+      "Sunday"
+    ],
+    "original_network": "TVB Jade",
+    "duration_string": "30 min.",
+    "duration_minutes": 30,
+    "content_rating": "G - All Ages",
+    "rating": 7,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Family",
+        "id": "29"
+      },
+      {
+        "name": "Friendship",
+        "id": "6"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/4PX7k_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/4PX7k_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "title": "Liza's Online Season 4 (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Liza's Online Season 3",
+        "slug": "728979-liza-s-online-3",
+        "url": "https://mydramalist.com/728979-liza-s-online-3",
+        "relation": "Hong Kong prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Liza Wang",
+          "slug": "people/2346-wang-liza",
+          "url": "https://mydramalist.com/people/2346-wang-liza",
+          "image_url": "https://i.mydramalist.com/Kp6e6q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Kp6e6q_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Sammy Leung",
+          "slug": "people/4662-leung-sammy",
+          "url": "https://mydramalist.com/people/4662-leung-sammy",
+          "image_url": "https://i.mydramalist.com/mOZyqq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mOZyqq_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Dickson Yu",
+          "slug": "people/17273-yu-dickson",
+          "url": "https://mydramalist.com/people/17273-yu-dickson",
+          "image_url": "https://i.mydramalist.com/jL64z_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jL64z_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Bella Lam",
+          "slug": "people/3864-lam-bella",
+          "url": "https://mydramalist.com/people/3864-lam-bella",
+          "image_url": "https://i.mydramalist.com/BYve6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BYve6_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Karl Ting",
+          "slug": "people/40727-karl-ting",
+          "url": "https://mydramalist.com/people/40727-karl-ting",
+          "image_url": "https://i.mydramalist.com/PxPN3L_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxPN3L_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Sammi Cheung",
+          "slug": "people/4913-cheung-sammi",
+          "url": "https://mydramalist.com/people/4913-cheung-sammi",
+          "image_url": "https://i.mydramalist.com/aEwQbs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/aEwQbs.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Arnold Kwok",
+          "slug": "people/22567-arnold-kwok",
+          "url": "https://mydramalist.com/people/22567-arnold-kwok",
+          "image_url": "https://i.mydramalist.com/Eo8l0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Eo8l0_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Joey Thye",
+          "slug": "people/35821-joey-thye",
+          "url": "https://mydramalist.com/people/35821-joey-thye",
+          "image_url": "https://i.mydramalist.com/g0PLVv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0PLVv_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Danny Hung",
+          "slug": "people/82221-danny-hung",
+          "url": "https://mydramalist.com/people/82221-danny-hung",
+          "image_url": "https://i.mydramalist.com/d6pW0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d6pW0_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Amber Tang",
+          "slug": "people/82985-amber-tang",
+          "url": "https://mydramalist.com/people/82985-amber-tang",
+          "image_url": "https://i.mydramalist.com/knkVg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/knkVg_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Bonnie Lui",
+          "slug": "people/82031-bonnie-lui",
+          "url": "https://mydramalist.com/people/82031-bonnie-lui",
+          "image_url": "https://i.mydramalist.com/p6w1B_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/p6w1B_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Krysella Wong",
+          "slug": "people/82035-krysella-wong",
+          "url": "https://mydramalist.com/people/82035-krysella-wong",
+          "image_url": "https://i.mydramalist.com/4V2dY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4V2dY_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Eric Tang",
+          "slug": "people/83529-eric-tang",
+          "url": "https://mydramalist.com/people/83529-eric-tang",
+          "image_url": "https://i.mydramalist.com/rNmqk7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rNmqk7_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Leonard Cheng",
+          "slug": "people/82225-leonard-cheng",
+          "url": "https://mydramalist.com/people/82225-leonard-cheng",
+          "image_url": "https://i.mydramalist.com/vYkg8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vYkg8_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Daniel Chau",
+          "slug": "people/4868-chau-daniel",
+          "url": "https://mydramalist.com/people/4868-chau-daniel",
+          "image_url": "https://i.mydramalist.com/VXqPe0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXqPe0_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Kayee Tam",
+          "slug": "people/42549-kayee-tam",
+          "url": "https://mydramalist.com/people/42549-kayee-tam",
+          "image_url": "https://i.mydramalist.com/j4EAds.jpg",
+          "image_hd_url": "https://i.mydramalist.com/j4EAds.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Randal Tsang",
+          "slug": "people/82577-randal-tsang",
+          "url": "https://mydramalist.com/people/82577-randal-tsang",
+          "image_url": "https://i.mydramalist.com/knyOm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/knyOm_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Honey Ho",
+          "slug": "people/83011-honey-ho",
+          "url": "https://mydramalist.com/people/83011-honey-ho",
+          "image_url": "https://i.mydramalist.com/qJ2pd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qJ2pd_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Rachel Wong",
+          "slug": "people/82989-rachel-wong",
+          "url": "https://mydramalist.com/people/82989-rachel-wong",
+          "image_url": "https://i.mydramalist.com/ZLgV8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZLgV8_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Venus Tang",
+          "slug": "people/82991-venus-tang",
+          "url": "https://mydramalist.com/people/82991-venus-tang",
+          "image_url": "https://i.mydramalist.com/WDbZm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WDbZm_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Chris Lai",
+          "slug": "people/2352-lai-chris",
+          "url": "https://mydramalist.com/people/2352-lai-chris",
+          "image_url": "https://i.mydramalist.com/p15Xb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/p15Xb_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Elaine Yiu",
+          "slug": "people/2339-yiu-elaine",
+          "url": "https://mydramalist.com/people/2339-yiu-elaine",
+          "image_url": "https://i.mydramalist.com/yWZqdB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWZqdB_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Owen Cheung",
+          "slug": "people/6789-cheung-owen",
+          "url": "https://mydramalist.com/people/6789-cheung-owen",
+          "image_url": "https://i.mydramalist.com/mOdm2P_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mOdm2P_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Crystal Fung",
+          "slug": "people/17849-fung-crystal",
+          "url": "https://mydramalist.com/people/17849-fung-crystal",
+          "image_url": "https://i.mydramalist.com/dwdxbs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dwdxbs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Linda Chung",
+          "slug": "people/1365-chung-linda",
+          "url": "https://mydramalist.com/people/1365-chung-linda",
+          "image_url": "https://i.mydramalist.com/Xd8DmZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xd8DmZ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Alex Fong",
+          "slug": "people/2343-fong-alex",
+          "url": "https://mydramalist.com/people/2343-fong-alex",
+          "image_url": "https://i.mydramalist.com/Xdr5yJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xdr5yJ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Shiga Lin",
+          "slug": "people/9811-lin-shiga",
+          "url": "https://mydramalist.com/people/9811-lin-shiga",
+          "image_url": "https://i.mydramalist.com/ZBJWJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZBJWJ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Yoyo Chen",
+          "slug": "people/2157-chen-yoyo",
+          "url": "https://mydramalist.com/people/2157-chen-yoyo",
+          "image_url": "https://i.mydramalist.com/M31jjs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/M31jjs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Carlos Chan",
+          "slug": "people/9169-chan-carlos",
+          "url": "https://mydramalist.com/people/9169-chan-carlos",
+          "image_url": "https://i.mydramalist.com/EW43m_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EW43m_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Kathy Yuen",
+          "slug": "people/8264-yuen-kathy",
+          "url": "https://mydramalist.com/people/8264-yuen-kathy",
+          "image_url": "https://i.mydramalist.com/EQ7vb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EQ7vb_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Winki Lai",
+          "slug": "people/11823-lai-winki",
+          "url": "https://mydramalist.com/people/11823-lai-winki",
+          "image_url": "https://i.mydramalist.com/Q23L2s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Q23L2s.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Katy Kung",
+          "slug": "people/3062-kung-katy",
+          "url": "https://mydramalist.com/people/3062-kung-katy",
+          "image_url": "https://i.mydramalist.com/ZbEXY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZbEXY_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Fiona Sit",
+          "slug": "people/2997-sit-fiona",
+          "url": "https://mydramalist.com/people/2997-sit-fiona",
+          "image_url": "https://i.mydramalist.com/0wvxA6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wvxA6_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "JW",
+          "slug": "people/82071-jw",
+          "url": "https://mydramalist.com/people/82071-jw",
+          "image_url": "https://i.mydramalist.com/X6W1X_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X6W1X_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Lisa-Marie Tse",
+          "slug": "people/91781-lisa-marie-tse",
+          "url": "https://mydramalist.com/people/91781-lisa-marie-tse",
+          "image_url": "https://i.mydramalist.com/BOvLq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BOvLq_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Rosita Kwok",
+          "slug": "people/83039-rosita-kwok",
+          "url": "https://mydramalist.com/people/83039-rosita-kwok",
+          "image_url": "https://i.mydramalist.com/BWq6q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BWq6q_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Pakho Chau",
+          "slug": "people/9849-chau-pakho",
+          "url": "https://mydramalist.com/people/9849-chau-pakho",
+          "image_url": "https://i.mydramalist.com/lBYENs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/lBYENs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Hubert Wu",
+          "slug": "people/11821-wu-hubert",
+          "url": "https://mydramalist.com/people/11821-wu-hubert",
+          "image_url": "https://i.mydramalist.com/Ekm4zs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Ekm4zs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Hana Kuk",
+          "slug": "people/33413-hana-kuk",
+          "url": "https://mydramalist.com/people/33413-hana-kuk",
+          "image_url": "https://i.mydramalist.com/qbey2s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qbey2s.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Bob Lam",
+          "slug": "people/49633-bob-lam",
+          "url": "https://mydramalist.com/people/49633-bob-lam",
+          "image_url": "https://i.mydramalist.com/73E8XL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73E8XL_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Harriet Yeung",
+          "slug": "people/8810-yeung-harriet",
+          "url": "https://mydramalist.com/people/8810-yeung-harriet",
+          "image_url": "https://i.mydramalist.com/zv7K1s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zv7K1s.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Liza's Online Season 4 Episode 1",
+        "url": "https://mydramalist.com/728981-liza-s-online-4/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4PX7k_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Liza's Online Season 4 Episode 2",
+        "url": "https://mydramalist.com/728981-liza-s-online-4/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4PX7k_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Liza's Online Season 4 Episode 3",
+        "url": "https://mydramalist.com/728981-liza-s-online-4/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4PX7k_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Liza's Online Season 4 Episode 4",
+        "url": "https://mydramalist.com/728981-liza-s-online-4/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4PX7k_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Liza's Online Season 4 Episode 5",
+        "url": "https://mydramalist.com/728981-liza-s-online-4/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4PX7k_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Liza's Online Season 4 Episode 6",
+        "url": "https://mydramalist.com/728981-liza-s-online-4/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4PX7k_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Liza's Online Season 4 Episode 7",
+        "url": "https://mydramalist.com/728981-liza-s-online-4/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4PX7k_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Liza's Online Season 4 Episode 8",
+        "url": "https://mydramalist.com/728981-liza-s-online-4/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4PX7k_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Liza's Online Season 4 Episode 9",
+        "url": "https://mydramalist.com/728981-liza-s-online-4/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4PX7k_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Liza's Online Season 4 Episode 10",
+        "url": "https://mydramalist.com/728981-liza-s-online-4/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/4PX7k_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/4PX7k_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T13:26:10.392Z"
+  },
+  {
+    "id": 723387,
+    "slug": "723387-mother-s-bomb-struck-piano",
+    "url": "https://mydramalist.com/723387-mother-s-bomb-struck-piano",
+    "title": "Mother’s Bomb-struck Piano",
+    "complete_title": "Mother’s Bomb-struck Piano (2020)",
+    "native_title": "おかあさんの被爆ピアノ",
+    "sub_title": "おかあさんの被爆ピアノ ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Hiroshima Piano , Okasan no Hibaku Piano , おかあさんのひばくピアノ"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 53 min.",
+    "duration_minutes": 113,
+    "content_rating": "G - All Ages",
+    "rating": 8,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Inspired By A True Story",
+        "id": "28301"
+      }
+    ],
+    "synopsis": "Mitsunori Yagawa is a tuner entrusted with several pianos that survived the atomic bombing in Hiroshima on August 6, 1945. He repairs and plays these bombed pianos by himself, spreading the message of peace while driving around the country. Meanwhile, Eguchi Nanako, a university student, learns that her mother, Kumiko, has donated one of their bombed pianos. She happens to meet Yagawa in one of his bombed-piano concerts. Through Yagawa, Nanako traces back to her roots while learning about her grandmother, the bombed pianos, and Hiroshima. (Source: MyDramaList) ~~ Inspired by the real-life person Mitsunori Yagawa, a piano tuner who lives in Hiroshima's Asa-Minami Ward. English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/WkkBO_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/WkkBO_4f.jpg",
+    "trailer_id": "35049",
+    "trailers": [
+      {
+        "id": "35049",
+        "title": "Mother’s Bomb-struck Piano Official Trailer",
+        "url": "https://v.mydramalist.com/491/49124b8c93ea8a3364be45f449ec2985.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/WkkBO_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/WkkBO_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/WkkBO_4f.jpg",
+        "title": "Mother’s Bomb-struck Piano (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [
+      {
+        "title": "Akiko's Piano",
+        "slug": "67329-akiko-s-piano",
+        "url": "https://mydramalist.com/67329-akiko-s-piano",
+        "poster_url": "https://i.mydramalist.com/18v4Q_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/18v4Q_4f.jpg",
+        "year": 2020,
+        "votes": 0
+      }
+    ],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sano Shiro",
+          "slug": "people/768-sano-shiro",
+          "url": "https://mydramalist.com/people/768-sano-shiro",
+          "image_url": "https://i.mydramalist.com/BdrdA7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BdrdA7_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Muto Tomu",
+          "slug": "people/9155-muto-tomu",
+          "url": "https://mydramalist.com/people/9155-muto-tomu",
+          "image_url": "https://i.mydramalist.com/r71J2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r71J2_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Moriguchi Yoko",
+          "slug": "people/4273-moriguchi-yoko",
+          "url": "https://mydramalist.com/people/4273-moriguchi-yoko",
+          "image_url": "https://i.mydramalist.com/dmWzz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dmWzz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Miyakawa Ichirota",
+          "slug": "people/2126-miyagawa-ichirota",
+          "url": "https://mydramalist.com/people/2126-miyagawa-ichirota",
+          "image_url": "https://i.mydramalist.com/kYmDws.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kYmDws.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kamataki Eri",
+          "slug": "people/42237-kamataki-eri",
+          "url": "https://mydramalist.com/people/42237-kamataki-eri",
+          "image_url": "https://i.mydramalist.com/oQ1l4z_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQ1l4z_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Goto Toshihiro",
+          "slug": "people/22056-goto-toshihiro",
+          "url": "https://mydramalist.com/people/22056-goto-toshihiro",
+          "image_url": "https://i.mydramalist.com/N73BRm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/N73BRm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Takei Rino",
+          "slug": "people/78075-takei-rino",
+          "url": "https://mydramalist.com/people/78075-takei-rino",
+          "image_url": "https://i.mydramalist.com/NdLeen_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdLeen_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Sasakawa Kanon",
+          "slug": "people/85825-sasakawa-kanon",
+          "url": "https://mydramalist.com/people/85825-sasakawa-kanon",
+          "image_url": "https://i.mydramalist.com/rJgQj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rJgQj_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Tono Yukimoto",
+          "slug": "people/114591-tono-yukimoto",
+          "url": "https://mydramalist.com/people/114591-tono-yukimoto",
+          "image_url": "https://i.mydramalist.com/BRE5q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BRE5q_5f.jpg",
+          "role_type": "Bit part"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:26:17.101Z"
+  },
+  {
+    "id": 726963,
+    "slug": "726963-imperfect-world",
+    "url": "https://mydramalist.com/726963-imperfect-world",
+    "title": "Imperfect World",
+    "complete_title": "Imperfect World (2020)",
+    "native_title": "不完全世界",
+    "sub_title": "不完全世界 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Fukazen Sekai , ふかんぜんせかい"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "2 hr. 22 min.",
+    "duration_minutes": 142,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Former Celebrity Female Lead",
+        "id": "22541"
+      },
+      {
+        "name": "Unwanted Pregnancy",
+        "id": "12269"
+      }
+    ],
+    "synopsis": "An omnibus film consists of three episodes showing the life and struggle of three women in their twenties living in a share house. A woman who can not have children, a woman with an unwanted pregnancy, a former idol in disarray after learning about her late husband's affair, and the suffering of an old actress. People who aren't supposed to meet each other, their fates intertwined. (Source: MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/6DnR2_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/6DnR2_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/6DnR2_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/6DnR2_4f.jpg",
+        "title": "Imperfect World (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/kgQdO_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/kgQdO_3f.jpg",
+        "title": "Imperfect World Japanese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Taizo",
+          "slug": "people/59613-taizo",
+          "url": "https://mydramalist.com/people/59613-taizo",
+          "image_url": "https://i.mydramalist.com/qlleQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qlleQ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:26:25.588Z"
+  },
+  {
+    "id": 729571,
+    "slug": "729571-mottainai-kitchen",
+    "url": "https://mydramalist.com/729571-mottainai-kitchen",
+    "title": "Mottainai Kitchen",
+    "complete_title": "Mottainai Kitchen (2020)",
+    "native_title": "もったいないキッチン",
+    "sub_title": "もったいないキッチン ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Mottainai Kitchin"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 35 min.",
+    "duration_minutes": 95,
+    "content_rating": "Not Yet Rated",
+    "rating": 15,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 15,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Food",
+        "id": "2"
+      },
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Environmental Issues",
+        "id": "2599"
+      }
+    ],
+    "synopsis": "Mottainai Kitchen is a culinary road movie, tackling the issue of food waste and other environmental issues in Japan, searching for sustainable solutions. The film follows filmmaker and food activist David Gross as he discovers the fascinating Japanese concept of “Mottainai“, and meets local chefs, scientists and farmers while creating tasty recipes for a “Zero Waste Kitchen Revolution”. (Source: mottainai-kitchen.net) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/dg42D_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/dg42D_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/dg42D_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/dg42D_4f.jpg",
+        "title": "Mottainai Kitchen (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Mottainai Kitchen",
+        "slug": "800798-mottainai-kitchen",
+        "url": "https://mydramalist.com/800798-mottainai-kitchen",
+        "relation": "Japanese compilation"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:26:31.730Z"
+  },
+  {
+    "id": 771249,
+    "slug": "771249-gendai-kaiki-hyaku-monogatari-ni-no-sho",
+    "url": "https://mydramalist.com/771249-gendai-kaiki-hyaku-monogatari-ni-no-sho",
+    "title": "Gendai Kaiki Hyaku Monogatari Ni no Sho",
+    "complete_title": "Gendai Kaiki Hyaku Monogatari Ni no Sho (2020)",
+    "native_title": "現代怪奇百物語 弐之章",
+    "sub_title": "現代怪奇百物語 弐之章 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Gendai Kaiki Hyaku Monogatari Ni no Shou , げんだいかいきひゃくものがたりにのしょう"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 7 min.",
+    "duration_minutes": 67,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Idol Female Lead",
+        "id": "19417"
+      },
+      {
+        "name": "Supernatural Being",
+        "id": "10467"
+      },
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Ghost",
+        "id": "130"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "~~ Release dates: Aug 8, 2020 (Cinema) || Dec 2, 2020 (DVD) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/2wzYx7_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2wzYx7_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2wzYx7_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2wzYx7_4f.jpg",
+        "title": "Gendai Kaiki Hyaku Monogatari Ni no Sho (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Gekijo Ban: Gendai Kaiki Hyaku Monogatari Ichi no Sho",
+        "slug": "771247-gekijo-ban-gendai-kaiki-hyaku-monogatari-ichi-no-sho",
+        "url": "https://mydramalist.com/771247-gekijo-ban-gendai-kaiki-hyaku-monogatari-ichi-no-sho",
+        "relation": "Japanese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:26:37.698Z"
+  },
+  {
+    "id": 800798,
+    "slug": "800798-mottainai-kitchen",
+    "url": "https://mydramalist.com/800798-mottainai-kitchen",
+    "title": "Mottainai Kitchen",
+    "complete_title": "Mottainai Kitchen (2020)",
+    "native_title": "もったいないキッチン",
+    "sub_title": "もったいないキッチン ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Mottainai Kitchin"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "35 min.",
+    "duration_minutes": 35,
+    "content_rating": "Not Yet Rated",
+    "rating": 13,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 13,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Food",
+        "id": "2"
+      },
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Environmental Issues",
+        "id": "2599"
+      },
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "The film follows filmmaker and food activist David Gross from Austria as he discovers the fascinating Japanese concept of \"Mottainai\". Gross travels across Japan driving a mobile kitchen and only cooks with ingredients that others call waste. On his journey, he meets local chefs, farmers, and activists who transform ingredients such as vegetable scraps, wild plants and insects into tasty and sustainable dishes, inspiring him to create recipes for a \"Zero Waste Kitchen Revolution\". (Source: en.jff.jpf.go.jp) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Px5d4L_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Px5d4L_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Px5d4L_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Px5d4L_4f.jpg",
+        "title": "Mottainai Kitchen (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Mottainai Kitchen",
+        "slug": "729571-mottainai-kitchen",
+        "url": "https://mydramalist.com/729571-mottainai-kitchen",
+        "relation": "Japanese original story"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:26:43.158Z"
+  },
+  {
+    "id": 59205,
+    "slug": "59205-ang-halimaw",
+    "url": "https://mydramalist.com/59205-ang-halimaw",
+    "title": "Ang Halimaw",
+    "complete_title": "Ang Halimaw (2020)",
+    "native_title": "Ang Halimaw",
+    "sub_title": "Ang Halimaw ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 7,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Independent Film",
+        "id": "1525"
+      }
+    ],
+    "synopsis": "A group of underground activists takes a 10-year old boy under their wing, while he waits to be reunited with his parents who are high-value targets by Marcos’military. Following the arrest of a cadre, a boy gets uprooted from what he considers home and finds himself under the care of underground activists. The boy is the son of a high ranking couple in the militant movement. There he must wait it out, looking forward to getting a glimpse of his parents who are high on the military’s list. (Source: Cinemalaya) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/1EZ3Qc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1EZ3Qc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1EZ3Qc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1EZ3Qc.jpg",
+        "title": "Ang Halimaw (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/1EZ3Qs.jpg",
+        "hd_url": "https://i.mydramalist.com/1EZ3Qs.jpg",
+        "title": "Ang Halimaw Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/1EZ3Qm.jpg",
+        "hd_url": "https://i.mydramalist.com/1EZ3Qm.jpg",
+        "title": "Ang Halimaw (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Emmanuel Q. Palo",
+          "slug": "people/72453-emmanuel-q-palo",
+          "url": "https://mydramalist.com/people/72453-emmanuel-q-palo",
+          "image_url": "https://i.mydramalist.com/eQNEQ_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eQNEQ_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:26:48.674Z"
+  },
+  {
+    "id": 59207,
+    "slug": "59207-parole",
+    "url": "https://mydramalist.com/59207-parole",
+    "title": "Parole",
+    "complete_title": "Parole (2020)",
+    "native_title": "Parole",
+    "sub_title": "Parole ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 11,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 11,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Ex-Convict Male Lead",
+        "id": "22545"
+      },
+      {
+        "name": "Prison Setting",
+        "id": "22175"
+      },
+      {
+        "name": "Wrongfully Accused",
+        "id": "2153"
+      },
+      {
+        "name": "Independent Film",
+        "id": "1525"
+      }
+    ],
+    "synopsis": "A paroled ex-convict tries to adjust back to society while looking for his long lost friend and his place outside the bars after being imprisoned for 30 long years for a crime he did not commit. After 30 years of being imprisoned for a crime he did not commit, 65-year old Mang Jose must navigate his way in this modern world he couldn’t recognize while trying his best to look for his old friend. As Mang Jose explores his new and bigger cell, he quickly made new friends and tried to start over again despite the struggles to build meaningful relationships. He finds a confidant in Raymond, a noisy but helpful young lad who helps him get comfortable in his new environment. But as things finally start to go well, another tragedy strikes and once again, he is faced to choose between his own freedom and his own truth. (Source: Cinemalaya) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/W3gbWc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/W3gbWc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/W3gbWc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/W3gbWc.jpg",
+        "title": "Parole (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/1zN7K_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/1zN7K_3f.jpg",
+        "title": "Parole Philippines Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/0KWEK_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/0KWEK_3f.jpg",
+        "title": "Parole Philippines Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/W3gbWs.jpg",
+        "hd_url": "https://i.mydramalist.com/W3gbWs.jpg",
+        "title": "Parole Philippines Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/W3gbWm.jpg",
+        "hd_url": "https://i.mydramalist.com/W3gbWm.jpg",
+        "title": "Parole (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Ricky Davao",
+          "slug": "people/18332-ricky-davao",
+          "url": "https://mydramalist.com/people/18332-ricky-davao",
+          "image_url": "https://i.mydramalist.com/4XrDd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4XrDd_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Miguel Almendras",
+          "slug": "people/44547-miguel-almendras",
+          "url": "https://mydramalist.com/people/44547-miguel-almendras",
+          "image_url": "https://i.mydramalist.com/X0d8X_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X0d8X_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Royce Cabrera",
+          "slug": "people/43383-royce-cabrera",
+          "url": "https://mydramalist.com/people/43383-royce-cabrera",
+          "image_url": "https://i.mydramalist.com/eeVg8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eeVg8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Migs Villasis",
+          "slug": "people/44663-miguel-villasis",
+          "url": "https://mydramalist.com/people/44663-miguel-villasis",
+          "image_url": "https://i.mydramalist.com/11Ll7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/11Ll7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Renshi de Guzman",
+          "slug": "people/45947-renshi-de-guzman",
+          "url": "https://mydramalist.com/people/45947-renshi-de-guzman",
+          "image_url": "https://i.mydramalist.com/x4KA2w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4KA2w_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:26:54.553Z"
+  },
+  {
+    "id": 59211,
+    "slug": "59211-kargo",
+    "url": "https://mydramalist.com/59211-kargo",
+    "title": "Cargo",
+    "complete_title": "Cargo (2020)",
+    "native_title": "Kargo",
+    "sub_title": "Kargo ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Kargo"
+    ],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 20 min.",
+    "duration_minutes": 80,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Mental Illness",
+        "id": "2037"
+      },
+      {
+        "name": "Road Movie",
+        "id": "1676"
+      },
+      {
+        "name": "Independent Film",
+        "id": "1525"
+      },
+      {
+        "name": "Depression",
+        "id": "1509"
+      },
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Illness",
+        "id": "624"
+      },
+      {
+        "name": "Revenge",
+        "id": "370"
+      },
+      {
+        "name": "Murder",
+        "id": "270"
+      }
+    ],
+    "synopsis": "Sara carries with her a heavy burden from her past – an encumbrance what will only be relieved when she finally exacts revenge on the man who murdered her entire family. When Sara’s entire family perished in a motorcycle accident at a rough highway in Maasin, Iloilo – she crashed into a deep depression that is now gradually being replaced by an overpowering need to avenge them. She has come to believe that her husband and daughter were murdered and only be exacting revenge on the culprit will she finally find some closure. Having replaced her husband as a truck driver hauling bamboo all over Panay Island, she searches for the man who murdered her entire family. But at the end of her journey she finds something she did not quite expect – a discovery that could profoundly change her entire life. (Source: Cinemalaya) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/03g44_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/03g44_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/03g44_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/03g44_4f.jpg",
+        "title": "Cargo (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/E6KgO_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/E6KgO_3f.jpg",
+        "title": "Cargo Philippines Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/jzkxB_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/jzkxB_3f.jpg",
+        "title": "Cargo Philippines Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/XYWBx_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/XYWBx_3f.jpg",
+        "title": "Cargo Philippines Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/R61XE_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/R61XE_3f.jpg",
+        "title": "Cargo Philippines Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/26pXP_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/26pXP_3f.jpg",
+        "title": "Cargo Philippines Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/q0mxD_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/q0mxD_3f.jpg",
+        "title": "Cargo Philippines Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/pywzr_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/pywzr_3f.jpg",
+        "title": "Cargo (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/16NlQ_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/16NlQ_3f.jpg",
+        "title": "Cargo (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/Zlpd1_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/Zlpd1_3f.jpg",
+        "title": "Cargo (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/06WRO_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/06WRO_3f.jpg",
+        "title": "Cargo (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/rP4z2_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/rP4z2_3f.jpg",
+        "title": "Cargo (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/462j1_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/462j1_3f.jpg",
+        "title": "Cargo (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/62Zydm.jpg",
+        "hd_url": "https://i.mydramalist.com/62Zydm.jpg",
+        "title": "Cargo (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Max Eigenmann",
+          "slug": "people/97829-max-eigenmann",
+          "url": "https://mydramalist.com/people/97829-max-eigenmann",
+          "image_url": "https://i.mydramalist.com/Dk6qKn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Dk6qKn_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [
+        {
+          "name": "Ronnie Lazaro",
+          "slug": "people/18400-ronnie-lazaro",
+          "url": "https://mydramalist.com/people/18400-ronnie-lazaro",
+          "image_url": "https://i.mydramalist.com/EA0rW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EA0rW_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Tara Illenberger",
+          "slug": "people/98957-tara-illenberger",
+          "url": "https://mydramalist.com/people/98957-tara-illenberger",
+          "image_url": "https://i.mydramalist.com/dje5d_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dje5d_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Jess Mendoza",
+          "slug": "people/93641-jess-mendoza",
+          "url": "https://mydramalist.com/people/93641-jess-mendoza",
+          "image_url": "https://i.mydramalist.com/2Vlww_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2Vlww_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:27:00.187Z"
+  },
+  {
+    "id": 59213,
+    "slug": "59213-angkas",
+    "url": "https://mydramalist.com/59213-angkas",
+    "title": "The Backride",
+    "complete_title": "The Backride (2020)",
+    "native_title": "Angkas",
+    "sub_title": "Angkas ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Angkas"
+    ],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 12,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 12,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Independent Film",
+        "id": "1525"
+      },
+      {
+        "name": "Survival",
+        "id": "896"
+      },
+      {
+        "name": "Nudity",
+        "id": "696"
+      },
+      {
+        "name": "Violence",
+        "id": "336"
+      }
+    ],
+    "synopsis": "Two estranged friends rebuild their embittered past as they travel dangerously together in a habal-habal to retrieve a dead pal. Leo Gamut is not just an ordinary habal-habal driver–aside from being the resident ambulance and delivery man of their remote village in Compostella Valley, he is also hired to transport the dead down the mountains for survival. One day on a special assignment, Miguel Jasareno, Leo’s estrange childhood friend from Manila appeared in his doorstep. Miguel paid Leo to join in retrieving the corpse of a rebel pursued by the military. As Leo and Miguel embark on a dangerous journey in a habal-habal in the treacherous Mt. Diwalwal, the duo’s fragile friendship will be tested–forcing them to confront their issues with the dead body from the past. (Source: Cinemalaya) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/Xgy8xc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Xgy8xc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Xgy8xc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Xgy8xc.jpg",
+        "title": "The Backride (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/vV0y2_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/vV0y2_3f.jpg",
+        "title": "The Backride Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/ZlpvL_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/ZlpvL_3f.jpg",
+        "title": "The Backride Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/06W1Y_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/06W1Y_3f.jpg",
+        "title": "The Backride Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/rP4OZ_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/rP4OZ_3f.jpg",
+        "title": "The Backride Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/4623d_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/4623d_3f.jpg",
+        "title": "The Backride Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/wvPVk_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/wvPVk_3f.jpg",
+        "title": "The Backride Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Q6Dpg_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/Q6Dpg_3f.jpg",
+        "title": "The Backride (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/ek7VW_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/ek7VW_3f.jpg",
+        "title": "The Backride (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/E6KPl_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/E6KPl_3f.jpg",
+        "title": "The Backride (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/Xgy8xm.jpg",
+        "hd_url": "https://i.mydramalist.com/Xgy8xm.jpg",
+        "title": "The Backride (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Joem Bascon",
+          "slug": "people/20481-joem-bascon",
+          "url": "https://mydramalist.com/people/20481-joem-bascon",
+          "image_url": "https://i.mydramalist.com/eAvWd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eAvWd_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Benjamin Alves",
+          "slug": "people/19809-benjamin-alves",
+          "url": "https://mydramalist.com/people/19809-benjamin-alves",
+          "image_url": "https://i.mydramalist.com/xVJ4z_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xVJ4z_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Meryll Soriano",
+          "slug": "people/17772-meryll-soriano",
+          "url": "https://mydramalist.com/people/17772-meryll-soriano",
+          "image_url": "https://i.mydramalist.com/rJZZ2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rJZZ2_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mercedes Cabral",
+          "slug": "people/45361-mercedes-cabral",
+          "url": "https://mydramalist.com/people/45361-mercedes-cabral",
+          "image_url": "https://i.mydramalist.com/jb7yr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jb7yr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Soliman Cruz",
+          "slug": "people/64417-soliman-cruz",
+          "url": "https://mydramalist.com/people/64417-soliman-cruz",
+          "image_url": "https://i.mydramalist.com/ZPOD1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZPOD1_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ruby Ruiz",
+          "slug": "people/45809-ruby-ruiz",
+          "url": "https://mydramalist.com/people/45809-ruby-ruiz",
+          "image_url": "https://i.mydramalist.com/dx005_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dx005_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mervyn Brondial",
+          "slug": "people/96613-mervyn-brondial",
+          "url": "https://mydramalist.com/people/96613-mervyn-brondial",
+          "image_url": "https://i.mydramalist.com/qjLb0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qjLb0_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Marcus Asis",
+          "slug": "people/59391-marcus-asis",
+          "url": "https://mydramalist.com/people/59391-marcus-asis",
+          "image_url": "https://i.mydramalist.com/dBoKD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dBoKD_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Darryl Yap",
+          "slug": "people/42383-darryl-yap",
+          "url": "https://mydramalist.com/people/42383-darryl-yap",
+          "image_url": "https://i.mydramalist.com/kYwJmm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kYwJmm.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:27:06.074Z"
+  },
+  {
+    "id": 59215,
+    "slug": "59215-seperate-separate",
+    "url": "https://mydramalist.com/59215-seperate-separate",
+    "title": "Seperate/Separate",
+    "complete_title": "Seperate/Separate (2020)",
+    "native_title": "Seperate/Separate",
+    "sub_title": "Seperate/Separate ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Independent Film",
+        "id": "1525"
+      },
+      {
+        "name": "Child Abandonment",
+        "id": "1051"
+      },
+      {
+        "name": "Competition",
+        "id": "100"
+      }
+    ],
+    "synopsis": "To lull the sorrow after being abandoned by his mother, Justine joins the school spelling bee. (Source: Cinemalaya) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/kYKkwc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/kYKkwc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/kYKkwc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/kYKkwc.jpg",
+        "title": "Seperate/Separate (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/kYKkws.jpg",
+        "hd_url": "https://i.mydramalist.com/kYKkws.jpg",
+        "title": "Seperate/Separate Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/kYKkwm.jpg",
+        "hd_url": "https://i.mydramalist.com/kYKkwm.jpg",
+        "title": "Seperate/Separate (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:27:12.096Z"
+  },
+  {
+    "id": 59217,
+    "slug": "59217-kathoey",
+    "url": "https://mydramalist.com/59217-kathoey",
+    "title": "Kathoey",
+    "complete_title": "Kathoey (2020)",
+    "native_title": "กะเทย",
+    "sub_title": "กะเทย ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 29,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 29,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Sex Industry",
+        "id": "23459"
+      },
+      {
+        "name": "Transgender Main Lead",
+        "id": "20295"
+      },
+      {
+        "name": "Independent Film",
+        "id": "1525"
+      },
+      {
+        "name": "LGBTQ+",
+        "id": "1045"
+      },
+      {
+        "name": "Prostitution",
+        "id": "174"
+      },
+      {
+        "name": "Filmed Abroad",
+        "id": "139"
+      }
+    ],
+    "synopsis": "A conservative Filipino father in search of his estranged trans daughter receives the most unexpected help from a Thai transgender prostitute. Burdened by his desire to fulfill his wife’s wish, Henry, a conservative Filipino father, flies to Thailand to unwillingly look for his estranged trans daughter, Nancy. In his search he encounters Aya, a Thai transgendered prostitute and an acquaintance of his daughter. Together, they embark on a journey amidst the beautiful backdrop of Bangkok to the exotic lands of Phuket while searching not just for a lost loved one, but of a relationship that was fractioned by conservative beliefs and societal norms. (Source: Cinemalaya) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/Qmy5vc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Qmy5vc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Qmy5vc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Qmy5vc.jpg",
+        "title": "Kathoey (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/Qmy5vs.jpg",
+        "hd_url": "https://i.mydramalist.com/Qmy5vs.jpg",
+        "title": "Kathoey Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Qmy5vm.jpg",
+        "hd_url": "https://i.mydramalist.com/Qmy5vm.jpg",
+        "title": "Kathoey (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Paolo Valconcha",
+          "slug": "people/104985-paolo-valconcha",
+          "url": "https://mydramalist.com/people/104985-paolo-valconcha",
+          "image_url": "https://i.mydramalist.com/4R6O1_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4R6O1_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Joris Fernandez",
+          "slug": "people/104987-joris-fernandez",
+          "url": "https://mydramalist.com/people/104987-joris-fernandez",
+          "image_url": "https://i.mydramalist.com/QV6ev_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QV6ev_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:27:18.041Z"
+  },
+  {
+    "id": 59219,
+    "slug": "59219-rhino-girl",
+    "url": "https://mydramalist.com/59219-rhino-girl",
+    "title": "Rhino Girl",
+    "complete_title": "Rhino Girl (2020)",
+    "native_title": "Rhino Girl",
+    "sub_title": "Rhino Girl ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Surgical Procedure",
+        "id": "29878"
+      },
+      {
+        "name": "Independent Film",
+        "id": "1525"
+      },
+      {
+        "name": "Plastic Surgery",
+        "id": "1038"
+      }
+    ],
+    "synopsis": "Two stories of desire for beauty and perfection: A waitress with an average Filipino nose raises funds for her rhinoplasty through a GoFundMe page; a struggling fashion model gets addicted to plastic surgery and finds herself pushing her boundaries to what the price of beauty really is. (Source: Cinemalaya) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/4bx01c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/4bx01c.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/4bx01c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/4bx01c.jpg",
+        "title": "Rhino Girl (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/4bx01s.jpg",
+        "hd_url": "https://i.mydramalist.com/4bx01s.jpg",
+        "title": "Rhino Girl Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/4bx01m.jpg",
+        "hd_url": "https://i.mydramalist.com/4bx01m.jpg",
+        "title": "Rhino Girl (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Jav Velasco",
+          "slug": "people/93173-jav-velasco",
+          "url": "https://mydramalist.com/people/93173-jav-velasco",
+          "image_url": "https://i.mydramalist.com/qZ16Q_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qZ16Q_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:27:24.398Z"
+  },
+  {
+    "id": 59223,
+    "slug": "59223-tell-her",
+    "url": "https://mydramalist.com/59223-tell-her",
+    "title": "Tell Her",
+    "complete_title": "Tell Her (2020)",
+    "native_title": "Bakit Di Mo Sabihin?",
+    "sub_title": "Bakit Di Mo Sabihin? ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Bakit 'Di Mo Sabihin?"
+    ],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "G - All Ages",
+    "rating": 6.22,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 20,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Hearing Impaired Female Lead",
+        "id": "18631"
+      },
+      {
+        "name": "Hearing Impaired Male Lead",
+        "id": "18629"
+      },
+      {
+        "name": "Disabled Male Lead",
+        "id": "15819"
+      },
+      {
+        "name": "Disabled Female Lead",
+        "id": "14997"
+      },
+      {
+        "name": "Mute Male Lead",
+        "id": "13969"
+      },
+      {
+        "name": "Deaf Female Lead",
+        "id": "3887"
+      },
+      {
+        "name": "Sign Language",
+        "id": "3413"
+      },
+      {
+        "name": "Independent Film",
+        "id": "1525"
+      },
+      {
+        "name": "Muteness",
+        "id": "1184"
+      },
+      {
+        "name": "Deafness",
+        "id": "1183"
+      }
+    ],
+    "synopsis": "A mute couple separated and as they decide on what to do with their marriage, they learned that it’s not the disability to speak that tore them apart. (Source: Cinemalaya) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/xDJo3_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/xDJo3_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/xDJo3_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/xDJo3_4f.jpg",
+        "title": "Tell Her (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/W2LB5_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/W2LB5_3f.jpg",
+        "title": "Tell Her Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/vV0nX_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/vV0nX_3f.jpg",
+        "title": "Tell Her Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/16NEb_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/16NEb_3f.jpg",
+        "title": "Tell Her Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/ZlpkY_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/ZlpkY_3f.jpg",
+        "title": "Tell Her Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/06WA6_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/06WA6_3f.jpg",
+        "title": "Tell Her Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/rP4Ep_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/rP4Ep_3f.jpg",
+        "title": "Tell Her Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/462bZ_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/462bZ_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/wvP8Y_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/wvP8Y_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/ek7Eq_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/ek7Eq_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/d8EAK_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/d8EAK_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/B6kml_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/B6kml_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/jzk2v_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/jzk2v_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/XYWgO_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/XYWgO_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/R61kR_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/R61kR_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/26p77_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/26p77_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/B6kmb_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/B6kmb_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/E6Kpl_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/E6Kpl_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/jzk2r_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/jzk2r_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/XYWgZ_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/XYWgZ_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/R61kY_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/R61kY_3f.jpg",
+        "title": "Tell Her (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/1EZ0Qm.jpg",
+        "hd_url": "https://i.mydramalist.com/1EZ0Qm.jpg",
+        "title": "Tell Her (2020)"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "MizMystixism",
+        "author_url": "https://mydramalist.com/profile/mizmystixism",
+        "scores": {
+          "overall": 6.5,
+          "story": 6.5,
+          "acting": 6.5,
+          "music": 6,
+          "rewatch_value": 6
+        },
+        "helpful_votes": 0,
+        "review_text": "Overall 6.5 Story 6.5 Acting/Cast 6.5 Music 6.0 Rewatch Value 6.0 Talking and communicating are two different things. This movie is not about the deaf culture; it’s a story of a mute-deaf couple. They are two people who are different in many ways, yet they fell in love and got married. Two people with different perspectives on life, struggling to keep their marriage. The premise of this movie is ironically showcased that there’s a huge difference between talking and communicating by showing people who are mute and with hearing impairments suffer from a lack of communication in their marriage, just like any normal couple would. In other words, poor communication is a problem between people, and it has nothing to do with one’s disability.Janine Gutierrez and JC de Vera succeed in showing the emotional struggle and tension of two people in a troubled marriage. The facial expression, their gestures, and the way they express every emotion are good, showing the beauty, pain, and chaos of love where no spoken words exist. However, ML and FL do not appear to be as fluent in sign language as those who are deaf and mute and who have ‘spoken’ with sign language their entire lives. It’s understandable that they are actors who learn sign language for the movie, but if you're going to portray a character with a certain condition, at least make it convincing. Even the child actors playing as their children signed more fluently. So, ML and FL succeed in one part and lack in the other. I feel like if they had actually cast PWD actors in lead roles, it would have made this movie better.This movie has good plots, but the storytelling pace is inconsistent. The present day and the flashback are vaguely moving back and forth without much change in appearance to distinguish the different timelines. There are some loose-end plotlines as well, making the flow go flat toward the end.Above all, I praise this movie for its ingenuity and authenticity while presenting the complexity and conflict that we often see in everyday life without really focusing on the disability. It’s one of the rare depictions we’ve seen on the big screen. However, the execution is rather flawed, and the good concept alone is not enough to make it a great movie. Read More Was this review helpful to you?",
+        "has_spoiler": false
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "One Great Love",
+        "slug": "31656-one-great-love",
+        "url": "https://mydramalist.com/31656-one-great-love",
+        "poster_url": "https://i.mydramalist.com/mjxAmt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/mjxAmt.jpg",
+        "year": 2018,
+        "votes": 0
+      }
+    ],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "JC de Vera",
+          "slug": "people/18271-jc-de-vera",
+          "url": "https://mydramalist.com/people/18271-jc-de-vera",
+          "image_url": "https://i.mydramalist.com/Xd45BX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xd45BX_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Janine Gutierrez",
+          "slug": "people/18023-janine-gutierrez",
+          "url": "https://mydramalist.com/people/18023-janine-gutierrez",
+          "image_url": "https://i.mydramalist.com/Bkvzq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bkvzq_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Divine Aucina",
+          "slug": "people/98935-divine-aucina",
+          "url": "https://mydramalist.com/people/98935-divine-aucina",
+          "image_url": "https://i.mydramalist.com/EB0wz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EB0wz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "RJ Agustin",
+          "slug": "people/45547-rj-agustin",
+          "url": "https://mydramalist.com/people/45547-rj-agustin",
+          "image_url": "https://i.mydramalist.com/exDdK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/exDdK_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sunshine Teodoro",
+          "slug": "people/88361-sunshine-teodoro",
+          "url": "https://mydramalist.com/people/88361-sunshine-teodoro",
+          "image_url": "https://i.mydramalist.com/QwmlQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QwmlQ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Althea Ruedas",
+          "slug": "people/111325-althea-ruedas",
+          "url": "https://mydramalist.com/people/111325-althea-ruedas",
+          "image_url": "https://i.mydramalist.com/BQlwb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BQlwb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jon Hilarion Verzosa III",
+          "slug": "people/58507-jon-hilarion-verzosa-iii",
+          "url": "https://mydramalist.com/people/58507-jon-hilarion-verzosa-iii",
+          "image_url": "https://i.mydramalist.com/Xy2Jn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xy2Jn_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lotlot de Leon",
+          "slug": "people/18508-lotlot-de-leon",
+          "url": "https://mydramalist.com/people/18508-lotlot-de-leon",
+          "image_url": "https://i.mydramalist.com/b3682V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b3682V_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Jon Hilarion Verzosa III",
+          "slug": "people/58507-jon-hilarion-verzosa-iii",
+          "url": "https://mydramalist.com/people/58507-jon-hilarion-verzosa-iii",
+          "image_url": "https://i.mydramalist.com/Xy2Jn_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xy2Jn_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Real Florido",
+          "slug": "people/64249-real-florido",
+          "url": "https://mydramalist.com/people/64249-real-florido",
+          "image_url": "https://i.mydramalist.com/6YbX0_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6YbX0_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Tara Illenberger",
+          "slug": "people/98957-tara-illenberger",
+          "url": "https://mydramalist.com/people/98957-tara-illenberger",
+          "image_url": "https://i.mydramalist.com/dje5d_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dje5d_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Vic del Rosario Jr.",
+          "slug": "people/96145-vic-del-rosario-jr",
+          "url": "https://mydramalist.com/people/96145-vic-del-rosario-jr",
+          "image_url": "https://i.mydramalist.com/60n8ej_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/60n8ej_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Vincent del Rosario III",
+          "slug": "people/94263-vincent-del-rosario-iii",
+          "url": "https://mydramalist.com/people/94263-vincent-del-rosario-iii",
+          "image_url": "https://i.mydramalist.com/eeBlE_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eeBlE_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Valerie del Rosario",
+          "slug": "people/97775-valerie-s-del-rosario",
+          "url": "https://mydramalist.com/people/97775-valerie-s-del-rosario",
+          "image_url": "https://i.mydramalist.com/73jEYR_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73jEYR_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "RJ Agustin",
+          "slug": "people/45547-rj-agustin",
+          "url": "https://mydramalist.com/people/45547-rj-agustin",
+          "image_url": "https://i.mydramalist.com/exDdK_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/exDdK_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Victor Medina",
+          "slug": "people/106501-victor-medina",
+          "url": "https://mydramalist.com/people/106501-victor-medina",
+          "image_url": "https://i.mydramalist.com/ZnxrO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZnxrO_5f.jpg",
+          "role_type": "Bit part"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:27:30.326Z"
+  },
+  {
+    "id": 65235,
+    "slug": "65235-fatigued",
+    "url": "https://mydramalist.com/65235-fatigued",
+    "title": "Fatigued",
+    "complete_title": "Fatigued (2020)",
+    "native_title": "Fatigued",
+    "sub_title": "Fatigued ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "11 min.",
+    "duration_minutes": 11,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Horror",
+        "id": "14"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "One night, you overslept because of too much work, now, you must wake up before your nightmare becomes a reality. (Source: Cinemalaya) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/pzR8Q_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pzR8Q_4f.jpg",
+    "trailer_id": "29213",
+    "trailers": [
+      {
+        "id": "29213",
+        "title": "Fatigued Official Trailer",
+        "url": "https://v.mydramalist.com/dc1/dc14e10c0ecf8029a86d27e74d140539.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/pzR8Q_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pzR8Q_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pzR8Q_4f.jpg",
+        "title": "Fatigued (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Yayo Aguila",
+          "slug": "people/17774-yayo-aguila",
+          "url": "https://mydramalist.com/people/17774-yayo-aguila",
+          "image_url": "https://i.mydramalist.com/2RgYW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2RgYW_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "James Robin Mayo",
+          "slug": "people/79789-james-robin-mayo",
+          "url": "https://mydramalist.com/people/79789-james-robin-mayo",
+          "image_url": "https://i.mydramalist.com/vYW5D_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vYW5D_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Joris Fernandez",
+          "slug": "people/104987-joris-fernandez",
+          "url": "https://mydramalist.com/people/104987-joris-fernandez",
+          "image_url": "https://i.mydramalist.com/QV6ev_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QV6ev_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:27:36.854Z"
+  },
+  {
+    "id": 65237,
+    "slug": "65237-living-things",
+    "url": "https://mydramalist.com/65237-living-things",
+    "title": "Living Things",
+    "complete_title": "Living Things (2020)",
+    "native_title": "Living Things",
+    "sub_title": "Living Things ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "11 min.",
+    "duration_minutes": 11,
+    "content_rating": "G - All Ages",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "Kints wakes up and discovers that her decade-long lover Charles has turned into a cardboard standee of himself. (Source: Cinemalaya) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/2XZqO_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2XZqO_4f.jpg",
+    "trailer_id": "29211",
+    "trailers": [
+      {
+        "id": "29211",
+        "title": "Living Things Official Trailer",
+        "url": "https://v.mydramalist.com/508/508cb643c0ea0e2f6451bba7aa5cfb64.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/2XZqO_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2XZqO_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2XZqO_4f.jpg",
+        "title": "Living Things (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Martika Ramirez",
+          "slug": "people/90961-martika-ramirez",
+          "url": "https://mydramalist.com/people/90961-martika-ramirez",
+          "image_url": "https://i.mydramalist.com/BYVn6_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BYVn6_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Carlos Mauricio",
+          "slug": "people/102815-carlos-mauricio",
+          "url": "https://mydramalist.com/people/102815-carlos-mauricio",
+          "image_url": "https://i.mydramalist.com/qep2D_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qep2D_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Lawrence Ang",
+          "slug": "people/102813-lawrence-ang",
+          "url": "https://mydramalist.com/people/102813-lawrence-ang",
+          "image_url": "https://i.mydramalist.com/QwVdv_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QwVdv_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Tin Velasco",
+          "slug": "people/158406-tin-velasco",
+          "url": "https://mydramalist.com/people/158406-tin-velasco",
+          "image_url": "https://i.mydramalist.com/KpOOev_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/KpOOev_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:27:43.567Z"
+  },
+  {
+    "id": 65255,
+    "slug": "65255-utwas",
+    "url": "https://mydramalist.com/65255-utwas",
+    "title": "Utwas",
+    "complete_title": "Utwas (2020)",
+    "native_title": "Utwas",
+    "sub_title": "Utwas ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "11 min.",
+    "duration_minutes": 11,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Sports",
+        "id": "31"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Diving",
+        "id": "1335"
+      },
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "Toto discovers more of the ocean as he tries to learn how to dive and fish. (Source: Cinemalaya) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/2XZzE_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2XZzE_4f.jpg",
+    "trailer_id": "29209",
+    "trailers": [
+      {
+        "id": "29209",
+        "title": "Utwas Official Trailer",
+        "url": "https://v.mydramalist.com/992/992293aa502a94d9d76d1d0313c00873.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/2XZzE_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2XZzE_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2XZzE_4f.jpg",
+        "title": "Utwas (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T13:27:50.448Z"
   }
 ]
