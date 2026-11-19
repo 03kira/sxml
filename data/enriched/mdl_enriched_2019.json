@@ -840512,5 +840512,4852 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-19T23:03:31.798Z"
+  },
+  {
+    "id": 40963,
+    "slug": "40963-mirage-restaurant",
+    "url": "https://mydramalist.com/40963-mirage-restaurant",
+    "title": "Mirage Restaurant",
+    "complete_title": "Mirage Restaurant (2019)",
+    "native_title": "신기루식당",
+    "sub_title": "신기루식당 ‧ TV Program ‧ 2019",
+    "also_known_as": [
+      "신기루식당"
+    ],
+    "type": "TV Program",
+    "country": "South Korea",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": 2,
+    "aired_string": "Sep 19, 2019 - Sep 26, 2019",
+    "aired_start": "2019-09-19",
+    "aired_end": "2019-09-26",
+    "aired_on": [
+      "Thursday"
+    ],
+    "original_network": "MBC",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "15+ - Teens 15 or older",
+    "rating": 16,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 16,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Food",
+        "id": "2"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Restaurant Setting",
+        "id": "22061"
+      },
+      {
+        "name": "G.o.d.",
+        "id": "12125"
+      },
+      {
+        "name": "VIXX",
+        "id": "606"
+      },
+      {
+        "name": "Cooking Show",
+        "id": "380"
+      }
+    ],
+    "synopsis": "Top chef and celebrity crew from all over the world wander around the unfamiliar villages and unfamiliar ingredients of Korea, opening a magical restaurant for a day! English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/RZbbrc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RZbbrc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RZbbrc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RZbbrc.jpg",
+        "title": "Mirage Restaurant (2019) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/RZbbrs.jpg",
+        "hd_url": "https://i.mydramalist.com/RZbbrs.jpg",
+        "title": "Mirage Restaurant Korean TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/RZbbrm.jpg",
+        "hd_url": "https://i.mydramalist.com/RZbbrm.jpg",
+        "title": "Mirage Restaurant (2019)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Joon Park",
+          "slug": "people/8544-park-joon",
+          "url": "https://mydramalist.com/people/8544-park-joon",
+          "image_url": "https://i.mydramalist.com/kA0Wod_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kA0Wod_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Jung Yoo Mi",
+          "slug": "people/196-jung-yoo-mi",
+          "url": "https://mydramalist.com/people/196-jung-yoo-mi",
+          "image_url": "https://i.mydramalist.com/X5lpO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X5lpO_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Ravi",
+          "slug": "people/11653-ravi",
+          "url": "https://mydramalist.com/people/11653-ravi",
+          "image_url": "https://i.mydramalist.com/BdrgY6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BdrgY6_5f.jpg",
+          "role_type": "Main Host"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Mirage Restaurant Episode 1",
+        "url": "https://mydramalist.com/40963-mirage-restaurant/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RZbbrm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RZbbrm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Mirage Restaurant Episode 2",
+        "url": "https://mydramalist.com/40963-mirage-restaurant/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RZbbrm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RZbbrm.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T23:03:44.229Z"
+  },
+  {
+    "id": 52841,
+    "slug": "52841-young-maid",
+    "url": "https://mydramalist.com/52841-young-maid",
+    "title": "Young Maid",
+    "complete_title": "Young Maid (2019)",
+    "native_title": "어린 식모",
+    "sub_title": "어린 식모 ‧ Movie ‧ 2019",
+    "also_known_as": [
+      "어린 식모"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 20 min.",
+    "duration_minutes": 80,
+    "content_rating": "Not Yet Rated",
+    "rating": 21,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 21,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Melodrama",
+        "id": "33"
+      },
+      {
+        "name": "Mature",
+        "id": "40"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Erotic",
+        "id": "789"
+      },
+      {
+        "name": "Nudity",
+        "id": "696"
+      },
+      {
+        "name": "Extreme Sexual Content",
+        "id": "428"
+      }
+    ],
+    "synopsis": "Seung-jae, a house owner in his 30s, lives with his nephew Joon-hyeok, but has a hard time doing the chores and so hires a maid. Se-kyeong is an innocent girl who doesn't know much about sex, but she's good with the house work. The two men are excited to have Se-kyeong around and she's happy they are. To Seung-jae, Se-kyeong looks young and innocent, while she appeals as a woman to Joon-hyeok. Seung-jae uses her innocence to teach her things and Joon-hyeok finally makes a video to tell her how her feels about her. Who will Se-kyeong choose? (Source: Hancinema) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/RrbXEc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RrbXEc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RrbXEc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RrbXEc.jpg",
+        "title": "Young Maid (2019) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/RrbXEs.jpg",
+        "hd_url": "https://i.mydramalist.com/RrbXEs.jpg",
+        "title": "Young Maid Korean Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/RrbXEm.jpg",
+        "hd_url": "https://i.mydramalist.com/RrbXEm.jpg",
+        "title": "Young Maid (2019)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Min Do Yoon",
+          "slug": "people/15065-min-do-yoon",
+          "url": "https://mydramalist.com/people/15065-min-do-yoon",
+          "image_url": "https://i.mydramalist.com/6PlB2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6PlB2_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jeon Bo Ra",
+          "slug": "people/15063-jun-bo-ra",
+          "url": "https://mydramalist.com/people/15063-jun-bo-ra",
+          "image_url": "https://i.mydramalist.com/x1y5r_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x1y5r_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T23:03:51.484Z"
+  },
+  {
+    "id": 34463,
+    "slug": "34463-plerng-rissaya",
+    "url": "https://mydramalist.com/34463-plerng-rissaya",
+    "title": "Plerng Rissaya",
+    "complete_title": "Plerng Rissaya (2019)",
+    "native_title": "เพลิงริษยา",
+    "sub_title": "เพลิงริษยา ‧ Drama ‧ 2019",
+    "also_known_as": [
+      "Burning Desire , Phloeng Ritsaya"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": 29,
+    "aired_string": "Sep 18, 2019 - Nov 6, 2019",
+    "aired_start": "2019-09-18",
+    "aired_end": "2019-11-06",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "original_network": "Channel 8",
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "Not Yet Rated",
+    "rating": 5.443,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 43,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "Kaew is a poor young girl with a grandmother addicted to gambling. Her mother is in jail for the murder of her stepfather, who tried to rape her. She's grown up in neglect and abuse, forced to make money to sustain her grandmother's habit and support her own education. She does it all; waitressing, handing out flowers, even coyote dancing. Outside her family, Kaew has Jet, a good close friend who's secretly been in love with her since they were kids; he's her closest confident and will do anything to help her. Another of her close friends is Net, but Net harbours secret feelings of jealousy. When, while working as a server in an ice cream parlor, she meets Phum, a warm and kind businessman, he's immediately Kaew's dream guy, but Kaew mistakenly thinks that Phum already has a family. Mimi, or Mirin, is a high-class girl who graduates from a foreign country with a rich boyfriend. Mirin becomes Kaew's best friend, helping Kaew in all matters. As Kaew's position in society begins to elevate, she wants to be like Mirin: beautiful, rich, charming, and loved by Everyone. She will do whatever it takes to defeat Mirin, even snatch her lover. (Source: Thai = thairath.co.th || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/xm03qc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/xm03qc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/xm03qc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/xm03qc.jpg",
+        "title": "Plerng Rissaya (2019) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/VXDrrx_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/VXDrrx_3f.jpg",
+        "title": "Plerng Rissaya Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/DkWqq5_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/DkWqq5_3f.jpg",
+        "title": "Plerng Rissaya Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/PxDQQz_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/PxDQQz_3f.jpg",
+        "title": "Plerng Rissaya Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/oQlAAL_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/oQlAAL_3f.jpg",
+        "title": "Plerng Rissaya Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/mOYJJ2_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/mOYJJ2_3f.jpg",
+        "title": "Plerng Rissaya Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/jQVQxr_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/jQVQxr_3f.jpg",
+        "title": "Plerng Rissaya Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/xm03qm.jpg",
+        "hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "title": "Plerng Rissaya (2019)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sophie Marguerite Indracusin",
+          "slug": "people/17152-sophie-marguerite-indracusin",
+          "url": "https://mydramalist.com/people/17152-sophie-marguerite-indracusin",
+          "image_url": "https://i.mydramalist.com/elDpps.jpg",
+          "image_hd_url": "https://i.mydramalist.com/elDpps.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Sandy Chalida Klampan",
+          "slug": "people/15311-klampan-chalida",
+          "url": "https://mydramalist.com/people/15311-klampan-chalida",
+          "image_url": "https://i.mydramalist.com/Rgl26_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rgl26_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Nat Nattaraht Maurice Legrand",
+          "slug": "people/9952-legrand-nattaraht-maurice",
+          "url": "https://mydramalist.com/people/9952-legrand-nattaraht-maurice",
+          "image_url": "https://i.mydramalist.com/Kp8Ybv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Kp8Ybv_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Mark Apiwit Jakthreemongkol",
+          "slug": "people/15291-jakthreemongkol-apiwit",
+          "url": "https://mydramalist.com/people/15291-jakthreemongkol-apiwit",
+          "image_url": "https://i.mydramalist.com/Px45dR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Px45dR_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Sine Inthira Charoenpura",
+          "slug": "people/7190-intira-jaroenpura",
+          "url": "https://mydramalist.com/people/7190-intira-jaroenpura",
+          "image_url": "https://i.mydramalist.com/EmD8l_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EmD8l_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tai Penpak Sirikul",
+          "slug": "people/13725-sirikul-penpak",
+          "url": "https://mydramalist.com/people/13725-sirikul-penpak",
+          "image_url": "https://i.mydramalist.com/x3xqy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x3xqy_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "David Asavanond",
+          "slug": "people/21832-david-asavanond",
+          "url": "https://mydramalist.com/people/21832-david-asavanond",
+          "image_url": "https://i.mydramalist.com/VXVVZO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXVVZO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Por Parnlekha Wanmuang",
+          "slug": "people/23377-parnlekha-wanmuang",
+          "url": "https://mydramalist.com/people/23377-parnlekha-wanmuang",
+          "image_url": "https://i.mydramalist.com/D8BZos.jpg",
+          "image_hd_url": "https://i.mydramalist.com/D8BZos.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jake Sattawat Doonwichit",
+          "slug": "people/9943-doonwichit-sattawat",
+          "url": "https://mydramalist.com/people/9943-doonwichit-sattawat",
+          "image_url": "https://i.mydramalist.com/BBAL6s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BBAL6s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Eed Duangjai Hathaikarn",
+          "slug": "people/19518-daungjai-hathaikarn",
+          "url": "https://mydramalist.com/people/19518-daungjai-hathaikarn",
+          "image_url": "https://i.mydramalist.com/g03bDv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g03bDv_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Non Chanon Thibkanok",
+          "slug": "people/7295-non-charnon",
+          "url": "https://mydramalist.com/people/7295-non-charnon",
+          "image_url": "https://i.mydramalist.com/ABoeXs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABoeXs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mim Rattanapond Klinkulabhiran",
+          "slug": "people/23286-rattanapond-klinkulabhiran",
+          "url": "https://mydramalist.com/people/23286-rattanapond-klinkulabhiran",
+          "image_url": "https://i.mydramalist.com/AvR03s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/AvR03s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "In Nattharinphon Phrommin",
+          "slug": "people/10213-yuenyong-intira",
+          "url": "https://mydramalist.com/people/10213-yuenyong-intira",
+          "image_url": "https://i.mydramalist.com/JB6B5j_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB6B5j_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Andear Chakriya Dechmark",
+          "slug": "people/111117-andear-chakriya-dechmark",
+          "url": "https://mydramalist.com/people/111117-andear-chakriya-dechmark",
+          "image_url": "https://i.mydramalist.com/dbBDW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dbBDW_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Im Achita Sikamana",
+          "slug": "people/9655-sikamana-achita",
+          "url": "https://mydramalist.com/people/9655-sikamana-achita",
+          "image_url": "https://i.mydramalist.com/0X8q7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0X8q7_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Tae Panraphol Wisitwatcharamongkol",
+          "slug": "people/23478-tatphong-phongtat",
+          "url": "https://mydramalist.com/people/23478-tatphong-phongtat",
+          "image_url": "https://i.mydramalist.com/pW1wVs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pW1wVs.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Asadawut Luangsuntorn",
+          "slug": "people/22603-asadawut-luangsuntorn",
+          "url": "https://mydramalist.com/people/22603-asadawut-luangsuntorn",
+          "image_url": "https://i.mydramalist.com/qqxl5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qqxl5m.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Dee Patthama Panthong",
+          "slug": "people/29653-patthama-panthong",
+          "url": "https://mydramalist.com/people/29653-patthama-panthong",
+          "image_url": "https://i.mydramalist.com/WmZ1Ps.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WmZ1Ps.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Plerng Rissaya Episode 1",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/1",
+        "air_date": "2019-09-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Plerng Rissaya Episode 2",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/2",
+        "air_date": "2019-09-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Plerng Rissaya Episode 3",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/3",
+        "air_date": "2019-09-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Plerng Rissaya Episode 4",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/4",
+        "air_date": "2019-09-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Plerng Rissaya Episode 5",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/5",
+        "air_date": "2019-09-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Plerng Rissaya Episode 6",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/6",
+        "air_date": "2019-09-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Plerng Rissaya Episode 7",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/7",
+        "air_date": "2019-09-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Plerng Rissaya Episode 8",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/8",
+        "air_date": "2019-10-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Plerng Rissaya Episode 9",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/9",
+        "air_date": "2019-10-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Plerng Rissaya Episode 10",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/10",
+        "air_date": "2019-10-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Plerng Rissaya Episode 11",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/11",
+        "air_date": "2019-10-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Plerng Rissaya Episode 12",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/12",
+        "air_date": "2019-10-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Plerng Rissaya Episode 13",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/13",
+        "air_date": "2019-10-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Plerng Rissaya Episode 14",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/14",
+        "air_date": "2019-10-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Plerng Rissaya Episode 15",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/15",
+        "air_date": "2019-10-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Plerng Rissaya Episode 16",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/16",
+        "air_date": "2019-10-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Plerng Rissaya Episode 17",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/17",
+        "air_date": "2019-10-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Plerng Rissaya Episode 18",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/18",
+        "air_date": "2019-10-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Plerng Rissaya Episode 19",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/19",
+        "air_date": "2019-10-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Plerng Rissaya Episode 20",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/20",
+        "air_date": "2019-10-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Plerng Rissaya Episode 21",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/21",
+        "air_date": "2019-10-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Plerng Rissaya Episode 22",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/22",
+        "air_date": "2019-10-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Plerng Rissaya Episode 23",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/23",
+        "air_date": "2019-10-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Plerng Rissaya Episode 24",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/24",
+        "air_date": "2019-10-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "Plerng Rissaya Episode 25",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/25",
+        "air_date": "2019-10-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "Plerng Rissaya Episode 26",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/26",
+        "air_date": "2019-10-31",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "Plerng Rissaya Episode 27",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/27",
+        "air_date": "2019-11-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "Plerng Rissaya Episode 28",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/28",
+        "air_date": "2019-11-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 29,
+        "title": "Plerng Rissaya Episode 29",
+        "url": "https://mydramalist.com/34463-plerng-rissaya/episode/29",
+        "air_date": "2019-11-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/xm03qm.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T23:03:56.873Z"
+  },
+  {
+    "id": 52539,
+    "slug": "52539-vroom-marble-game",
+    "url": "https://mydramalist.com/52539-vroom-marble-game",
+    "title": "Vroom Marble Game",
+    "complete_title": "Vroom Marble Game (2019)",
+    "native_title": "붕붕마블",
+    "sub_title": "붕붕마블 ‧ TV Program ‧ 2019",
+    "also_known_as": [
+      "붕붕마블"
+    ],
+    "type": "TV Program",
+    "country": "South Korea",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": 3,
+    "aired_string": "Sep 17, 2019 - Oct 1, 2019",
+    "aired_start": "2019-09-17",
+    "aired_end": "2019-10-01",
+    "aired_on": [
+      "Monday"
+    ],
+    "original_network": "tvN",
+    "duration_string": "12 min.",
+    "duration_minutes": 12,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 6.913,
+    "scored_by": 6,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 13,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [],
+    "synopsis": "A variety show featuring Son Ho-jun and his friends as they go through a trip with random stops and fun games on their way to his hometown, Jeolla Province. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/q8wX0c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/q8wX0c.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/q8wX0c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/q8wX0c.jpg",
+        "title": "Vroom Marble Game (2019) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/q8wX0s.jpg",
+        "hd_url": "https://i.mydramalist.com/q8wX0s.jpg",
+        "title": "Vroom Marble Game Korean TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/q8wX0m.jpg",
+        "hd_url": "https://i.mydramalist.com/q8wX0m.jpg",
+        "title": "Vroom Marble Game (2019)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Son Ho Jun",
+          "slug": "people/3891-son-ho-jun",
+          "url": "https://mydramalist.com/people/3891-son-ho-jun",
+          "image_url": "https://i.mydramalist.com/jQAxrB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQAxrB_5f.jpg",
+          "role_type": "Main Host"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Vroom Marble Game Episode 1",
+        "url": "https://mydramalist.com/52539-vroom-marble-game/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/q8wX0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/q8wX0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Vroom Marble Game Episode 2",
+        "url": "https://mydramalist.com/52539-vroom-marble-game/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/q8wX0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/q8wX0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Vroom Marble Game Episode 3",
+        "url": "https://mydramalist.com/52539-vroom-marble-game/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/q8wX0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/q8wX0m.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T23:04:03.421Z"
+  },
+  {
+    "id": 75229,
+    "slug": "75229-fool-and-idiot",
+    "url": "https://mydramalist.com/75229-fool-and-idiot",
+    "title": "Fool And Idiot",
+    "complete_title": "Fool And Idiot (2019)",
+    "native_title": "병신과 머저리",
+    "sub_title": "병신과 머저리 ‧ Drama ‧ 2019",
+    "also_known_as": [],
+    "type": "Drama",
+    "country": "South Korea",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": 8,
+    "aired_string": "Sep 17, 2019 - Oct 11, 2019",
+    "aired_start": "2019-09-17",
+    "aired_end": "2019-10-11",
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "5 min.",
+    "duration_minutes": 5,
+    "content_rating": "Not Yet Rated",
+    "rating": 5.835,
+    "scored_by": 3,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 35,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Length Series",
+        "id": "18003"
+      },
+      {
+        "name": "Miniseries",
+        "id": "964"
+      },
+      {
+        "name": "Web Series",
+        "id": "466"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/p3gnn_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/p3gnn_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/p3gnn_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/p3gnn_4f.jpg",
+        "title": "Fool And Idiot (2019) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Yang Jung In",
+          "slug": "people/53733-yang-jung-in",
+          "url": "https://mydramalist.com/people/53733-yang-jung-in",
+          "image_url": "https://i.mydramalist.com/k3qer_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/k3qer_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Guk Ji Yong",
+          "slug": "people/53679-guk-ji-yong",
+          "url": "https://mydramalist.com/people/53679-guk-ji-yong",
+          "image_url": "https://i.mydramalist.com/ENQpp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ENQpp_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Yoon Ji Hye",
+          "slug": "people/19124-yoon-ji-hye",
+          "url": "https://mydramalist.com/people/19124-yoon-ji-hye",
+          "image_url": "https://i.mydramalist.com/WemKP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WemKP_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Cho Yun Seo",
+          "slug": "people/9469-yoon-seo",
+          "url": "https://mydramalist.com/people/9469-yoon-seo",
+          "image_url": "https://i.mydramalist.com/nOYlYQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOYlYQ_5f.jpg",
+          "role_type": "Bit part"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Fool And Idiot Episode 1",
+        "url": "https://mydramalist.com/75229-fool-and-idiot/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/p3gnn_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/p3gnn_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Fool And Idiot Episode 2",
+        "url": "https://mydramalist.com/75229-fool-and-idiot/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/p3gnn_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/p3gnn_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Fool And Idiot Episode 3",
+        "url": "https://mydramalist.com/75229-fool-and-idiot/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/p3gnn_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/p3gnn_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Fool And Idiot Episode 4",
+        "url": "https://mydramalist.com/75229-fool-and-idiot/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/p3gnn_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/p3gnn_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Fool And Idiot Episode 5",
+        "url": "https://mydramalist.com/75229-fool-and-idiot/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/p3gnn_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/p3gnn_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Fool And Idiot Episode 6",
+        "url": "https://mydramalist.com/75229-fool-and-idiot/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/p3gnn_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/p3gnn_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Fool And Idiot Episode 7",
+        "url": "https://mydramalist.com/75229-fool-and-idiot/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/p3gnn_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/p3gnn_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Fool And Idiot Episode 8",
+        "url": "https://mydramalist.com/75229-fool-and-idiot/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/p3gnn_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/p3gnn_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T23:04:09.983Z"
+  },
+  {
+    "id": 49483,
+    "slug": "49483-wataru-seken-wa-oni-bakari-sp",
+    "url": "https://mydramalist.com/49483-wataru-seken-wa-oni-bakari-sp",
+    "title": "Wataru Seken wa Oni Bakari: 3 Jikan Special",
+    "complete_title": "Wataru Seken wa Oni Bakari: 3 Jikan Special (2019)",
+    "native_title": "渡る世間は鬼ばかり 3時間スペシャル",
+    "sub_title": "渡る世間は鬼ばかり 3時間スペシャル ‧ Drama ‧ 2019",
+    "also_known_as": [
+      "Hashida Sugako Drama: Wataru Seken wa Oni Bakari: 2019 3-Jikan Special , Making It Through: 2019 3 Hour Special , Relentlessness Is Found Everywhere: 2019 3 Hour Special , The World Is Filled With Bad People Only: 2019 3 Hour Special , Wataoni 2019 , Wataru Seken wa Oni Bakari SP , はしだすがこドラマ わたるせけんはおにばかり2019ねん3じかんスペシャル , 橋田壽賀子ドラマ 渡る世間は鬼ばかり2019年3時間スペシャル , 渡る世間は鬼ばかりSP , 渡鬼2019"
+    ],
+    "type": "Drama",
+    "country": "Japan",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": 1,
+    "aired_string": "Sep 16, 2019",
+    "aired_start": "2019-09-16",
+    "aired_end": "2019-09-16",
+    "aired_on": [],
+    "original_network": "TBS",
+    "duration_string": "2 hr. 57 min.",
+    "duration_minutes": 177,
+    "content_rating": "Not Yet Rated",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Family",
+        "id": "29"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/eRLDec.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/eRLDec.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/eRLDec.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/eRLDec.jpg",
+        "title": "Wataru Seken wa Oni Bakari: 3 Jikan Special (2019) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/eRLDes.jpg",
+        "hd_url": "https://i.mydramalist.com/eRLDes.jpg",
+        "title": "Wataru Seken wa Oni Bakari: 3 Jikan Special Japanese Drama(2019) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/eRLDem.jpg",
+        "hd_url": "https://i.mydramalist.com/eRLDem.jpg",
+        "title": "Wataru Seken wa Oni Bakari: 3 Jikan Special (2019)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Wataru Seken wa Oni Bakari: 3 Jikan Special",
+        "slug": "754941-wataru-seken-wa-oni-bakari-3-jikan-special",
+        "url": "https://mydramalist.com/754941-wataru-seken-wa-oni-bakari-3-jikan-special",
+        "relation": "Japanese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Izumi Pinko",
+          "slug": "people/2679-izumi-pinko",
+          "url": "https://mydramalist.com/people/2679-izumi-pinko",
+          "image_url": "https://i.mydramalist.com/0yol4s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0yol4s.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Nagayama Aiko",
+          "slug": "people/15409-nagayama-aiko",
+          "url": "https://mydramalist.com/people/15409-nagayama-aiko",
+          "image_url": "https://i.mydramalist.com/prdZn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/prdZn_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nakada Yoshiko",
+          "slug": "people/9449-nakada-yoshiko",
+          "url": "https://mydramalist.com/people/9449-nakada-yoshiko",
+          "image_url": "https://i.mydramalist.com/VXAejO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXAejO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nomura Mami",
+          "slug": "people/39477-nomura-mami",
+          "url": "https://mydramalist.com/people/39477-nomura-mami",
+          "image_url": "https://i.mydramalist.com/ZkwXJs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZkwXJs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Fujita Tomoko",
+          "slug": "people/21873-fujita-tomoko",
+          "url": "https://mydramalist.com/people/21873-fujita-tomoko",
+          "image_url": "https://i.mydramalist.com/vXo60Z_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXo60Z_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nomura Akiko",
+          "slug": "people/2949-nomura-akiko",
+          "url": "https://mydramalist.com/people/2949-nomura-akiko",
+          "image_url": "https://i.mydramalist.com/0NX2Os.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0NX2Os.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hasegawa Jun",
+          "slug": "people/997-hasegawa-jun",
+          "url": "https://mydramalist.com/people/997-hasegawa-jun",
+          "image_url": "https://i.mydramalist.com/JB6jbm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB6jbm_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Maeda Gin",
+          "slug": "people/3354-maeda-gin",
+          "url": "https://mydramalist.com/people/3354-maeda-gin",
+          "image_url": "https://i.mydramalist.com/l0A4vJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0A4vJ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mabuchi Erika",
+          "slug": "people/14164-mabuchi-erica",
+          "url": "https://mydramalist.com/people/14164-mabuchi-erica",
+          "image_url": "https://i.mydramalist.com/VX2Jrv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VX2Jrv_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kadono Takuzo",
+          "slug": "people/1835-kadono-takuzo",
+          "url": "https://mydramalist.com/people/1835-kadono-takuzo",
+          "image_url": "https://i.mydramalist.com/25y8w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/25y8w_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Enari Kazuki",
+          "slug": "people/2907-enari-kazuki",
+          "url": "https://mydramalist.com/people/2907-enari-kazuki",
+          "image_url": "https://i.mydramalist.com/pwe4Q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pwe4Q_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shimizu Yuki",
+          "slug": "people/108843-shimizu-yuki",
+          "url": "https://mydramalist.com/people/108843-shimizu-yuki",
+          "image_url": "https://i.mydramalist.com/EKNvb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EKNvb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yoshimura Ryo",
+          "slug": "people/52575-yoshimura-ryo",
+          "url": "https://mydramalist.com/people/52575-yoshimura-ryo",
+          "image_url": "https://i.mydramalist.com/qjbvd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qjbvd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Murata Takehiro",
+          "slug": "people/2955-murata-takehiro",
+          "url": "https://mydramalist.com/people/2955-murata-takehiro",
+          "image_url": "https://i.mydramalist.com/kZq7k_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kZq7k_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ando Miyu",
+          "slug": "people/7882-ando-miyu",
+          "url": "https://mydramalist.com/people/7882-ando-miyu",
+          "image_url": "https://i.mydramalist.com/g06nBX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g06nBX_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Okamoto Nobuto",
+          "slug": "people/33779-okamoto-nobuto",
+          "url": "https://mydramalist.com/people/33779-okamoto-nobuto",
+          "image_url": "https://i.mydramalist.com/k6NVd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/k6NVd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nakajima Shoko",
+          "slug": "people/41387-nakajima-shoko",
+          "url": "https://mydramalist.com/people/41387-nakajima-shoko",
+          "image_url": "https://i.mydramalist.com/b38pEL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b38pEL_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Enomoto Tatsuo",
+          "slug": "people/56321-enomoto-tatsuo",
+          "url": "https://mydramalist.com/people/56321-enomoto-tatsuo",
+          "image_url": "https://i.mydramalist.com/WzQy5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WzQy5_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Niwa Sadahito",
+          "slug": "people/2948-niwa-sadahito",
+          "url": "https://mydramalist.com/people/2948-niwa-sadahito",
+          "image_url": "https://i.mydramalist.com/X0A0w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X0A0w_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nishihara Aki",
+          "slug": "people/1868-nishihara-aki",
+          "url": "https://mydramalist.com/people/1868-nishihara-aki",
+          "image_url": "https://i.mydramalist.com/xxNJE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xxNJE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Watanabe Kenkichi",
+          "slug": "people/4859-watanabe-kenkichi",
+          "url": "https://mydramalist.com/people/4859-watanabe-kenkichi",
+          "image_url": "https://i.mydramalist.com/xnbYX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xnbYX_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mitamura Kunihiko",
+          "slug": "people/4751-mitamura-kunihiko",
+          "url": "https://mydramalist.com/people/4751-mitamura-kunihiko",
+          "image_url": "https://i.mydramalist.com/oQ676E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQ676E_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sato B-saku",
+          "slug": "people/4901-sato-b-saku",
+          "url": "https://mydramalist.com/people/4901-sato-b-saku",
+          "image_url": "https://i.mydramalist.com/RQ6PP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RQ6PP_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tokushige Satoshi",
+          "slug": "people/9115-tokushige-satoshi",
+          "url": "https://mydramalist.com/people/9115-tokushige-satoshi",
+          "image_url": "https://i.mydramalist.com/3oAWJA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3oAWJA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Uekusa Katsuhide",
+          "slug": "people/38721-uekusa-katsuhide",
+          "url": "https://mydramalist.com/people/38721-uekusa-katsuhide",
+          "image_url": "https://i.mydramalist.com/vyxlBs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vyxlBs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Otani Rena",
+          "slug": "people/56837-otani-rena",
+          "url": "https://mydramalist.com/people/56837-otani-rena",
+          "image_url": "https://i.mydramalist.com/jZPVz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jZPVz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kobayashi Ayako",
+          "slug": "people/2944-kobayashi-ayako",
+          "url": "https://mydramalist.com/people/2944-kobayashi-ayako",
+          "image_url": "https://i.mydramalist.com/jXAprs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jXAprs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Onozuka Hayato",
+          "slug": "people/10888-onozuka-hayato",
+          "url": "https://mydramalist.com/people/10888-onozuka-hayato",
+          "image_url": "https://i.mydramalist.com/YYDB1W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYDB1W_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kamimura Kyoko",
+          "slug": "people/59095-kamimura-kyoko",
+          "url": "https://mydramalist.com/people/59095-kamimura-kyoko",
+          "image_url": "https://i.mydramalist.com/BZxkb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BZxkb_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Matsumura Yuki",
+          "slug": "people/6394-matsumura-yuki",
+          "url": "https://mydramalist.com/people/6394-matsumura-yuki",
+          "image_url": "https://i.mydramalist.com/WvQdms.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WvQdms.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Ito Takaaki",
+          "slug": "people/49347-ito-takaaki",
+          "url": "https://mydramalist.com/people/49347-ito-takaaki",
+          "image_url": "https://i.mydramalist.com/xnY5N_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xnY5N_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Ichimaru Kazuyo",
+          "slug": "people/56835-ichimaru-kazuyo",
+          "url": "https://mydramalist.com/people/56835-ichimaru-kazuyo",
+          "image_url": "https://i.mydramalist.com/v1K7X_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v1K7X_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Kaneuchi Kikuo",
+          "slug": "people/109973-kaneuchi-kikuo",
+          "url": "https://mydramalist.com/people/109973-kaneuchi-kikuo",
+          "image_url": "https://i.mydramalist.com/4268w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4268w_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Hasegawa Tetsuo",
+          "slug": "people/33385-hasegawa-tetsuo",
+          "url": "https://mydramalist.com/people/33385-hasegawa-tetsuo",
+          "image_url": "https://i.mydramalist.com/6mXJd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6mXJd_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Kiyohiro Makoto",
+          "slug": "people/52479-kiyohiro-makoto",
+          "url": "https://mydramalist.com/people/52479-kiyohiro-makoto",
+          "image_url": "https://i.mydramalist.com/p37oE_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/p37oE_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Hashida Sugako",
+          "slug": "people/29271-hashida-sugako",
+          "url": "https://mydramalist.com/people/29271-hashida-sugako",
+          "image_url": "https://i.mydramalist.com/Wm8ERm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Wm8ERm.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Ishizaka Koji",
+          "slug": "people/3435-ishizaka-koji",
+          "url": "https://mydramalist.com/people/3435-ishizaka-koji",
+          "image_url": "https://i.mydramalist.com/d3RJ5_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d3RJ5_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Ishii Fukuko",
+          "slug": "people/60171-ishii-fukuko",
+          "url": "https://mydramalist.com/people/60171-ishii-fukuko",
+          "image_url": "https://i.mydramalist.com/rXLrN_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rXLrN_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Wataru Seken wa Oni Bakari: 3 Jikan Special Episode 1",
+        "url": "https://mydramalist.com/49483-wataru-seken-wa-oni-bakari-sp/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/rNE2dm_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/rNE2dm_3f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T23:04:18.425Z"
+  },
+  {
+    "id": 742583,
+    "slug": "742583-aged-not-old",
+    "url": "https://mydramalist.com/742583-aged-not-old",
+    "title": "Aged Not Old",
+    "complete_title": "Aged Not Old (2019)",
+    "native_title": "長命不老",
+    "sub_title": "長命不老 ‧ TV Program ‧ 2019",
+    "also_known_as": [
+      "Chang Ming Bu Lao , Cheung Meng But Lo , 长命不老"
+    ],
+    "type": "TV Program",
+    "country": "Hong Kong",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": 15,
+    "aired_string": "Sep 16, 2019 - Oct 5, 2019",
+    "aired_start": "2019-09-16",
+    "aired_end": "2019-10-05",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "original_network": "TVB Jade",
+    "duration_string": "30 min.",
+    "duration_minutes": 30,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/1YnRQ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1YnRQ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "title": "Aged Not Old (2019) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Chris Lai",
+          "slug": "people/2352-lai-chris",
+          "url": "https://mydramalist.com/people/2352-lai-chris",
+          "image_url": "https://i.mydramalist.com/p15Xb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/p15Xb_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Mayanne Mak",
+          "slug": "people/80417-mayanne-mak",
+          "url": "https://mydramalist.com/people/80417-mayanne-mak",
+          "image_url": "https://i.mydramalist.com/X6OYg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X6OYg_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Gloria Tang",
+          "slug": "people/7449-tang-gloria",
+          "url": "https://mydramalist.com/people/7449-tang-gloria",
+          "image_url": "https://i.mydramalist.com/wrDoY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wrDoY_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Joey Thye",
+          "slug": "people/35821-joey-thye",
+          "url": "https://mydramalist.com/people/35821-joey-thye",
+          "image_url": "https://i.mydramalist.com/g0PLVv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0PLVv_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Telford Wong",
+          "slug": "people/22208-telford-wong",
+          "url": "https://mydramalist.com/people/22208-telford-wong",
+          "image_url": "https://i.mydramalist.com/Lx3jbs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lx3jbs.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Tania Chan",
+          "slug": "people/85051-tania-chan",
+          "url": "https://mydramalist.com/people/85051-tania-chan",
+          "image_url": "https://i.mydramalist.com/vBkyX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vBkyX_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Justin Wong",
+          "slug": "people/10091-wong-ho-ting",
+          "url": "https://mydramalist.com/people/10091-wong-ho-ting",
+          "image_url": "https://i.mydramalist.com/wJnDbn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJnDbn_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Sammy Leung",
+          "slug": "people/4662-leung-sammy",
+          "url": "https://mydramalist.com/people/4662-leung-sammy",
+          "image_url": "https://i.mydramalist.com/mOZyqq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mOZyqq_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Linda Wong",
+          "slug": "people/111913-linda-wong",
+          "url": "https://mydramalist.com/people/111913-linda-wong",
+          "image_url": "https://i.mydramalist.com/Rq68x_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rq68x_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Sammi Cheung",
+          "slug": "people/4913-cheung-sammi",
+          "url": "https://mydramalist.com/people/4913-cheung-sammi",
+          "image_url": "https://i.mydramalist.com/aEwQbs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/aEwQbs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Judy Kwong",
+          "slug": "people/43325-judy-kwong",
+          "url": "https://mydramalist.com/people/43325-judy-kwong",
+          "image_url": "https://i.mydramalist.com/RNq76_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RNq76_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "James Ng",
+          "slug": "people/4882-ng-james",
+          "url": "https://mydramalist.com/people/4882-ng-james",
+          "image_url": "https://i.mydramalist.com/MXxQZs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/MXxQZs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Jim Yan",
+          "slug": "people/88961-jim-yan",
+          "url": "https://mydramalist.com/people/88961-jim-yan",
+          "image_url": "https://i.mydramalist.com/kbgld_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kbgld_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Donald Tong",
+          "slug": "people/84045-donald-tong",
+          "url": "https://mydramalist.com/people/84045-donald-tong",
+          "image_url": "https://i.mydramalist.com/4WLBw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4WLBw_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "C Kwan",
+          "slug": "people/13592-kwan-c",
+          "url": "https://mydramalist.com/people/13592-kwan-c",
+          "image_url": "https://i.mydramalist.com/Y8dDAs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Y8dDAs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Kitty Yuen",
+          "slug": "people/11121-yuen-kitty",
+          "url": "https://mydramalist.com/people/11121-yuen-kitty",
+          "image_url": "https://i.mydramalist.com/Q2YA6s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Q2YA6s.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Gordon Siu",
+          "slug": "people/53577-gordon-siu",
+          "url": "https://mydramalist.com/people/53577-gordon-siu",
+          "image_url": "https://i.mydramalist.com/BK201_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BK201_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Crystal Fung",
+          "slug": "people/17849-fung-crystal",
+          "url": "https://mydramalist.com/people/17849-fung-crystal",
+          "image_url": "https://i.mydramalist.com/dwdxbs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dwdxbs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Kaman Kong",
+          "slug": "people/14086-kong-kaman",
+          "url": "https://mydramalist.com/people/14086-kong-kaman",
+          "image_url": "https://i.mydramalist.com/6g5Qps.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6g5Qps.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Andrew Yuen",
+          "slug": "people/42785-andrew-yuen",
+          "url": "https://mydramalist.com/people/42785-andrew-yuen",
+          "image_url": "https://i.mydramalist.com/jmYmJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jmYmJ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Billy Luk",
+          "slug": "people/9827-luk-wing-keun",
+          "url": "https://mydramalist.com/people/9827-luk-wing-keun",
+          "image_url": "https://i.mydramalist.com/wOY4gs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wOY4gs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Luk Ho Ming",
+          "slug": "people/108031-luk-ho-ming",
+          "url": "https://mydramalist.com/people/108031-luk-ho-ming",
+          "image_url": "https://i.mydramalist.com/46WPY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/46WPY_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Roxanne Tong",
+          "slug": "people/11515-tong-roxanne",
+          "url": "https://mydramalist.com/people/11515-tong-roxanne",
+          "image_url": "https://i.mydramalist.com/kWW18s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kWW18s.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Brian Tse",
+          "slug": "people/3185-tse-brian",
+          "url": "https://mydramalist.com/people/3185-tse-brian",
+          "image_url": "https://i.mydramalist.com/rjPem_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rjPem_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Kayee Tam",
+          "slug": "people/42549-kayee-tam",
+          "url": "https://mydramalist.com/people/42549-kayee-tam",
+          "image_url": "https://i.mydramalist.com/j4EAds.jpg",
+          "image_hd_url": "https://i.mydramalist.com/j4EAds.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Bonnie Chan",
+          "slug": "people/111915-bonnie-chan",
+          "url": "https://mydramalist.com/people/111915-bonnie-chan",
+          "image_url": "https://i.mydramalist.com/BQ62b_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BQ62b_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Samantha Ko",
+          "slug": "people/4746-ko-samantha",
+          "url": "https://mydramalist.com/people/4746-ko-samantha",
+          "image_url": "https://i.mydramalist.com/Kpkq0X_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Kpkq0X_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Aged Not Old Episode 1",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Aged Not Old Episode 2",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Aged Not Old Episode 3",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Aged Not Old Episode 4",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Aged Not Old Episode 5",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Aged Not Old Episode 6",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Aged Not Old Episode 7",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Aged Not Old Episode 8",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Aged Not Old Episode 9",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Aged Not Old Episode 10",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Aged Not Old Episode 11",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Aged Not Old Episode 12",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Aged Not Old Episode 13",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Aged Not Old Episode 14",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Aged Not Old Episode 15",
+        "url": "https://mydramalist.com/742583-aged-not-old/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1YnRQ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1YnRQ_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T23:04:25.220Z"
+  },
+  {
+    "id": 775429,
+    "slug": "775429-the-voice-thailand-2019",
+    "url": "https://mydramalist.com/775429-the-voice-thailand-2019",
+    "title": "The Voice Thailand 2019",
+    "complete_title": "The Voice Thailand 2019",
+    "native_title": "เดอะวอยซ์ไทยแลนด์ เสียงจริง ตัวจริง ฤดูกาลที่ 8",
+    "sub_title": "เดอะวอยซ์ไทยแลนด์ เสียงจริง ตัวจริง ฤดูกาลที่ 8 ‧ TV Program ‧ 2019",
+    "also_known_as": [
+      "The Voice 2019 , The Voice Thailand Season 8 , The Voice Thailand Siang Jing Tua Jing Season 8 , เดอะวอยซ์ไทยแลนด์ เสียงจริง ตัวจริง ซีซั่น 8"
+    ],
+    "type": "TV Program",
+    "country": "Thailand",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": 15,
+    "aired_string": "Sep 16, 2019 - Dec 23, 2019",
+    "aired_start": "2019-09-16",
+    "aired_end": "2019-12-23",
+    "aired_on": [
+      "Monday"
+    ],
+    "original_network": "PPTV",
+    "duration_string": "1 hr. 20 min.",
+    "duration_minutes": 80,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Non-MDL Remake",
+        "id": "22737"
+      },
+      {
+        "name": "Singing",
+        "id": "1343"
+      },
+      {
+        "name": "Competition",
+        "id": "100"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/WPeoNO_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/WPeoNO_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "title": "The Voice Thailand 2019 poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Kob Songsit Rungnopakunsi",
+          "slug": "people/15480-rungnopakunsi-songsit",
+          "url": "https://mydramalist.com/people/15480-rungnopakunsi-songsit",
+          "image_url": "https://i.mydramalist.com/4OnQY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4OnQY_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Pop Pongkool Suebsung",
+          "slug": "people/39595-pongkool-suebsung",
+          "url": "https://mydramalist.com/people/39595-pongkool-suebsung",
+          "image_url": "https://i.mydramalist.com/Wz3BP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Wz3BP_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Jennifer Kim",
+          "slug": "people/23287-jennifer-kim",
+          "url": "https://mydramalist.com/people/23287-jennifer-kim",
+          "image_url": "https://i.mydramalist.com/WQqkOs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WQqkOs.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Kong Saharat Sangkapricha",
+          "slug": "people/8754-sangkapricha-saharat",
+          "url": "https://mydramalist.com/people/8754-sangkapricha-saharat",
+          "image_url": "https://i.mydramalist.com/5QoPYs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5QoPYs.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Joey Boy",
+          "slug": "people/9547-boy-joey",
+          "url": "https://mydramalist.com/people/9547-boy-joey",
+          "image_url": "https://i.mydramalist.com/0EryK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0EryK_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Voice Thailand 2019 Episode 1",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/1",
+        "air_date": "2019-09-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "The Voice Thailand 2019 Episode 2",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/2",
+        "air_date": "2019-09-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "The Voice Thailand 2019 Episode 3",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/3",
+        "air_date": "2019-09-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "The Voice Thailand 2019 Episode 4",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/4",
+        "air_date": "2019-10-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "The Voice Thailand 2019 Episode 5",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/5",
+        "air_date": "2019-10-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "The Voice Thailand 2019 Episode 6",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/6",
+        "air_date": "2019-10-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "The Voice Thailand 2019 Episode 7",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/7",
+        "air_date": "2019-10-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "The Voice Thailand 2019 Episode 8",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/8",
+        "air_date": "2019-11-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "The Voice Thailand 2019 Episode 9",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/9",
+        "air_date": "2019-11-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "The Voice Thailand 2019 Episode 10",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/10",
+        "air_date": "2019-11-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "The Voice Thailand 2019 Episode 11",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/11",
+        "air_date": "2019-11-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "The Voice Thailand 2019 Episode 12",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/12",
+        "air_date": "2019-12-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "The Voice Thailand 2019 Episode 13",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/13",
+        "air_date": "2019-12-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "The Voice Thailand 2019 Episode 14",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/14",
+        "air_date": "2019-12-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "The Voice Thailand 2019 Episode 15",
+        "url": "https://mydramalist.com/775429-the-voice-thailand-2019/episode/15",
+        "air_date": "2019-12-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/WPeoNO_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WPeoNO_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T23:04:32.103Z"
+  },
+  {
+    "id": 703439,
+    "slug": "703439-sick-s-ka-no-sho",
+    "url": "https://mydramalist.com/703439-sick-s-ka-no-sho",
+    "title": "SICK'S - Kyu no Sho",
+    "complete_title": "SICK'S - Kyu no Sho (2019)",
+    "native_title": "SICK’S 厩乃抄",
+    "sub_title": "SICK’S 厩乃抄 ‧ Drama ‧ 2019",
+    "also_known_as": [
+      "SICK’S 厩乃抄 ～内閣情報調査室特務事項専従係事件簿～"
+    ],
+    "type": "Drama",
+    "country": "Japan",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": 5,
+    "aired_string": "Sep 15, 2019 - Nov 19, 2019",
+    "aired_start": "2019-09-15",
+    "aired_end": "2019-11-19",
+    "aired_on": [
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Paravi",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 5.475,
+    "scored_by": 7,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 75,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Detective Fiction",
+        "id": "19157"
+      },
+      {
+        "name": "Detective Male Lead",
+        "id": "17623"
+      },
+      {
+        "name": "Detective Female Lead",
+        "id": "17621"
+      },
+      {
+        "name": "Miniseries",
+        "id": "964"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/EbByp_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/EbByp_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/EbByp_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/EbByp_4f.jpg",
+        "title": "SICK'S - Kyu no Sho (2019) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "SICK'S - Ha no Sho",
+        "slug": "703437-sick-s-ha-no-sho",
+        "url": "https://mydramalist.com/703437-sick-s-ha-no-sho",
+        "relation": "Japanese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Kimura Fumino",
+          "slug": "people/4176-kimura-fumino",
+          "url": "https://mydramalist.com/people/4176-kimura-fumino",
+          "image_url": "https://i.mydramalist.com/wJW5qp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJW5qp_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Matsuda Shota",
+          "slug": "people/228-matsuda-shota",
+          "url": "https://mydramalist.com/people/228-matsuda-shota",
+          "image_url": "https://i.mydramalist.com/RmWeR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RmWeR_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Ryu Raita",
+          "slug": "people/1199-ryu-raita",
+          "url": "https://mydramalist.com/people/1199-ryu-raita",
+          "image_url": "https://i.mydramalist.com/O8LbRk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8LbRk_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kuroshima Yuina",
+          "slug": "people/8162-kuroshima-yuina",
+          "url": "https://mydramalist.com/people/8162-kuroshima-yuina",
+          "image_url": "https://i.mydramalist.com/pYmxD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pYmxD_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Takuma Shin",
+          "slug": "people/6813-takuma-shin",
+          "url": "https://mydramalist.com/people/6813-takuma-shin",
+          "image_url": "https://i.mydramalist.com/jwqzB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jwqzB_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Namioka Kazuki",
+          "slug": "people/2020-namioka-kazuki",
+          "url": "https://mydramalist.com/people/2020-namioka-kazuki",
+          "image_url": "https://i.mydramalist.com/EqBqW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EqBqW_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shinkawa Yua",
+          "slug": "people/4192-shinkawa-yua",
+          "url": "https://mydramalist.com/people/4192-shinkawa-yua",
+          "image_url": "https://i.mydramalist.com/b3r56x_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b3r56x_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Takasugi Koh",
+          "slug": "people/16521-takasugi-koh",
+          "url": "https://mydramalist.com/people/16521-takasugi-koh",
+          "image_url": "https://i.mydramalist.com/61nAP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/61nAP_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sugawara Takuma",
+          "slug": "people/14133-sugawara-takuma",
+          "url": "https://mydramalist.com/people/14133-sugawara-takuma",
+          "image_url": "https://i.mydramalist.com/73J61N_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73J61N_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hamada Manabu",
+          "slug": "people/3828-hamada-manabu",
+          "url": "https://mydramalist.com/people/3828-hamada-manabu",
+          "image_url": "https://i.mydramalist.com/2eV37_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2eV37_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tokui Yu",
+          "slug": "people/2701-tokui-yuu",
+          "url": "https://mydramalist.com/people/2701-tokui-yuu",
+          "image_url": "https://i.mydramalist.com/WAJWD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WAJWD_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Okabe Nao",
+          "slug": "people/21363-okabe-nao",
+          "url": "https://mydramalist.com/people/21363-okabe-nao",
+          "image_url": "https://i.mydramalist.com/0v234s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0v234s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shimizu Hazuki",
+          "slug": "people/15829-shimizu-hazuki",
+          "url": "https://mydramalist.com/people/15829-shimizu-hazuki",
+          "image_url": "https://i.mydramalist.com/l0Z8xJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0Z8xJ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Haogo",
+          "slug": "people/18659-yano-koji",
+          "url": "https://mydramalist.com/people/18659-yano-koji",
+          "image_url": "https://i.mydramalist.com/WDZg5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WDZg5_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sakou Yoshi",
+          "slug": "people/23107-sakou-yoshi",
+          "url": "https://mydramalist.com/people/23107-sakou-yoshi",
+          "image_url": "https://i.mydramalist.com/QJ8b1v_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJ8b1v_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ugaki Misato",
+          "slug": "people/72451-ugaki-misato",
+          "url": "https://mydramalist.com/people/72451-ugaki-misato",
+          "image_url": "https://i.mydramalist.com/4zR4w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4zR4w_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Funatsu Ryoga",
+          "slug": "people/24095-funatsu-ryoga",
+          "url": "https://mydramalist.com/people/24095-funatsu-ryoga",
+          "image_url": "https://i.mydramalist.com/qY5gBd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qY5gBd_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Tsutsumi Yukihiko",
+          "slug": "people/17085-tsutsumi-yukihiko",
+          "url": "https://mydramalist.com/people/17085-tsutsumi-yukihiko",
+          "image_url": "https://i.mydramalist.com/xw6wwm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xw6wwm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "SICK'S - Kyu no Sho Episode 1",
+        "url": "https://mydramalist.com/703439-sick-s-ka-no-sho/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/EbByp_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/EbByp_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "SICK'S - Kyu no Sho Episode 2",
+        "url": "https://mydramalist.com/703439-sick-s-ka-no-sho/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/EbByp_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/EbByp_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "SICK'S - Kyu no Sho Episode 3",
+        "url": "https://mydramalist.com/703439-sick-s-ka-no-sho/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/EbByp_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/EbByp_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "SICK'S - Kyu no Sho Episode 4",
+        "url": "https://mydramalist.com/703439-sick-s-ka-no-sho/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/EbByp_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/EbByp_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "SICK'S - Kyu no Sho Episode 5",
+        "url": "https://mydramalist.com/703439-sick-s-ka-no-sho/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/EbByp_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/EbByp_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T23:04:39.025Z"
+  },
+  {
+    "id": 716429,
+    "slug": "716429-listening-to-the-air",
+    "url": "https://mydramalist.com/716429-listening-to-the-air",
+    "title": "Listening to the Air",
+    "complete_title": "Listening to the Air (2019)",
+    "native_title": "空に聞く",
+    "sub_title": "空に聞く ‧ Movie ‧ 2019",
+    "also_known_as": [
+      "Sora ni Kiku"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 13 min.",
+    "duration_minutes": 73,
+    "content_rating": "G - All Ages",
+    "rating": 14,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 14,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Broadcasting Industry",
+        "id": "25361"
+      },
+      {
+        "name": "Countryside Setting",
+        "id": "21951"
+      },
+      {
+        "name": "Disaster",
+        "id": "111"
+      }
+    ],
+    "synopsis": "The 2011 Tohoku earthquake and tsunami destroyed large parts of the small town of Rikuzentakata. Here, Hiromi ABE hosts a radio show in which she reports on local events and interviews the residents. She focuses not only on the time after the disaster and the ongoing rebuilding of the community but also on recording personal stories. (Source: IMDb) ~~ Premiered at \"Aichi Triennale 2019\" ~ ~Theatrical Release Date: November 21, 2020 English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/0k2xK_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/0k2xK_4f.jpg",
+    "trailer_id": "30169",
+    "trailers": [
+      {
+        "id": "30169",
+        "title": "Listening to the Air Official Trailer",
+        "url": "https://v.mydramalist.com/d41/d41296e46a7324f6cc171f27ca576572.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/0k2xK_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/0k2xK_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/0k2xK_4f.jpg",
+        "title": "Listening to the Air (2019) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Komori Haruka",
+          "slug": "people/89415-komori-haruka",
+          "url": "https://mydramalist.com/people/89415-komori-haruka",
+          "image_url": "https://i.mydramalist.com/2Kgzw_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2Kgzw_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T23:04:46.108Z"
+  },
+  {
+    "id": 753615,
+    "slug": "753615-happy-champion-season-1",
+    "url": "https://mydramalist.com/753615-happy-champion-season-1",
+    "title": "Happy Champion",
+    "complete_title": "Happy Champion (2019)",
+    "native_title": "즐거운 챔피언 시즌1",
+    "sub_title": "즐거운 챔피언 시즌1 ‧ TV Program ‧ 2019",
+    "also_known_as": [
+      "Happy Champion 1 , Happy Champion Season 1 , Jeulgeoun Chaempieon 1 , Jeulgeoun Chaempieon Sijeun 1 , March of the Ants Season 1 , 즐거운 챔피언1"
+    ],
+    "type": "TV Program",
+    "country": "South Korea",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": 1,
+    "aired_string": "Sep 15, 2019",
+    "aired_start": "2019-09-15",
+    "aired_end": "2019-09-15",
+    "aired_on": [],
+    "original_network": "KBS1",
+    "duration_string": "55 min.",
+    "duration_minutes": 55,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/2wQLlR_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2wQLlR_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2wQLlR_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2wQLlR_4f.jpg",
+        "title": "Happy Champion (2019) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Happy Champion Season 2",
+        "slug": "753617-happy-champion-season-2",
+        "url": "https://mydramalist.com/753617-happy-champion-season-2",
+        "relation": "Korean sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Happy Champion Episode 1",
+        "url": "https://mydramalist.com/753615-happy-champion-season-1/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/2wQLlR_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/2wQLlR_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T23:04:53.419Z"
+  },
+  {
+    "id": 40401,
+    "slug": "40401-circa",
+    "url": "https://mydramalist.com/40401-circa",
+    "title": "Circa",
+    "complete_title": "Circa (2019)",
+    "native_title": "Circa",
+    "sub_title": "Circa ‧ Movie ‧ 2019",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 40 min.",
+    "duration_minutes": 100,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.611,
+    "scored_by": 4,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 11,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Entertainment Industry",
+        "id": "2264"
+      },
+      {
+        "name": "Film Industry",
+        "id": "1347"
+      }
+    ],
+    "synopsis": "Doña Atang, a once celebrated film producer from the earlier years of Filipino cinema, celebrates her one hundredth birthday. For her wish, she simply wants a reunion with all the actors and staff that she has worked with in the past. (Source: IMDb) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/Bxby6c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Bxby6c.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Bxby6c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Bxby6c.jpg",
+        "title": "Circa (2019) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bxby6s.jpg",
+        "hd_url": "https://i.mydramalist.com/Bxby6s.jpg",
+        "title": "Circa Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bxby6m.jpg",
+        "hd_url": "https://i.mydramalist.com/Bxby6m.jpg",
+        "title": "Circa (2019)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Anita Linda",
+          "slug": "people/20482-anita-linda",
+          "url": "https://mydramalist.com/people/20482-anita-linda",
+          "image_url": "https://i.mydramalist.com/2wrXkP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wrXkP_5f.jpg",
+          "character": "Doña Atang",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Enchong Dee",
+          "slug": "people/17706-enchong-dee",
+          "url": "https://mydramalist.com/people/17706-enchong-dee",
+          "image_url": "https://i.mydramalist.com/RzkLR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RzkLR_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Elizabeth Oropesa",
+          "slug": "people/40663-jacqueline-elizabeth",
+          "url": "https://mydramalist.com/people/40663-jacqueline-elizabeth",
+          "image_url": "https://i.mydramalist.com/0kwBN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0kwBN_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Rustica Carpio",
+          "slug": "people/39705-rustica-carpio",
+          "url": "https://mydramalist.com/people/39705-rustica-carpio",
+          "image_url": "https://i.mydramalist.com/68OB0s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/68OB0s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Erlinda Villalobos",
+          "slug": "people/45235-erlinda-villalobos",
+          "url": "https://mydramalist.com/people/45235-erlinda-villalobos",
+          "image_url": "https://i.mydramalist.com/dJq1D_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dJq1D_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Adolfo Alix Jr.",
+          "slug": "people/32663-adolfo-alix-jr",
+          "url": "https://mydramalist.com/people/32663-adolfo-alix-jr",
+          "image_url": "https://i.mydramalist.com/b3rvW6_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b3rvW6_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Jerome Zamora",
+          "slug": "people/96623-jerome-zamora",
+          "url": "https://mydramalist.com/people/96623-jerome-zamora",
+          "image_url": "https://i.mydramalist.com/jnL8y_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jnL8y_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Arthur Maningas",
+          "slug": "people/99991-arthur-maningas",
+          "url": "https://mydramalist.com/people/99991-arthur-maningas",
+          "image_url": "https://i.mydramalist.com/x0DxN_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x0DxN_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Aian Caro",
+          "slug": "people/103981-aian-caro",
+          "url": "https://mydramalist.com/people/103981-aian-caro",
+          "image_url": "https://i.mydramalist.com/jKNq8_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jKNq8_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Perla Bautista",
+          "slug": "people/18278-perla-bautista",
+          "url": "https://mydramalist.com/people/18278-perla-bautista",
+          "image_url": "https://i.mydramalist.com/wVN1ns.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wVN1ns.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Ricky Davao",
+          "slug": "people/18332-ricky-davao",
+          "url": "https://mydramalist.com/people/18332-ricky-davao",
+          "image_url": "https://i.mydramalist.com/4XrDd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4XrDd_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Alessandra de Rossi",
+          "slug": "people/17633-alessandra-de-rossi",
+          "url": "https://mydramalist.com/people/17633-alessandra-de-rossi",
+          "image_url": "https://i.mydramalist.com/mOLwz0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mOLwz0_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Eddie Garcia",
+          "slug": "people/17803-eddie-garcia",
+          "url": "https://mydramalist.com/people/17803-eddie-garcia",
+          "image_url": "https://i.mydramalist.com/Nr7bvs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Nr7bvs.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Jaclyn Jose",
+          "slug": "people/20396-jaclyn-jose",
+          "url": "https://mydramalist.com/people/20396-jaclyn-jose",
+          "image_url": "https://i.mydramalist.com/kVDlvs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kVDlvs.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Allan Paule",
+          "slug": "people/20940-allan-paule",
+          "url": "https://mydramalist.com/people/20940-allan-paule",
+          "image_url": "https://i.mydramalist.com/qrg30_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qrg30_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Gina Alajar",
+          "slug": "people/39997-gina-alajar",
+          "url": "https://mydramalist.com/people/39997-gina-alajar",
+          "image_url": "https://i.mydramalist.com/ZZjr7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZZjr7_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Geraldine Villamil",
+          "slug": "people/115625-geraldine-villamil",
+          "url": "https://mydramalist.com/people/115625-geraldine-villamil",
+          "image_url": "https://i.mydramalist.com/XdjO5d_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdjO5d_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Divine Tetay",
+          "slug": "people/100085-kenneth-ocampo",
+          "url": "https://mydramalist.com/people/100085-kenneth-ocampo",
+          "image_url": "https://i.mydramalist.com/jd55J_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jd55J_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Rener Concepcion",
+          "slug": "people/89143-rener-concepcion",
+          "url": "https://mydramalist.com/people/89143-rener-concepcion",
+          "image_url": "https://i.mydramalist.com/W4d4R_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W4d4R_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Laurice Guillen",
+          "slug": "people/40689-laurice-guillen",
+          "url": "https://mydramalist.com/people/40689-laurice-guillen",
+          "image_url": "https://i.mydramalist.com/xl3eq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xl3eq_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T23:05:00.310Z"
+  },
+  {
+    "id": 40445,
+    "slug": "40445-mga-mata-sa-dilim",
+    "url": "https://mydramalist.com/40445-mga-mata-sa-dilim",
+    "title": "Mga Mata sa Dilim",
+    "complete_title": "Mga Mata sa Dilim (2019)",
+    "native_title": "Mga Mata sa Dilim",
+    "sub_title": "Mga Mata sa Dilim ‧ Movie ‧ 2019",
+    "also_known_as": [
+      "Eyes in the Dark"
+    ],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 31 min.",
+    "duration_minutes": 91,
+    "content_rating": "Not Yet Rated",
+    "rating": 8.012,
+    "scored_by": 2,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 12,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "When Juancho, a wealthy and powerful businessman, gets embroiled in a dangerous feud with a syndicate competitor, he ships Sui, his beautiful mistress, out to a secure, remote island where he holds meetings and monitors his drug operations via high-tech system of cameras. There, Sui meets Borgy, a mysterious bodyguard who, in reality, is an undercover cop sent to bring down the drug lord. Their constant contact eventually sparks a romantic attraction. Unknown to them, Juancho discovers their tryst via hidden cameras. Faced with an ultimatum, Sui must choose between Juancho, the millionaire, or Borgy, the bodyguard. Borgy, on the other hand, is torn between upholding his duty or risking his mission by helping someone he has fallen in love with. Together, they must find a way out of the island before Juancho hunts them down. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/RZgYoc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RZgYoc.jpg",
+    "trailer_id": "41410",
+    "trailers": [
+      {
+        "id": "41410",
+        "title": "Mga Mata sa Dilim Official Trailer",
+        "url": "https://v.mydramalist.com/a0d/a0d5b283cb5fc43b41097fc63ce92b17.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/RZgYoc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RZgYoc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RZgYoc.jpg",
+        "title": "Mga Mata sa Dilim (2019) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/RZgYos.jpg",
+        "hd_url": "https://i.mydramalist.com/RZgYos.jpg",
+        "title": "Mga Mata sa Dilim Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bx3B6s.jpg",
+        "hd_url": "https://i.mydramalist.com/Bx3B6s.jpg",
+        "title": "Mga Mata sa Dilim Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/RZgYom.jpg",
+        "hd_url": "https://i.mydramalist.com/RZgYom.jpg",
+        "title": "Mga Mata sa Dilim (2019)"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bx3B6m.jpg",
+        "hd_url": "https://i.mydramalist.com/Bx3B6m.jpg",
+        "title": "Mga Mata sa Dilim (2019)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Derek Ramsay",
+          "slug": "people/17687-derek-ramsay",
+          "url": "https://mydramalist.com/people/17687-derek-ramsay",
+          "image_url": "https://i.mydramalist.com/mVVxPs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mVVxPs.jpg",
+          "character": "Borgy",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jessy Mendiola",
+          "slug": "people/18732-jessy-mendiola",
+          "url": "https://mydramalist.com/people/18732-jessy-mendiola",
+          "image_url": "https://i.mydramalist.com/p46res.jpg",
+          "image_hd_url": "https://i.mydramalist.com/p46res.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Joko Diaz",
+          "slug": "people/91219-joko-diaz",
+          "url": "https://mydramalist.com/people/91219-joko-diaz",
+          "image_url": "https://i.mydramalist.com/2KbPV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2KbPV_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Benj Manalo",
+          "slug": "people/40565-benj-manalo",
+          "url": "https://mydramalist.com/people/40565-benj-manalo",
+          "image_url": "https://i.mydramalist.com/vry5X_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vry5X_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lui Manansala",
+          "slug": "people/20878-lui-manansala",
+          "url": "https://mydramalist.com/people/20878-lui-manansala",
+          "image_url": "https://i.mydramalist.com/lJB66s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/lJB66s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mary Joy Apostol",
+          "slug": "people/36595-mary-joy-apostol",
+          "url": "https://mydramalist.com/people/36595-mary-joy-apostol",
+          "image_url": "https://i.mydramalist.com/BKEEA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BKEEA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lourdes Serrano",
+          "slug": "people/134757-lourdes-serrano",
+          "url": "https://mydramalist.com/people/134757-lourdes-serrano",
+          "image_url": "https://i.mydramalist.com/d0oQRD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d0oQRD_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Eddie Ngo",
+          "slug": "people/42177-eddie-ngo",
+          "url": "https://mydramalist.com/people/42177-eddie-ngo",
+          "image_url": "https://i.mydramalist.com/rw7zZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rw7zZ_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Jhon Mark Marcia",
+          "slug": "people/145040-jhon-mark-marcia",
+          "url": "https://mydramalist.com/people/145040-jhon-mark-marcia",
+          "image_url": "https://i.mydramalist.com/73XP5n_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73XP5n_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Roman Perez Jr.",
+          "slug": "people/79889-roman-perez-jr",
+          "url": "https://mydramalist.com/people/79889-roman-perez-jr",
+          "image_url": "https://i.mydramalist.com/xDOvX_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xDOvX_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Joel Ruiz",
+          "slug": "people/106937-joel-ruiz",
+          "url": "https://mydramalist.com/people/106937-joel-ruiz",
+          "image_url": "https://i.mydramalist.com/vVomX_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vVomX_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Enzo Williams",
+          "slug": "people/98803-enzo-williams",
+          "url": "https://mydramalist.com/people/98803-enzo-williams",
+          "image_url": "https://i.mydramalist.com/XD1Xd_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XD1Xd_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Rico Maria Ilarde",
+          "slug": "people/103699-rico-maria-ilarde",
+          "url": "https://mydramalist.com/people/103699-rico-maria-ilarde",
+          "image_url": "https://i.mydramalist.com/kpJl8_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kpJl8_5f.jpg",
+          "role_type": "Screenwriter"
+        },
+        {
+          "name": "Shugo Praico",
+          "slug": "people/40277-shugo-praico",
+          "url": "https://mydramalist.com/people/40277-shugo-praico",
+          "image_url": "https://i.mydramalist.com/2q6V2m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2q6V2m.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Odyssey Flores",
+          "slug": "people/97337-odyssey-flores",
+          "url": "https://mydramalist.com/people/97337-odyssey-flores",
+          "image_url": "https://i.mydramalist.com/QvWmg_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QvWmg_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Von de Guzman",
+          "slug": "people/97329-von-de-guzman",
+          "url": "https://mydramalist.com/people/97329-von-de-guzman",
+          "image_url": "https://i.mydramalist.com/pJy1Q_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pJy1Q_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Jason Cahapay",
+          "slug": "people/110383-jason-cahapay",
+          "url": "https://mydramalist.com/people/110383-jason-cahapay",
+          "image_url": "https://i.mydramalist.com/v0k4D_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v0k4D_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Olivia M. Lamasan",
+          "slug": "people/21036-olivia-m-lamasan",
+          "url": "https://mydramalist.com/people/21036-olivia-m-lamasan",
+          "image_url": "https://i.mydramalist.com/LwLlx3_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/LwLlx3_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Malou N. Santos",
+          "slug": "people/98385-malou-n-santos",
+          "url": "https://mydramalist.com/people/98385-malou-n-santos",
+          "image_url": "https://i.mydramalist.com/db4KK_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/db4KK_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Richard Reynante",
+          "slug": "people/98073-richard-reynante",
+          "url": "https://mydramalist.com/people/98073-richard-reynante",
+          "image_url": "https://i.mydramalist.com/djYgD_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/djYgD_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Charo Santos-Concio",
+          "slug": "people/36593-charo-santos-concio",
+          "url": "https://mydramalist.com/people/36593-charo-santos-concio",
+          "image_url": "https://i.mydramalist.com/1YLnR_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1YLnR_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Lovely Rose V. Tazan",
+          "slug": "people/103989-lovely-rose-v-tazan",
+          "url": "https://mydramalist.com/people/103989-lovely-rose-v-tazan",
+          "image_url": "https://i.mydramalist.com/QVlkQ_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QVlkQ_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Aian Caro",
+          "slug": "people/103981-aian-caro",
+          "url": "https://mydramalist.com/people/103981-aian-caro",
+          "image_url": "https://i.mydramalist.com/jKNq8_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jKNq8_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Romnic Calosor",
+          "slug": "people/103955-romnic-calosor",
+          "url": "https://mydramalist.com/people/103955-romnic-calosor",
+          "image_url": "https://i.mydramalist.com/xpx7z_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xpx7z_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Alex Tomboc",
+          "slug": "people/102851-alex-tomboc",
+          "url": "https://mydramalist.com/people/102851-alex-tomboc",
+          "image_url": "https://i.mydramalist.com/XnBQn_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XnBQn_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Albert Michael Idioma",
+          "slug": "people/102845-albert-michael-idioma",
+          "url": "https://mydramalist.com/people/102845-albert-michael-idioma",
+          "image_url": "https://i.mydramalist.com/xVYBE_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xVYBE_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Lamberto Casas Jr.",
+          "slug": "people/101649-lamberto-casas-jr",
+          "url": "https://mydramalist.com/people/101649-lamberto-casas-jr",
+          "image_url": "https://i.mydramalist.com/1YzDb_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1YzDb_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Benson Dalina",
+          "slug": "people/96347-benson-dalina",
+          "url": "https://mydramalist.com/people/96347-benson-dalina",
+          "image_url": "https://i.mydramalist.com/R7nZP_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R7nZP_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Arnell Ignacio",
+          "slug": "people/88209-arnell-ignacio",
+          "url": "https://mydramalist.com/people/88209-arnell-ignacio",
+          "image_url": "https://i.mydramalist.com/4QJ1r_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4QJ1r_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Rey Comia",
+          "slug": "people/110393-rey-comia",
+          "url": "https://mydramalist.com/people/110393-rey-comia",
+          "image_url": "https://i.mydramalist.com/WLyZX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WLyZX_5f.jpg",
+          "role_type": "Bit part"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T23:05:06.088Z"
+  },
+  {
+    "id": 40683,
+    "slug": "40683-watch-me-kill",
+    "url": "https://mydramalist.com/40683-watch-me-kill",
+    "title": "Watch Me Kill",
+    "complete_title": "Watch Me Kill (2019)",
+    "native_title": "Watch Me Kill",
+    "sub_title": "Watch Me Kill ‧ Movie ‧ 2019",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 5.819,
+    "scored_by": 3,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 19,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Skilled Killer",
+        "id": "2392"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "A prolific killer-for-hire finds solace and redemption after rescuing a teenage girl who was held captive by the man she was paid to kill. (Source: IMDb) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/23DzRc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/23DzRc.jpg",
+    "trailer_id": "14987",
+    "trailers": [
+      {
+        "id": "14987",
+        "title": "Watch Me Kill Official Trailer",
+        "url": "https://v.mydramalist.com/1b3/1b38cc09ed3fb15e797212489bdb9e48.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/23DzRc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/23DzRc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/23DzRc.jpg",
+        "title": "Watch Me Kill (2019) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/23DzRs.jpg",
+        "hd_url": "https://i.mydramalist.com/23DzRs.jpg",
+        "title": "Watch Me Kill Philippines Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/23DzRm.jpg",
+        "hd_url": "https://i.mydramalist.com/23DzRm.jpg",
+        "title": "Watch Me Kill (2019)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Jean Garcia",
+          "slug": "people/20426-jean-garcia",
+          "url": "https://mydramalist.com/people/20426-jean-garcia",
+          "image_url": "https://i.mydramalist.com/17yxQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/17yxQ_5f.jpg",
+          "character": "Luciana",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Jay Manalo",
+          "slug": "people/21948-jay-manalo",
+          "url": "https://mydramalist.com/people/21948-jay-manalo",
+          "image_url": "https://i.mydramalist.com/kLkE8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kLkE8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Erlinda Villalobos",
+          "slug": "people/45235-erlinda-villalobos",
+          "url": "https://mydramalist.com/people/45235-erlinda-villalobos",
+          "image_url": "https://i.mydramalist.com/dJq1D_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dJq1D_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Althea Vega",
+          "slug": "people/33063-althea-vega",
+          "url": "https://mydramalist.com/people/33063-althea-vega",
+          "image_url": "https://i.mydramalist.com/WN4zms.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WN4zms.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Jess Evardone",
+          "slug": "people/100859-jess-evardone",
+          "url": "https://mydramalist.com/people/100859-jess-evardone",
+          "image_url": "https://i.mydramalist.com/6DoB2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6DoB2_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Lehner Mendoza",
+          "slug": "people/92609-lehner-mendoza",
+          "url": "https://mydramalist.com/people/92609-lehner-mendoza",
+          "image_url": "https://i.mydramalist.com/pPOxn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pPOxn_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T23:05:14.332Z"
+  },
+  {
+    "id": 682757,
+    "slug": "682757-g",
+    "url": "https://mydramalist.com/682757-g",
+    "title": "G!",
+    "complete_title": "G! (2019)",
+    "native_title": "G!",
+    "sub_title": "G! ‧ Movie ‧ 2019",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 23 min.",
+    "duration_minutes": 83,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 5.918,
+    "scored_by": 4,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 18,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "The film follows four friends as they go through a series of good times, bad times, and cherished bonding moments which will make them all realize the value of love, friendship, family, and life. (Source: FDCP) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/kreAk_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/kreAk_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/kreAk_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/kreAk_4f.jpg",
+        "title": "G! (2019) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "McCoy de Leon",
+          "slug": "people/17616-mccoy-de-leon",
+          "url": "https://mydramalist.com/people/17616-mccoy-de-leon",
+          "image_url": "https://i.mydramalist.com/BXAb6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BXAb6_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Paulo Angeles",
+          "slug": "people/18773-paulo-angeles",
+          "url": "https://mydramalist.com/people/18773-paulo-angeles",
+          "image_url": "https://i.mydramalist.com/ZJ47j_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZJ47j_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jameson Blake",
+          "slug": "people/17779-jameson-blake",
+          "url": "https://mydramalist.com/people/17779-jameson-blake",
+          "image_url": "https://i.mydramalist.com/6jkBP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6jkBP_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Mark Oblea",
+          "slug": "people/69155-mark-oblea",
+          "url": "https://mydramalist.com/people/69155-mark-oblea",
+          "image_url": "https://i.mydramalist.com/WwPYp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WwPYp_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Dominic Roque",
+          "slug": "people/49819-dominic-roque",
+          "url": "https://mydramalist.com/people/49819-dominic-roque",
+          "image_url": "https://i.mydramalist.com/XOyKO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XOyKO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Joey Marquez",
+          "slug": "people/21688-joey-marquez",
+          "url": "https://mydramalist.com/people/21688-joey-marquez",
+          "image_url": "https://i.mydramalist.com/lJJPQs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/lJJPQs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Rosanna Roces",
+          "slug": "people/39893-rosanna-roces",
+          "url": "https://mydramalist.com/people/39893-rosanna-roces",
+          "image_url": "https://i.mydramalist.com/xqq6w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xqq6w_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Roxanne Barcelo",
+          "slug": "people/19808-roxanne-barcelo",
+          "url": "https://mydramalist.com/people/19808-roxanne-barcelo",
+          "image_url": "https://i.mydramalist.com/ZYDe8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZYDe8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kira Balinger",
+          "slug": "people/41011-kira-balinger",
+          "url": "https://mydramalist.com/people/41011-kira-balinger",
+          "image_url": "https://i.mydramalist.com/W3roXs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W3roXs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Precious Lara Quigaman",
+          "slug": "people/21727-precious-lara-quigaman",
+          "url": "https://mydramalist.com/people/21727-precious-lara-quigaman",
+          "image_url": "https://i.mydramalist.com/RdLLz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RdLLz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jao Mapa",
+          "slug": "people/21697-jao-mapa",
+          "url": "https://mydramalist.com/people/21697-jao-mapa",
+          "image_url": "https://i.mydramalist.com/1007ds.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1007ds.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Moi Marcampo",
+          "slug": "people/18473-moi-marcampo",
+          "url": "https://mydramalist.com/people/18473-moi-marcampo",
+          "image_url": "https://i.mydramalist.com/pnzrys.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pnzrys.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Alora Sasam",
+          "slug": "people/72375-alora-sasam",
+          "url": "https://mydramalist.com/people/72375-alora-sasam",
+          "image_url": "https://i.mydramalist.com/ZVvoY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZVvoY_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Patrick Sugui",
+          "slug": "people/58651-patrick-sugui",
+          "url": "https://mydramalist.com/people/58651-patrick-sugui",
+          "image_url": "https://i.mydramalist.com/0r1v6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0r1v6_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Dondon Santos",
+          "slug": "people/79975-dondon-santos",
+          "url": "https://mydramalist.com/people/79975-dondon-santos",
+          "image_url": "https://i.mydramalist.com/0V1LK_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0V1LK_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Arlene Tamayo",
+          "slug": "people/96143-arlene-tamayo",
+          "url": "https://mydramalist.com/people/96143-arlene-tamayo",
+          "image_url": "https://i.mydramalist.com/2bAwP_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2bAwP_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Kean Cipriano",
+          "slug": "people/17813-kean-cipriano",
+          "url": "https://mydramalist.com/people/17813-kean-cipriano",
+          "image_url": "https://i.mydramalist.com/pP85e_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pP85e_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Armand De Guzman",
+          "slug": "people/98319-armand-de-guzman",
+          "url": "https://mydramalist.com/people/98319-armand-de-guzman",
+          "image_url": "https://i.mydramalist.com/djW6D_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/djW6D_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T23:05:21.183Z"
+  },
+  {
+    "id": 682759,
+    "slug": "682759-pagbalik",
+    "url": "https://mydramalist.com/682759-pagbalik",
+    "title": "Pagbalik",
+    "complete_title": "Pagbalik (2019)",
+    "native_title": "Pagbalik",
+    "sub_title": "Pagbalik ‧ Movie ‧ 2019",
+    "also_known_as": [
+      "Return"
+    ],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 33 min.",
+    "duration_minutes": 93,
+    "content_rating": "G - All Ages",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Rica (50s), after working abroad, comes home to stay with Choleng (85), her ageing mother, until she finds new work. She learns what her mother has done all the years when she was working abroad. (Source: FDCP) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/QgZnQ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/QgZnQ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/QgZnQ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/QgZnQ_4f.jpg",
+        "title": "Pagbalik (2019) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Gloria Sevilla",
+          "slug": "people/39235-gloria-sevilla",
+          "url": "https://mydramalist.com/people/39235-gloria-sevilla",
+          "image_url": "https://i.mydramalist.com/B34bzs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B34bzs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Suzette Ranillo",
+          "slug": "people/39237-suzette-ranillo",
+          "url": "https://mydramalist.com/people/39237-suzette-ranillo",
+          "image_url": "https://i.mydramalist.com/wLwR8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wLwR8_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Alora Sasam",
+          "slug": "people/72375-alora-sasam",
+          "url": "https://mydramalist.com/people/72375-alora-sasam",
+          "image_url": "https://i.mydramalist.com/ZVvoY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZVvoY_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T23:05:27.502Z"
+  },
+  {
+    "id": 696543,
+    "slug": "696543-verdict",
+    "url": "https://mydramalist.com/696543-verdict",
+    "title": "Verdict",
+    "complete_title": "Verdict (2019)",
+    "sub_title": "‧ Movie ‧ 2019",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "2 hr. 6 min.",
+    "duration_minutes": 126,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.08,
+    "scored_by": 2,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Crime",
+        "id": "21"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Domestic Crime",
+        "id": "29438"
+      },
+      {
+        "name": "Domestic Violence",
+        "id": "795"
+      },
+      {
+        "name": "Violence",
+        "id": "336"
+      }
+    ],
+    "synopsis": "A woman suffering domestic abuse tries to get help after her drunken husband hurts their child but struggles to find justice in a patriarchal society. Joy and her six-year-old daughter Angel live in Manila, with her husband, Dante, a small-time criminal. As so often in the past, Dante comes home drunk at night and beats Joy brutally. This time, he also hurts Angel. Joy grabs her daughter and flees to the local police post to finally get him sent to jail. Joy learns that justice takes time at best and is impossible to get at worst. Not without reason, she feels that she and her daughter are increasingly under threat. (Source: WindowsOnWorlds & IMDb) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/v6VdX_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/v6VdX_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/v6VdX_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/v6VdX_4f.jpg",
+        "title": "Verdict (2019) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Kristoffer King",
+          "slug": "people/46803-kristoffer-king",
+          "url": "https://mydramalist.com/people/46803-kristoffer-king",
+          "image_url": "https://i.mydramalist.com/2y7Xd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2y7Xd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Dolly de Leon",
+          "slug": "people/89393-dolly-de-leon",
+          "url": "https://mydramalist.com/people/89393-dolly-de-leon",
+          "image_url": "https://i.mydramalist.com/Zy3QJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Zy3QJ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Max Eigenmann",
+          "slug": "people/97829-max-eigenmann",
+          "url": "https://mydramalist.com/people/97829-max-eigenmann",
+          "image_url": "https://i.mydramalist.com/Dk6qKn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Dk6qKn_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Star Orjaliza",
+          "slug": "people/100917-star-orjaliza",
+          "url": "https://mydramalist.com/people/100917-star-orjaliza",
+          "image_url": "https://i.mydramalist.com/xoQ1E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xoQ1E_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Charry Castinlag",
+          "slug": "people/95529-charry-castinlag",
+          "url": "https://mydramalist.com/people/95529-charry-castinlag",
+          "image_url": "https://i.mydramalist.com/jn2oJ_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jn2oJ_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Brillante Mendoza",
+          "slug": "people/20330-brillante-mendoza",
+          "url": "https://mydramalist.com/people/20330-brillante-mendoza",
+          "image_url": "https://i.mydramalist.com/d5zdd_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d5zdd_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Rene Durian",
+          "slug": "people/88267-rene-durian",
+          "url": "https://mydramalist.com/people/88267-rene-durian",
+          "image_url": "https://i.mydramalist.com/0kY74_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0kY74_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Perry Dizon",
+          "slug": "people/95187-perry-dizon",
+          "url": "https://mydramalist.com/people/95187-perry-dizon",
+          "image_url": "https://i.mydramalist.com/R7Apx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R7Apx_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Apollo Abraham",
+          "slug": "people/94043-apollo-abraham",
+          "url": "https://mydramalist.com/people/94043-apollo-abraham",
+          "image_url": "https://i.mydramalist.com/wYY38_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wYY38_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Dexter Macaraeg",
+          "slug": "people/95527-dexter-macaraeg",
+          "url": "https://mydramalist.com/people/95527-dexter-macaraeg",
+          "image_url": "https://i.mydramalist.com/Wk3el_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Wk3el_5f.jpg",
+          "role_type": "Bit part"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T23:05:33.596Z"
+  },
+  {
+    "id": 717875,
+    "slug": "717875-mitorishi",
+    "url": "https://mydramalist.com/717875-mitorishi",
+    "title": "Mitorishi",
+    "complete_title": "Mitorishi (2019)",
+    "native_title": "みとりし",
+    "sub_title": "みとりし ‧ Movie ‧ 2019",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 50 min.",
+    "duration_minutes": 110,
+    "content_rating": "G - All Ages",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/ZyxEq_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ZyxEq_4f.jpg",
+    "trailer_id": "31031",
+    "trailers": [
+      {
+        "id": "31031",
+        "title": "Mitorishi Official Trailer",
+        "url": "https://v.mydramalist.com/8c7/8c711b2a61cccea42c643ce986dc203a.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/ZyxEq_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ZyxEq_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ZyxEq_4f.jpg",
+        "title": "Mitorishi (2019) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Enoki Takaaki",
+          "slug": "people/3152-enoki-takaaki",
+          "url": "https://mydramalist.com/people/3152-enoki-takaaki",
+          "image_url": "https://i.mydramalist.com/nO7Yxx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nO7Yxx_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Fujishige Masataka",
+          "slug": "people/77605-fujishige-masataka",
+          "url": "https://mydramalist.com/people/77605-fujishige-masataka",
+          "image_url": "https://i.mydramalist.com/wJOqOg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJOqOg_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Hirosawa So",
+          "slug": "people/29151-hirosawa-so",
+          "url": "https://mydramalist.com/people/29151-hirosawa-so",
+          "image_url": "https://i.mydramalist.com/ZLX3q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZLX3q_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Hotta Shinzo",
+          "slug": "people/22256-hotta-shinzo",
+          "url": "https://mydramalist.com/people/22256-hotta-shinzo",
+          "image_url": "https://i.mydramalist.com/vOykZs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vOykZs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ishihama Akira",
+          "slug": "people/6942-ishihama-akira",
+          "url": "https://mydramalist.com/people/6942-ishihama-akira",
+          "image_url": "https://i.mydramalist.com/VXEoJs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXEoJs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kanayama Kazuhiko",
+          "slug": "people/10187-kanayama-kazuhiko",
+          "url": "https://mydramalist.com/people/10187-kanayama-kazuhiko",
+          "image_url": "https://i.mydramalist.com/5vEk5V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5vEk5V_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Katagiri Yuko",
+          "slug": "people/12618-katagiri-yuko",
+          "url": "https://mydramalist.com/people/12618-katagiri-yuko",
+          "image_url": "https://i.mydramalist.com/vXdP4W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXdP4W_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Matsunaga Nagisa",
+          "slug": "people/13304-matsunaga-nagisa",
+          "url": "https://mydramalist.com/people/13304-matsunaga-nagisa",
+          "image_url": "https://i.mydramalist.com/knyjr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/knyjr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Murakami Honoka",
+          "slug": "people/33539-murakami-honoka",
+          "url": "https://mydramalist.com/people/33539-murakami-honoka",
+          "image_url": "https://i.mydramalist.com/QJ2jb2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJ2jb2_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nishizawa Jinta",
+          "slug": "people/18925-nishizawa-jinta",
+          "url": "https://mydramalist.com/people/18925-nishizawa-jinta",
+          "image_url": "https://i.mydramalist.com/g0K1Qd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0K1Qd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Saito Satoru",
+          "slug": "people/3455-saito-satoru",
+          "url": "https://mydramalist.com/people/3455-saito-satoru",
+          "image_url": "https://i.mydramalist.com/dK4rK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dK4rK_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sakurai Atsuko",
+          "slug": "people/1000-sakurai-atsuko",
+          "url": "https://mydramalist.com/people/1000-sakurai-atsuko",
+          "image_url": "https://i.mydramalist.com/mO44E0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mO44E0_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shiraishi Ito",
+          "slug": "people/22129-shiraishi-ito",
+          "url": "https://mydramalist.com/people/22129-shiraishi-ito",
+          "image_url": "https://i.mydramalist.com/Bd72E6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bd72E6_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sugimoto Yumi",
+          "slug": "people/3138-sugimoto-yumi",
+          "url": "https://mydramalist.com/people/3138-sugimoto-yumi",
+          "image_url": "https://i.mydramalist.com/0wboRr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wboRr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Takasaki Shota",
+          "slug": "people/5467-takasaki-shota",
+          "url": "https://mydramalist.com/people/5467-takasaki-shota",
+          "image_url": "https://i.mydramalist.com/E14pl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E14pl_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tsumiki Miho",
+          "slug": "people/14203-tsumiki-miho",
+          "url": "https://mydramalist.com/people/14203-tsumiki-miho",
+          "image_url": "https://i.mydramalist.com/q6ge0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/q6ge0_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ukaji Takashi",
+          "slug": "people/351-ukaji-takashi",
+          "url": "https://mydramalist.com/people/351-ukaji-takashi",
+          "image_url": "https://i.mydramalist.com/vyl5Xs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vyl5Xs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ohkata Hisako",
+          "slug": "people/23116-ohkata-hisako",
+          "url": "https://mydramalist.com/people/23116-ohkata-hisako",
+          "image_url": "https://i.mydramalist.com/jPnDB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jPnDB_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Memita Ken",
+          "slug": "people/137647-memita-ken",
+          "url": "https://mydramalist.com/people/137647-memita-ken",
+          "image_url": "https://i.mydramalist.com/E53B1m_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E53B1m_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Nishioka Masami",
+          "slug": "people/145824-nishioka-masami",
+          "url": "https://mydramalist.com/people/145824-nishioka-masami",
+          "image_url": "https://i.mydramalist.com/nO2vXB_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nO2vXB_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Tan Yuji",
+          "slug": "people/145826-tan-yuji",
+          "url": "https://mydramalist.com/people/145826-tan-yuji",
+          "image_url": "https://i.mydramalist.com/l0QyvQ_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0QyvQ_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T23:05:39.725Z"
+  },
+  {
+    "id": 749547,
+    "slug": "749547-wait",
+    "url": "https://mydramalist.com/749547-wait",
+    "title": "Wait",
+    "complete_title": "Wait (2019)",
+    "native_title": "Wait การรอที่แสนเจ็บปวด",
+    "sub_title": "Wait การรอที่แสนเจ็บปวด ‧ Movie ‧ 2019",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Thailand",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "9 min.",
+    "duration_minutes": 9,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.15,
+    "scored_by": 2,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 50,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Youth",
+        "id": "24"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Student Female Lead",
+        "id": "24957"
+      },
+      {
+        "name": "Best Friends' Relationship",
+        "id": "22417"
+      },
+      {
+        "name": "Lesbian Female Lead",
+        "id": "18115"
+      },
+      {
+        "name": "Inner Monologue",
+        "id": "10689"
+      },
+      {
+        "name": "Secret Crush",
+        "id": "2391"
+      },
+      {
+        "name": "Imagination",
+        "id": "1528"
+      },
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "LGBTQ+",
+        "id": "1045"
+      },
+      {
+        "name": "Unrequited Love",
+        "id": "156"
+      },
+      {
+        "name": "Friendship",
+        "id": "6"
+      }
+    ],
+    "synopsis": "Joy and and Bami are best friends. More importantly, Joy has always had a crush on Bami - a fact that Bami knows. But she's not sure if she's interested in Joy the same way. (Source: Thai = ShakeShoulder Filmmaker YouTube || Translation = MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/Z88mLJ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Z88mLJ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Z88mLJ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Z88mLJ_4f.jpg",
+        "title": "Wait (2019) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T23:05:46.238Z"
+  },
+  {
+    "id": 39513,
+    "slug": "39513-kafka-no-tokyo-zetsubo-nikki",
+    "url": "https://mydramalist.com/39513-kafka-no-tokyo-zetsubo-nikki",
+    "title": "Kafka no Tokyo Zetsubo Nikki",
+    "complete_title": "Kafka no Tokyo Zetsubo Nikki (2019)",
+    "native_title": "カフカの東京絶望日記",
+    "sub_title": "カフカの東京絶望日記 ‧ Drama ‧ 2019",
+    "also_known_as": [
+      "Kafka's Tokyo Despair Diary , Kafuka no Tokyo Zetsubou Nikki"
+    ],
+    "type": "Drama",
+    "country": "Japan",
+    "year": 2019,
+    "status": "Aired",
+    "episodes": 6,
+    "aired_string": "Sep 12, 2019 - Oct 25, 2019",
+    "aired_start": "2019-09-12",
+    "aired_end": "2019-10-25",
+    "aired_on": [
+      "Thursday"
+    ],
+    "original_network": "MBS",
+    "duration_string": "23 min.",
+    "duration_minutes": 23,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.8112,
+    "scored_by": 8,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 112,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Miniseries",
+        "id": "964"
+      },
+      {
+        "name": "Web Series",
+        "id": "466"
+      },
+      {
+        "name": "Writer Male Lead",
+        "id": "20725"
+      },
+      {
+        "name": "Part-time Worker Male Lead",
+        "id": "19559"
+      },
+      {
+        "name": "Desperate Male Lead",
+        "id": "9039"
+      },
+      {
+        "name": "Naive Male Lead",
+        "id": "2385"
+      },
+      {
+        "name": "Eccentric Male Lead",
+        "id": "557"
+      },
+      {
+        "name": "Nice Male Lead",
+        "id": "223"
+      },
+      {
+        "name": "Friendship",
+        "id": "6"
+      }
+    ],
+    "synopsis": "Franz Kafka, the representative novelist of the 20th century, is famed for \"The Metamorphosis\", which portrays a man waking up in his bed to find himself transformed into a large insect. But Franz Kafka is \"poisoned with despair\" and desperate for everything. No one knows his situation... Somehow, Kafka, who lives in Tokyo in 2019, is seriously hurt, overwhelmed and eventually becomes desperate by events happening every day. Though Kafka gets more and more desperate, people who have witnessed all are moved by his frankness and seriousness. Perhaps the agony and the elegance of Kafka, who is tortured by despair, will light up the fire of hope in life. (Source: ldh.co.jp) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/dY4wec.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/dY4wec.jpg",
+    "trailer_id": "15565",
+    "trailers": [
+      {
+        "id": "15565",
+        "title": "Kafka no Tokyo Zetsubo Nikki Official Trailer",
+        "url": "https://v.mydramalist.com/726/726e4f3bcd24a4d4eee9dfe31cfc5823.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/dY4wec.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/dY4wec.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/dY4wec.jpg",
+        "title": "Kafka no Tokyo Zetsubo Nikki (2019) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/dY4wes.jpg",
+        "hd_url": "https://i.mydramalist.com/dY4wes.jpg",
+        "title": "Kafka no Tokyo Zetsubo Nikki Japanese Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/kJ50gs.jpg",
+        "hd_url": "https://i.mydramalist.com/kJ50gs.jpg",
+        "title": "Kafka no Tokyo Zetsubo Nikki Japanese Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/dY4wem.jpg",
+        "hd_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "title": "Kafka no Tokyo Zetsubo Nikki (2019)"
+      },
+      {
+        "url": "https://i.mydramalist.com/kJ50gm.jpg",
+        "hd_url": "https://i.mydramalist.com/kJ50gm.jpg",
+        "title": "Kafka no Tokyo Zetsubo Nikki (2019)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Suzuki Hiroki",
+          "slug": "people/1673-suzuki-hiroki",
+          "url": "https://mydramalist.com/people/1673-suzuki-hiroki",
+          "image_url": "https://i.mydramalist.com/ZrzDjs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZrzDjs.jpg",
+          "character": "Franz Kafka",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Nao",
+          "slug": "people/15745-nao",
+          "url": "https://mydramalist.com/people/15745-nao",
+          "image_url": "https://i.mydramalist.com/2WmO7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2WmO7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Okuyama Kazusa",
+          "slug": "people/19252-okuyama-kazusa",
+          "url": "https://mydramalist.com/people/19252-okuyama-kazusa",
+          "image_url": "https://i.mydramalist.com/vg72g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vg72g_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Maehara Kou",
+          "slug": "people/18279-maehara-kou",
+          "url": "https://mydramalist.com/people/18279-maehara-kou",
+          "image_url": "https://i.mydramalist.com/qYV26d_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYV26d_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Konno Anna",
+          "slug": "people/23861-konno-anna",
+          "url": "https://mydramalist.com/people/23861-konno-anna",
+          "image_url": "https://i.mydramalist.com/128Lz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/128Lz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kin Takao",
+          "slug": "people/51117-kin-takao",
+          "url": "https://mydramalist.com/people/51117-kin-takao",
+          "image_url": "https://i.mydramalist.com/4qZ86_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4qZ86_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Omura Namihiko",
+          "slug": "people/78051-omura-namihiko",
+          "url": "https://mydramalist.com/people/78051-omura-namihiko",
+          "image_url": "https://i.mydramalist.com/wQ6dk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wQ6dk_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Miyata Sanae",
+          "slug": "people/21458-miyata-sanae",
+          "url": "https://mydramalist.com/people/21458-miyata-sanae",
+          "image_url": "https://i.mydramalist.com/VXznVQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXznVQ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nakayama Kyuichiro",
+          "slug": "people/34485-nakayama-kyuichiro",
+          "url": "https://mydramalist.com/people/34485-nakayama-kyuichiro",
+          "image_url": "https://i.mydramalist.com/60LvYP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/60LvYP_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sakaguchi Ryotaro",
+          "slug": "people/33445-sakaguchi-ryotaro",
+          "url": "https://mydramalist.com/people/33445-sakaguchi-ryotaro",
+          "image_url": "https://i.mydramalist.com/krpKk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/krpKk_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Iwaya Shogo",
+          "slug": "people/16278-iwaya-shogo",
+          "url": "https://mydramalist.com/people/16278-iwaya-shogo",
+          "image_url": "https://i.mydramalist.com/Xd2r5p_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xd2r5p_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sakura Nao",
+          "slug": "people/84549-sakura-nao",
+          "url": "https://mydramalist.com/people/84549-sakura-nao",
+          "image_url": "https://i.mydramalist.com/5QeAqV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5QeAqV_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Ebata Hidehisa",
+          "slug": "people/113375-ebata-hidehisa",
+          "url": "https://mydramalist.com/people/113375-ebata-hidehisa",
+          "image_url": "https://i.mydramalist.com/X0ovn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X0ovn_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Morita Suzuka",
+          "slug": "people/4516-morita-suzuka",
+          "url": "https://mydramalist.com/people/4516-morita-suzuka",
+          "image_url": "https://i.mydramalist.com/r8bzp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r8bzp_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Kato Konatsu",
+          "slug": "people/23129-kato-konatsu",
+          "url": "https://mydramalist.com/people/23129-kato-konatsu",
+          "image_url": "https://i.mydramalist.com/2wmgbE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wmgbE_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Yamazaki Nina",
+          "slug": "people/31753-yamazaki-nina",
+          "url": "https://mydramalist.com/people/31753-yamazaki-nina",
+          "image_url": "https://i.mydramalist.com/kAygBr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kAygBr_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Shimizu Yutaka",
+          "slug": "people/5855-shimizu-yutaka",
+          "url": "https://mydramalist.com/people/5855-shimizu-yutaka",
+          "image_url": "https://i.mydramalist.com/WWE3P_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WWE3P_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Saiga Kaane",
+          "slug": "people/117401-saiga-kaane",
+          "url": "https://mydramalist.com/people/117401-saiga-kaane",
+          "image_url": "https://i.mydramalist.com/E55w0b_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E55w0b_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Saiga Sakura",
+          "slug": "people/117415-saiga-sakura",
+          "url": "https://mydramalist.com/people/117415-saiga-sakura",
+          "image_url": "https://i.mydramalist.com/d00meD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d00meD_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Ito Asahi",
+          "slug": "people/19244-itou-asahi",
+          "url": "https://mydramalist.com/people/19244-itou-asahi",
+          "image_url": "https://i.mydramalist.com/4DmlJs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4DmlJs.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Tokunaga Eri",
+          "slug": "people/2809-tokunaga-eri",
+          "url": "https://mydramalist.com/people/2809-tokunaga-eri",
+          "image_url": "https://i.mydramalist.com/exgDq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/exgDq_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Kuribayashi Aino",
+          "slug": "people/43151-kuribayashi-aino",
+          "url": "https://mydramalist.com/people/43151-kuribayashi-aino",
+          "image_url": "https://i.mydramalist.com/E5pE4W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5pE4W_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Koshino Ena",
+          "slug": "people/3140-koshino-ena",
+          "url": "https://mydramalist.com/people/3140-koshino-ena",
+          "image_url": "https://i.mydramalist.com/wb1K8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wb1K8_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Kurihara Sayaka",
+          "slug": "people/81275-kurihara-sayaka",
+          "url": "https://mydramalist.com/people/81275-kurihara-sayaka",
+          "image_url": "https://i.mydramalist.com/wRb0A_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wRb0A_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Kodama Norikatsu",
+          "slug": "people/27789-kodama-norikatsu",
+          "url": "https://mydramalist.com/people/27789-kodama-norikatsu",
+          "image_url": "https://i.mydramalist.com/60L6xK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/60L6xK_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Okita Yuuki",
+          "slug": "people/57681-okita-yuuki",
+          "url": "https://mydramalist.com/people/57681-okita-yuuki",
+          "image_url": "https://i.mydramalist.com/qPJlD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qPJlD_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Ohmura Wataru",
+          "slug": "people/85287-ohmura-wataru",
+          "url": "https://mydramalist.com/people/85287-ohmura-wataru",
+          "image_url": "https://i.mydramalist.com/WE5RD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WE5RD_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Yoshida Oolongta",
+          "slug": "people/30547-yoshida-oolongta",
+          "url": "https://mydramalist.com/people/30547-yoshida-oolongta",
+          "image_url": "https://i.mydramalist.com/0KbYe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0KbYe_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Momose Satsuki",
+          "slug": "people/117411-momose-satsuki",
+          "url": "https://mydramalist.com/people/117411-momose-satsuki",
+          "image_url": "https://i.mydramalist.com/eYY4Ke_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYY4Ke_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Serizawa Tateto",
+          "slug": "people/10017-serizawa-tateto",
+          "url": "https://mydramalist.com/people/10017-serizawa-tateto",
+          "image_url": "https://i.mydramalist.com/1wdgRy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wdgRy_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Miyakawa Hiroaki",
+          "slug": "people/15413-miyagawa-hiroaki",
+          "url": "https://mydramalist.com/people/15413-miyagawa-hiroaki",
+          "image_url": "https://i.mydramalist.com/mODv6P_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mODv6P_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Sakashita Yuichiro",
+          "slug": "people/69327-sakashita-yuichiro",
+          "url": "https://mydramalist.com/people/69327-sakashita-yuichiro",
+          "image_url": "https://i.mydramalist.com/ERv1m_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ERv1m_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Atsushi Asada",
+          "slug": "people/41441-atsushi-asada",
+          "url": "https://mydramalist.com/people/41441-atsushi-asada",
+          "image_url": "https://i.mydramalist.com/xKnqXm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xKnqXm.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Kafka no Tokyo Zetsubo Nikki Episode 1",
+        "url": "https://mydramalist.com/39513-kafka-no-tokyo-zetsubo-nikki/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "image_hd_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Kafka no Tokyo Zetsubo Nikki Episode 2",
+        "url": "https://mydramalist.com/39513-kafka-no-tokyo-zetsubo-nikki/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "image_hd_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Kafka no Tokyo Zetsubo Nikki Episode 3",
+        "url": "https://mydramalist.com/39513-kafka-no-tokyo-zetsubo-nikki/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "image_hd_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Kafka no Tokyo Zetsubo Nikki Episode 4",
+        "url": "https://mydramalist.com/39513-kafka-no-tokyo-zetsubo-nikki/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "image_hd_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Kafka no Tokyo Zetsubo Nikki Episode 5",
+        "url": "https://mydramalist.com/39513-kafka-no-tokyo-zetsubo-nikki/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "image_hd_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Kafka no Tokyo Zetsubo Nikki Episode 6",
+        "url": "https://mydramalist.com/39513-kafka-no-tokyo-zetsubo-nikki/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "image_hd_url": "https://i.mydramalist.com/dY4wem.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-19T23:05:51.835Z"
   }
 ]
