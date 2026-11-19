@@ -1979696,5 +1979696,3820 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-19T19:25:43.958Z"
+  },
+  {
+    "id": 67983,
+    "slug": "67983-the-queen-of-kung-fu",
+    "url": "https://mydramalist.com/67983-the-queen-of-kung-fu",
+    "title": "The Queen of Kung Fu 1",
+    "complete_title": "The Queen of Kung Fu 1 (2020)",
+    "native_title": "霍家拳之铁臂娇娃",
+    "sub_title": "霍家拳之铁臂娇娃 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "The Queen of Kung Fu , Царица кунг-фу"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 15 min.",
+    "duration_minutes": 75,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 7.1109,
+    "scored_by": 35,
+    "ranked": 82465,
+    "popularity": 99999,
+    "watchers": 109,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Kung Fu",
+        "id": "2270"
+      },
+      {
+        "name": "Chinese Republican Era",
+        "id": "1293"
+      },
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Revenge",
+        "id": "370"
+      },
+      {
+        "name": "Murder",
+        "id": "270"
+      },
+      {
+        "name": "Friendship",
+        "id": "6"
+      }
+    ],
+    "synopsis": "Set in the Republic of China, A Xi has extraordinary skills in Kung Fu. After being sold to work at a dance hall, she is adopted as a goddaughter of a dance hall master. There, she fights internal corruption and also falls in love. English Русский magyar / magyar nyelv עברית / עִבְרִית",
+    "poster_url": "https://i.mydramalist.com/BD0Jb_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/BD0Jb_4f.jpg",
+    "trailer_id": "23567",
+    "trailers": [
+      {
+        "id": "23567",
+        "title": "The Queen of Kung Fu 1 Official Trailer",
+        "url": "https://v.mydramalist.com/273/273cfc835c96d80d6f1f254d6a8f0ffa.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/BD0Jb_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/BD0Jb_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/BD0Jb_4f.jpg",
+        "title": "The Queen of Kung Fu 1 (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "The Queen of Kung Fu 2",
+        "slug": "734129-the-queen-of-kung-fu-2",
+        "url": "https://mydramalist.com/734129-the-queen-of-kung-fu-2",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Li Meng Meng",
+          "slug": "people/14891-li-meng-meng",
+          "url": "https://mydramalist.com/people/14891-li-meng-meng",
+          "image_url": "https://i.mydramalist.com/1wqqVd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wqqVd_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Ye Xiao Kai",
+          "slug": "people/14365-ye-leif",
+          "url": "https://mydramalist.com/people/14365-ye-leif",
+          "image_url": "https://i.mydramalist.com/vbnDq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vbnDq_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Feng Qing",
+          "slug": "people/58633-feng-qing",
+          "url": "https://mydramalist.com/people/58633-feng-qing",
+          "image_url": "https://i.mydramalist.com/jey6B_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jey6B_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Sheng Li",
+          "slug": "people/38983-wang-sheng-li",
+          "url": "https://mydramalist.com/people/38983-wang-sheng-li",
+          "image_url": "https://i.mydramalist.com/p4DdBs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/p4DdBs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shang Yan Sheng",
+          "slug": "people/58003-shang-yan-sheng",
+          "url": "https://mydramalist.com/people/58003-shang-yan-sheng",
+          "image_url": "https://i.mydramalist.com/B5JOb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B5JOb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yang Di",
+          "slug": "people/21808-yang-di",
+          "url": "https://mydramalist.com/people/21808-yang-di",
+          "image_url": "https://i.mydramalist.com/YYrRwo_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYrRwo_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Guo Jian Wei",
+          "slug": "people/52123-guo-jian-wei",
+          "url": "https://mydramalist.com/people/52123-guo-jian-wei",
+          "image_url": "https://i.mydramalist.com/yWxqd6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWxqd6_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "A Nuo",
+          "slug": "people/71419-a-nuo",
+          "url": "https://mydramalist.com/people/71419-a-nuo",
+          "image_url": "https://i.mydramalist.com/rNNd27_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rNNd27_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hui Jun Ping",
+          "slug": "people/54335-hui-jun-ping",
+          "url": "https://mydramalist.com/people/54335-hui-jun-ping",
+          "image_url": "https://i.mydramalist.com/e2wdY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e2wdY_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yang Da Chuan",
+          "slug": "people/55781-yang-di",
+          "url": "https://mydramalist.com/people/55781-yang-di",
+          "image_url": "https://i.mydramalist.com/kAoQ6k_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kAoQ6k_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zheng Jian Wei",
+          "slug": "people/52129-zheng-jian-wei",
+          "url": "https://mydramalist.com/people/52129-zheng-jian-wei",
+          "image_url": "https://i.mydramalist.com/60pyQg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/60pyQg_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xie Yi",
+          "slug": "people/138973-xie-yi",
+          "url": "https://mydramalist.com/people/138973-xie-yi",
+          "image_url": "https://i.mydramalist.com/eYxlPp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYxlPp_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Qi Dao",
+          "slug": "people/15526-qi-dao",
+          "url": "https://mydramalist.com/people/15526-qi-dao",
+          "image_url": "https://i.mydramalist.com/kb5kk_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kb5kk_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:25:59.559Z"
+  },
+  {
+    "id": 689343,
+    "slug": "689343-the-emperor-s-sword",
+    "url": "https://mydramalist.com/689343-the-emperor-s-sword",
+    "title": "The Emperor's Sword",
+    "complete_title": "The Emperor's Sword (2020)",
+    "native_title": "乱世之定秦剑",
+    "sub_title": "乱世之定秦剑 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Luan Shi Zhi Ding Qin Jian"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 32 min.",
+    "duration_minutes": 92,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.066,
+    "scored_by": 18,
+    "ranked": 82620,
+    "popularity": 99999,
+    "watchers": 66,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Wuxia",
+        "id": "20"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Historical Figure",
+        "id": "8629"
+      },
+      {
+        "name": "Qin Shi Huang",
+        "id": "5029"
+      },
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Qin Dynasty",
+        "id": "980"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "synopsis": "During the chaotic rule of Qin Shi Huang ruled China, his Qin Dynasty is about to be usurped by Zhao Gao. For a time, heroes came together to guard the Ding Qin sword that could stabilize the country, so as not to fall into the hands of the enemy., Ji Lian a loyal subject of the Qin Dynasty did not retreat from the untold fighters sent by the wicked Zhao Gao, and vowed to stick to the last moment of life to safeguard the sword and the Qin dynasty. English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/X677n_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/X677n_4f.jpg",
+    "trailer_id": "25053",
+    "trailers": [
+      {
+        "id": "25053",
+        "title": "The Emperor's Sword Official Trailer",
+        "url": "https://v.mydramalist.com/ced/cedb7f24376214d5fe503683cac8ab74.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/X677n_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/X677n_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/X677n_4f.jpg",
+        "title": "The Emperor's Sword (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/e4Zzq_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/e4Zzq_3f.jpg",
+        "title": "The Emperor's Sword Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Hao Yi Lin",
+          "slug": "people/49977-hao-yi-lin",
+          "url": "https://mydramalist.com/people/49977-hao-yi-lin",
+          "image_url": "https://i.mydramalist.com/6Yjz2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6Yjz2_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Mou Feng Bin",
+          "slug": "people/14335-mou-feng-bin",
+          "url": "https://mydramalist.com/people/14335-mou-feng-bin",
+          "image_url": "https://i.mydramalist.com/l0KXvE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0KXvE_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Qin Chu Ming",
+          "slug": "people/46105-qin-chu-ming",
+          "url": "https://mydramalist.com/people/46105-qin-chu-ming",
+          "image_url": "https://i.mydramalist.com/YYZ2JA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYZ2JA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xu Chang Chao",
+          "slug": "people/69337-xu-chang-chao",
+          "url": "https://mydramalist.com/people/69337-xu-chang-chao",
+          "image_url": "https://i.mydramalist.com/Nd827E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Nd827E_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yang Qi Yu",
+          "slug": "people/82085-yang-qi-yu",
+          "url": "https://mydramalist.com/people/82085-yang-qi-yu",
+          "image_url": "https://i.mydramalist.com/q6r8K_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/q6r8K_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhao Qi Hang",
+          "slug": "people/67493-zhao-qi-hang",
+          "url": "https://mydramalist.com/people/67493-zhao-qi-hang",
+          "image_url": "https://i.mydramalist.com/Z875q7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Z875q7_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:26:06.093Z"
+  },
+  {
+    "id": 72549,
+    "slug": "72549-ghost-blood-hand",
+    "url": "https://mydramalist.com/72549-ghost-blood-hand",
+    "title": "Detective Dee's Ghost Blood Hand",
+    "complete_title": "Detective Dee's Ghost Blood Hand (2020)",
+    "native_title": "狄仁傑之鬼影血手",
+    "sub_title": "狄仁傑之鬼影血手 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Detective Dee, The Ghost Hand , Di Ren Jie Zhi Gui Ying Xue Shou , Di Renjie's Ghost Blood Hand"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 11 min.",
+    "duration_minutes": 71,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.071,
+    "scored_by": 19,
+    "ranked": 82732,
+    "popularity": 99999,
+    "watchers": 71,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Detective Fiction",
+        "id": "19157"
+      },
+      {
+        "name": "Detective Male Lead",
+        "id": "17623"
+      },
+      {
+        "name": "Wu Zhou Dynasty",
+        "id": "16255"
+      },
+      {
+        "name": "Historical Figure",
+        "id": "8629"
+      },
+      {
+        "name": "Detective Di Renjie",
+        "id": "6309"
+      },
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Tang Dynasty",
+        "id": "1412"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "Following the mysterious deaths of several magistrates in Penglai County, Detective Dee is ordered to investigate the case. As soon as he arrives, he encounters another crime scene. From the attack of a masked assassin to the rescue of magistrate Wu Yong, Detective Dee must investigate the web of mysteries to get to the bottom of it all. (Source: Yes Asia) English Русский हिन्दी Español",
+    "poster_url": "https://i.mydramalist.com/4qX7w_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/4qX7w_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/4qX7w_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/4qX7w_4f.jpg",
+        "title": "Detective Dee's Ghost Blood Hand (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Hnan",
+          "slug": "people/87813-hnan",
+          "url": "https://mydramalist.com/people/87813-hnan",
+          "image_url": "https://i.mydramalist.com/vXWXde_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXWXde_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "He Xin Zhu",
+          "slug": "people/87811-he-xin-zhu",
+          "url": "https://mydramalist.com/people/87811-he-xin-zhu",
+          "image_url": "https://i.mydramalist.com/15z4Q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/15z4Q_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Liu Zi",
+          "slug": "people/126149-liu-zi",
+          "url": "https://mydramalist.com/people/126149-liu-zi",
+          "image_url": "https://i.mydramalist.com/E58A07_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E58A07_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Fang Ying Hua",
+          "slug": "people/92799-fang-ying-hua",
+          "url": "https://mydramalist.com/people/92799-fang-ying-hua",
+          "image_url": "https://i.mydramalist.com/eexQE_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eexQE_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:26:12.551Z"
+  },
+  {
+    "id": 70517,
+    "slug": "70517-a-chinese-girl-story",
+    "url": "https://mydramalist.com/70517-a-chinese-girl-story",
+    "title": "A Fairy Tale 1",
+    "complete_title": "A Fairy Tale 1 (2020)",
+    "native_title": "倩女仙缘",
+    "sub_title": "倩女仙缘 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "A Chinese Girl Story , A Fairy Tale , Qian Nv Xian Yuan"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 22 min.",
+    "duration_minutes": 82,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.0141,
+    "scored_by": 34,
+    "ranked": 82780,
+    "popularity": 99999,
+    "watchers": 141,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Demon Hunter Supporting Character",
+        "id": "20459"
+      },
+      {
+        "name": "Fox Demon",
+        "id": "12241"
+      },
+      {
+        "name": "Supernatural Being",
+        "id": "10467"
+      },
+      {
+        "name": "Demon",
+        "id": "711"
+      },
+      {
+        "name": "Interspecies Romance",
+        "id": "692"
+      },
+      {
+        "name": "Adapted From A Novel",
+        "id": "133"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "synopsis": "A firm believer in an equal balance between good and evil, Ning Cai Chen has long believed that humans and demons can live in peace. Convinced that, much like humans, there are just as many good demons as there are evil, Cai Chen sees no reason why spirits and humans can’t co-exist in perfect harmony. However, his beliefs are far from popular, especially as rumors of dark forces stirring in the world begin to spread. Sealed deep within a nearby mountain, one of the spirit realm’s most vile leaders has long slumbered, some believe the time to summon him has finally come. To keep the world from being overwhelmed by the great wave of darkness that would inevitably sweep over the world, should this vile force be awakened, Cai Chen takes it upon himself to journey to the lands bordering the human and spirit realms. Joining him is Nie Xiao Qian, a fox demon Cai Chen happened to save from the clutches of a demon hunter. With the odds stacked against them, Cai Chen and Xiao Qian journey deeper into the heart of darkness. But will their efforts be enough to stem the great tide of evil that threatens to destroy humanity once and for all? (Source: Viki) ~~ Adapted from the story \"Nie Xiao Qian\"(聂小倩) in the collection \"Strange Stories from a Chinese Studio\"(聊斋志异) by Pu Song Ling (蒲松龄). English हिन्दी magyar / magyar nyelv עברית / עִבְרִית",
+    "poster_url": "https://i.mydramalist.com/rrWvg_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/rrWvg_4f.jpg",
+    "trailer_id": "29077",
+    "trailers": [
+      {
+        "id": "29077",
+        "title": "A Fairy Tale 1 Official Trailer",
+        "url": "https://v.mydramalist.com/085/0853de1f652d3a206e18264d18eb3bb0.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/rrWvg_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/rrWvg_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/rrWvg_4f.jpg",
+        "title": "A Fairy Tale 1 (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/jgDEd_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/jgDEd_4f.jpg",
+        "title": "A Fairy Tale 1 Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [
+      {
+        "title": "Yasha My Deepest Love",
+        "slug": "763227-yasha-my-deepest-love",
+        "url": "https://mydramalist.com/763227-yasha-my-deepest-love",
+        "poster_url": "https://i.mydramalist.com/wJlwzn_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/wJlwzn_4f.jpg",
+        "year": 2024,
+        "votes": 0
+      }
+    ],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "A Fairy Tale 2",
+        "slug": "703821-a-fairy-tale-2",
+        "url": "https://mydramalist.com/703821-a-fairy-tale-2",
+        "relation": "Chinese sequel"
+      },
+      {
+        "title": "The Enchanting Phantom",
+        "slug": "33923-a-ghost-story",
+        "url": "https://mydramalist.com/33923-a-ghost-story",
+        "relation": "Chinese adaptation"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Peng Yu Si",
+          "slug": "people/13630-peng-yu-si",
+          "url": "https://mydramalist.com/people/13630-peng-yu-si",
+          "image_url": "https://i.mydramalist.com/x4gd6q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4gd6q_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Nan Sheng",
+          "slug": "people/14296-nan-sheng",
+          "url": "https://mydramalist.com/people/14296-nan-sheng",
+          "image_url": "https://i.mydramalist.com/Z3lv8s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Z3lv8s.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Shi Xuan Ru",
+          "slug": "people/23349-shi-xuan-ru",
+          "url": "https://mydramalist.com/people/23349-shi-xuan-ru",
+          "image_url": "https://i.mydramalist.com/ZJjpY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZJjpY_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cheng Qi Meng",
+          "slug": "people/28085-cheng-qi-meng",
+          "url": "https://mydramalist.com/people/28085-cheng-qi-meng",
+          "image_url": "https://i.mydramalist.com/yWeqx3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWeqx3_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gong Xiao Jun",
+          "slug": "people/106283-gong-xiao-jun",
+          "url": "https://mydramalist.com/people/106283-gong-xiao-jun",
+          "image_url": "https://i.mydramalist.com/E533oO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E533oO_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Pu Song Ling",
+          "slug": "people/66507-pu-song-ling",
+          "url": "https://mydramalist.com/people/66507-pu-song-ling",
+          "image_url": "https://i.mydramalist.com/ZPY6W_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZPY6W_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:26:18.402Z"
+  },
+  {
+    "id": 77673,
+    "slug": "77673-sacrifice",
+    "url": "https://mydramalist.com/77673-sacrifice",
+    "title": "The Sacrifice",
+    "complete_title": "The Sacrifice (2020)",
+    "native_title": "金刚川",
+    "sub_title": "金刚川 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Jin Gang Chuan , Sacrifice"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "2 hr. 2 min.",
+    "duration_minutes": 122,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.0129,
+    "scored_by": 50,
+    "ranked": 82928,
+    "popularity": 99999,
+    "watchers": 129,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Military",
+        "id": "3"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "War",
+        "id": "37"
+      }
+    ],
+    "tags": [
+      {
+        "name": "1950s",
+        "id": "1547"
+      }
+    ],
+    "synopsis": "It tells the heroic deeds of the Chinese volunteers who sacrificed their flesh and bloo during the War to Resist US Aggression and Aid Korea. During the Korean war, a little-known even in history took place as the People's Volunteer Army joined in the fight on the frontlines. Bridges that were repaired, blown up yet continue to stand tall are a miracle of war. A strong brotherhood is forged between Zhang Fei and Guan Lei of the antiaircraft squad and feelings emerge between infantry squad leader Liu Hao and operator Xin Qin. (Source: Chinesedrama.info) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/q3JA5_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/q3JA5_4f.jpg",
+    "trailer_id": "29061",
+    "trailers": [
+      {
+        "id": "29061",
+        "title": "The Sacrifice Official Trailer",
+        "url": "https://v.mydramalist.com/5d5/5d5fb81695efe05e819b08eb4deecf01.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/q3JA5_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/q3JA5_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/q3JA5_4f.jpg",
+        "title": "The Sacrifice (2020) poster"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "MidnightReader",
+        "author_url": "https://mydramalist.com/profile/MidnightReader",
+        "scores": {
+          "overall": 7,
+          "story": 7,
+          "acting": 7,
+          "music": 6,
+          "rewatch_value": 7
+        },
+        "helpful_votes": 0,
+        "review_text": "Overall 7.0 Story 7.0 Acting/Cast 7.0 Music 6.0 Rewatch Value 7.0 One of the most realistic depictions of war I've watched. I somehow found this dubbed in English. It actually wasn't that bad, but I wish I could have found it in Korean. Weirdly enough, I could only find it in English and Russian.Set in Korea, July 1953, during the battle of the Kamgang Bridge. I personally don't know much about this battle, but I'm very interested in studying it & the war itself after watching this movie. I'm not sure how much truth I will get from it since the winners write our history, but I'm interested nonetheless.All the focus is on this one bridge. One side is trying to destroy it while the other keeps rebuilding. It's a never-ending cycle of hope being built up and then crushed. We get the POV of the Korean ground troops and the American fighter pilots. The two stories aren't told in sync, so it was a little confusing until I realized that. This movie doesn't try to get you emotionally attached to any of the characters; it's showing you the reality of war through their eyes. And it's an uplifting and soul-crushing thing to see. Uplifting because of the sheer tenacity of humans, but soul-crushing because you see how cruel and greedy some can be over the littlest things. (I'm going to stop there before I go on a rant.)I won't spoil it, but the ending scene was the reason I watched this movie, and it was honestly an empowering thing to see. Even more so because of the 2 hours building up to that moment. Then it ends by showing us a fully built bridge in the same place, I'm guessing, in the present day, and I got a sense of pride seeing it. This movie was far from perfect, but it's a story that I believe needed to be told. Read More Was this review helpful to you?",
+        "has_spoiler": false
+      }
+    ],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zhang Yi",
+          "slug": "people/7838-zhang-yi",
+          "url": "https://mydramalist.com/people/7838-zhang-yi",
+          "image_url": "https://i.mydramalist.com/E8b60s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E8b60s.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wu Jing",
+          "slug": "people/1486-wu-jing",
+          "url": "https://mydramalist.com/people/1486-wu-jing",
+          "image_url": "https://i.mydramalist.com/Y3KWPs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Y3KWPs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Li Jiu Xiao",
+          "slug": "people/14772-li-jiu-xiao",
+          "url": "https://mydramalist.com/people/14772-li-jiu-xiao",
+          "image_url": "https://i.mydramalist.com/w8BWgs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/w8BWgs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Vision Wei",
+          "slug": "people/1830-wei-chen",
+          "url": "https://mydramalist.com/people/1830-wei-chen",
+          "image_url": "https://i.mydramalist.com/l0mlJN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0mlJN_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Ou Hao",
+          "slug": "people/12454-ou-hao",
+          "url": "https://mydramalist.com/people/12454-ou-hao",
+          "image_url": "https://i.mydramalist.com/VXLJzL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXLJzL_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Deng Chao",
+          "slug": "people/5206-deng-chao",
+          "url": "https://mydramalist.com/people/5206-deng-chao",
+          "image_url": "https://i.mydramalist.com/oQppLN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQppLN_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Qiu Tian",
+          "slug": "people/83169-qiu-tian",
+          "url": "https://mydramalist.com/people/83169-qiu-tian",
+          "image_url": "https://i.mydramalist.com/Nd63mv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Nd63mv_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhu Zi Yu",
+          "slug": "people/90821-zhu-zi-yu",
+          "url": "https://mydramalist.com/people/90821-zhu-zi-yu",
+          "image_url": "https://i.mydramalist.com/EXwzp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EXwzp_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liu Xian Da",
+          "slug": "people/45549-liu-xian-da",
+          "url": "https://mydramalist.com/people/45549-liu-xian-da",
+          "image_url": "https://i.mydramalist.com/0K6me_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0K6me_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jiang Qi Ming",
+          "slug": "people/103409-jiang-qi-ming",
+          "url": "https://mydramalist.com/people/103409-jiang-qi-ming",
+          "image_url": "https://i.mydramalist.com/Nd6K1W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Nd6K1W_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Du Zi Lan",
+          "slug": "people/159640-du-zi-lan",
+          "url": "https://mydramalist.com/people/159640-du-zi-lan",
+          "image_url": "https://i.mydramalist.com/KpkADJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/KpkADJ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hao Han",
+          "slug": "people/137855-hao-han",
+          "url": "https://mydramalist.com/people/137855-hao-han",
+          "image_url": "https://i.mydramalist.com/JBOobY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBOobY_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Shi Hao Zheng",
+          "slug": "people/133619-shi-hao-zheng",
+          "url": "https://mydramalist.com/people/133619-shi-hao-zheng",
+          "image_url": "https://i.mydramalist.com/wJ8bjJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJ8bjJ_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Wan Pei Xin",
+          "slug": "people/54779-pacy-wan",
+          "url": "https://mydramalist.com/people/54779-pacy-wan",
+          "image_url": "https://i.mydramalist.com/vZ4Dq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vZ4Dq_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Ning Nan",
+          "slug": "people/120011-ning-nan",
+          "url": "https://mydramalist.com/people/120011-ning-nan",
+          "image_url": "https://i.mydramalist.com/E5kmBO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5kmBO_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Xu Xiao",
+          "slug": "people/159248-xu-xiao",
+          "url": "https://mydramalist.com/people/159248-xu-xiao",
+          "image_url": "https://i.mydramalist.com/81v8O2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81v8O2_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Li Fei Yang",
+          "slug": "people/155466-li-fei-yang",
+          "url": "https://mydramalist.com/people/155466-li-fei-yang",
+          "image_url": "https://i.mydramalist.com/VXA8KE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXA8KE_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Tian Yu Sheng",
+          "slug": "people/30559-tian-yu-sheng",
+          "url": "https://mydramalist.com/people/30559-tian-yu-sheng",
+          "image_url": "https://i.mydramalist.com/5vzrR4_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5vzrR4_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Lu Yang",
+          "slug": "people/21428-lu-yang",
+          "url": "https://mydramalist.com/people/21428-lu-yang",
+          "image_url": "https://i.mydramalist.com/0g1g6_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0g1g6_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Guan Hu",
+          "slug": "people/30385-guan-hu",
+          "url": "https://mydramalist.com/people/30385-guan-hu",
+          "image_url": "https://i.mydramalist.com/wK4vgm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wK4vgm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Zhang Ke",
+          "slug": "people/135313-zhang-ke",
+          "url": "https://mydramalist.com/people/135313-zhang-ke",
+          "image_url": "https://i.mydramalist.com/zB8gJe_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zB8gJe_5f.jpg",
+          "role_type": "Screenwriter"
+        },
+        {
+          "name": "Zhao Ning Yu",
+          "slug": "people/120375-zhao-ning-yu",
+          "url": "https://mydramalist.com/people/120375-zhao-ning-yu",
+          "image_url": "https://i.mydramalist.com/eYwV6K_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYwV6K_5f.jpg",
+          "role_type": "Screenwriter"
+        },
+        {
+          "name": "Gao Lin Yang",
+          "slug": "people/100657-gao-lin-yang",
+          "url": "https://mydramalist.com/people/100657-gao-lin-yang",
+          "image_url": "https://i.mydramalist.com/rKe3m_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rKe3m_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Han Qi Ming",
+          "slug": "people/103063-han-qi-ming",
+          "url": "https://mydramalist.com/people/103063-han-qi-ming",
+          "image_url": "https://i.mydramalist.com/xePNN_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xePNN_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Emanuele Frusi",
+          "slug": "people/105397-emanuele-frusi",
+          "url": "https://mydramalist.com/people/105397-emanuele-frusi",
+          "image_url": "https://i.mydramalist.com/VX3ePv_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VX3ePv_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Fu Bin Xing",
+          "slug": "people/162750-fu-bin-xing",
+          "url": "https://mydramalist.com/people/162750-fu-bin-xing",
+          "image_url": "https://i.mydramalist.com/YYN11e_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYN11e_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Guo Fan",
+          "slug": "people/115831-guo-fan",
+          "url": "https://mydramalist.com/people/115831-guo-fan",
+          "image_url": "https://i.mydramalist.com/mOJmlP_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mOJmlP_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Zhang Ling Xiang",
+          "slug": "people/81687-zhang-ling-xiang",
+          "url": "https://mydramalist.com/people/81687-zhang-ling-xiang",
+          "image_url": "https://i.mydramalist.com/RNk6E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RNk6E_5f.jpg",
+          "role_type": "Bit part"
+        },
+        {
+          "name": "Zhou Si Yu",
+          "slug": "people/55669-zhou-si-yu",
+          "url": "https://mydramalist.com/people/55669-zhou-si-yu",
+          "image_url": "https://i.mydramalist.com/oQXqXY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQXqXY_5f.jpg",
+          "role_type": "Bit part"
+        },
+        {
+          "name": "Zhang Cheng",
+          "slug": "people/17250-zhang-rizo",
+          "url": "https://mydramalist.com/people/17250-zhang-rizo",
+          "image_url": "https://i.mydramalist.com/oQw7xx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQw7xx_5f.jpg",
+          "role_type": "Bit part"
+        },
+        {
+          "name": "Qi Chao",
+          "slug": "people/81261-qi-chao",
+          "url": "https://mydramalist.com/people/81261-qi-chao",
+          "image_url": "https://i.mydramalist.com/e66Z8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e66Z8_5f.jpg",
+          "role_type": "Bit part"
+        },
+        {
+          "name": "Ma Xiao Jun",
+          "slug": "people/15000-ma-xiao-jun",
+          "url": "https://mydramalist.com/people/15000-ma-xiao-jun",
+          "image_url": "https://i.mydramalist.com/EY7X7s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EY7X7s.jpg",
+          "role_type": "Bit part"
+        },
+        {
+          "name": "Zhou Guan Ting",
+          "slug": "people/77685-zhou-guan-yan",
+          "url": "https://mydramalist.com/people/77685-zhou-guan-yan",
+          "image_url": "https://i.mydramalist.com/r83z2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r83z2_5f.jpg",
+          "role_type": "Bit part"
+        },
+        {
+          "name": "Lawrence Wang",
+          "slug": "people/10153-wang-xiao",
+          "url": "https://mydramalist.com/people/10153-wang-xiao",
+          "image_url": "https://i.mydramalist.com/nOp7x4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOp7x4_5f.jpg",
+          "role_type": "Bit part"
+        },
+        {
+          "name": "Sun Lu Lu",
+          "slug": "people/147144-sun-lu-lu",
+          "url": "https://mydramalist.com/people/147144-sun-lu-lu",
+          "image_url": "https://i.mydramalist.com/l0pg4E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0pg4E_5f.jpg",
+          "role_type": "Voice Actor"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:26:26.288Z"
+  },
+  {
+    "id": 65449,
+    "slug": "65449-monster-hunters",
+    "url": "https://mydramalist.com/65449-monster-hunters",
+    "title": "Monster Hunters",
+    "complete_title": "Monster Hunters (2020)",
+    "native_title": "镇魂歌",
+    "sub_title": "镇魂歌 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Zhen Hun Ge"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 16 min.",
+    "duration_minutes": 76,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.0118,
+    "scored_by": 37,
+    "ranked": 82986,
+    "popularity": 99999,
+    "watchers": 118,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Wuxia",
+        "id": "20"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Supernatural Being",
+        "id": "10467"
+      },
+      {
+        "name": "Mythical Being",
+        "id": "3133"
+      },
+      {
+        "name": "Dragon",
+        "id": "715"
+      },
+      {
+        "name": "Demon",
+        "id": "711"
+      },
+      {
+        "name": "Cross-Dressing",
+        "id": "126"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "synopsis": "Five hundred years ago, Grandmaster Tian Xuan sealed the King of All Demons in exchange for a prosperous and peaceful world. However, the good times were short-lived. Demons lurked in the peaceful town of Qui Yuan, and cholera resurfaced. English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/QlrjW_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/QlrjW_4f.jpg",
+    "trailer_id": "28545",
+    "trailers": [
+      {
+        "id": "28545",
+        "title": "Monster Hunters Official Trailer",
+        "url": "https://v.mydramalist.com/02f/02f838984bfa7e26567a1e06dd2728b5.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/QlrjW_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/QlrjW_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/QlrjW_4f.jpg",
+        "title": "Monster Hunters (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Bryan Leung",
+          "slug": "people/4929-leung-bryan",
+          "url": "https://mydramalist.com/people/4929-leung-bryan",
+          "image_url": "https://i.mydramalist.com/GqXJKs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/GqXJKs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Peng Bi Yao",
+          "slug": "people/43287-peng-bi-yao",
+          "url": "https://mydramalist.com/people/43287-peng-bi-yao",
+          "image_url": "https://i.mydramalist.com/wJOqB1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJOqB1_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Norman Chui",
+          "slug": "people/5209-chui-norman",
+          "url": "https://mydramalist.com/people/5209-chui-norman",
+          "image_url": "https://i.mydramalist.com/3LDXDs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3LDXDs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Steven Liu",
+          "slug": "people/77993-steven-liu",
+          "url": "https://mydramalist.com/people/77993-steven-liu",
+          "image_url": "https://i.mydramalist.com/Xxy1g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xxy1g_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Katherine Zhao",
+          "slug": "people/43817-katherine-zhao",
+          "url": "https://mydramalist.com/people/43817-katherine-zhao",
+          "image_url": "https://i.mydramalist.com/WBZjPs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WBZjPs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wu Shu Lin",
+          "slug": "people/52121-wu-shu-lin",
+          "url": "https://mydramalist.com/people/52121-wu-shu-lin",
+          "image_url": "https://i.mydramalist.com/O863kL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O863kL_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Han Meng Wu",
+          "slug": "people/96399-han-meng-wu",
+          "url": "https://mydramalist.com/people/96399-han-meng-wu",
+          "image_url": "https://i.mydramalist.com/d04XbK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d04XbK_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Dai Yi Lin",
+          "slug": "people/98869-dai-yi-lin",
+          "url": "https://mydramalist.com/people/98869-dai-yi-lin",
+          "image_url": "https://i.mydramalist.com/Kpo23j_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Kpo23j_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:26:33.824Z"
+  },
+  {
+    "id": 689659,
+    "slug": "689659-wild-king",
+    "url": "https://mydramalist.com/689659-wild-king",
+    "title": "Wild King",
+    "complete_title": "Wild King (2020)",
+    "native_title": "野王",
+    "sub_title": "野王 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Mountain King , Yewang"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 27 min.",
+    "duration_minutes": 87,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.065,
+    "scored_by": 34,
+    "ranked": 83105,
+    "popularity": 99999,
+    "watchers": 65,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Adventure",
+        "id": "5"
+      }
+    ],
+    "tags": [],
+    "synopsis": "There is a savage in Tianmu Mountain, who is accompanied by a big orang-utan all day long. The little girl Xiao'er and her father are chased by the enemy. They brake into the dangerous mountain forest. and by chance Xiao'er is rescued by Shankui. In order to avenge she decides to learn from Shankui and enters Shankui’s life. They become friends and the orang-utan accepts there friendship. Shankui also becomes the target of Xiao'er's enemy and in order to protect Xiao'er, the confrontation between Shankui and the world power under the mountain begins... English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/vAR5B_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/vAR5B_4f.jpg",
+    "trailer_id": "30525",
+    "trailers": [
+      {
+        "id": "30525",
+        "title": "Wild King Official Trailer",
+        "url": "https://v.mydramalist.com/fff/fffe9f664c2ddba4a37bcd35936c7422.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/vAR5B_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/vAR5B_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/vAR5B_4f.jpg",
+        "title": "Wild King (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Lv Chen Yue",
+          "slug": "people/19796-lu-chen-yue",
+          "url": "https://mydramalist.com/people/19796-lu-chen-yue",
+          "image_url": "https://i.mydramalist.com/81lgDm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81lgDm_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wang Li Dan",
+          "slug": "people/71395-wang-li-dan",
+          "url": "https://mydramalist.com/people/71395-wang-li-dan",
+          "image_url": "https://i.mydramalist.com/jnkkz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jnkkz_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Dou Yi Kun",
+          "slug": "people/70063-dou-yi-kun",
+          "url": "https://mydramalist.com/people/70063-dou-yi-kun",
+          "image_url": "https://i.mydramalist.com/yWKvw1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWKvw1_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liu Bang Bang",
+          "slug": "people/77085-liu-bang-bang",
+          "url": "https://mydramalist.com/people/77085-liu-bang-bang",
+          "image_url": "https://i.mydramalist.com/kjE7O_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kjE7O_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liu Xin Jie",
+          "slug": "people/73239-liu-xin-jie",
+          "url": "https://mydramalist.com/people/73239-liu-xin-jie",
+          "image_url": "https://i.mydramalist.com/eLVEQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eLVEQ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:26:40.553Z"
+  },
+  {
+    "id": 58183,
+    "slug": "58183-j-style-trip",
+    "url": "https://mydramalist.com/58183-j-style-trip",
+    "title": "J-Style Trip",
+    "complete_title": "J-Style Trip (2020)",
+    "native_title": "周游记",
+    "sub_title": "周游记 ‧ TV Program ‧ 2020",
+    "also_known_as": [
+      "J Style Trip , J-Style Trip 1 , J-Style Trip Season 1 , Zhou You Ji 1 , Zhou You Ji Di Yi Ji , 周游記 第1季 , 周游記 第一季 , 周游記1 , 周游记 第1季 , 周游记 第一季 , 周游记1"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": 13,
+    "aired_string": "Mar 21, 2020 - Jun 13, 2020",
+    "aired_start": "2020-03-21",
+    "aired_end": "2020-06-13",
+    "aired_on": [
+      "Saturday"
+    ],
+    "original_network": "ZJTV",
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 7.0112,
+    "scored_by": 27,
+    "ranked": 83126,
+    "popularity": 99999,
+    "watchers": 112,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Adventure",
+        "id": "5"
+      }
+    ],
+    "tags": [
+      {
+        "name": "EXILE TRIBE (Supergroup)",
+        "id": "19401"
+      },
+      {
+        "name": "Generations From Exile Tribe",
+        "id": "16759"
+      },
+      {
+        "name": "Exile (Group)",
+        "id": "6435"
+      },
+      {
+        "name": "Travel Show",
+        "id": "168"
+      }
+    ],
+    "synopsis": "English Nederlands magyar / magyar nyelv dansk",
+    "poster_url": "https://i.mydramalist.com/vXWvD2_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/vXWvD2_4f.jpg",
+    "trailer_id": "19237",
+    "trailers": [
+      {
+        "id": "19237",
+        "title": "J-Style Trip Official Trailer",
+        "url": "https://v.mydramalist.com/b81/b818123d4596c686bf837ce0d839a9af.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/vXWvD2_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/vXWvD2_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/vXWvD2_4f.jpg",
+        "title": "J-Style Trip (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/E3knms.jpg",
+        "hd_url": "https://i.mydramalist.com/E3knms.jpg",
+        "title": "J-Style Trip Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/2zQjVs.jpg",
+        "hd_url": "https://i.mydramalist.com/2zQjVs.jpg",
+        "title": "J-Style Trip Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/XEAwns.jpg",
+        "hd_url": "https://i.mydramalist.com/XEAwns.jpg",
+        "title": "J-Style Trip Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/0Axd7s.jpg",
+        "hd_url": "https://i.mydramalist.com/0Axd7s.jpg",
+        "title": "J-Style Trip Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/43v2Ks.jpg",
+        "hd_url": "https://i.mydramalist.com/43v2Ks.jpg",
+        "title": "J-Style Trip Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/E3knmm.jpg",
+        "hd_url": "https://i.mydramalist.com/E3knmm.jpg",
+        "title": "J-Style Trip (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/2zQjVm.jpg",
+        "hd_url": "https://i.mydramalist.com/2zQjVm.jpg",
+        "title": "J-Style Trip (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/XEAwnm.jpg",
+        "hd_url": "https://i.mydramalist.com/XEAwnm.jpg",
+        "title": "J-Style Trip (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/0Axd7m.jpg",
+        "hd_url": "https://i.mydramalist.com/0Axd7m.jpg",
+        "title": "J-Style Trip (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/43v2Km.jpg",
+        "hd_url": "https://i.mydramalist.com/43v2Km.jpg",
+        "title": "J-Style Trip (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/wV52bm.jpg",
+        "hd_url": "https://i.mydramalist.com/wV52bm.jpg",
+        "title": "J-Style Trip (2020)"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Mardybob",
+        "author_url": "https://mydramalist.com/profile/Mardybob",
+        "scores": {
+          "overall": 9.5,
+          "story": 9.5,
+          "acting": 10,
+          "music": 9.5,
+          "rewatch_value": 9.5
+        },
+        "helpful_votes": 0,
+        "review_text": "Overall 9.5 Story 9.5 Acting/Cast 10 Music 9.5 Rewatch Value 9.5 Good fun Really enjoyed seeing Jay and his mates gallivant around various cities around the world. His mates' reactions to finding new stuff, Jay knowing a bit because he's been there before to shoot music videos - add in some street magic, some of his greatest hits as soundtrack, some fun guest stars and challenges, and I had a really good time.It's still on UK Netflix so I've been back and watched it all again - Paris and possibly The Gold Coast were my favourites, but the surprise guest star of Nic Tse gave that particular episode a different feel to it. The last one, in Havana, was so much fun I've now seen it three times. Wishing and hoping we get a season 2. I mean he's got to have more of these trips if he's got an album coming out probably end of 2020 / start of 2021, right? Read More Was this review helpful to you?",
+        "has_spoiler": false
+      }
+    ],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "J-Style Trip Season 2",
+        "slug": "737573-j-style-trip-2",
+        "url": "https://mydramalist.com/737573-j-style-trip-2",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Jay Chou",
+          "slug": "people/563-chou-jay",
+          "url": "https://mydramalist.com/people/563-chou-jay",
+          "image_url": "https://i.mydramalist.com/v1z0q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v1z0q_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Jam Hsiao",
+          "slug": "people/22611-jam-hsiao",
+          "url": "https://mydramalist.com/people/22611-jam-hsiao",
+          "image_url": "https://i.mydramalist.com/0rNAe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0rNAe_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "JJ Lin",
+          "slug": "people/893-lin-jj",
+          "url": "https://mydramalist.com/people/893-lin-jj",
+          "image_url": "https://i.mydramalist.com/60065g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/60065g_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Blackie Chen",
+          "slug": "people/24421-blackie-chen",
+          "url": "https://mydramalist.com/people/24421-blackie-chen",
+          "image_url": "https://i.mydramalist.com/evBxWs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/evBxWs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Darren Chiu",
+          "slug": "people/3071-chiu-darren",
+          "url": "https://mydramalist.com/people/3071-chiu-darren",
+          "image_url": "https://i.mydramalist.com/JB23jJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB23jJ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Devon Song",
+          "slug": "people/7343-song-devon",
+          "url": "https://mydramalist.com/people/7343-song-devon",
+          "image_url": "https://i.mydramalist.com/qYRQzs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYRQzs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Katayose Ryota",
+          "slug": "people/11359-katayose-ryota",
+          "url": "https://mydramalist.com/people/11359-katayose-ryota",
+          "image_url": "https://i.mydramalist.com/R7EWr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R7EWr_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Nicholas Tse",
+          "slug": "people/360-tse-nicholas",
+          "url": "https://mydramalist.com/people/360-tse-nicholas",
+          "image_url": "https://i.mydramalist.com/zBpv8A_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zBpv8A_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Alan Ko",
+          "slug": "people/4209-ko-alan",
+          "url": "https://mydramalist.com/people/4209-ko-alan",
+          "image_url": "https://i.mydramalist.com/vXXp5e_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXXp5e_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "J-Style Trip Episode 1",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/1",
+        "air_date": null,
+        "rating": 8,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/Zj2pL_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Zj2pL_3f.jpg",
+        "summary": "Jay Chou takes Jam Hsiao to play basketball, do some street magic and make bets at a pool hall on darts and pool. They are joined by magicians Will Tsai and Chen Guanlin and Jay's…"
+      },
+      {
+        "episode_number": 2,
+        "title": "J-Style Trip Episode 2",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/2",
+        "air_date": null,
+        "rating": 9,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/1AZN5_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1AZN5_3f.jpg",
+        "summary": "The first part of J-Style Trip in Singapore with superstar JJ Lin."
+      },
+      {
+        "episode_number": 3,
+        "title": "J-Style Trip Episode 3",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/3",
+        "air_date": null,
+        "rating": 8.5,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/v8E02_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v8E02_3f.jpg",
+        "summary": "The adventures in Singapore with JJ Lin continue in the finale part of the Singapore tour."
+      },
+      {
+        "episode_number": 4,
+        "title": "J-Style Trip Episode 4",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/4",
+        "air_date": null,
+        "rating": 9.5,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/WlgLp_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/WlgLp_3f.jpg",
+        "summary": "Blackie Chen joins the crew in Taipei, Taiwan, giving the gang a tour and walking them down memory lane while creating new memories."
+      },
+      {
+        "episode_number": 5,
+        "title": "J-Style Trip Episode 5",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/5",
+        "air_date": null,
+        "rating": 7,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/pARwy_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pARwy_3f.jpg",
+        "summary": "The crew heads to Vienna to learn about the city's history and music icons such as Mozart. Lang Lang aids in telling his perspective and views of Vienna as well as helping tell about…"
+      },
+      {
+        "episode_number": 6,
+        "title": "J-Style Trip Episode 6",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/6",
+        "air_date": null,
+        "rating": 6,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/6dZRj_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/6dZRj_3f.jpg",
+        "summary": "Gold Coast: Currumbin Wildlife Sanctuary, boomerangs, Cavill Avenue. After a stop in Sydney, Jay and crew pet a koala and show off ore card tricks. (Source: Netflix)"
+      },
+      {
+        "episode_number": 7,
+        "title": "J-Style Trip Episode 7",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/7",
+        "air_date": null,
+        "rating": 6,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/jYeKr_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/jYeKr_3f.jpg",
+        "summary": "Gold Coast, continued: Yachting, yabbies, Sea World. Jay discovers parasailing and cooks a fish dinner with the crew"
+      },
+      {
+        "episode_number": 8,
+        "title": "J-Style Trip Episode 8",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/8",
+        "air_date": null,
+        "rating": 7.5,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/E0yml_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E0yml_3f.jpg",
+        "summary": "Shenzhen: Lang Lang Music World. Jay, Lang Lang, and crew put on disguises and inspire young pianists. (Source: Netflix)"
+      },
+      {
+        "episode_number": 9,
+        "title": "J-Style Trip Episode 9",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/9",
+        "air_date": null,
+        "rating": 8,
+        "votes": 1,
+        "image_url": "https://i.mydramalist.com/ByZQb_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ByZQb_3f.jpg",
+        "summary": "Shenzhen, continued: Lang Lang discusses his creative collaborations, and Jay gears up for the big show at the Universiade Sports Centre. (Source: Netflix)"
+      },
+      {
+        "episode_number": 10,
+        "title": "J-Style Trip Episode 10",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XXynO_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XXynO_3f.jpg",
+        "summary": "Tokyo: Harajuku, Daikanyama, soba. Magician Cyril Takayama cooks up food and magic tricks, and pop star Ryota Katayose and Japanese rapper Verbal make a guest appearance."
+      },
+      {
+        "episode_number": 11,
+        "title": "J-Style Trip Episode 11",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/jYeKv_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/jYeKv_3f.jpg",
+        "summary": "Tokyo, continued: Sunset, Kabukicho, Shibuya. On Halloween night, Jay dresses up as Kato and draws a big crowd. With a special visit from Mayday. (Source: Netflix)"
+      },
+      {
+        "episode_number": 12,
+        "title": "J-Style Trip Episode 12",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/E0ym0_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/E0ym0_3f.jpg",
+        "summary": "Tokyo and Mount Fuji: Yohji Yamamoto's office, Rainbow Bridge, road trip. Jay and crew catch up with Hong Kong actor and chef Nicholas Tse. (Souce: Netflix)"
+      },
+      {
+        "episode_number": 13,
+        "title": "J-Style Trip Episode 13",
+        "url": "https://mydramalist.com/58183-j-style-trip/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ByZQl_3m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ByZQl_3f.jpg",
+        "summary": "Havana: Morro Castle, Plaza Vieja, salsa. Taiwanese singer Alan Kuo drives Jay and crew on a sightseeing tour. (Source: Netflix)"
+      }
+    ],
+    "scraped_at": "2026-11-19T19:26:47.029Z"
+  },
+  {
+    "id": 693207,
+    "slug": "693207-tale-of-wuxia",
+    "url": "https://mydramalist.com/693207-tale-of-wuxia",
+    "title": "Tale of Wuxia",
+    "complete_title": "Tale of Wuxia (2020)",
+    "native_title": "侠客无名",
+    "sub_title": "侠客无名 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Nameless Knight , Paladin Unknown , Xia Ke Wu Ming"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 40 min.",
+    "duration_minutes": 100,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.0112,
+    "scored_by": 20,
+    "ranked": 83261,
+    "popularity": 99999,
+    "watchers": 112,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Wuxia",
+        "id": "20"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Slapstick",
+        "id": "1938"
+      },
+      {
+        "name": "Ming Dynasty",
+        "id": "1175"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      },
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "synopsis": "At the end of the Ming Dynasty, the martial arts were turbulent. Master Mu’s family retreats to practice. On the night of his departure, his son Mu Zheng Tian’s wife gave birth to a baby boy. Master Mu was excited. (Source: Letterboxd) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/67DzX_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/67DzX_4f.jpg",
+    "trailer_id": "29185",
+    "trailers": [
+      {
+        "id": "29185",
+        "title": "Tale of Wuxia Official Trailer",
+        "url": "https://v.mydramalist.com/096/09604c68bfa72e9930b00c967e64747e.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/67DzX_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/67DzX_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/67DzX_4f.jpg",
+        "title": "Tale of Wuxia (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/pddeeD_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/pddeeD_3f.jpg",
+        "title": "Tale of Wuxia Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Guo Zi Yu",
+          "slug": "people/17405-guo-zi-yu",
+          "url": "https://mydramalist.com/people/17405-guo-zi-yu",
+          "image_url": "https://i.mydramalist.com/QQlQv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QQlQv_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Shu Yang",
+          "slug": "people/41097-shu-yang",
+          "url": "https://mydramalist.com/people/41097-shu-yang",
+          "image_url": "https://i.mydramalist.com/ee708_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ee708_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Shao Lao Wu",
+          "slug": "people/56923-shao-lao-wu",
+          "url": "https://mydramalist.com/people/56923-shao-lao-wu",
+          "image_url": "https://i.mydramalist.com/VXPqJE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXPqJE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yue Dong Feng",
+          "slug": "people/54879-yue-dong-feng",
+          "url": "https://mydramalist.com/people/54879-yue-dong-feng",
+          "image_url": "https://i.mydramalist.com/l0m4Lb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0m4Lb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Gang",
+          "slug": "people/15158-wang-gang",
+          "url": "https://mydramalist.com/people/15158-wang-gang",
+          "image_url": "https://i.mydramalist.com/73bLmL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73bLmL_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lai Xiao Sheng",
+          "slug": "people/75349-lai-xiao-sheng",
+          "url": "https://mydramalist.com/people/75349-lai-xiao-sheng",
+          "image_url": "https://i.mydramalist.com/B4VpA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B4VpA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jia Kang Xi",
+          "slug": "people/75415-jia-kang-xi",
+          "url": "https://mydramalist.com/people/75415-jia-kang-xi",
+          "image_url": "https://i.mydramalist.com/q1Z8K_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/q1Z8K_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Qiu Bin",
+          "slug": "people/87701-qiu-bin",
+          "url": "https://mydramalist.com/people/87701-qiu-bin",
+          "image_url": "https://i.mydramalist.com/Lw63l5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lw63l5_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jiang Tao",
+          "slug": "people/90397-jiang-tao",
+          "url": "https://mydramalist.com/people/90397-jiang-tao",
+          "image_url": "https://i.mydramalist.com/pLZ58_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pLZ58_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ding Zheng Yong",
+          "slug": "people/124445-ding-zheng-yong",
+          "url": "https://mydramalist.com/people/124445-ding-zheng-yong",
+          "image_url": "https://i.mydramalist.com/kAqd1k_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kAqd1k_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Yue Dong Feng",
+          "slug": "people/54879-yue-dong-feng",
+          "url": "https://mydramalist.com/people/54879-yue-dong-feng",
+          "image_url": "https://i.mydramalist.com/l0m4Lb_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0m4Lb_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:26:55.129Z"
+  },
+  {
+    "id": 61171,
+    "slug": "61171-sixth-sense-of-man",
+    "url": "https://mydramalist.com/61171-sixth-sense-of-man",
+    "title": "Sixth Sense of Man",
+    "complete_title": "Sixth Sense of Man (2020)",
+    "native_title": "男人第六感的试炼",
+    "sub_title": "男人第六感的试炼 ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "4 min.",
+    "duration_minutes": 4,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 93,
+    "scored_by": 0,
+    "ranked": 83363,
+    "popularity": 99999,
+    "watchers": 93,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "After the evaluation started, newcomer agent Huang Jingyu quickly judged the smooth and smooth things on the screen with his sharp vision-Philips SP9880 Shushi series electric beard knife, which is equipped with an intelligent beard sensor system that can automatically adjust the speed according to the density of the beard. The entire shaving The process is smooth without pulling, this kind of smooth skin feeling can be captured by the vision, and the new shaving skin feel can be really seen. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/ZoPnJc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ZoPnJc.jpg",
+    "trailer_id": "27521",
+    "trailers": [
+      {
+        "id": "27521",
+        "title": "Sixth Sense of Man Official Trailer",
+        "url": "https://v.mydramalist.com/402/4021e8ad51eb17ec0f04bc29eb5ea19f.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/ZoPnJc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ZoPnJc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ZoPnJc.jpg",
+        "title": "Sixth Sense of Man (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/ZoPnJs.jpg",
+        "hd_url": "https://i.mydramalist.com/ZoPnJs.jpg",
+        "title": "Sixth Sense of Man Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/ZoPnJm.jpg",
+        "hd_url": "https://i.mydramalist.com/ZoPnJm.jpg",
+        "title": "Sixth Sense of Man (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Johnny Huang",
+          "slug": "people/11311-huang-johnny",
+          "url": "https://mydramalist.com/people/11311-huang-johnny",
+          "image_url": "https://i.mydramalist.com/7r3k6B_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/7r3k6B_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jin Dong",
+          "slug": "people/7627-jin-dong",
+          "url": "https://mydramalist.com/people/7627-jin-dong",
+          "image_url": "https://i.mydramalist.com/nOzzjQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOzzjQ_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:27:01.748Z"
+  },
+  {
+    "id": 64611,
+    "slug": "64611-alluring-woman",
+    "url": "https://mydramalist.com/64611-alluring-woman",
+    "title": "Alluring Woman",
+    "complete_title": "Alluring Woman (2020)",
+    "native_title": "封神榜·妖灭",
+    "sub_title": "封神榜·妖灭 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Feng Shen Bang • Yao Mie , League of Gods: Alluring Woman"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 36 min.",
+    "duration_minutes": 96,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.0112,
+    "scored_by": 20,
+    "ranked": 83548,
+    "popularity": 99999,
+    "watchers": 112,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Wuxia",
+        "id": "20"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Fox Spirit",
+        "id": "10913"
+      },
+      {
+        "name": "Supernatural Being",
+        "id": "10467"
+      },
+      {
+        "name": "Nine-tailed Fox",
+        "id": "3241"
+      },
+      {
+        "name": "Mythical Being",
+        "id": "3133"
+      },
+      {
+        "name": "Chinese Mythology",
+        "id": "863"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "synopsis": "At the end of the Shang dynasty, the fox demon Da was ordered by the Nuwa to enter the palace. After experiencing Jiang Ziya's harem battle and iron blood methods, Daji gradually understands the dangers of the human heart, and only by any means can he break the demon's fate. For the father, who likes to become a demon, he draws the bony demon to kill the loyal minister. At the \"Feast of a Hundred Demons\" in Lutai, Jiang Ziya fell from the sky, and the final battle between Jiang Ziya and Daji began. \"Feng Shen Bang · Destruction\" is different from the previous creation of the Feng Shen story, reinterpreting the role of Daji from a new perspective and reinterpreting the thousand years of sadism between Daji and the king. Daji was originally a small demon struggling to survive, but after seeing the coldness of people's hearts, she loved it nonetheless, so the play became a scourge of obsession. (Source: Dadadu.com) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/Bgx4q_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Bgx4q_4f.jpg",
+    "trailer_id": "27743",
+    "trailers": [
+      {
+        "id": "27743",
+        "title": "Alluring Woman Official Trailer",
+        "url": "https://v.mydramalist.com/a4d/a4dcbd303a3b5f5afcaad184601f66aa.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/Bgx4q_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Bgx4q_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Bgx4q_4f.jpg",
+        "title": "Alluring Woman (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/1w8jLz_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/1w8jLz_3f.jpg",
+        "title": "Alluring Woman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Z8WNvk_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/Z8WNvk_3f.jpg",
+        "title": "Alluring Woman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/WWbn3_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/WWbn3_3f.jpg",
+        "title": "Alluring Woman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Ql7X5_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/Ql7X5_3f.jpg",
+        "title": "Alluring Woman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/kxOWv_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/kxOWv_3f.jpg",
+        "title": "Alluring Woman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/dxvo0_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/dxvo0_3f.jpg",
+        "title": "Alluring Woman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/BgbmR_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/BgbmR_3f.jpg",
+        "title": "Alluring Woman (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/Egrpm_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/Egrpm_3f.jpg",
+        "title": "Alluring Woman (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/jx82z_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/jx82z_3f.jpg",
+        "title": "Alluring Woman (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/XBrgp_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/XBrgp_3f.jpg",
+        "title": "Alluring Woman (2020)"
+      },
+      {
+        "url": "https://i.mydramalist.com/RXrko_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/RXrko_3f.jpg",
+        "title": "Alluring Woman (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [
+      {
+        "title": "Creation of the Gods Ⅰ: Kingdom of Storms",
+        "slug": "54031-fengshen",
+        "url": "https://mydramalist.com/54031-fengshen",
+        "poster_url": "https://i.mydramalist.com/E5k63m_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/E5k63m_4f.jpg",
+        "year": 2023,
+        "votes": 0
+      }
+    ],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sun Xue Ning",
+          "slug": "people/16684-sun-xu-ning",
+          "url": "https://mydramalist.com/people/16684-sun-xu-ning",
+          "image_url": "https://i.mydramalist.com/l0bV3L_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0bV3L_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhou Hao Dong",
+          "slug": "people/20355-zhou-hao-dong",
+          "url": "https://mydramalist.com/people/20355-zhou-hao-dong",
+          "image_url": "https://i.mydramalist.com/ELNdl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ELNdl_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Rick Xu",
+          "slug": "people/41423-rick-xu",
+          "url": "https://mydramalist.com/people/41423-rick-xu",
+          "image_url": "https://i.mydramalist.com/QJJ4dY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJJ4dY_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Lu Guan Dong",
+          "slug": "people/38071-lu-guan-dong",
+          "url": "https://mydramalist.com/people/38071-lu-guan-dong",
+          "image_url": "https://i.mydramalist.com/jV8Xrs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jV8Xrs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Candy Yang",
+          "slug": "people/16876-yang-candy",
+          "url": "https://mydramalist.com/people/16876-yang-candy",
+          "image_url": "https://i.mydramalist.com/r0Pe7s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r0Pe7s.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Jin Zi Yan",
+          "slug": "people/99767-jin-zi-yan",
+          "url": "https://mydramalist.com/people/99767-jin-zi-yan",
+          "image_url": "https://i.mydramalist.com/611Zg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/611Zg_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Hai Tao",
+          "slug": "people/35105-hai-tao",
+          "url": "https://mydramalist.com/people/35105-hai-tao",
+          "image_url": "https://i.mydramalist.com/E5dVKz_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5dVKz_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:27:09.178Z"
+  },
+  {
+    "id": 61153,
+    "slug": "61153-the-seven-swords",
+    "url": "https://mydramalist.com/61153-the-seven-swords",
+    "title": "The Seven Swords",
+    "complete_title": "The Seven Swords (2020)",
+    "native_title": "七剑下天山之七情花",
+    "sub_title": "七剑下天山之七情花 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Qi Jian Xia Tian Shan Zhi Qi Qing Hua"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 22 min.",
+    "duration_minutes": 82,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.0114,
+    "scored_by": 27,
+    "ranked": 83613,
+    "popularity": 99999,
+    "watchers": 114,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Wuxia",
+        "id": "20"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Adapted From A Novel",
+        "id": "133"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "synopsis": "Nalan Rong Ruo leads the snake out of the cave for the three demons of Jiangbei who captured the captive woman, but at a critical moment, he was interfered with by Gui Zhong Ming, who was suffering from soul-exclusion, and the plan failed. (Source: TMDB) ~~ Adapted from the novel series “Qi Jian Xia Tian Shan” (七劍下天山) by Liang Yu Sheng (梁羽生). English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/4DA26c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/4DA26c.jpg",
+    "trailer_id": "27945",
+    "trailers": [
+      {
+        "id": "27945",
+        "title": "The Seven Swords Official Trailer",
+        "url": "https://v.mydramalist.com/0c9/0c9aecd2692cfe28067bb0eba9ae409a.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/4DA26c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/4DA26c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/4DA26c.jpg",
+        "title": "The Seven Swords (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/4DA26s.jpg",
+        "hd_url": "https://i.mydramalist.com/4DA26s.jpg",
+        "title": "The Seven Swords Chinese Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/4DA26m.jpg",
+        "hd_url": "https://i.mydramalist.com/4DA26m.jpg",
+        "title": "The Seven Swords (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Seven Swords",
+        "slug": "2561-seven-swords",
+        "url": "https://mydramalist.com/2561-seven-swords",
+        "relation": "Hong Kong adaptation"
+      },
+      {
+        "title": "The Seven Swords",
+        "slug": "33948-the-seven-sword",
+        "url": "https://mydramalist.com/33948-the-seven-sword",
+        "relation": "Chinese adaptation"
+      },
+      {
+        "title": "Seven Swordsmen",
+        "slug": "16563-seven-swordsmen",
+        "url": "https://mydramalist.com/16563-seven-swordsmen",
+        "relation": "Chinese adaptation"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Andy Chen",
+          "slug": "people/2240-chen-andy",
+          "url": "https://mydramalist.com/people/2240-chen-andy",
+          "image_url": "https://i.mydramalist.com/rNxPR2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rNxPR2_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Ya Zhuo",
+          "slug": "people/18734-zhang-ya-zhuo",
+          "url": "https://mydramalist.com/people/18734-zhang-ya-zhuo",
+          "image_url": "https://i.mydramalist.com/WBoOms.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WBoOms.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Xu Zheng Guo",
+          "slug": "people/77393-xu-zheng-guo",
+          "url": "https://mydramalist.com/people/77393-xu-zheng-guo",
+          "image_url": "https://i.mydramalist.com/X6mLO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X6mLO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Jun Jie",
+          "slug": "people/43265-chun-kit-chang",
+          "url": "https://mydramalist.com/people/43265-chun-kit-chang",
+          "image_url": "https://i.mydramalist.com/B62q7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B62q7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shu Yang",
+          "slug": "people/41097-shu-yang",
+          "url": "https://mydramalist.com/people/41097-shu-yang",
+          "image_url": "https://i.mydramalist.com/ee708_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ee708_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yan Wei",
+          "slug": "people/55417-yan-wei",
+          "url": "https://mydramalist.com/people/55417-yan-wei",
+          "image_url": "https://i.mydramalist.com/qPw70_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qPw70_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xia Guang Yan",
+          "slug": "people/74603-xia-guang-yan",
+          "url": "https://mydramalist.com/people/74603-xia-guang-yan",
+          "image_url": "https://i.mydramalist.com/4eo5Ad_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4eo5Ad_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chen Lin Jun",
+          "slug": "people/70347-chen-lin-jun",
+          "url": "https://mydramalist.com/people/70347-chen-lin-jun",
+          "image_url": "https://i.mydramalist.com/RdlAV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RdlAV_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Du Qin Yi",
+          "slug": "people/111015-du-qin-yi",
+          "url": "https://mydramalist.com/people/111015-du-qin-yi",
+          "image_url": "https://i.mydramalist.com/jKWAr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jKWAr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xin Yi Quan",
+          "slug": "people/111777-xin-yi-quan",
+          "url": "https://mydramalist.com/people/111777-xin-yi-quan",
+          "image_url": "https://i.mydramalist.com/pqx4b_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pqx4b_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Francis Nam",
+          "slug": "people/29993-francis-nam",
+          "url": "https://mydramalist.com/people/29993-francis-nam",
+          "image_url": "https://i.mydramalist.com/B2kRbm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B2kRbm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Su Yue Nian",
+          "slug": "people/35525-yue-nian-su",
+          "url": "https://mydramalist.com/people/35525-yue-nian-su",
+          "image_url": "https://i.mydramalist.com/2gXPwm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2gXPwm.jpg",
+          "role_type": "Screenwriter"
+        },
+        {
+          "name": "Guo Shuang",
+          "slug": "people/48057-guo-shuang",
+          "url": "https://mydramalist.com/people/48057-guo-shuang",
+          "image_url": "https://i.mydramalist.com/JBXLNY_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBXLNY_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Liang Yu Sheng",
+          "slug": "people/47787-liang-yu-sheng",
+          "url": "https://mydramalist.com/people/47787-liang-yu-sheng",
+          "image_url": "https://i.mydramalist.com/2XV1E_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2XV1E_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:27:16.558Z"
+  },
+  {
+    "id": 690813,
+    "slug": "690813-swat-duty-city-crisis",
+    "url": "https://mydramalist.com/690813-swat-duty-city-crisis",
+    "title": "SWAT Duty: City Crisis",
+    "complete_title": "SWAT Duty: City Crisis (2020)",
+    "native_title": "特警使命之全城危机",
+    "sub_title": "特警使命之全城危机 ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 26 min.",
+    "duration_minutes": 86,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.04,
+    "scored_by": 11,
+    "ranked": 83976,
+    "popularity": 99999,
+    "watchers": 40,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Crime",
+        "id": "21"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/rlXeZ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/rlXeZ_4f.jpg",
+    "trailer_id": "28071",
+    "trailers": [
+      {
+        "id": "28071",
+        "title": "SWAT Duty: City Crisis Official Trailer",
+        "url": "https://v.mydramalist.com/cec/cec635e58838ff3c8907acbe1bda1191.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/rlXeZ_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/rlXeZ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/rlXeZ_4f.jpg",
+        "title": "SWAT Duty: City Crisis (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zhang Xiao Jun",
+          "slug": "people/14924-zhang-xiao-jun",
+          "url": "https://mydramalist.com/people/14924-zhang-xiao-jun",
+          "image_url": "https://i.mydramalist.com/BldqA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BldqA_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Yong Da",
+          "slug": "people/115765-zhang-yong-da",
+          "url": "https://mydramalist.com/people/115765-zhang-yong-da",
+          "image_url": "https://i.mydramalist.com/XdK6pq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdK6pq_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wang Bo Qing",
+          "slug": "people/52001-wang-bo-qing",
+          "url": "https://mydramalist.com/people/52001-wang-bo-qing",
+          "image_url": "https://i.mydramalist.com/d0zy4g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d0zy4g_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cao Tian Kai",
+          "slug": "people/50343-cao-tian-kai",
+          "url": "https://mydramalist.com/people/50343-cao-tian-kai",
+          "image_url": "https://i.mydramalist.com/jwQyr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jwQyr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ma Ya Nan",
+          "slug": "people/33541-ma-ya-nan",
+          "url": "https://mydramalist.com/people/33541-ma-ya-nan",
+          "image_url": "https://i.mydramalist.com/vXjYW2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXjYW2_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Kun",
+          "slug": "people/119445-wang-kun",
+          "url": "https://mydramalist.com/people/119445-wang-kun",
+          "image_url": "https://i.mydramalist.com/vXNgKB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXNgKB_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Qian Si Yi",
+          "slug": "people/66557-qian-si-yi",
+          "url": "https://mydramalist.com/people/66557-qian-si-yi",
+          "image_url": "https://i.mydramalist.com/DklgRN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/DklgRN_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jiang Rong Rong",
+          "slug": "people/53745-jiang-rong",
+          "url": "https://mydramalist.com/people/53745-jiang-rong",
+          "image_url": "https://i.mydramalist.com/yWBQ3B_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWBQ3B_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Wang Qing Feng",
+          "slug": "people/112839-wang-qing-feng",
+          "url": "https://mydramalist.com/people/112839-wang-qing-feng",
+          "image_url": "https://i.mydramalist.com/4vj21_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4vj21_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Lou Kui Wen",
+          "slug": "people/70053-lou-kui-wen",
+          "url": "https://mydramalist.com/people/70053-lou-kui-wen",
+          "image_url": "https://i.mydramalist.com/dNBwA_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dNBwA_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:27:23.661Z"
+  },
+  {
+    "id": 67761,
+    "slug": "67761-first-love",
+    "url": "https://mydramalist.com/67761-first-love",
+    "title": "First Love",
+    "complete_title": "First Love (2020)",
+    "native_title": "初恋教我的18件事",
+    "sub_title": "初恋教我的18件事 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "18 Things First Love Taught Me , Chu Lian Jiao Wo De 18 Shi Jian , Chu Lian Jiao Wo De Shi Ba Shi Jian , The Eighteen Things First Love Taught Me , 初恋教我的十八件事"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 41 min.",
+    "duration_minutes": 101,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.0531,
+    "scored_by": 79,
+    "ranked": 84494,
+    "popularity": 15640,
+    "watchers": 531,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Youth",
+        "id": "24"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Secret Crush",
+        "id": "2391"
+      },
+      {
+        "name": "High School To Working Life",
+        "id": "2033"
+      },
+      {
+        "name": "Slow Burn Romance",
+        "id": "215"
+      },
+      {
+        "name": "First Love",
+        "id": "165"
+      },
+      {
+        "name": "Unrequited Love",
+        "id": "156"
+      },
+      {
+        "name": "Student Female Lead",
+        "id": "24957"
+      },
+      {
+        "name": "Student Male Lead",
+        "id": "24955"
+      },
+      {
+        "name": "School Setting",
+        "id": "24877"
+      },
+      {
+        "name": "Tomboy Female Lead",
+        "id": "19513"
+      },
+      {
+        "name": "Poor Female Lead",
+        "id": "1224"
+      }
+    ],
+    "synopsis": "This is the love story of a tomboy who secretly fell in love with a gentle straight A student. Witness the young and unforgettable first love of Tian Xiao Le and Cheng Da Ye who went through life's ups and downs, silently waiting and missing out on each other before returning to the beginning where love is the easiest thing. English Русский magyar / magyar nyelv עברית / עִבְרִית",
+    "poster_url": "https://i.mydramalist.com/jgW6v_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jgW6v_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jgW6v_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jgW6v_4f.jpg",
+        "title": "First Love (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/6KAbW_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/6KAbW_3f.jpg",
+        "title": "First Love Chinese Movie(2020) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/pgbNb_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/pgbNb_3f.jpg",
+        "title": "First Love Chinese Movie(2020) photo"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Komentator isenk",
+        "author_url": "https://mydramalist.com/profile/Komentatorisenk",
+        "scores": {
+          "overall": 7,
+          "story": 7.5,
+          "acting": 7.5,
+          "music": 7,
+          "rewatch_value": 6
+        },
+        "helpful_votes": 0,
+        "review_text": "Overall 7.0 Story 7.5 Acting/Cast 7.5 Music 7.0 Rewatch Value 6.0 This review may contain spoilers I forgot how I stumbled on this one. But I want to watch a movie, so just randomly selected from my PTW.Story about a woman [Tian Xiao Le (XL)], who fell in love with her classmate [Cheng Da Ye (DY)], but being a teenager, she tried to hide her feelings. XL & DY have been friends since DY decided to help XL with her studies. XL & DY get attracted to each other without them realizing it. DY feels attracted by free spirited XL; while XL feels grateful & attracted by DY who helps her sincerely. In this movie the writer took us through the journey of their love story. Even though XL & DY know they love each other, but being the teenager themselves, they don’t want to admit their love to the others. And later we witness they try to hide their feelings by having another relationship, while still putting the jealousy in their attitude. And later life also forced them to be separated & finally how life / universe in the end forces them to admit their feelings for each other. I prefer the other title of this drama, 18 Things First Love Taught Me. Cause in this movie XL & DY each tell us what they learn about their feelings for each other, what lesson they get from this first love. XL & DY each share with us 9 lessons. So hence the 18 in the title comes from. Let me elaborate what the lesson they learn from their love without giving any spoiler / more context. Really just what they told us throughout the movie. 𝐅𝐢𝐫𝐬𝐭 𝐩𝐚𝐫𝐭: 𝐓𝐢𝐚𝐧 𝐗𝐢𝐚𝐨 𝐋𝐞1st lesson:When a woman feels vulnerable she’ll surely be moved by the care of a man no matter how little it is. 2nd lesson:A woman can get crazy for someone she loves3rd lesson:Even though a woman knows that love is only an illusion, she’ll make the best of the mistake4th lesson:It’s better to walk into a man’s eye in a second then to walk into his heart for a lifetime5th lesson:The great cruelty is to sacrifice yourself to serve others.6th lesson:To love someone never means cheap or not, it just means willing or not7th lesson:Control urself in love, and you'll almost be out. 8th lesson:The way to make love disappear quickly is to make it a burden9th lesson:A person is most important to you when you feel that you are about to lose him. ***************************************************************************************************************************𝐒𝐞𝐜𝐨𝐧𝐝 𝐩𝐚𝐫𝐭: 𝐂𝐡𝐞𝐧𝐠 𝐃𝐚 𝐘𝐞1st lesson:A man's love starts from compassion. 2nd lesson:Women are unreasonable but charming creatures 3rd lesson:It's a mistake to point out woman's mistake 4th lesson:They get angry easily even with the little things 5th lesson:The woman in love is a, leading politician 6th lesson:Women often have 2 faces, but they are more clear about what is right and wrong than men7th lesson:A woman's heart is like a needle at the bottom of the ocean, but it's men's duty to look for the needle in the ocean. 8th lesson:When you begin to learn about love, you can only see the shadow of it. 9th lesson:Parting is to cut the Gordian knot, but the hurt will last for a lifetime.Overall this is quite a unique movie about first love. But nothing too special too… Do I agree with all they're thought? No, not really... Read More Was this review helpful to you?",
+        "has_spoiler": true
+      },
+      {
+        "author": "przypadkiem",
+        "author_url": "https://mydramalist.com/profile/przypadkiem",
+        "scores": {
+          "overall": 3.5,
+          "story": 2,
+          "acting": 6,
+          "music": 5,
+          "rewatch_value": 1
+        },
+        "helpful_votes": 0,
+        "review_text": "Overall 3.5 Story 2.0 Acting/Cast 6.0 Music 5.0 Rewatch Value 1.0 typical coming of age movie I watched it for the main leads. The story is very predictable and at time flustrating. It felt like the characters weren't that well-developed, both leads and supporting one. I was supposed to root for them but somewhat they all felt so 2d. The only remotely interesting characters were male lead and female lead's sister. Acting is okay, the second leads are bit of... just there? Being more of plot device than fleshed out characters.Plot itself isn't anything to write home about either. Overplayed growing pains story that lacks certain charm that would make it stand out among the crowd of similarly themed movies. There are youth movies filled with cliches that have that spark but this one lacks it. Little chemistry and the slow developement doesn't help.This movie isn't anything special really, there are better movies in that genre worth your time. If you like the actors then I guess you can watch it as fluff filler story when you run out of stuff to watch. Read More Was this review helpful to you?",
+        "has_spoiler": false
+      }
+    ],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sebrina Chen",
+          "slug": "people/10514-chen-yao",
+          "url": "https://mydramalist.com/people/10514-chen-yao",
+          "image_url": "https://i.mydramalist.com/g0b02n_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0b02n_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Bruce Hung",
+          "slug": "people/11793-hung-bruce",
+          "url": "https://mydramalist.com/people/11793-hung-bruce",
+          "image_url": "https://i.mydramalist.com/mONVvP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mONVvP_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Tan Quan",
+          "slug": "people/34911-tan-quan",
+          "url": "https://mydramalist.com/people/34911-tan-quan",
+          "image_url": "https://i.mydramalist.com/k3Qr8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/k3Qr8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chu Jun Chen",
+          "slug": "people/13636-chu-willams",
+          "url": "https://mydramalist.com/people/13636-chu-willams",
+          "image_url": "https://i.mydramalist.com/2wwBLO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wwBLO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chen Chu Sheng",
+          "slug": "people/20775-chen-chu-sheng",
+          "url": "https://mydramalist.com/people/20775-chen-chu-sheng",
+          "image_url": "https://i.mydramalist.com/JBvkwm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBvkwm_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sheng Wei",
+          "slug": "people/79893-sheng-wei",
+          "url": "https://mydramalist.com/people/79893-sheng-wei",
+          "image_url": "https://i.mydramalist.com/Kp6dBj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Kp6dBj_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Jin Mei Man",
+          "slug": "people/120221-jin-mei-man",
+          "url": "https://mydramalist.com/people/120221-jin-mei-man",
+          "image_url": "https://i.mydramalist.com/0wxxZ4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wxxZ4_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Clover Kao",
+          "slug": "people/96257-gao-jun-ya",
+          "url": "https://mydramalist.com/people/96257-gao-jun-ya",
+          "image_url": "https://i.mydramalist.com/QJm4Kg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJm4Kg_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:27:30.395Z"
+  },
+  {
+    "id": 688839,
+    "slug": "688839-ip-man-crisis-time",
+    "url": "https://mydramalist.com/688839-ip-man-crisis-time",
+    "title": "Ip Man: Crisis Time",
+    "complete_title": "Ip Man: Crisis Time (2020)",
+    "native_title": "少年葉問之危機時刻",
+    "sub_title": "少年葉問之危機時刻 ‧ Movie ‧ 2020",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 19 min.",
+    "duration_minutes": 79,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.994,
+    "scored_by": 35,
+    "ranked": 84835,
+    "popularity": 99999,
+    "watchers": 94,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Crime",
+        "id": "21"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Young Ye Wen is pursuing his studies in Hong Kong. When he attends an English speech contest, he encounters a group of kidnappers and fights against them. As he slowly finds out the kidnappers’ intention and the relationship between him and the mastermind, how would Young Ye Wen uphold justice? English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/670v2_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/670v2_4f.jpg",
+    "trailer_id": "28961",
+    "trailers": [
+      {
+        "id": "28961",
+        "title": "Ip Man: Crisis Time Official Trailer",
+        "url": "https://v.mydramalist.com/091/091de388b6057d21b628726885c2b0db.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/670v2_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/670v2_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/670v2_4f.jpg",
+        "title": "Ip Man: Crisis Time (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zhao Wen Hao",
+          "slug": "people/23020-zhao-wen-hao",
+          "url": "https://mydramalist.com/people/23020-zhao-wen-hao",
+          "image_url": "https://i.mydramalist.com/QJ22vY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJ22vY_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Li Hao Xuan",
+          "slug": "people/88319-li-hao-xuan",
+          "url": "https://mydramalist.com/people/88319-li-hao-xuan",
+          "image_url": "https://i.mydramalist.com/YYNzdW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYNzdW_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Mou Feng Bin",
+          "slug": "people/14335-mou-feng-bin",
+          "url": "https://mydramalist.com/people/14335-mou-feng-bin",
+          "image_url": "https://i.mydramalist.com/l0KXvE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0KXvE_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Zhang Lei",
+          "slug": "people/17225-lei-zhang",
+          "url": "https://mydramalist.com/people/17225-lei-zhang",
+          "image_url": "https://i.mydramalist.com/yW1Ro6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yW1Ro6_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cao Cao",
+          "slug": "people/10129-cao-cao",
+          "url": "https://mydramalist.com/people/10129-cao-cao",
+          "image_url": "https://i.mydramalist.com/12ePd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/12ePd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shao Xia",
+          "slug": "people/48671-shao-xia",
+          "url": "https://mydramalist.com/people/48671-shao-xia",
+          "image_url": "https://i.mydramalist.com/RVVZV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RVVZV_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xirzat Litip",
+          "slug": "people/20268-xirzat",
+          "url": "https://mydramalist.com/people/20268-xirzat",
+          "image_url": "https://i.mydramalist.com/pee4Q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pee4Q_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yue Dong Feng",
+          "slug": "people/54879-yue-dong-feng",
+          "url": "https://mydramalist.com/people/54879-yue-dong-feng",
+          "image_url": "https://i.mydramalist.com/l0m4Lb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0m4Lb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tong Xiao Hu",
+          "slug": "people/88375-tong-xiao-hu",
+          "url": "https://mydramalist.com/people/88375-tong-xiao-hu",
+          "image_url": "https://i.mydramalist.com/wooDY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wooDY_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Li Li Ming",
+          "slug": "people/142553-li-li-ming",
+          "url": "https://mydramalist.com/people/142553-li-li-ming",
+          "image_url": "https://i.mydramalist.com/XdOVzO_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdOVzO_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:27:36.522Z"
+  },
+  {
+    "id": 63821,
+    "slug": "63821-the-master-of-dragon-descendants-magic-dragon",
+    "url": "https://mydramalist.com/63821-the-master-of-dragon-descendants-magic-dragon",
+    "title": "The Master of Dragon Descendants: Magic Dragon",
+    "complete_title": "The Master of Dragon Descendants: Magic Dragon (2020)",
+    "native_title": "降龙大师：魔龙咒",
+    "sub_title": "降龙大师：魔龙咒 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Dragon Descendant: Magic Dragon Charm , Dragon Descendant: Magic Dragon Curse , Dragon Spell , Master of Demon Subjugation , The Conqueror , Проклятие дракона"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 25 min.",
+    "duration_minutes": 85,
+    "content_rating": "15+ - Teens 15 or older",
+    "rating": 6.9146,
+    "scored_by": 26,
+    "ranked": 84895,
+    "popularity": 99999,
+    "watchers": 146,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Five hundred years after Dragon King Long Xiao Tian was sealed away by Jiang Long, his daughter San Sheng masters time travel to prevent it. Traveling to the past, she plans to kill Jiang Long but is shocked to learn he was her father’s close friend. As she watches their bond, she begins to question her mission. Will she change fate or her own perspective? (Source: MyDramaList) English Русский magyar / magyar nyelv dansk",
+    "poster_url": "https://i.mydramalist.com/2z1yV_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2z1yV_4f.jpg",
+    "trailer_id": "27745",
+    "trailers": [
+      {
+        "id": "27745",
+        "title": "The Master of Dragon Descendants: Magic Dragon Official Trailer",
+        "url": "https://v.mydramalist.com/19f/19f922993a891c3b0a87d7c85736533b.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/2z1yV_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2z1yV_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2z1yV_4f.jpg",
+        "title": "The Master of Dragon Descendants: Magic Dragon (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Dragon Hunter",
+        "slug": "60581-dragon-hunter",
+        "url": "https://mydramalist.com/60581-dragon-hunter",
+        "relation": "Chinese side story"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sheng Ying Hao",
+          "slug": "people/22845-sheng-ying-hao",
+          "url": "https://mydramalist.com/people/22845-sheng-ying-hao",
+          "image_url": "https://i.mydramalist.com/pdWeKD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pdWeKD_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Benny Chan",
+          "slug": "people/4917-chan-benny",
+          "url": "https://mydramalist.com/people/4917-chan-benny",
+          "image_url": "https://i.mydramalist.com/YALlnA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YALlnA_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Moe Jiang",
+          "slug": "people/45703-moe-jiang",
+          "url": "https://mydramalist.com/people/45703-moe-jiang",
+          "image_url": "https://i.mydramalist.com/ejOBW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ejOBW_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Dai Xi Fan",
+          "slug": "people/149920-dai-xi-fan",
+          "url": "https://mydramalist.com/people/149920-dai-xi-fan",
+          "image_url": "https://i.mydramalist.com/b3dZ6w_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b3dZ6w_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:27:44.049Z"
+  },
+  {
+    "id": 683791,
+    "slug": "683791-chinese-fighting-man",
+    "url": "https://mydramalist.com/683791-chinese-fighting-man",
+    "title": "Chinese Fighting Man",
+    "complete_title": "Chinese Fighting Man (2020)",
+    "native_title": "中国飞侠",
+    "sub_title": "中国飞侠 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Chinese Flying Hero , Zhong Guo Fei Xia , 中國飛俠"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 34 min.",
+    "duration_minutes": 94,
+    "content_rating": "G - All Ages",
+    "rating": 6.929,
+    "scored_by": 14,
+    "ranked": 85190,
+    "popularity": 99999,
+    "watchers": 29,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Family",
+        "id": "29"
+      }
+    ],
+    "tags": [],
+    "synopsis": "The story is about a delivery man Li An Quan struggle living in Beijing meanwhile his daughter was ill and needed 20 million surgical fees. He worked hard to earn money, but accidents occurred frequently. He experienced a series of heart-wrenching, touching and funny stories. English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/BZx76_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/BZx76_4f.jpg",
+    "trailer_id": "29481",
+    "trailers": [
+      {
+        "id": "29481",
+        "title": "Chinese Fighting Man Official Trailer",
+        "url": "https://v.mydramalist.com/96c/96c02df55c33801fa8bed40ce44b9a89.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/BZx76_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/BZx76_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/BZx76_4f.jpg",
+        "title": "Chinese Fighting Man (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Xu Jun Cong",
+          "slug": "people/32899-xu-jun-cong",
+          "url": "https://mydramalist.com/people/32899-xu-jun-cong",
+          "image_url": "https://i.mydramalist.com/1E57Qs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1E57Qs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhao Pei Lin",
+          "slug": "people/48647-zhao-pei-lin",
+          "url": "https://mydramalist.com/people/48647-zhao-pei-lin",
+          "image_url": "https://i.mydramalist.com/nOQkjN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOQkjN_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Li Qi",
+          "slug": "people/37669-li-qi",
+          "url": "https://mydramalist.com/people/37669-li-qi",
+          "image_url": "https://i.mydramalist.com/Xv4VZs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xv4VZs.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Chen Yu Xi",
+          "slug": "people/89881-chen-yu-xi",
+          "url": "https://mydramalist.com/people/89881-chen-yu-xi",
+          "image_url": "https://i.mydramalist.com/4zNOZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4zNOZ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Vincent Huang",
+          "slug": "people/73327-vincent-huang",
+          "url": "https://mydramalist.com/people/73327-vincent-huang",
+          "image_url": "https://i.mydramalist.com/Rn6kR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rn6kR_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:27:51.015Z"
+  },
+  {
+    "id": 758971,
+    "slug": "758971-cross-dressing-female-bodyguard-meets-runaway-princess",
+    "url": "https://mydramalist.com/758971-cross-dressing-female-bodyguard-meets-runaway-princess",
+    "title": "Cross-Dressing Female Bodyguard Meets Runaway Princess",
+    "complete_title": "Cross-Dressing Female Bodyguard Meets Runaway Princess (2020)",
+    "native_title": "当女扮男装护卫遇上逃婚公主",
+    "sub_title": "当女扮男装护卫遇上逃婚公主 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Dang Nv Ban Nan Zhuang Hu Wei Yu Shang Tao Hun Gong Zhu , When a Woman Disguises Herself as a Guard and Encounters a Runaway Princess , 當女扮男裝護衛遇上逃婚公主"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "5 min.",
+    "duration_minutes": 5,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.9142,
+    "scored_by": 42,
+    "ranked": 85885,
+    "popularity": 99999,
+    "watchers": 142,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Crossdresser Female Lead",
+        "id": "23299"
+      },
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "LGBTQ+",
+        "id": "1045"
+      },
+      {
+        "name": "Cross-Dressing",
+        "id": "126"
+      },
+      {
+        "name": "Princess Female Lead",
+        "id": "17773"
+      },
+      {
+        "name": "Arranged Marriage",
+        "id": "201"
+      },
+      {
+        "name": "Lesbian Female Lead",
+        "id": "18115"
+      },
+      {
+        "name": "Lesbian Romance",
+        "id": "15265"
+      }
+    ],
+    "synopsis": "A woman disguises herself as a guard and encounters a runaway princess. (Source: Chinese = Bilibili || Translation = MyDramaList English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/jQlWN8_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jQlWN8_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jQlWN8_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jQlWN8_4f.jpg",
+        "title": "Cross-Dressing Female Bodyguard Meets Runaway Princess (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:27:57.825Z"
+  },
+  {
+    "id": 67543,
+    "slug": "67543-monster-hunter",
+    "url": "https://mydramalist.com/67543-monster-hunter",
+    "title": "Monster Hunter",
+    "complete_title": "Monster Hunter (2020)",
+    "native_title": "怪兽猎人",
+    "sub_title": "怪兽猎人 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Guai Shou Lie Ren"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 17 min.",
+    "duration_minutes": 77,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.9114,
+    "scored_by": 20,
+    "ranked": 85644,
+    "popularity": 99999,
+    "watchers": 114,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Monster Hunter Male Lead",
+        "id": "23429"
+      },
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Monster",
+        "id": "1306"
+      },
+      {
+        "name": "Chinese Republican Era",
+        "id": "1293"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      }
+    ],
+    "synopsis": "Set in Republican Shanghai, monster hunter Yu Wen uses his special ability inherited from his family tribe to detect a monster appearing in a luxury hotel. He managed to save Gu Qing, an opera former in time, and also interrupted police detective Tian Ming's public confession. The three gets embroiled in a series of supernatural incidents. English Français magyar / magyar nyelv עברית / עִבְרִית",
+    "poster_url": "https://i.mydramalist.com/wgW2Y_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/wgW2Y_4f.jpg",
+    "trailer_id": "28675",
+    "trailers": [
+      {
+        "id": "28675",
+        "title": "Monster Hunter Official Trailer",
+        "url": "https://v.mydramalist.com/8b0/8b024d7a384eb3df4157cd1e53027137.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/wgW2Y_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/wgW2Y_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/wgW2Y_4f.jpg",
+        "title": "Monster Hunter (2020) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Shu Ya Xin",
+          "slug": "people/13520-shu-ashin",
+          "url": "https://mydramalist.com/people/13520-shu-ashin",
+          "image_url": "https://i.mydramalist.com/vVNlp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vVNlp_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Ma Li",
+          "slug": "people/24635-ma-li",
+          "url": "https://mydramalist.com/people/24635-ma-li",
+          "image_url": "https://i.mydramalist.com/yWKOg3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWKOg3_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wang Qun Shi",
+          "slug": "people/66513-wang-qun-shi",
+          "url": "https://mydramalist.com/people/66513-wang-qun-shi",
+          "image_url": "https://i.mydramalist.com/2j7EP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2j7EP_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Qi Er Luo",
+          "slug": "people/51075-qi-er-luo",
+          "url": "https://mydramalist.com/people/51075-qi-er-luo",
+          "image_url": "https://i.mydramalist.com/JB63Vm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB63Vm_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Hai Dong",
+          "slug": "people/54291-li-hai-dong",
+          "url": "https://mydramalist.com/people/54291-li-hai-dong",
+          "image_url": "https://i.mydramalist.com/6PQlj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6PQlj_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "You Zheng Xuan",
+          "slug": "people/71353-you-yi-ze",
+          "url": "https://mydramalist.com/people/71353-you-yi-ze",
+          "image_url": "https://i.mydramalist.com/EVymb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EVymb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cai Hua",
+          "slug": "people/88949-cai-hua",
+          "url": "https://mydramalist.com/people/88949-cai-hua",
+          "image_url": "https://i.mydramalist.com/73RPyb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73RPyb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Isabella",
+          "slug": "people/47919-li-jia-jie",
+          "url": "https://mydramalist.com/people/47919-li-jia-jie",
+          "image_url": "https://i.mydramalist.com/YY1O4P_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YY1O4P_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Wang Ying",
+          "slug": "people/106357-wang-ying",
+          "url": "https://mydramalist.com/people/106357-wang-ying",
+          "image_url": "https://i.mydramalist.com/QvEx2_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QvEx2_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Sun Xiao Xian",
+          "slug": "people/148286-sun-xiao-xian",
+          "url": "https://mydramalist.com/people/148286-sun-xiao-xian",
+          "image_url": "https://i.mydramalist.com/VXRmlO_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXRmlO_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Zhang Zhuo",
+          "slug": "people/107305-zhang-zhuo",
+          "url": "https://mydramalist.com/people/107305-zhang-zhuo",
+          "image_url": "https://i.mydramalist.com/l0edKE_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0edKE_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:28:03.790Z"
+  },
+  {
+    "id": 58205,
+    "slug": "58205-sniper",
+    "url": "https://mydramalist.com/58205-sniper",
+    "title": "Sniper 1",
+    "complete_title": "Sniper 1 (2020)",
+    "native_title": "狙击手",
+    "sub_title": "狙击手 ‧ Movie ‧ 2020",
+    "also_known_as": [
+      "Ju Ji Shou , Sniper"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2020,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 25 min.",
+    "duration_minutes": 85,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.985,
+    "scored_by": 37,
+    "ranked": 85901,
+    "popularity": 99999,
+    "watchers": 85,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "War",
+        "id": "37"
+      }
+    ],
+    "tags": [],
+    "synopsis": "In the dangerous war situation, the top mercenaries licked their blood, fought in danger, successfully recovered the radioactive elements from terrorists, arms companies and other multilateral forces, eventually disintegrating the plot and protecting the city’s thrilling journey. In the ups and downs of the film, the film conveys the humanitarian spirit and the theme of defending peace to the audience. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/eVOqKc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/eVOqKc.jpg",
+    "trailer_id": "29175",
+    "trailers": [
+      {
+        "id": "29175",
+        "title": "Sniper 1 Official Trailer",
+        "url": "https://v.mydramalist.com/c7c/c7cd76645c010b68b3aec48d236d5946.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/eVOqKc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/eVOqKc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/eVOqKc.jpg",
+        "title": "Sniper 1 (2020) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/eVOqKs.jpg",
+        "hd_url": "https://i.mydramalist.com/eVOqKs.jpg",
+        "title": "Sniper 1 Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/eVOqKm.jpg",
+        "hd_url": "https://i.mydramalist.com/eVOqKm.jpg",
+        "title": "Sniper 1 (2020)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Ren Tian Ye",
+          "slug": "people/59495-ren-tian-ye",
+          "url": "https://mydramalist.com/people/59495-ren-tian-ye",
+          "image_url": "https://i.mydramalist.com/O8Qw0k_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8Qw0k_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Shi Zhi",
+          "slug": "people/50129-shi-zhi",
+          "url": "https://mydramalist.com/people/50129-shi-zhi",
+          "image_url": "https://i.mydramalist.com/28WXW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/28WXW_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Dong",
+          "slug": "people/49009-zhang-dong",
+          "url": "https://mydramalist.com/people/49009-zhang-dong",
+          "image_url": "https://i.mydramalist.com/R528V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R528V_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Amro",
+          "slug": "people/54877-amro",
+          "url": "https://mydramalist.com/people/54877-amro",
+          "image_url": "https://i.mydramalist.com/pdd82r_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pdd82r_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-19T19:28:10.954Z"
   }
 ]
