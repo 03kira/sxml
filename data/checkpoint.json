@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 299,
-    "pending": 382,
+    "enriched": 681,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -51,13 +51,13 @@
   },
   "1995": {
     "total_titles": 696,
-    "enriched": 599,
-    "pending": 97,
+    "enriched": 619,
+    "pending": 77,
     "parts_count": 1,
     "active_part": "mdl_enriched_1995.json",
-    "last_id": 53085,
-    "last_title": "Shonan Junaigumi!",
-    "last_updated": "2026-11-20T15:23:42.582Z"
+    "last_id": 8675,
+    "last_title": "Justice Bao",
+    "last_updated": "2026-11-20T15:25:58.440Z"
   },
   "2017": {
     "total_titles": 3837,
