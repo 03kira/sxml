@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 564,
-    "pending": 0,
+    "enriched": 159,
+    "pending": 405,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -41,13 +41,13 @@
   },
   "2018": {
     "total_titles": 4200,
-    "enriched": 3579,
-    "pending": 621,
+    "enriched": 3599,
+    "pending": 601,
     "parts_count": 1,
     "active_part": "mdl_enriched_2018.json",
-    "last_id": 69389,
-    "last_title": "Midnight Ghost",
-    "last_updated": "2026-11-20T12:11:56.936Z"
+    "last_id": 706027,
+    "last_title": "Story of Shan Hai Jing",
+    "last_updated": "2026-11-20T12:14:07.294Z"
   },
   "2019": {
     "total_titles": 4288,
