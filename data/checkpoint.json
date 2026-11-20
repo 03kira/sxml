@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 697,
-    "pending": 0,
+    "enriched": 539,
+    "pending": 158,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -91,13 +91,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 2602,
-    "pending": 1235,
+    "enriched": 2622,
+    "pending": 1215,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 21981,
-    "last_title": "Fukigen na Kajitsu Special: Sannenme no Uwaki",
-    "last_updated": "2026-11-20T19:00:23.239Z"
+    "last_id": 29416,
+    "last_title": "Club Friday Season 8: True Love…or Desire",
+    "last_updated": "2026-11-20T19:02:53.321Z"
   },
   "2018": {
     "total_titles": 4200,
