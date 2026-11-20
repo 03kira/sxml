@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 681,
-    "pending": 0,
+    "enriched": 299,
+    "pending": 382,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -71,13 +71,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 1299,
-    "pending": 2538,
+    "enriched": 1319,
+    "pending": 2518,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 49675,
-    "last_title": "To Pluto",
-    "last_updated": "2026-11-20T16:18:46.859Z"
+    "last_id": 50659,
+    "last_title": "The Human Body",
+    "last_updated": "2026-11-20T16:21:00.715Z"
   },
   "2018": {
     "total_titles": 4200,
