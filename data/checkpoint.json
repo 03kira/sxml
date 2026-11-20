@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -31,13 +31,13 @@
   },
   "1993": {
     "total_titles": 643,
-    "enriched": 439,
-    "pending": 204,
+    "enriched": 459,
+    "pending": 184,
     "parts_count": 1,
     "active_part": "mdl_enriched_1993.json",
-    "last_id": 30338,
-    "last_title": "Duay Song Meu Mae Nee Tee Sang Lok",
-    "last_updated": "2026-11-20T12:28:07.214Z"
+    "last_id": 685565,
+    "last_title": "Widow: Bliss on the Seventh Day of Mourning",
+    "last_updated": "2026-11-20T12:30:17.415Z"
   },
   "2018": {
     "total_titles": 4200,
