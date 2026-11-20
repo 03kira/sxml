@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 299,
-    "pending": 382,
+    "enriched": 681,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -71,13 +71,13 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 319,
-    "pending": 378,
+    "enriched": 339,
+    "pending": 358,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
-    "last_id": 62875,
-    "last_title": "Cause We Are So Young",
-    "last_updated": "2026-11-20T17:42:55.006Z"
+    "last_id": 31746,
+    "last_title": "Hong Hern",
+    "last_updated": "2026-11-20T17:45:13.143Z"
   },
   "2017": {
     "total_titles": 3837,
