@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -11,23 +11,23 @@
   },
   "1991": {
     "total_titles": 608,
-    "enriched": 59,
-    "pending": 549,
+    "enriched": 79,
+    "pending": 529,
     "parts_count": 1,
     "active_part": "mdl_enriched_1991.json",
-    "last_id": 713149,
-    "last_title": "The Killer From China",
-    "last_updated": "2026-11-20T09:15:51.514Z"
+    "last_id": 766485,
+    "last_title": "23 Funkan no Kiseki",
+    "last_updated": "2026-11-20T09:17:57.999Z"
   },
   "2018": {
     "total_titles": 4200,
-    "enriched": 2159,
-    "pending": 2041,
+    "enriched": 2079,
+    "pending": 2121,
     "parts_count": 1,
     "active_part": "mdl_enriched_2018.json",
-    "last_id": 28144,
-    "last_title": "Singing with Angry Bird",
-    "last_updated": "2026-11-20T09:15:41.711Z"
+    "last_id": 28178,
+    "last_title": "Into the Night",
+    "last_updated": "2026-11-20T09:06:36.351Z"
   },
   "2019": {
     "total_titles": 4288,
