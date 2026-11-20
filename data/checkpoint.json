@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 299,
-    "pending": 382,
+    "enriched": 681,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -51,13 +51,13 @@
   },
   "1995": {
     "total_titles": 696,
-    "enriched": 239,
-    "pending": 457,
+    "enriched": 259,
+    "pending": 437,
     "parts_count": 1,
     "active_part": "mdl_enriched_1995.json",
-    "last_id": 20666,
-    "last_title": "Beautiful Beast",
-    "last_updated": "2026-11-20T14:45:03.005Z"
+    "last_id": 31708,
+    "last_title": "Poo Chai Mai Pradub",
+    "last_updated": "2026-11-20T14:47:10.737Z"
   },
   "2017": {
     "total_titles": 3837,
