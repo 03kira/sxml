@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -81,13 +81,13 @@
   },
   "1998": {
     "total_titles": 724,
-    "enriched": 679,
-    "pending": 45,
+    "enriched": 699,
+    "pending": 25,
     "parts_count": 1,
     "active_part": "mdl_enriched_1998.json",
-    "last_id": 22463,
-    "last_title": "French Dressing",
-    "last_updated": "2026-11-20T19:48:34.816Z"
+    "last_id": 779094,
+    "last_title": "You Qing Ren",
+    "last_updated": "2026-11-20T19:50:54.733Z"
   },
   "2017": {
     "total_titles": 3837,
