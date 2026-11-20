@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -11,13 +11,13 @@
   },
   "1991": {
     "total_titles": 608,
-    "enriched": 179,
-    "pending": 429,
+    "enriched": 199,
+    "pending": 409,
     "parts_count": 1,
     "active_part": "mdl_enriched_1991.json",
-    "last_id": 756671,
-    "last_title": "Shichinin no Onna Bengoshi Season 2",
-    "last_updated": "2026-11-20T09:28:17.581Z"
+    "last_id": 55673,
+    "last_title": "Gilgamesh Night",
+    "last_updated": "2026-11-20T09:30:30.474Z"
   },
   "2018": {
     "total_titles": 4200,
