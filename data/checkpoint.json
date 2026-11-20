@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -11,13 +11,13 @@
   },
   "1991": {
     "total_titles": 608,
-    "enriched": 599,
-    "pending": 9,
+    "enriched": 608,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1991.json",
-    "last_id": 772255,
-    "last_title": "Police Officer Tie Zhong Ying",
-    "last_updated": "2026-11-20T10:12:37.446Z"
+    "last_id": 52557,
+    "last_title": "Bloody Red Horse Carriage",
+    "last_updated": "2026-11-20T10:13:32.115Z"
   },
   "2018": {
     "total_titles": 4200,
