@@ -1677617,5 +1677617,3831 @@
       }
     ],
     "scraped_at": "2026-11-20T13:03:00.306Z"
+  },
+  {
+    "id": 710075,
+    "slug": "710075-reading-for-you",
+    "url": "https://mydramalist.com/710075-reading-for-you",
+    "title": "Reading for You",
+    "complete_title": "Reading for You (2018)",
+    "native_title": "泡泡读信",
+    "sub_title": "泡泡读信 ‧ TV Program ‧ 2018",
+    "also_known_as": [
+      "Bubble Reads Letter , Ou Xiang Lian Xi Sheng Pao Pao Du Xin , Pao Pao Du Xin , 偶像练习生泡泡读信 , 泡泡讀信"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": 96,
+    "aired_string": "Feb 2, 2018 - 2018",
+    "aired_start": "2018-02-02",
+    "aired_end": "2018-01-01",
+    "aired_on": [],
+    "original_network": "iQiyi",
+    "duration_string": "8 min.",
+    "duration_minutes": 8,
+    "content_rating": "Not Yet Rated",
+    "rating": 21,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 21,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Youth",
+        "id": "24"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Awaken-F",
+        "id": "21141"
+      },
+      {
+        "name": "NEXT (NEX7)",
+        "id": "16273"
+      },
+      {
+        "name": "S.K.Y.",
+        "id": "16249"
+      },
+      {
+        "name": "Nine Percent",
+        "id": "2247"
+      }
+    ],
+    "synopsis": "A heartwarming program iQiyi and Pao Pao produced together featuring \"Idol Producer\" trainees. (Source: xue er at MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/d6Z05_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/d6Z05_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "title": "Reading for You (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Idol Producer",
+        "slug": "27125-idol-producer",
+        "url": "https://mydramalist.com/27125-idol-producer",
+        "relation": "Chinese parent story"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "KUN",
+          "slug": "people/16704-cai-xu-kun",
+          "url": "https://mydramalist.com/people/16704-cai-xu-kun",
+          "image_url": "https://i.mydramalist.com/274dPs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/274dPs.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Chen Li Nong",
+          "slug": "people/18071-chen-li-nong",
+          "url": "https://mydramalist.com/people/18071-chen-li-nong",
+          "image_url": "https://i.mydramalist.com/LwQYDg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/LwQYDg_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Fan Cheng Cheng",
+          "slug": "people/17958-fan-cheng-cheng",
+          "url": "https://mydramalist.com/people/17958-fan-cheng-cheng",
+          "image_url": "https://i.mydramalist.com/oQXjAY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQXjAY_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Justin",
+          "slug": "people/17814-justin",
+          "url": "https://mydramalist.com/people/17814-justin",
+          "image_url": "https://i.mydramalist.com/dnlkg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dnlkg_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Evan Lin",
+          "slug": "people/18070-lin-yan-jun",
+          "url": "https://mydramalist.com/people/18070-lin-yan-jun",
+          "image_url": "https://i.mydramalist.com/2vPYk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2vPYk_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zhu Zheng Ting",
+          "slug": "people/17399-jung-jung",
+          "url": "https://mydramalist.com/people/17399-jung-jung",
+          "image_url": "https://i.mydramalist.com/Z8WPeq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Z8WPeq_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Wang Zi Yi",
+          "slug": "people/17960-wang-zi-yi",
+          "url": "https://mydramalist.com/people/17960-wang-zi-yi",
+          "image_url": "https://i.mydramalist.com/vm5Bp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vm5Bp_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Xiao Gui",
+          "slug": "people/17957-xiao-gui",
+          "url": "https://mydramalist.com/people/17957-xiao-gui",
+          "image_url": "https://i.mydramalist.com/xowd3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xowd3_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Azora Chin",
+          "slug": "people/17850-you-zhang-jing",
+          "url": "https://mydramalist.com/people/17850-you-zhang-jing",
+          "image_url": "https://i.mydramalist.com/qAl55s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qAl55s.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Bi Wen Jun",
+          "slug": "people/21886-bi-wen-jun",
+          "url": "https://mydramalist.com/people/21886-bi-wen-jun",
+          "image_url": "https://i.mydramalist.com/VX8b5y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VX8b5y_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Li Quan Zhe",
+          "slug": "people/21746-lee-quan-zhe",
+          "url": "https://mydramalist.com/people/21746-lee-quan-zhe",
+          "image_url": "https://i.mydramalist.com/x1vVj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x1vVj_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Huang Xin Chun",
+          "slug": "people/29917-huang-xin-chun",
+          "url": "https://mydramalist.com/people/29917-huang-xin-chun",
+          "image_url": "https://i.mydramalist.com/rjRPN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rjRPN_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Han Mu Bo",
+          "slug": "people/18029-han-mu-bo",
+          "url": "https://mydramalist.com/people/18029-han-mu-bo",
+          "image_url": "https://i.mydramalist.com/Xk5Rd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xk5Rd_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Li Xi Kan",
+          "slug": "people/22386-li-xi-kan",
+          "url": "https://mydramalist.com/people/22386-li-xi-kan",
+          "image_url": "https://i.mydramalist.com/3oQN3V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3oQN3V_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Roi",
+          "slug": "people/16955-roi",
+          "url": "https://mydramalist.com/people/16955-roi",
+          "image_url": "https://i.mydramalist.com/xJzoE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xJzoE_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Zhou Yan Chen",
+          "slug": "people/18241-zhou-yan-chen",
+          "url": "https://mydramalist.com/people/18241-zhou-yan-chen",
+          "image_url": "https://i.mydramalist.com/wpvZp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wpvZp_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "PINKRAY",
+          "slug": "people/45037-pinkray",
+          "url": "https://mydramalist.com/people/45037-pinkray",
+          "image_url": "https://i.mydramalist.com/XQpVg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XQpVg_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "KWIN",
+          "slug": "people/45041-kwin",
+          "url": "https://mydramalist.com/people/45041-kwin",
+          "image_url": "https://i.mydramalist.com/jQ4728_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQ4728_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Leo Dong",
+          "slug": "people/20220-dong-yan-lei",
+          "url": "https://mydramalist.com/people/20220-dong-yan-lei",
+          "image_url": "https://i.mydramalist.com/Pxqm7R_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Pxqm7R_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Richard Lin",
+          "slug": "people/33037-richard-lin",
+          "url": "https://mydramalist.com/people/33037-richard-lin",
+          "image_url": "https://i.mydramalist.com/b3Y5K6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b3Y5K6_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Jeffrey",
+          "slug": "people/17959-jeffrey",
+          "url": "https://mydramalist.com/people/17959-jeffrey",
+          "image_url": "https://i.mydramalist.com/qYVlLd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYVlLd_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Xu Sheng En",
+          "slug": "people/45001-xu-sheng-en",
+          "url": "https://mydramalist.com/people/45001-xu-sheng-en",
+          "image_url": "https://i.mydramalist.com/YYZzWQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYZzWQ_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "J.zen",
+          "slug": "people/21629-zhu-xing-jie",
+          "url": "https://mydramalist.com/people/21629-zhu-xing-jie",
+          "image_url": "https://i.mydramalist.com/73Pp0e_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73Pp0e_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Vin Zheng",
+          "slug": "people/45819-vin-zheng",
+          "url": "https://mydramalist.com/people/45819-vin-zheng",
+          "image_url": "https://i.mydramalist.com/kA7NYk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kA7NYk_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Reading for You Episode 1",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Reading for You Episode 2",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Reading for You Episode 3",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Reading for You Episode 4",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Reading for You Episode 5",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Reading for You Episode 6",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Reading for You Episode 7",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Reading for You Episode 8",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Reading for You Episode 9",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Reading for You Episode 10",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Reading for You Episode 11",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Reading for You Episode 12",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Reading for You Episode 13",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Reading for You Episode 14",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Reading for You Episode 15",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Reading for You Episode 16",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/16",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Reading for You Episode 17",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/17",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Reading for You Episode 18",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/18",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Reading for You Episode 19",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/19",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Reading for You Episode 20",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/20",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Reading for You Episode 21",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/21",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Reading for You Episode 22",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/22",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Reading for You Episode 23",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/23",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Reading for You Episode 24",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/24",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "Reading for You Episode 25",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/25",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "Reading for You Episode 26",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/26",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "Reading for You Episode 27",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/27",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "Reading for You Episode 28",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/28",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 29,
+        "title": "Reading for You Episode 29",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/29",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 30,
+        "title": "Reading for You Episode 30",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/30",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 31,
+        "title": "Reading for You Episode 31",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/31",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 32,
+        "title": "Reading for You Episode 32",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/32",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 33,
+        "title": "Reading for You Episode 33",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/33",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 34,
+        "title": "Reading for You Episode 34",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/34",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 35,
+        "title": "Reading for You Episode 35",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/35",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 36,
+        "title": "Reading for You Episode 36",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/36",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 37,
+        "title": "Reading for You Episode 37",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/37",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 38,
+        "title": "Reading for You Episode 38",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/38",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 39,
+        "title": "Reading for You Episode 39",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/39",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 40,
+        "title": "Reading for You Episode 40",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/40",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 41,
+        "title": "Reading for You Episode 41",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/41",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 42,
+        "title": "Reading for You Episode 42",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/42",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 43,
+        "title": "Reading for You Episode 43",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/43",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 44,
+        "title": "Reading for You Episode 44",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/44",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 45,
+        "title": "Reading for You Episode 45",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/45",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 46,
+        "title": "Reading for You Episode 46",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/46",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 47,
+        "title": "Reading for You Episode 47",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/47",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 48,
+        "title": "Reading for You Episode 48",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/48",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 49,
+        "title": "Reading for You Episode 49",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/49",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 50,
+        "title": "Reading for You Episode 50",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/50",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 51,
+        "title": "Reading for You Episode 51",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/51",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 52,
+        "title": "Reading for You Episode 52",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/52",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 53,
+        "title": "Reading for You Episode 53",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/53",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 54,
+        "title": "Reading for You Episode 54",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/54",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 55,
+        "title": "Reading for You Episode 55",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/55",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 56,
+        "title": "Reading for You Episode 56",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/56",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 57,
+        "title": "Reading for You Episode 57",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/57",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 58,
+        "title": "Reading for You Episode 58",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/58",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 59,
+        "title": "Reading for You Episode 59",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/59",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 60,
+        "title": "Reading for You Episode 60",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/60",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 61,
+        "title": "Reading for You Episode 61",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/61",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 62,
+        "title": "Reading for You Episode 62",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/62",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 63,
+        "title": "Reading for You Episode 63",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/63",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 64,
+        "title": "Reading for You Episode 64",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/64",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 65,
+        "title": "Reading for You Episode 65",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/65",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 66,
+        "title": "Reading for You Episode 66",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/66",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 67,
+        "title": "Reading for You Episode 67",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/67",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 68,
+        "title": "Reading for You Episode 68",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/68",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 69,
+        "title": "Reading for You Episode 69",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/69",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 70,
+        "title": "Reading for You Episode 70",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/70",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 71,
+        "title": "Reading for You Episode 71",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/71",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 72,
+        "title": "Reading for You Episode 72",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/72",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 73,
+        "title": "Reading for You Episode 73",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/73",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 74,
+        "title": "Reading for You Episode 74",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/74",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 75,
+        "title": "Reading for You Episode 75",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/75",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 76,
+        "title": "Reading for You Episode 76",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/76",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 77,
+        "title": "Reading for You Episode 77",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/77",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 78,
+        "title": "Reading for You Episode 78",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/78",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 79,
+        "title": "Reading for You Episode 79",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/79",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 80,
+        "title": "Reading for You Episode 80",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/80",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 81,
+        "title": "Reading for You Episode 81",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/81",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 82,
+        "title": "Reading for You Episode 82",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/82",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 83,
+        "title": "Reading for You Episode 83",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/83",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 84,
+        "title": "Reading for You Episode 84",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/84",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 85,
+        "title": "Reading for You Episode 85",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/85",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 86,
+        "title": "Reading for You Episode 86",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/86",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 87,
+        "title": "Reading for You Episode 87",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/87",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 88,
+        "title": "Reading for You Episode 88",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/88",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 89,
+        "title": "Reading for You Episode 89",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/89",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 90,
+        "title": "Reading for You Episode 90",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/90",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 91,
+        "title": "Reading for You Episode 91",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/91",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 92,
+        "title": "Reading for You Episode 92",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/92",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 93,
+        "title": "Reading for You Episode 93",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/93",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 94,
+        "title": "Reading for You Episode 94",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/94",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 95,
+        "title": "Reading for You Episode 95",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/95",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 96,
+        "title": "Reading for You Episode 96",
+        "url": "https://mydramalist.com/710075-reading-for-you/episode/96",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d6Z05_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d6Z05_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T13:03:14.925Z"
+  },
+  {
+    "id": 749025,
+    "slug": "749025-don-t-know-why-i-like-you",
+    "url": "https://mydramalist.com/749025-don-t-know-why-i-like-you",
+    "title": "Don't Know Why I Like You",
+    "complete_title": "Don't Know Why I Like You (2018)",
+    "native_title": "莫名我就喜欢你",
+    "sub_title": "莫名我就喜欢你 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Mo Ming Wo Jiu Xi Huan Ni , 莫名我就喜歡你"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 33 min.",
+    "duration_minutes": 93,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Youth",
+        "id": "24"
+      },
+      {
+        "name": "Family",
+        "id": "29"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XddwDZ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XddwDZ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XddwDZ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XddwDZ_4f.jpg",
+        "title": "Don't Know Why I Like You (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Qu Hai Feng",
+          "slug": "people/82917-qu-hai-feng",
+          "url": "https://mydramalist.com/people/82917-qu-hai-feng",
+          "image_url": "https://i.mydramalist.com/BPkA5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BPkA5_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:03:21.558Z"
+  },
+  {
+    "id": 749197,
+    "slug": "749197-male-princess",
+    "url": "https://mydramalist.com/749197-male-princess",
+    "title": "Male Princess",
+    "complete_title": "Male Princess (2018)",
+    "native_title": "驱忘使者上位记（上）",
+    "sub_title": "驱忘使者上位记（上） ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Male Princess 1 , Meng Po Xuan Fei Ji , Qu Wang Shi Zhe Shang Wei Ji (Shang) , 孟婆选妃记 , 孟婆選妃記 , 驅忘使者上位記（上）"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 6 min.",
+    "duration_minutes": 66,
+    "content_rating": "Not Yet Rated",
+    "rating": 8,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/1wwEby_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1wwEby_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1wwEby_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1wwEby_4f.jpg",
+        "title": "Male Princess (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Male Princess 2",
+        "slug": "749199-male-princess-2",
+        "url": "https://mydramalist.com/749199-male-princess-2",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Xiong Zi Ling",
+          "slug": "people/53517-xiong-zi-ling",
+          "url": "https://mydramalist.com/people/53517-xiong-zi-ling",
+          "image_url": "https://i.mydramalist.com/r35rp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r35rp_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Yao",
+          "slug": "people/85525-zhang-yao",
+          "url": "https://mydramalist.com/people/85525-zhang-yao",
+          "image_url": "https://i.mydramalist.com/6w81p_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6w81p_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Zhang Yi Dan",
+          "slug": "people/95013-zhang-yi-dan",
+          "url": "https://mydramalist.com/people/95013-zhang-yi-dan",
+          "image_url": "https://i.mydramalist.com/eZ8eq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eZ8eq_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:03:29.334Z"
+  },
+  {
+    "id": 749199,
+    "slug": "749199-male-princess-2",
+    "url": "https://mydramalist.com/749199-male-princess-2",
+    "title": "Male Princess 2",
+    "complete_title": "Male Princess 2 (2018)",
+    "native_title": "驱忘使者上位记（下）",
+    "sub_title": "驱忘使者上位记（下） ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Meng Po Xuan Fei Ji , Qu Wang Shi Zhe Shang Wei Ji (Xia) , 孟婆选妃记 , 孟婆選妃記 , 驅忘使者上位記（下）"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 4 min.",
+    "duration_minutes": 64,
+    "content_rating": "Not Yet Rated",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Bdd1W1_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Bdd1W1_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Bdd1W1_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Bdd1W1_4f.jpg",
+        "title": "Male Princess 2 (2018) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bddwv1_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/Bddwv1_4f.jpg",
+        "title": "Male Princess 2 Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Male Princess",
+        "slug": "749197-male-princess",
+        "url": "https://mydramalist.com/749197-male-princess",
+        "relation": "Chinese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Xiong Zi Ling",
+          "slug": "people/53517-xiong-zi-ling",
+          "url": "https://mydramalist.com/people/53517-xiong-zi-ling",
+          "image_url": "https://i.mydramalist.com/r35rp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r35rp_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhang Yao",
+          "slug": "people/85525-zhang-yao",
+          "url": "https://mydramalist.com/people/85525-zhang-yao",
+          "image_url": "https://i.mydramalist.com/6w81p_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6w81p_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Zhang Yi Dan",
+          "slug": "people/95013-zhang-yi-dan",
+          "url": "https://mydramalist.com/people/95013-zhang-yi-dan",
+          "image_url": "https://i.mydramalist.com/eZ8eq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eZ8eq_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:03:34.489Z"
+  },
+  {
+    "id": 714255,
+    "slug": "714255-age-of-youth",
+    "url": "https://mydramalist.com/714255-age-of-youth",
+    "title": "Age of Youth",
+    "complete_title": "Age of Youth (2018)",
+    "native_title": "我被青春闪了腰",
+    "sub_title": "我被青春闪了腰 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Wo Bei Qing Chun Shan Liao Yao"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 6 min.",
+    "duration_minutes": 66,
+    "content_rating": "Not Yet Rated",
+    "rating": 66,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 66,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Campus Setting",
+        "id": "22093"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/v7Bx2_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/v7Bx2_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/v7Bx2_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/v7Bx2_4f.jpg",
+        "title": "Age of Youth (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:03:40.347Z"
+  },
+  {
+    "id": 719799,
+    "slug": "719799-the-girl-from-future",
+    "url": "https://mydramalist.com/719799-the-girl-from-future",
+    "title": "The Girl From Future",
+    "complete_title": "The Girl From Future (2018)",
+    "native_title": "时空偷渡少女",
+    "sub_title": "时空偷渡少女 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Shi Kong Tou Du Shao Nü , Shi Kong Tou Du Shao Nv , 时光偷渡少女 , 時光偷渡少女 , 時空偷渡少女"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 33 min.",
+    "duration_minutes": 93,
+    "content_rating": "Not Yet Rated",
+    "rating": 51,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 51,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Sci-Fi",
+        "id": "27"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Future",
+        "id": "1228"
+      }
+    ],
+    "synopsis": "Angel, who smuggles from future 71Y2 back to 20X7, disguises her space-time passport as a 2B pencil. But she loses it accidentally and is locked in a summer exam campus in 20X7. Time from 8:45 to 18:45 of June 8 is compulsively repeated. Angel has only 30 days to look for her space-time passport so as to unlock herself. During the process of looking for the pencil (space-time passport), she experiences the \"ancient\" campus life, falling in love with Su Xiao Ming, which changes her lonely, indifferent and self-centered personality. With help of Su Xiao Ming, Wang Zi Peng, Qian Sen, Ma Gang, Lin Xiao Lu, Angel finds her pencil which is picked up by Yang Tao. To take the pencil, Su Xiao Ming is in jeopardy of life and death... (Source: IMDb) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/jm8NJ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jm8NJ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jm8NJ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jm8NJ_4f.jpg",
+        "title": "The Girl From Future (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Liao Cheng Lin",
+          "slug": "people/92523-liao-cheng-lin",
+          "url": "https://mydramalist.com/people/92523-liao-cheng-lin",
+          "image_url": "https://i.mydramalist.com/XqrmJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XqrmJ_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wang An Qi",
+          "slug": "people/92495-wang-an-qi",
+          "url": "https://mydramalist.com/people/92495-wang-an-qi",
+          "image_url": "https://i.mydramalist.com/2VqL7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2VqL7_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Gao He Yuan",
+          "slug": "people/20957-gao-han",
+          "url": "https://mydramalist.com/people/20957-gao-han",
+          "image_url": "https://i.mydramalist.com/3oNx24_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3oNx24_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "He Zhi Long",
+          "slug": "people/38045-he-zhi-long",
+          "url": "https://mydramalist.com/people/38045-he-zhi-long",
+          "image_url": "https://i.mydramalist.com/1LQv6s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1LQv6s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jiang Yi Xuan",
+          "slug": "people/75739-jiang-yi-xuan",
+          "url": "https://mydramalist.com/people/75739-jiang-yi-xuan",
+          "image_url": "https://i.mydramalist.com/2j2n2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2j2n2_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhu Li Qun",
+          "slug": "people/69309-zhu-li-qun",
+          "url": "https://mydramalist.com/people/69309-zhu-li-qun",
+          "image_url": "https://i.mydramalist.com/kDkBm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kDkBm_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Chen",
+          "slug": "people/97423-wang-chen",
+          "url": "https://mydramalist.com/people/97423-wang-chen",
+          "image_url": "https://i.mydramalist.com/2bRgW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2bRgW_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:03:46.436Z"
+  },
+  {
+    "id": 731449,
+    "slug": "731449-ah-fei",
+    "url": "https://mydramalist.com/731449-ah-fei",
+    "title": "Ah Fei",
+    "complete_title": "Ah Fei (2018)",
+    "native_title": "阿飞之喋血街头",
+    "sub_title": "阿飞之喋血街头 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "A Fei Zhi Die Xue Jie Tou"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 3 min.",
+    "duration_minutes": 63,
+    "content_rating": "Not Yet Rated",
+    "rating": 7,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/1nYLK_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1nYLK_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1nYLK_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1nYLK_4f.jpg",
+        "title": "Ah Fei (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sun Tian Yu",
+          "slug": "people/35643-sun-tian-yu",
+          "url": "https://mydramalist.com/people/35643-sun-tian-yu",
+          "image_url": "https://i.mydramalist.com/mOwdw1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mOwdw1_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Rachel Liu",
+          "slug": "people/43061-rachel-liu",
+          "url": "https://mydramalist.com/people/43061-rachel-liu",
+          "image_url": "https://i.mydramalist.com/eYjxBE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYjxBE_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Ji Hai Xing",
+          "slug": "people/26307-ji-hai-xing",
+          "url": "https://mydramalist.com/people/26307-ji-hai-xing",
+          "image_url": "https://i.mydramalist.com/2e5BP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2e5BP_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Yang Jun",
+          "slug": "people/124719-yang-jun",
+          "url": "https://mydramalist.com/people/124719-yang-jun",
+          "image_url": "https://i.mydramalist.com/pdnpQb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pdnpQb_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:03:52.587Z"
+  },
+  {
+    "id": 763955,
+    "slug": "763955-san-fen-zhong",
+    "url": "https://mydramalist.com/763955-san-fen-zhong",
+    "title": "Three Minutes",
+    "complete_title": "Three Minutes (2018)",
+    "native_title": "三分钟",
+    "sub_title": "三分钟 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "San Fen Zhong , 三分鐘"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "7 min.",
+    "duration_minutes": 7,
+    "content_rating": "Not Yet Rated",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Filmed With Mobile Phone",
+        "id": "2595"
+      },
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/eY3jKe_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/eY3jKe_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/eY3jKe_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/eY3jKe_4f.jpg",
+        "title": "Three Minutes (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Kong Ling Mei",
+          "slug": "people/145550-kong-ling-mei",
+          "url": "https://mydramalist.com/people/145550-kong-ling-mei",
+          "image_url": "https://i.mydramalist.com/g0LVXr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0LVXr_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:03:58.198Z"
+  },
+  {
+    "id": 717675,
+    "slug": "717675-the-attack-of-huangni-gang",
+    "url": "https://mydramalist.com/717675-the-attack-of-huangni-gang",
+    "title": "The Attack of Huangni Gang",
+    "complete_title": "The Attack of Huangni Gang (2018)",
+    "native_title": "水浒之智取生辰纲",
+    "sub_title": "水浒之智取生辰纲 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Shui Hu Zhi Zhi Qu Sheng Chen Gang , Shui Hu Zhuan Zhi Zhi Qu Sheng Chen Gang , 水浒传之智取生辰纲 , 水滸之智取生辰綱 , 水滸傳之智取生辰綱 , 水滸傳之智取生辰綱 (水浒传之智取生辰纲)"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 29 min.",
+    "duration_minutes": 89,
+    "content_rating": "Not Yet Rated",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Wuxia",
+        "id": "20"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Song Dynasty",
+        "id": "1382"
+      },
+      {
+        "name": "Adapted From A Novel",
+        "id": "133"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/kLjBd_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/kLjBd_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/kLjBd_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/kLjBd_4f.jpg",
+        "title": "The Attack of Huangni Gang (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Tong Yue",
+          "slug": "people/15013-tong-yue",
+          "url": "https://mydramalist.com/people/15013-tong-yue",
+          "image_url": "https://i.mydramalist.com/ROJ26_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ROJ26_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhou Tie",
+          "slug": "people/45227-zhou-tie",
+          "url": "https://mydramalist.com/people/45227-zhou-tie",
+          "image_url": "https://i.mydramalist.com/eYY2Vp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYY2Vp_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zheng Xi Long",
+          "slug": "people/90591-zheng-xi-long",
+          "url": "https://mydramalist.com/people/90591-zheng-xi-long",
+          "image_url": "https://i.mydramalist.com/x44zbE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x44zbE_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Huo Wei Min",
+          "slug": "people/28507-huo-wei-min",
+          "url": "https://mydramalist.com/people/28507-huo-wei-min",
+          "image_url": "https://i.mydramalist.com/WD1QR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WD1QR_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "He Qiang",
+          "slug": "people/40517-he-qiang",
+          "url": "https://mydramalist.com/people/40517-he-qiang",
+          "image_url": "https://i.mydramalist.com/p4EqQs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/p4EqQs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Jing",
+          "slug": "people/86825-li-jing",
+          "url": "https://mydramalist.com/people/86825-li-jing",
+          "image_url": "https://i.mydramalist.com/Beeo7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Beeo7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Peng Fei",
+          "slug": "people/92671-li-peng-fei",
+          "url": "https://mydramalist.com/people/92671-li-peng-fei",
+          "image_url": "https://i.mydramalist.com/d5ozW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d5ozW_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Shuo",
+          "slug": "people/98703-zhang-shuo",
+          "url": "https://mydramalist.com/people/98703-zhang-shuo",
+          "image_url": "https://i.mydramalist.com/jdY3v_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jdY3v_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Hao",
+          "slug": "people/116609-zhang-hao",
+          "url": "https://mydramalist.com/people/116609-zhang-hao",
+          "image_url": "https://i.mydramalist.com/RBB0dx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RBB0dx_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Shi Nai An",
+          "slug": "people/66231-shi-nai-an",
+          "url": "https://mydramalist.com/people/66231-shi-nai-an",
+          "image_url": "https://i.mydramalist.com/RpDQ6_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RpDQ6_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Wang Jun",
+          "slug": "people/96777-wang-jun",
+          "url": "https://mydramalist.com/people/96777-wang-jun",
+          "image_url": "https://i.mydramalist.com/WYXvO_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WYXvO_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:04:03.861Z"
+  },
+  {
+    "id": 722555,
+    "slug": "722555-assassin-in-dream",
+    "url": "https://mydramalist.com/722555-assassin-in-dream",
+    "title": "Assassin in Dream",
+    "complete_title": "Assassin in Dream (2018)",
+    "native_title": "乌龙刺客",
+    "sub_title": "乌龙刺客 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Oolong Assassin , 烏龍刺客"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 10 min.",
+    "duration_minutes": 70,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 7,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/2bn7V_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2bn7V_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2bn7V_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2bn7V_4f.jpg",
+        "title": "Assassin in Dream (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Li Ze Yu",
+          "slug": "people/77987-li-ze-yu",
+          "url": "https://mydramalist.com/people/77987-li-ze-yu",
+          "image_url": "https://i.mydramalist.com/ZOm1Y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZOm1Y_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Cathy Tsui",
+          "slug": "people/33129-cathy-tsui",
+          "url": "https://mydramalist.com/people/33129-cathy-tsui",
+          "image_url": "https://i.mydramalist.com/vd2q2s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vd2q2s.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:04:09.751Z"
+  },
+  {
+    "id": 717755,
+    "slug": "717755-a-miracle-story-of-liu-yi",
+    "url": "https://mydramalist.com/717755-a-miracle-story-of-liu-yi",
+    "title": "A Miracle Story of Liu Yi",
+    "complete_title": "A Miracle Story of Liu Yi (2018)",
+    "native_title": "柳毅奇緣",
+    "sub_title": "柳毅奇緣 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "柳毅傳書 (柳毅传书) , 粵劇柳毅奇緣 (粤剧柳毅奇缘)"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 52 min.",
+    "duration_minutes": 112,
+    "content_rating": "Not Yet Rated",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Chinese Opera",
+        "id": "1910"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/BYLrz_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/BYLrz_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/BYLrz_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/BYLrz_4f.jpg",
+        "title": "A Miracle Story of Liu Yi (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:04:16.232Z"
+  },
+  {
+    "id": 41967,
+    "slug": "41967-love-you-in-your-world",
+    "url": "https://mydramalist.com/41967-love-you-in-your-world",
+    "title": "Love You In Your World",
+    "complete_title": "Love You In Your World (2018)",
+    "native_title": "在你的世界爱上你",
+    "sub_title": "在你的世界爱上你 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Zai Ni De Shi Jie Ai Shang Ni"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "2 hr. 0 min.",
+    "duration_minutes": 120,
+    "content_rating": "Not Yet Rated",
+    "rating": 9,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 9,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XKyExc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XKyExc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XKyExc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XKyExc.jpg",
+        "title": "Love You In Your World (2018) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/XKyExs.jpg",
+        "hd_url": "https://i.mydramalist.com/XKyExs.jpg",
+        "title": "Love You In Your World Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/XKyExm.jpg",
+        "hd_url": "https://i.mydramalist.com/XKyExm.jpg",
+        "title": "Love You In Your World (2018)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Yu Bin",
+          "slug": "people/58667-yu-bin",
+          "url": "https://mydramalist.com/people/58667-yu-bin",
+          "image_url": "https://i.mydramalist.com/dBOdg_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dBOdg_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Ya Meng Le",
+          "slug": "people/45913-ya-meng-le",
+          "url": "https://mydramalist.com/people/45913-ya-meng-le",
+          "image_url": "https://i.mydramalist.com/jxqvO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jxqvO_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:04:21.750Z"
+  },
+  {
+    "id": 43667,
+    "slug": "43667-s4-xia-jiang-mo-ji",
+    "url": "https://mydramalist.com/43667-s4-xia-jiang-mo-ji",
+    "title": "S4 Xia Jiang Mo Ji",
+    "complete_title": "S4 Xia Jiang Mo Ji (2018)",
+    "native_title": "S4侠降魔记",
+    "sub_title": "S4侠降魔记 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Super 4 , Super Four"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 33 min.",
+    "duration_minutes": 93,
+    "content_rating": "Not Yet Rated",
+    "rating": 10.07,
+    "scored_by": 2,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English 中文(简体) Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/E2ob0c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/E2ob0c.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/E2ob0c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/E2ob0c.jpg",
+        "title": "S4 Xia Jiang Mo Ji (2018) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/E2ob0s.jpg",
+        "hd_url": "https://i.mydramalist.com/E2ob0s.jpg",
+        "title": "S4 Xia Jiang Mo Ji Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/E2ob0m.jpg",
+        "hd_url": "https://i.mydramalist.com/E2ob0m.jpg",
+        "title": "S4 Xia Jiang Mo Ji (2018)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Liu Xiao Guang",
+          "slug": "people/78003-liu-xiao-guang",
+          "url": "https://mydramalist.com/people/78003-liu-xiao-guang",
+          "image_url": "https://i.mydramalist.com/RNDzV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RNDzV_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wen Song",
+          "slug": "people/67997-wen-song",
+          "url": "https://mydramalist.com/people/67997-wen-song",
+          "image_url": "https://i.mydramalist.com/1RKwy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1RKwy_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Huang Jun Peng",
+          "slug": "people/50081-huang-jun-peng",
+          "url": "https://mydramalist.com/people/50081-huang-jun-peng",
+          "image_url": "https://i.mydramalist.com/AB8rjL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/AB8rjL_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Ya Jie",
+          "slug": "people/20485-wang-ya-jie",
+          "url": "https://mydramalist.com/people/20485-wang-ya-jie",
+          "image_url": "https://i.mydramalist.com/0kr0N_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0kr0N_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liao Wei Wei",
+          "slug": "people/55337-liao-wei-wei",
+          "url": "https://mydramalist.com/people/55337-liao-wei-wei",
+          "image_url": "https://i.mydramalist.com/q3po5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/q3po5_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lai Xi",
+          "slug": "people/17840-lai-xi",
+          "url": "https://mydramalist.com/people/17840-lai-xi",
+          "image_url": "https://i.mydramalist.com/Dyk5DD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Dyk5DD_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Ke Long",
+          "slug": "people/55333-li-ke-long",
+          "url": "https://mydramalist.com/people/55333-li-ke-long",
+          "image_url": "https://i.mydramalist.com/RnqY6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RnqY6_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Song Ning",
+          "slug": "people/53941-song-ning",
+          "url": "https://mydramalist.com/people/53941-song-ning",
+          "image_url": "https://i.mydramalist.com/BNo0R_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BNo0R_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Meng Lu",
+          "slug": "people/82509-meng-lu",
+          "url": "https://mydramalist.com/people/82509-meng-lu",
+          "image_url": "https://i.mydramalist.com/VX6BKy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VX6BKy_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhao Yan Song",
+          "slug": "people/14721-zhao-yan-song",
+          "url": "https://mydramalist.com/people/14721-zhao-yan-song",
+          "image_url": "https://i.mydramalist.com/JB6pQw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB6pQw_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chen Hao Wen",
+          "slug": "people/30369-chen-yu-wen",
+          "url": "https://mydramalist.com/people/30369-chen-yu-wen",
+          "image_url": "https://i.mydramalist.com/ABXqvL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABXqvL_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Dong Li Fan",
+          "slug": "people/28683-dong-li-fan",
+          "url": "https://mydramalist.com/people/28683-dong-li-fan",
+          "image_url": "https://i.mydramalist.com/pvAYBs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pvAYBs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "George Christopher Tronsrue",
+          "slug": "people/121171-george-christopher-tronsrue",
+          "url": "https://mydramalist.com/people/121171-george-christopher-tronsrue",
+          "image_url": "https://i.mydramalist.com/vXv01g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXv01g_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tong Xiao Hu",
+          "slug": "people/88375-tong-xiao-hu",
+          "url": "https://mydramalist.com/people/88375-tong-xiao-hu",
+          "image_url": "https://i.mydramalist.com/wooDY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wooDY_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Li Ke Long",
+          "slug": "people/55333-li-ke-long",
+          "url": "https://mydramalist.com/people/55333-li-ke-long",
+          "image_url": "https://i.mydramalist.com/RnqY6_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RnqY6_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:04:27.452Z"
+  },
+  {
+    "id": 49567,
+    "slug": "49567-the-5th-dimension",
+    "url": "https://mydramalist.com/49567-the-5th-dimension",
+    "title": "The 5th Dimension",
+    "complete_title": "The 5th Dimension (2018)",
+    "native_title": "五度空间",
+    "sub_title": "五度空间 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Wu Du Kong Jian"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 28 min.",
+    "duration_minutes": 88,
+    "content_rating": "Not Yet Rated",
+    "rating": 8.01,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 10,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/0bDlkc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/0bDlkc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/0bDlkc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/0bDlkc.jpg",
+        "title": "The 5th Dimension (2018) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/0bDlks.jpg",
+        "hd_url": "https://i.mydramalist.com/0bDlks.jpg",
+        "title": "The 5th Dimension Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/0bDlkm.jpg",
+        "hd_url": "https://i.mydramalist.com/0bDlkm.jpg",
+        "title": "The 5th Dimension (2018)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Qu Jing Jing",
+          "slug": "people/11535-qu-jing-jing",
+          "url": "https://mydramalist.com/people/11535-qu-jing-jing",
+          "image_url": "https://i.mydramalist.com/d00ndd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d00ndd_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Hou Jing Jian",
+          "slug": "people/23202-hou-jing-jian",
+          "url": "https://mydramalist.com/people/23202-hou-jing-jian",
+          "image_url": "https://i.mydramalist.com/QpO5Ys.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QpO5Ys.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liang Chao",
+          "slug": "people/14520-liang-chao",
+          "url": "https://mydramalist.com/people/14520-liang-chao",
+          "image_url": "https://i.mydramalist.com/pdB14b_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pdB14b_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Han Ming Xi",
+          "slug": "people/23669-han-ming-xi",
+          "url": "https://mydramalist.com/people/23669-han-ming-xi",
+          "image_url": "https://i.mydramalist.com/43O5ws.jpg",
+          "image_hd_url": "https://i.mydramalist.com/43O5ws.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xu Wen Guang",
+          "slug": "people/26925-xu-wen-guang",
+          "url": "https://mydramalist.com/people/26925-xu-wen-guang",
+          "image_url": "https://i.mydramalist.com/jneRJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jneRJ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Xia Tian",
+          "slug": "people/18145-xia-tian",
+          "url": "https://mydramalist.com/people/18145-xia-tian",
+          "image_url": "https://i.mydramalist.com/QpV76m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QpV76m.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:04:32.784Z"
+  },
+  {
+    "id": 775395,
+    "slug": "775395-round-table-season-3",
+    "url": "https://mydramalist.com/775395-round-table-season-3",
+    "title": "Round Table Season 3",
+    "complete_title": "Round Table Season 3 (2018)",
+    "native_title": "圆桌派 第三季",
+    "sub_title": "圆桌派 第三季 ‧ TV Program ‧ 2018",
+    "also_known_as": [
+      "Round Table 3 , Yuan Zhuo Pai 3 , Yuan Zhuo Pai Di San Ji , 圆桌派 第3季 , 圆桌派3 , 圓桌派 第三季"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": 24,
+    "aired_string": "Jan 26, 2018 - Apr 27, 2018",
+    "aired_start": "2018-01-26",
+    "aired_end": "2018-04-27",
+    "aired_on": [
+      "Tuesday",
+      "Friday"
+    ],
+    "original_network": "Youku",
+    "duration_string": "50 min.",
+    "duration_minutes": 50,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Talk Show",
+        "id": "96"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/x4nDx3_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/x4nDx3_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "title": "Round Table Season 3 (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Round Table Season 2",
+        "slug": "775393-round-table-season-2",
+        "url": "https://mydramalist.com/775393-round-table-season-2",
+        "relation": "Chinese prequel"
+      },
+      {
+        "title": "Round Table Season 4",
+        "slug": "775397-round-table-season-4",
+        "url": "https://mydramalist.com/775397-round-table-season-4",
+        "relation": "Chinese sequel"
+      },
+      {
+        "title": "Round Table: The Particular Type",
+        "slug": "775405-round-table-the-particular-type",
+        "url": "https://mydramalist.com/775405-round-table-the-particular-type",
+        "relation": "Chinese spinoff"
+      },
+      {
+        "title": "Round Table: Aging",
+        "slug": "775411-round-table-aging",
+        "url": "https://mydramalist.com/775411-round-table-aging",
+        "relation": "Chinese spinoff"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Dou Wen Tao",
+          "slug": "people/54739-dou-wen-tao",
+          "url": "https://mydramalist.com/people/54739-dou-wen-tao",
+          "image_url": "https://i.mydramalist.com/XzVEO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XzVEO_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Chen Lu Yu",
+          "slug": "people/85201-chen-lu-yu",
+          "url": "https://mydramalist.com/people/85201-chen-lu-yu",
+          "image_url": "https://i.mydramalist.com/12v4K_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/12v4K_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Leung Man Tao",
+          "slug": "people/51301-leung-man-tao",
+          "url": "https://mydramalist.com/people/51301-leung-man-tao",
+          "image_url": "https://i.mydramalist.com/vgPWD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vgPWD_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Xu Zi Dong",
+          "slug": "people/64385-xu-zi-dong",
+          "url": "https://mydramalist.com/people/64385-xu-zi-dong",
+          "image_url": "https://i.mydramalist.com/qRnAB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qRnAB_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Han Geng",
+          "slug": "people/1469-han-geng",
+          "url": "https://mydramalist.com/people/1469-han-geng",
+          "image_url": "https://i.mydramalist.com/PxvPdX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxvPdX_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Jiang Wen Li",
+          "slug": "people/11771-jiang-wen-li",
+          "url": "https://mydramalist.com/people/11771-jiang-wen-li",
+          "image_url": "https://i.mydramalist.com/w6BdA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/w6BdA_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Wang Pei Yu",
+          "slug": "people/59845-wang-pei-yu",
+          "url": "https://mydramalist.com/people/59845-wang-pei-yu",
+          "image_url": "https://i.mydramalist.com/qlNyB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qlNyB_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ma Bo Yong",
+          "slug": "people/14928-ma-bo-yong",
+          "url": "https://mydramalist.com/people/14928-ma-bo-yong",
+          "image_url": "https://i.mydramalist.com/LpBl5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/LpBl5s.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Round Table Season 3 Episode 1",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/1",
+        "air_date": "2018-01-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Round Table Season 3 Episode 2",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/2",
+        "air_date": "2018-01-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Round Table Season 3 Episode 3",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/3",
+        "air_date": "2018-02-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Round Table Season 3 Episode 4",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/4",
+        "air_date": "2018-02-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Round Table Season 3 Episode 5",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/5",
+        "air_date": "2018-02-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Round Table Season 3 Episode 6",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/6",
+        "air_date": "2018-02-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Round Table Season 3 Episode 7",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/7",
+        "air_date": "2018-02-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Round Table Season 3 Episode 8",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/8",
+        "air_date": "2018-03-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Round Table Season 3 Episode 9",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/9",
+        "air_date": "2018-03-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Round Table Season 3 Episode 10",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/10",
+        "air_date": "2018-03-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Round Table Season 3 Episode 11",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/11",
+        "air_date": "2018-03-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Round Table Season 3 Episode 12",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/12",
+        "air_date": "2018-03-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Round Table Season 3 Episode 13",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/13",
+        "air_date": "2018-03-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Round Table Season 3 Episode 14",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/14",
+        "air_date": "2018-03-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Round Table Season 3 Episode 15",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/15",
+        "air_date": "2018-03-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Round Table Season 3 Episode 16",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/16",
+        "air_date": "2018-03-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Round Table Season 3 Episode 17",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/17",
+        "air_date": "2018-04-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Round Table Season 3 Episode 18",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/18",
+        "air_date": "2018-04-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Round Table Season 3 Episode 19",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/19",
+        "air_date": "2018-04-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Round Table Season 3 Episode 20",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/20",
+        "air_date": "2018-04-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Round Table Season 3 Episode 21",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/21",
+        "air_date": "2018-04-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Round Table Season 3 Episode 22",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/22",
+        "air_date": "2018-04-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Round Table Season 3 Episode 23",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/23",
+        "air_date": "2018-04-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Round Table Season 3 Episode 24",
+        "url": "https://mydramalist.com/775395-round-table-season-3/episode/24",
+        "air_date": "2018-04-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/x4nDx3_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/x4nDx3_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T13:04:38.607Z"
+  },
+  {
+    "id": 27531,
+    "slug": "27531-a-loner",
+    "url": "https://mydramalist.com/27531-a-loner",
+    "title": "A Loner",
+    "complete_title": "A Loner (2018)",
+    "native_title": "大雪冬至",
+    "sub_title": "大雪冬至 ‧ Movie ‧ 2018",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 27 min.",
+    "duration_minutes": 87,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 7.427,
+    "scored_by": 9,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 27,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Family",
+        "id": "29"
+      },
+      {
+        "name": "Melodrama",
+        "id": "33"
+      }
+    ],
+    "tags": [],
+    "synopsis": "The film talks about the lonely, old and the old Wei Da Xue and his dog living in a small courtyard in the Hutong of Beijing, where everything begins and ends. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/AYzELc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/AYzELc.jpg",
+    "trailer_id": "10980",
+    "trailers": [
+      {
+        "id": "10980",
+        "title": "A Loner Official Trailer",
+        "url": "https://v.mydramalist.com/218/218344619d8fb95d504ccfa11804073f.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/AYzELc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/AYzELc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/AYzELc.jpg",
+        "title": "A Loner (2018) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/AYzELs.jpg",
+        "hd_url": "https://i.mydramalist.com/AYzELs.jpg",
+        "title": "A Loner Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/AYzELm.jpg",
+        "hd_url": "https://i.mydramalist.com/AYzELm.jpg",
+        "title": "A Loner (2018)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zhu Xi Juan",
+          "slug": "people/162870-zhu-xi-juan",
+          "url": "https://mydramalist.com/people/162870-zhu-xi-juan",
+          "image_url": "https://i.mydramalist.com/b3jonV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b3jonV_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Zhou Bo",
+          "slug": "people/93037-zhou-bo",
+          "url": "https://mydramalist.com/people/93037-zhou-bo",
+          "image_url": "https://i.mydramalist.com/WRezX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WRezX_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Rick Xu",
+          "slug": "people/41423-rick-xu",
+          "url": "https://mydramalist.com/people/41423-rick-xu",
+          "image_url": "https://i.mydramalist.com/QJJ4dY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJJ4dY_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:04:45.777Z"
+  },
+  {
+    "id": 70207,
+    "slug": "70207-my-wife-is-underage-4",
+    "url": "https://mydramalist.com/70207-my-wife-is-underage-4",
+    "title": "My Wife Is Underage 4",
+    "complete_title": "My Wife Is Underage 4 (2018)",
+    "native_title": "我的老婆未成年4",
+    "sub_title": "我的老婆未成年4 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Mi Wife is not an Adult 4 , My Wife Underage 4 , Wo De Lao Po Wei Cheng Nian 4"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 20 min.",
+    "duration_minutes": 80,
+    "content_rating": "Not Yet Rated",
+    "rating": 10,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 10,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/qgdkD_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/qgdkD_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/qgdkD_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/qgdkD_4f.jpg",
+        "title": "My Wife Is Underage 4 (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Anna Dai",
+          "slug": "people/50199-diana",
+          "url": "https://mydramalist.com/people/50199-diana",
+          "image_url": "https://i.mydramalist.com/2kAlO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2kAlO_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Osmond Zheng",
+          "slug": "people/45707-osmond-zheng",
+          "url": "https://mydramalist.com/people/45707-osmond-zheng",
+          "image_url": "https://i.mydramalist.com/BleKz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BleKz_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Hunt Liu",
+          "slug": "people/27007-hunt-liu",
+          "url": "https://mydramalist.com/people/27007-hunt-liu",
+          "image_url": "https://i.mydramalist.com/pJkPV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pJkPV_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Dai Yi Lin",
+          "slug": "people/98869-dai-yi-lin",
+          "url": "https://mydramalist.com/people/98869-dai-yi-lin",
+          "image_url": "https://i.mydramalist.com/Kpo23j_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Kpo23j_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Dai Yi Lin",
+          "slug": "people/98869-dai-yi-lin",
+          "url": "https://mydramalist.com/people/98869-dai-yi-lin",
+          "image_url": "https://i.mydramalist.com/Kpo23j_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Kpo23j_5f.jpg",
+          "role_type": "Bit part"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:04:52.719Z"
+  },
+  {
+    "id": 683137,
+    "slug": "683137-the-ghost-marriage",
+    "url": "https://mydramalist.com/683137-the-ghost-marriage",
+    "title": "The Ghost Marriage",
+    "complete_title": "The Ghost Marriage (2018)",
+    "native_title": "黄庙村之魔棺新娘",
+    "sub_title": "黄庙村之魔棺新娘 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "Ga Yi Chai Taam , Huang Miao Cun Zhi Mo Guan Xin Niang , Jia Yi Qi Tan , Wong Miu Chyun Ji Mo Gun San Neung , 嫁衣凄谈 , 嫁衣淒談 , 黃廟村之魔棺新娘"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 28 min.",
+    "duration_minutes": 88,
+    "content_rating": "Not Yet Rated",
+    "rating": 10.034,
+    "scored_by": 7,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 34,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      },
+      {
+        "name": "Ghost Marriage",
+        "id": "14097"
+      },
+      {
+        "name": "Sleep Disorder",
+        "id": "4817"
+      },
+      {
+        "name": "Sleepwalking",
+        "id": "3821"
+      },
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Murder",
+        "id": "270"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Ry82o_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Ry82o_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Ry82o_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Ry82o_4f.jpg",
+        "title": "The Ghost Marriage (2018) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Zhang Dong",
+          "slug": "people/49009-zhang-dong",
+          "url": "https://mydramalist.com/people/49009-zhang-dong",
+          "image_url": "https://i.mydramalist.com/R528V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R528V_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Wong Jing",
+          "slug": "people/17832-wong-jing",
+          "url": "https://mydramalist.com/people/17832-wong-jing",
+          "image_url": "https://i.mydramalist.com/Px8RVy_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Px8RVy_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:04:58.771Z"
+  },
+  {
+    "id": 717983,
+    "slug": "717983-shi-se-zhi-bo-feng-yun",
+    "url": "https://mydramalist.com/717983-shi-se-zhi-bo-feng-yun",
+    "title": "Shi Se Zhi Bo Feng Yun",
+    "complete_title": "Shi Se Zhi Bo Feng Yun (2018)",
+    "native_title": "食色·直播風云",
+    "sub_title": "食色·直播風云 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "食色·直播风云"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 22 min.",
+    "duration_minutes": 82,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/ABo0AP_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ABo0AP_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ABo0AP_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ABo0AP_4f.jpg",
+        "title": "Shi Se Zhi Bo Feng Yun (2018) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/rLQW7_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/rLQW7_4f.jpg",
+        "title": "Shi Se Zhi Bo Feng Yun Chinese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Kong Xiao Ming",
+          "slug": "people/40547-kong-xiao-ming",
+          "url": "https://mydramalist.com/people/40547-kong-xiao-ming",
+          "image_url": "https://i.mydramalist.com/27wQWs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/27wQWs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Li Jia Nuo",
+          "slug": "people/90807-li-jia-nuo",
+          "url": "https://mydramalist.com/people/90807-li-jia-nuo",
+          "image_url": "https://i.mydramalist.com/ZOQ8L_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZOQ8L_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Yu Yun Xi",
+          "slug": "people/47003-yu-guo-er",
+          "url": "https://mydramalist.com/people/47003-yu-guo-er",
+          "image_url": "https://i.mydramalist.com/818NAK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/818NAK_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zheng Xiao Mao",
+          "slug": "people/51911-zheng-xiao-mao",
+          "url": "https://mydramalist.com/people/51911-zheng-xiao-mao",
+          "image_url": "https://i.mydramalist.com/PxP6Zy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxP6Zy_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Dong",
+          "slug": "people/15504-wang-dong",
+          "url": "https://mydramalist.com/people/15504-wang-dong",
+          "image_url": "https://i.mydramalist.com/YYWzgK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYWzgK_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Wang Ying",
+          "slug": "people/106357-wang-ying",
+          "url": "https://mydramalist.com/people/106357-wang-ying",
+          "image_url": "https://i.mydramalist.com/QvEx2_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QvEx2_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:05:04.862Z"
+  },
+  {
+    "id": 43247,
+    "slug": "43247-divergence-of-love",
+    "url": "https://mydramalist.com/43247-divergence-of-love",
+    "title": "Divergence Of Love",
+    "complete_title": "Divergence Of Love (2018)",
+    "native_title": "爱情三岔口",
+    "sub_title": "爱情三岔口 ‧ Movie ‧ 2018",
+    "also_known_as": [
+      "ai qing san cha kou"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2018,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 24 min.",
+    "duration_minutes": 84,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/E2oxOc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/E2oxOc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/E2oxOc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/E2oxOc.jpg",
+        "title": "Divergence Of Love (2018) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/E2oxOs.jpg",
+        "hd_url": "https://i.mydramalist.com/E2oxOs.jpg",
+        "title": "Divergence Of Love Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/E2oxOm.jpg",
+        "hd_url": "https://i.mydramalist.com/E2oxOm.jpg",
+        "title": "Divergence Of Love (2018)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Zhang Xing",
+          "slug": "people/51651-zhang-xing",
+          "url": "https://mydramalist.com/people/51651-zhang-xing",
+          "image_url": "https://i.mydramalist.com/xoedN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xoedN_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T13:05:11.010Z"
   }
 ]
