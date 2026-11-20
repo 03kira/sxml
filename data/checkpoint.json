@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 681,
-    "pending": 0,
+    "enriched": 299,
+    "pending": 382,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -71,13 +71,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 1239,
-    "pending": 2598,
+    "enriched": 1259,
+    "pending": 2578,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 32809,
-    "last_title": "Kasouken no Onna Supesharu",
-    "last_updated": "2026-11-20T16:12:07.089Z"
+    "last_id": 711899,
+    "last_title": "Yo nimo Kimyo na Monogatari: 2017 Midnight Special",
+    "last_updated": "2026-11-20T16:14:21.017Z"
   },
   "2018": {
     "total_titles": 4200,
