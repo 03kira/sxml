@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 681,
-    "pending": 0,
+    "enriched": 299,
+    "pending": 382,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -61,13 +61,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 279,
-    "pending": 3558,
+    "enriched": 779,
+    "pending": 3058,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 23969,
-    "last_title": "Paen Rai Long Tai Wa Rak",
-    "last_updated": "2026-11-20T14:15:31.499Z"
+    "last_id": 18804,
+    "last_title": "Tiger Mom Blues",
+    "last_updated": "2026-11-20T15:22:01.464Z"
   },
   "2018": {
     "total_titles": 4200,
