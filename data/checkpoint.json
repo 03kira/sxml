@@ -41,13 +41,23 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 299,
-    "pending": 382,
+    "enriched": 681,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
-    "last_id": 38869,
-    "last_title": "Tirano's Claw",
-    "last_updated": "2026-11-20T13:29:44.942Z"
+    "last_id": 25332,
+    "last_title": "A Soul Haunted by Painting",
+    "last_updated": "2026-11-20T14:11:26.726Z"
+  },
+  "1995": {
+    "total_titles": 696,
+    "enriched": 19,
+    "pending": 677,
+    "parts_count": 1,
+    "active_part": "mdl_enriched_1995.json",
+    "last_id": 6749,
+    "last_title": "Fist of Fury",
+    "last_updated": "2026-11-20T14:21:48.370Z"
   },
   "2017": {
     "total_titles": 3837,
