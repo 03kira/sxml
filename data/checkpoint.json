@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 681,
-    "pending": 0,
+    "enriched": 299,
+    "pending": 382,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -61,13 +61,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 819,
-    "pending": 3018,
+    "enriched": 839,
+    "pending": 2998,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 35539,
-    "last_title": "My Chemical Love",
-    "last_updated": "2026-11-20T15:26:28.053Z"
+    "last_id": 54167,
+    "last_title": "I Didn't Know",
+    "last_updated": "2026-11-20T15:28:28.868Z"
   },
   "2018": {
     "total_titles": 4200,
