@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -91,13 +91,13 @@
   },
   "1999": {
     "total_titles": 789,
-    "enriched": 119,
-    "pending": 670,
+    "enriched": 139,
+    "pending": 650,
     "parts_count": 1,
     "active_part": "mdl_enriched_1999.json",
-    "last_id": 38193,
-    "last_title": "Ga Gub Hong",
-    "last_updated": "2026-11-20T20:15:40.230Z"
+    "last_id": 705469,
+    "last_title": "Dok Fah Gub Thewada Dern Din",
+    "last_updated": "2026-11-20T20:17:46.886Z"
   },
   "2017": {
     "total_titles": 3837,
