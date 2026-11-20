@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -21,13 +21,13 @@
   },
   "1992": {
     "total_titles": 672,
-    "enriched": 539,
-    "pending": 133,
+    "enriched": 559,
+    "pending": 113,
     "parts_count": 1,
     "active_part": "mdl_enriched_1992.json",
-    "last_id": 15382,
-    "last_title": "Bun Rye's Story",
-    "last_updated": "2026-11-20T11:18:31.840Z"
+    "last_id": 76977,
+    "last_title": "Nishimura Kyotaro Travel Mystery 21: Joshinetsu, Yukemuriri Satsujin Route",
+    "last_updated": "2026-11-20T11:20:40.854Z"
   },
   "2018": {
     "total_titles": 4200,
