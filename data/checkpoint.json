@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -91,13 +91,13 @@
   },
   "1999": {
     "total_titles": 789,
-    "enriched": 539,
-    "pending": 250,
+    "enriched": 559,
+    "pending": 230,
     "parts_count": 1,
     "active_part": "mdl_enriched_1999.json",
-    "last_id": 53427,
-    "last_title": "Hong Rien Khun Noo Gub Khun Kru Kon Mai",
-    "last_updated": "2026-11-20T21:01:28.752Z"
+    "last_id": 701795,
+    "last_title": "Ko Kyoto Mystery 25: Etchu Ochiudo Densetsu Satsujin Jiken",
+    "last_updated": "2026-11-20T21:03:41.470Z"
   },
   "2017": {
     "total_titles": 3837,
