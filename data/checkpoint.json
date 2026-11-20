@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 697,
-    "pending": 0,
+    "enriched": 539,
+    "pending": 158,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -101,13 +101,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 3642,
-    "pending": 195,
+    "enriched": 3662,
+    "pending": 175,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 22071,
-    "last_title": "I Am from the Moon",
-    "last_updated": "2026-11-20T21:04:13.496Z"
+    "last_id": 21867,
+    "last_title": "Once Upon a Time in the Northeast",
+    "last_updated": "2026-11-20T21:06:22.872Z"
   },
   "2018": {
     "total_titles": 4200,
