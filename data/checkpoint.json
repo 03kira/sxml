@@ -71,13 +71,33 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
-    "last_id": 37807,
-    "last_title": "Passionate Nights",
-    "last_updated": "2026-11-20T18:07:01.819Z"
+    "last_id": 26137,
+    "last_title": "Pickpocket",
+    "last_updated": "2026-11-20T18:24:36.488Z"
+  },
+  "1998": {
+    "total_titles": 724,
+    "enriched": 724,
+    "pending": 0,
+    "parts_count": 1,
+    "active_part": "mdl_enriched_1998.json",
+    "last_id": 4078,
+    "last_title": "The Emperor and the Assassin",
+    "last_updated": "2026-11-20T19:53:45.253Z"
+  },
+  "1999": {
+    "total_titles": 789,
+    "enriched": 19,
+    "pending": 770,
+    "parts_count": 1,
+    "active_part": "mdl_enriched_1999.json",
+    "last_id": 4203,
+    "last_title": "Calla",
+    "last_updated": "2026-11-20T20:04:20.805Z"
   },
   "2017": {
     "total_titles": 3837,
