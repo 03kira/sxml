@@ -71,23 +71,23 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 679,
-    "pending": 18,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
-    "last_id": 67445,
-    "last_title": "The Railway Station",
-    "last_updated": "2026-11-20T18:22:39.390Z"
+    "last_id": 26137,
+    "last_title": "Pickpocket",
+    "last_updated": "2026-11-20T18:24:36.488Z"
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 2302,
-    "pending": 1535,
+    "enriched": 1699,
+    "pending": 2138,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 25076,
-    "last_title": "Shinjuku Seven",
-    "last_updated": "2026-11-20T18:22:08.244Z"
+    "last_id": 23816,
+    "last_title": "SHIDAMYOJIN",
+    "last_updated": "2026-11-20T17:03:29.565Z"
   },
   "2018": {
     "total_titles": 4200,
