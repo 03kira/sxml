@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 299,
-    "pending": 382,
+    "enriched": 681,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -51,23 +51,23 @@
   },
   "1995": {
     "total_titles": 696,
-    "enriched": 519,
-    "pending": 177,
+    "enriched": 539,
+    "pending": 157,
     "parts_count": 1,
     "active_part": "mdl_enriched_1995.json",
-    "last_id": 11012,
-    "last_title": "Sunset on the Neon Lights",
-    "last_updated": "2026-11-20T15:15:02.013Z"
+    "last_id": 702639,
+    "last_title": "Eskapo",
+    "last_updated": "2026-11-20T15:17:07.294Z"
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 719,
-    "pending": 3118,
+    "enriched": 279,
+    "pending": 3558,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 709283,
-    "last_title": "Dee Tau Jai",
-    "last_updated": "2026-11-20T15:14:33.827Z"
+    "last_id": 23969,
+    "last_title": "Paen Rai Long Tai Wa Rak",
+    "last_updated": "2026-11-20T14:15:31.499Z"
   },
   "2018": {
     "total_titles": 4200,
