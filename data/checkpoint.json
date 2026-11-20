@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -81,23 +81,23 @@
   },
   "1998": {
     "total_titles": 724,
-    "enriched": 479,
-    "pending": 245,
+    "enriched": 499,
+    "pending": 225,
     "parts_count": 1,
     "active_part": "mdl_enriched_1998.json",
-    "last_id": 30981,
-    "last_title": "Three Kim Generation",
-    "last_updated": "2026-11-20T19:26:09.838Z"
+    "last_id": 740177,
+    "last_title": "Ikaw Pa Rin Ang Iibigin",
+    "last_updated": "2026-11-20T19:28:21.015Z"
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 2802,
-    "pending": 1035,
+    "enriched": 2342,
+    "pending": 1495,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 23842,
-    "last_title": "Burning Ice",
-    "last_updated": "2026-11-20T19:25:26.078Z"
+    "last_id": 24259,
+    "last_title": "Club Friday To Be Continued: Ruk Long Jai",
+    "last_updated": "2026-11-20T18:27:26.387Z"
   },
   "2018": {
     "total_titles": 4200,
