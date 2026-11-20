@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -21,13 +21,13 @@
   },
   "1992": {
     "total_titles": 672,
-    "enriched": 59,
-    "pending": 613,
+    "enriched": 79,
+    "pending": 593,
     "parts_count": 1,
     "active_part": "mdl_enriched_1992.json",
-    "last_id": 74761,
-    "last_title": "Bloody! Scary Horror!",
-    "last_updated": "2026-11-20T10:27:29.729Z"
+    "last_id": 716951,
+    "last_title": "Fighting Fist",
+    "last_updated": "2026-11-20T10:29:31.950Z"
   },
   "2018": {
     "total_titles": 4200,
