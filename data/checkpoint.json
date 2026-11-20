@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 564,
-    "pending": 0,
+    "enriched": 159,
+    "pending": 405,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -41,13 +41,13 @@
   },
   "2018": {
     "total_titles": 4200,
-    "enriched": 3519,
-    "pending": 681,
+    "enriched": 3539,
+    "pending": 661,
     "parts_count": 1,
     "active_part": "mdl_enriched_2018.json",
-    "last_id": 61271,
-    "last_title": "A Final Reunion",
-    "last_updated": "2026-11-20T12:05:29.633Z"
+    "last_id": 709463,
+    "last_title": "Di Ren Jie: Mystery of Insects",
+    "last_updated": "2026-11-20T12:07:38.531Z"
   },
   "2019": {
     "total_titles": 4288,
