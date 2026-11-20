@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 681,
-    "pending": 0,
+    "enriched": 299,
+    "pending": 382,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -61,13 +61,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 639,
-    "pending": 3198,
+    "enriched": 659,
+    "pending": 3178,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 59645,
-    "last_title": "Monsta X Amigo TV",
-    "last_updated": "2026-11-20T15:05:02.317Z"
+    "last_id": 27745,
+    "last_title": "Asia Where VIXX Loves",
+    "last_updated": "2026-11-20T15:07:28.559Z"
   },
   "2018": {
     "total_titles": 4200,
