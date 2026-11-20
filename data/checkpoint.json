@@ -99,15 +99,25 @@
     "last_title": "Legend of Dagger Lee",
     "last_updated": "2026-11-20T21:30:11.269Z"
   },
+  "2016": {
+    "total_titles": 3621,
+    "enriched": 19,
+    "pending": 3602,
+    "parts_count": 1,
+    "active_part": "mdl_enriched_2016.json",
+    "last_id": 696853,
+    "last_title": "BTS Season's Greetings 2017",
+    "last_updated": "2026-11-20T21:37:57.009Z"
+  },
   "2017": {
     "total_titles": 3837,
-    "enriched": 3042,
-    "pending": 795,
+    "enriched": 3837,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 24653,
-    "last_title": "My Robot Boyfriend",
-    "last_updated": "2026-11-20T19:56:53.845Z"
+    "last_id": 31542,
+    "last_title": "Private Teacher",
+    "last_updated": "2026-11-20T21:26:00.471Z"
   },
   "2018": {
     "total_titles": 4200,
