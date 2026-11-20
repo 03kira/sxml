@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -31,13 +31,13 @@
   },
   "1993": {
     "total_titles": 643,
-    "enriched": 379,
-    "pending": 264,
+    "enriched": 399,
+    "pending": 244,
     "parts_count": 1,
     "active_part": "mdl_enriched_1993.json",
-    "last_id": 74767,
-    "last_title": "Ningen kosaten",
-    "last_updated": "2026-11-20T12:21:35.717Z"
+    "last_id": 717441,
+    "last_title": "Toei TV Hero Encyclopedia Vol. 1: Kamen Rider Black",
+    "last_updated": "2026-11-20T12:23:41.932Z"
   },
   "2018": {
     "total_titles": 4200,
