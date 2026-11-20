@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -31,13 +31,13 @@
   },
   "1993": {
     "total_titles": 643,
-    "enriched": 259,
-    "pending": 384,
+    "enriched": 279,
+    "pending": 364,
     "parts_count": 1,
     "active_part": "mdl_enriched_1993.json",
-    "last_id": 686191,
-    "last_title": "Ranjuku-zuma: Naburu",
-    "last_updated": "2026-11-20T12:08:39.439Z"
+    "last_id": 808344,
+    "last_title": "Guard Ka no Dekigoto",
+    "last_updated": "2026-11-20T12:10:49.190Z"
   },
   "2018": {
     "total_titles": 4200,
