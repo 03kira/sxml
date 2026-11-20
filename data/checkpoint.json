@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 681,
-    "pending": 0,
+    "enriched": 299,
+    "pending": 382,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -81,13 +81,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 2019,
-    "pending": 1818,
+    "enriched": 2039,
+    "pending": 1798,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 27547,
-    "last_title": "Bangkok Nites",
-    "last_updated": "2026-11-20T17:40:15.127Z"
+    "last_id": 72619,
+    "last_title": "Gutom",
+    "last_updated": "2026-11-20T17:42:31.415Z"
   },
   "2018": {
     "total_titles": 4200,
