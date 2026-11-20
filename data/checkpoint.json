@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 564,
-    "pending": 0,
+    "enriched": 159,
+    "pending": 405,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -21,13 +21,13 @@
   },
   "2018": {
     "total_titles": 4200,
-    "enriched": 2239,
-    "pending": 1961,
+    "enriched": 2259,
+    "pending": 1941,
     "parts_count": 1,
     "active_part": "mdl_enriched_2018.json",
-    "last_id": 28112,
-    "last_title": "The End",
-    "last_updated": "2026-11-20T09:24:52.262Z"
+    "last_id": 29561,
+    "last_title": "The Face Thailand Season 4",
+    "last_updated": "2026-11-20T09:27:08.141Z"
   },
   "2019": {
     "total_titles": 4288,
