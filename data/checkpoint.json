@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -11,13 +11,13 @@
   },
   "1991": {
     "total_titles": 608,
-    "enriched": 499,
-    "pending": 109,
+    "enriched": 519,
+    "pending": 89,
     "parts_count": 1,
     "active_part": "mdl_enriched_1991.json",
-    "last_id": 700807,
-    "last_title": "Konyoku Rotenburo Renzoku Satsujin 9",
-    "last_updated": "2026-11-20T10:02:06.836Z"
+    "last_id": 686785,
+    "last_title": "High School Escape",
+    "last_updated": "2026-11-20T10:04:16.362Z"
   },
   "2018": {
     "total_titles": 4200,
