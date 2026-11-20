@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -91,13 +91,13 @@
   },
   "1999": {
     "total_titles": 789,
-    "enriched": 59,
-    "pending": 730,
+    "enriched": 79,
+    "pending": 710,
     "parts_count": 1,
     "active_part": "mdl_enriched_1999.json",
-    "last_id": 25330,
-    "last_title": "Deja Vu",
-    "last_updated": "2026-11-20T20:08:45.170Z"
+    "last_id": 4994,
+    "last_title": "Kasouken no Onna",
+    "last_updated": "2026-11-20T20:11:08.152Z"
   },
   "2017": {
     "total_titles": 3837,
