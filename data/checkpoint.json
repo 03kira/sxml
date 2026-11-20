@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -91,13 +91,13 @@
   },
   "1999": {
     "total_titles": 789,
-    "enriched": 299,
-    "pending": 490,
+    "enriched": 319,
+    "pending": 470,
     "parts_count": 1,
     "active_part": "mdl_enriched_1999.json",
-    "last_id": 693613,
-    "last_title": "Boothka! Boothka !!",
-    "last_updated": "2026-11-20T20:35:05.450Z"
+    "last_id": 24817,
+    "last_title": "Game Kammathep",
+    "last_updated": "2026-11-20T20:37:16.144Z"
   },
   "2017": {
     "total_titles": 3837,
