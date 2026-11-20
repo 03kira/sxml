@@ -1,53 +1,23 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 564,
-    "pending": 0,
+    "enriched": 159,
+    "pending": 405,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
-    "last_id": 805076,
-    "last_title": "Bethune: The Making of a Hero",
-    "last_updated": "2026-11-20T09:01:42.861Z"
-  },
-  "1991": {
-    "total_titles": 608,
-    "enriched": 608,
-    "pending": 0,
-    "parts_count": 1,
-    "active_part": "mdl_enriched_1991.json",
-    "last_id": 52557,
-    "last_title": "Bloody Red Horse Carriage",
-    "last_updated": "2026-11-20T10:13:32.115Z"
-  },
-  "1992": {
-    "total_titles": 672,
-    "enriched": 672,
-    "pending": 0,
-    "parts_count": 1,
-    "active_part": "mdl_enriched_1992.json",
-    "last_id": 47431,
-    "last_title": "Bell of Purity Temple",
-    "last_updated": "2026-11-20T11:32:53.422Z"
-  },
-  "1993": {
-    "total_titles": 643,
-    "enriched": 579,
-    "pending": 64,
-    "parts_count": 1,
-    "active_part": "mdl_enriched_1993.json",
-    "last_id": 23680,
-    "last_title": "All's Well, Ends Well Too",
-    "last_updated": "2026-11-20T12:43:22.226Z"
+    "last_id": 707475,
+    "last_title": "Yume Kiiki",
+    "last_updated": "2026-11-20T08:18:57.971Z"
   },
   "2018": {
     "total_titles": 4200,
-    "enriched": 3279,
-    "pending": 921,
+    "enriched": 3919,
+    "pending": 281,
     "parts_count": 1,
     "active_part": "mdl_enriched_2018.json",
-    "last_id": 26993,
-    "last_title": "The Flowers Filled the Palace and Missed the Time Season 2",
-    "last_updated": "2026-11-20T11:37:18.596Z"
+    "last_id": 706805,
+    "last_title": "The Witch Is Back",
+    "last_updated": "2026-11-20T12:47:38.138Z"
   },
   "2019": {
     "total_titles": 4288,
