@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -91,13 +91,13 @@
   },
   "1999": {
     "total_titles": 789,
-    "enriched": 179,
-    "pending": 610,
+    "enriched": 199,
+    "pending": 590,
     "parts_count": 1,
     "active_part": "mdl_enriched_1999.json",
-    "last_id": 778946,
-    "last_title": "Moero!! Robocon vs. Ganbare!! Robocon",
-    "last_updated": "2026-11-20T20:22:04.848Z"
+    "last_id": 699523,
+    "last_title": "Darkness and Light",
+    "last_updated": "2026-11-20T20:24:10.602Z"
   },
   "2017": {
     "total_titles": 3837,
