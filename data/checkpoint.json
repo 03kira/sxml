@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 564,
-    "pending": 0,
+    "enriched": 159,
+    "pending": 405,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -31,13 +31,13 @@
   },
   "2018": {
     "total_titles": 4200,
-    "enriched": 2839,
-    "pending": 1361,
+    "enriched": 2859,
+    "pending": 1341,
     "parts_count": 1,
     "active_part": "mdl_enriched_2018.json",
-    "last_id": 27049,
-    "last_title": "Beauty Boy",
-    "last_updated": "2026-11-20T10:38:56.993Z"
+    "last_id": 701289,
+    "last_title": "Blue",
+    "last_updated": "2026-11-20T10:41:25.531Z"
   },
   "2019": {
     "total_titles": 4288,
