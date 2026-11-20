@@ -1582853,5 +1582853,2671 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-20T20:59:53.122Z"
+  },
+  {
+    "id": 22509,
+    "slug": "22509-funny-love",
+    "url": "https://mydramalist.com/22509-funny-love",
+    "title": "Funny Love",
+    "complete_title": "Funny Love (2017)",
+    "native_title": "猫先生与猪小姐",
+    "sub_title": "猫先生与猪小姐 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Mr Cat & Miss Piggy , 逗比恋人"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 34 min.",
+    "duration_minutes": 94,
+    "content_rating": "Not Yet Rated",
+    "rating": 1.049,
+    "scored_by": 2,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 49,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Emotionally Strong Female Lead",
+        "id": "28593"
+      },
+      {
+        "name": "Supportive Friend",
+        "id": "25273"
+      },
+      {
+        "name": "Best Friends' Relationship",
+        "id": "22417"
+      },
+      {
+        "name": "Female Centered Plot",
+        "id": "21307"
+      },
+      {
+        "name": "Tomboy Female Lead",
+        "id": "19513"
+      },
+      {
+        "name": "Search For Happiness",
+        "id": "4199"
+      },
+      {
+        "name": "Independent Female Lead",
+        "id": "2520"
+      },
+      {
+        "name": "Rivalry",
+        "id": "1586"
+      },
+      {
+        "name": "Transformation",
+        "id": "798"
+      },
+      {
+        "name": "Friends To Lovers",
+        "id": "602"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/l7k8Jc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/l7k8Jc.jpg",
+    "trailer_id": "8452",
+    "trailers": [
+      {
+        "id": "8452",
+        "title": "Funny Love Official Trailer",
+        "url": "https://v.mydramalist.com/a1a/a1ada9947e0d683b4625f94c74104d73.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/l7k8Jc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/l7k8Jc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/l7k8Jc.jpg",
+        "title": "Funny Love (2017) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/l7k8Js.jpg",
+        "hd_url": "https://i.mydramalist.com/l7k8Js.jpg",
+        "title": "Funny Love Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/l7k8Jm.jpg",
+        "hd_url": "https://i.mydramalist.com/l7k8Jm.jpg",
+        "title": "Funny Love (2017)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Bruce Hung",
+          "slug": "people/11793-hung-bruce",
+          "url": "https://mydramalist.com/people/11793-hung-bruce",
+          "image_url": "https://i.mydramalist.com/mONVvP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mONVvP_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhao Yi Huan",
+          "slug": "people/7063-zhao-chloe",
+          "url": "https://mydramalist.com/people/7063-zhao-chloe",
+          "image_url": "https://i.mydramalist.com/EpdxQs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EpdxQs.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Yin Xiao Tian",
+          "slug": "people/12450-yin-xiao-tian",
+          "url": "https://mydramalist.com/people/12450-yin-xiao-tian",
+          "image_url": "https://i.mydramalist.com/PxPKL8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxPKL8_5f.jpg",
+          "character": "Wen Tian Yi",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Essay Wang",
+          "slug": "people/27013-essay-wang",
+          "url": "https://mydramalist.com/people/27013-essay-wang",
+          "image_url": "https://i.mydramalist.com/wQL4n_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wQL4n_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mike Kai Sui",
+          "slug": "people/31473-mike-kai-sui",
+          "url": "https://mydramalist.com/people/31473-mike-kai-sui",
+          "image_url": "https://i.mydramalist.com/RkQpgs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RkQpgs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ban Jia Jia",
+          "slug": "people/105423-ban-jia-jia",
+          "url": "https://mydramalist.com/people/105423-ban-jia-jia",
+          "image_url": "https://i.mydramalist.com/RDYER_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RDYER_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:00:08.991Z"
+  },
+  {
+    "id": 63871,
+    "slug": "63871-close-undercover",
+    "url": "https://mydramalist.com/63871-close-undercover",
+    "title": "Close Undercover",
+    "complete_title": "Close Undercover (2017)",
+    "native_title": "贴身卧底",
+    "sub_title": "贴身卧底 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Tie Shen Wo Di , Undercover Police , 貼身臥底"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 20 min.",
+    "duration_minutes": 80,
+    "content_rating": "Not Yet Rated",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/E3EAm_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/E3EAm_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/E3EAm_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/E3EAm_4f.jpg",
+        "title": "Close Undercover (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Waise Lee",
+          "slug": "people/5136-lee-waise",
+          "url": "https://mydramalist.com/people/5136-lee-waise",
+          "image_url": "https://i.mydramalist.com/ABAm1g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABAm1g_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Augus Lang",
+          "slug": "people/38287-augus-lang",
+          "url": "https://mydramalist.com/people/38287-augus-lang",
+          "image_url": "https://i.mydramalist.com/73RWzn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73RWzn_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Fu Yan Dan",
+          "slug": "people/102179-fu-yan-dan",
+          "url": "https://mydramalist.com/people/102179-fu-yan-dan",
+          "image_url": "https://i.mydramalist.com/nOeZo8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOeZo8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Eddie Law",
+          "slug": "people/95335-eddie-law",
+          "url": "https://mydramalist.com/people/95335-eddie-law",
+          "image_url": "https://i.mydramalist.com/ZKrVO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZKrVO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cao Shuai",
+          "slug": "people/27695-cao-shuai",
+          "url": "https://mydramalist.com/people/27695-cao-shuai",
+          "image_url": "https://i.mydramalist.com/rmxOps.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rmxOps.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:00:14.619Z"
+  },
+  {
+    "id": 800554,
+    "slug": "800554-death-love",
+    "url": "https://mydramalist.com/800554-death-love",
+    "title": "Death Love",
+    "complete_title": "Death Love (2017)",
+    "native_title": "向死而生",
+    "sub_title": "向死而生 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Xiang Si Er Sheng"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 29 min.",
+    "duration_minutes": 89,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      }
+    ],
+    "synopsis": "Shi Lan, the campus beauty, is sweet-looking and tall. A modeling major, she has just graduated and joined Shengshi Entertainment Company as an intern model together with her handsome boyfriend Wei Ming. With their outstanding looks, elegant temperaments, and strong professional skills, the two quickly stand out among many other models — but also attract envy and jealousy. Because Wei Ming’s family background is modest, Shi Lan’s father, Jia Hui, has always disapproved of their relationship. After entering Shengshi, Wei Ming catches the eye of President Mai, the beautiful and powerful CEO of the company, who often calls him in alone under the pretext of work. Mai’s son, Hao Tian, is flamboyant and impulsive. One day, by chance, he meets Shi Lan and is captivated by her fresh, pure beauty, beginning his pursuit of her. (Source: Chinese = Douban || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/g0AWyq_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/g0AWyq_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/g0AWyq_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/g0AWyq_4f.jpg",
+        "title": "Death Love (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Li Ze Yu",
+          "slug": "people/77987-li-ze-yu",
+          "url": "https://mydramalist.com/people/77987-li-ze-yu",
+          "image_url": "https://i.mydramalist.com/ZOm1Y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZOm1Y_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Shi Xuan Ru",
+          "slug": "people/23349-shi-xuan-ru",
+          "url": "https://mydramalist.com/people/23349-shi-xuan-ru",
+          "image_url": "https://i.mydramalist.com/ZJjpY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZJjpY_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Angela Hui",
+          "slug": "people/39617-angela-hui",
+          "url": "https://mydramalist.com/people/39617-angela-hui",
+          "image_url": "https://i.mydramalist.com/pzwpb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pzwpb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Qin Chu Ming",
+          "slug": "people/46105-qin-chu-ming",
+          "url": "https://mydramalist.com/people/46105-qin-chu-ming",
+          "image_url": "https://i.mydramalist.com/YYZ2JA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYZ2JA_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:00:20.321Z"
+  },
+  {
+    "id": 67307,
+    "slug": "67307-my-boyfriend-is-more-beautiful-than-me",
+    "url": "https://mydramalist.com/67307-my-boyfriend-is-more-beautiful-than-me",
+    "title": "My Boyfriend Is More Beautiful Than Me",
+    "complete_title": "My Boyfriend Is More Beautiful Than Me (2017)",
+    "native_title": "我的男友比我美",
+    "sub_title": "我的男友比我美 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Wo De Nan You Bi Wo Mei"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 2 min.",
+    "duration_minutes": 62,
+    "content_rating": "Not Yet Rated",
+    "rating": 4.469,
+    "scored_by": 6,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 69,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Indebted Male Lead",
+        "id": "29862"
+      },
+      {
+        "name": "Crossdresser Male Lead",
+        "id": "23297"
+      },
+      {
+        "name": "Debt",
+        "id": "1046"
+      },
+      {
+        "name": "Gender Bender",
+        "id": "707"
+      },
+      {
+        "name": "Cross-Dressing",
+        "id": "126"
+      }
+    ],
+    "synopsis": "Bo Li has crush on an old classmate of hers but wants to change and become more beautiful before meeting him again. So she wants to hire a woman to help her. Pei Qingguan is in debts. Because of his feminine beauty, his friend suggests to dress up as a woman and help Bo Li for the money. English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/jgQzJ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jgQzJ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jgQzJ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jgQzJ_4f.jpg",
+        "title": "My Boyfriend Is More Beautiful Than Me (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Tong Xinyu",
+          "slug": "people/49003-tong-xinyu",
+          "url": "https://mydramalist.com/people/49003-tong-xinyu",
+          "image_url": "https://i.mydramalist.com/0dbjK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0dbjK_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Hannah Zhang",
+          "slug": "people/49037-zhang-yan-dan",
+          "url": "https://mydramalist.com/people/49037-zhang-yan-dan",
+          "image_url": "https://i.mydramalist.com/yWw3rd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWw3rd_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Hu Sheng",
+          "slug": "people/35701-hu-sheng",
+          "url": "https://mydramalist.com/people/35701-hu-sheng",
+          "image_url": "https://i.mydramalist.com/q8lLzs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/q8lLzs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:00:25.849Z"
+  },
+  {
+    "id": 718313,
+    "slug": "718313-shan-pao-chuang-jiang-hu",
+    "url": "https://mydramalist.com/718313-shan-pao-chuang-jiang-hu",
+    "title": "Shan Pao Chuang Jiang Hu",
+    "complete_title": "Shan Pao Chuang Jiang Hu (2017)",
+    "native_title": "山炮闯江湖",
+    "sub_title": "山炮闯江湖 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "山炮闖江湖"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 18 min.",
+    "duration_minutes": 78,
+    "content_rating": "Not Yet Rated",
+    "rating": 9,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 9,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/6q5wp_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/6q5wp_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/6q5wp_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/6q5wp_4f.jpg",
+        "title": "Shan Pao Chuang Jiang Hu (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Chen Ye Ling",
+          "slug": "people/35263-chen-ye-ling",
+          "url": "https://mydramalist.com/people/35263-chen-ye-ling",
+          "image_url": "https://i.mydramalist.com/4kbb1s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4kbb1s.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Xu Hao Ran",
+          "slug": "people/91141-xu-hao-ran",
+          "url": "https://mydramalist.com/people/91141-xu-hao-ran",
+          "image_url": "https://i.mydramalist.com/keOOg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/keOOg_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Duan Ran",
+          "slug": "people/66559-duan-ran",
+          "url": "https://mydramalist.com/people/66559-duan-ran",
+          "image_url": "https://i.mydramalist.com/Lw63b7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lw63b7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Hao",
+          "slug": "people/98017-zhang-hao",
+          "url": "https://mydramalist.com/people/98017-zhang-hao",
+          "image_url": "https://i.mydramalist.com/2y5Pk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2y5Pk_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:00:31.441Z"
+  },
+  {
+    "id": 682713,
+    "slug": "682713-sweety-bunny-girls-of-petman",
+    "url": "https://mydramalist.com/682713-sweety-bunny-girls-of-petman",
+    "title": "Sweety Bunny Girls of Petman",
+    "complete_title": "Sweety Bunny Girls of Petman (2017)",
+    "native_title": "奇幻人形宠之甜心兔妹",
+    "sub_title": "奇幻人形宠之甜心兔妹 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Fantasy humanoid pet sweetheart rabbit girl , Qíhuàn rénxíng chǒng zhī tiánxīn tù mèi"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "15+ - Teens 15 or older",
+    "rating": 7.133,
+    "scored_by": 6,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 33,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Little driver Yuanye has accidentally obtained six humanoid rabbits. He is prejudiced against the humanoid rabbits and he intends to throw them away, but he has been unsuccessful. In the process of getting along with the six humanoid pets, Yuanye has an objective understanding of them and even developed subtle feelings. In their common life, what unexpected things will they encounter? And what kind of stories are hidden behind these humanoid rabbits? (Source: Baidu) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/X1pdq_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/X1pdq_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/X1pdq_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/X1pdq_4f.jpg",
+        "title": "Sweety Bunny Girls of Petman (2017) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/w7Op1_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/w7Op1_3f.jpg",
+        "title": "Sweety Bunny Girls of Petman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/kKyp8_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/kKyp8_3f.jpg",
+        "title": "Sweety Bunny Girls of Petman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/qlWV5_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/qlWV5_3f.jpg",
+        "title": "Sweety Bunny Girls of Petman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/rryvy_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/rryvy_3f.jpg",
+        "title": "Sweety Bunny Girls of Petman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/rrpr2_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/rrpr2_3f.jpg",
+        "title": "Sweety Bunny Girls of Petman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/wrprJ_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/wrprJ_3f.jpg",
+        "title": "Sweety Bunny Girls of Petman Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/emprd_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/emprd_3f.jpg",
+        "title": "Sweety Bunny Girls of Petman (2017)"
+      },
+      {
+        "url": "https://i.mydramalist.com/2n2k7_3m.jpg",
+        "hd_url": "https://i.mydramalist.com/2n2k7_3f.jpg",
+        "title": "Sweety Bunny Girls of Petman (2017)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Hou Fu Ming",
+          "slug": "people/47341-hou-fu-ming",
+          "url": "https://mydramalist.com/people/47341-hou-fu-ming",
+          "image_url": "https://i.mydramalist.com/Qe2k7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Qe2k7_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Mia Yu",
+          "slug": "people/46757-xu-jia-miao",
+          "url": "https://mydramalist.com/people/46757-xu-jia-miao",
+          "image_url": "https://i.mydramalist.com/jvp1d_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jvp1d_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Han Yi Jing",
+          "slug": "people/58089-han-yi-jing",
+          "url": "https://mydramalist.com/people/58089-han-yi-jing",
+          "image_url": "https://i.mydramalist.com/jvpvB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jvpvB_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Tang Xin",
+          "slug": "people/71057-tang-xin",
+          "url": "https://mydramalist.com/people/71057-tang-xin",
+          "image_url": "https://i.mydramalist.com/dNpv0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dNpv0_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lu Ning",
+          "slug": "people/58691-lu-ning",
+          "url": "https://mydramalist.com/people/58691-lu-ning",
+          "image_url": "https://i.mydramalist.com/wJOVAA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJOVAA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hao Zhao He",
+          "slug": "people/58367-hao-zhao-he",
+          "url": "https://mydramalist.com/people/58367-hao-zhao-he",
+          "image_url": "https://i.mydramalist.com/0wz2AY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wz2AY_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Andy Wu",
+          "slug": "people/91033-andy-wu",
+          "url": "https://mydramalist.com/people/91033-andy-wu",
+          "image_url": "https://i.mydramalist.com/jLLjd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jLLjd_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Hao Zhao He",
+          "slug": "people/58367-hao-zhao-he",
+          "url": "https://mydramalist.com/people/58367-hao-zhao-he",
+          "image_url": "https://i.mydramalist.com/0wz2AY_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wz2AY_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:00:37.969Z"
+  },
+  {
+    "id": 40831,
+    "slug": "40831-luck-and-unlucky",
+    "url": "https://mydramalist.com/40831-luck-and-unlucky",
+    "title": "Lucky and Unlucky",
+    "complete_title": "Lucky and Unlucky (2017)",
+    "native_title": "幸运神与衰神",
+    "sub_title": "幸运神与衰神 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Luck and Unlucky"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 24 min.",
+    "duration_minutes": 84,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.04,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/6oEpWc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/6oEpWc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/6oEpWc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/6oEpWc.jpg",
+        "title": "Lucky and Unlucky (2017) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/6oEpWs.jpg",
+        "hd_url": "https://i.mydramalist.com/6oEpWs.jpg",
+        "title": "Lucky and Unlucky Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/6oEpWm.jpg",
+        "hd_url": "https://i.mydramalist.com/6oEpWm.jpg",
+        "title": "Lucky and Unlucky (2017)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Yu Bin",
+          "slug": "people/58667-yu-bin",
+          "url": "https://mydramalist.com/people/58667-yu-bin",
+          "image_url": "https://i.mydramalist.com/dBOdg_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dBOdg_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Ya Meng Le",
+          "slug": "people/45913-ya-meng-le",
+          "url": "https://mydramalist.com/people/45913-ya-meng-le",
+          "image_url": "https://i.mydramalist.com/jxqvO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jxqvO_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:00:43.581Z"
+  },
+  {
+    "id": 23003,
+    "slug": "23003-super-firm",
+    "url": "https://mydramalist.com/23003-super-firm",
+    "title": "Super Firm",
+    "complete_title": "Super Firm (2017)",
+    "native_title": "异能事务所之嗜血判官",
+    "sub_title": "异能事务所之嗜血判官 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Yì néng shìwù suǒ zhī shì xiě pànguān , Yinengshiwusuozhishixiepangguan"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 3 min.",
+    "duration_minutes": 63,
+    "content_rating": "15+ - Teens 15 or older",
+    "rating": 6.5112,
+    "scored_by": 9,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 112,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Psychic Male Lead",
+        "id": "20217"
+      },
+      {
+        "name": "Detective Fiction",
+        "id": "19157"
+      },
+      {
+        "name": "Detective Male Lead",
+        "id": "17623"
+      },
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Murder",
+        "id": "270"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "This is about a psychic that helps a detective on the police force solve murder crimes. But he comes across this one murder that leads him further down the rabbit hole. English Español magyar / magyar nyelv dansk",
+    "poster_url": "https://i.mydramalist.com/2xYgOc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2xYgOc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2xYgOc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2xYgOc.jpg",
+        "title": "Super Firm (2017) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/2xYgOs.jpg",
+        "hd_url": "https://i.mydramalist.com/2xYgOs.jpg",
+        "title": "Super Firm Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/3wVNAs.jpg",
+        "hd_url": "https://i.mydramalist.com/3wVNAs.jpg",
+        "title": "Super Firm Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/2xYgOm.jpg",
+        "hd_url": "https://i.mydramalist.com/2xYgOm.jpg",
+        "title": "Super Firm (2017)"
+      },
+      {
+        "url": "https://i.mydramalist.com/3wVNAm.jpg",
+        "hd_url": "https://i.mydramalist.com/3wVNAm.jpg",
+        "title": "Super Firm (2017)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sam Lin",
+          "slug": "people/5303-lin-sam",
+          "url": "https://mydramalist.com/people/5303-lin-sam",
+          "image_url": "https://i.mydramalist.com/2woVKR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2woVKR_5f.jpg",
+          "character": "Shen Ye Xing",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wang Shuai",
+          "slug": "people/54979-wang-shuai",
+          "url": "https://mydramalist.com/people/54979-wang-shuai",
+          "image_url": "https://i.mydramalist.com/EjV35_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EjV35_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Xiong Zi Qi",
+          "slug": "people/12876-xiong-dylan",
+          "url": "https://mydramalist.com/people/12876-xiong-dylan",
+          "image_url": "https://i.mydramalist.com/4lxWw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4lxWw_5f.jpg",
+          "character": "Ye Yu Wen",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Huang Wei Jin",
+          "slug": "people/7506-huang-wayne",
+          "url": "https://mydramalist.com/people/7506-huang-wayne",
+          "image_url": "https://i.mydramalist.com/XdrObd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdrObd_5f.jpg",
+          "character": "Nie Yin Cang",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:00:49.550Z"
+  },
+  {
+    "id": 775079,
+    "slug": "775079-super-diva-season-5",
+    "url": "https://mydramalist.com/775079-super-diva-season-5",
+    "title": "Super Diva Season 5",
+    "complete_title": "Super Diva Season 5 (2017)",
+    "native_title": "妈妈咪呀 第五季",
+    "sub_title": "妈妈咪呀 第五季 ‧ TV Program ‧ 2017",
+    "also_known_as": [
+      "Ma Ma Mi Ya 5 , Ma Ma Mi Ya Di Wu Ji , Super Diva 5 , 妈妈咪呀 第5季 , 妈妈咪呀5 , 媽媽咪呀 第五季"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": 12,
+    "aired_string": "Mar 5, 2017 - May 20, 2017",
+    "aired_start": "2017-03-05",
+    "aired_end": "2017-05-20",
+    "aired_on": [
+      "Saturday"
+    ],
+    "original_network": "Dragon TV",
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/eYWAJE_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/eYWAJE_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "title": "Super Diva Season 5 (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Super Diva Season 4",
+        "slug": "775077-super-diva-season-4",
+        "url": "https://mydramalist.com/775077-super-diva-season-4",
+        "relation": "Chinese prequel"
+      },
+      {
+        "title": "Super Diva Season 6",
+        "slug": "775081-super-diva-season-6",
+        "url": "https://mydramalist.com/775081-super-diva-season-6",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Zhang Kai Li",
+          "slug": "people/31357-zhang-kai-li",
+          "url": "https://mydramalist.com/people/31357-zhang-kai-li",
+          "image_url": "https://i.mydramalist.com/r31gj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r31gj_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Jerry Huang",
+          "slug": "people/54735-jerry-huang",
+          "url": "https://mydramalist.com/people/54735-jerry-huang",
+          "image_url": "https://i.mydramalist.com/ZQxoL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZQxoL_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Cheng Lei",
+          "slug": "people/54645-cheng-lei",
+          "url": "https://mydramalist.com/people/54645-cheng-lei",
+          "image_url": "https://i.mydramalist.com/6NJ7P_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6NJ7P_5f.jpg",
+          "role_type": "Main Host"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Super Diva Season 5 Episode 1",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/1",
+        "air_date": "2017-03-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Super Diva Season 5 Episode 2",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/2",
+        "air_date": "2017-03-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Super Diva Season 5 Episode 3",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/3",
+        "air_date": "2017-03-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Super Diva Season 5 Episode 4",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/4",
+        "air_date": "2017-03-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Super Diva Season 5 Episode 5",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/5",
+        "air_date": "2017-04-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Super Diva Season 5 Episode 6",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/6",
+        "air_date": "2017-04-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Super Diva Season 5 Episode 7",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/7",
+        "air_date": "2017-04-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Super Diva Season 5 Episode 8",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/8",
+        "air_date": "2017-04-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Super Diva Season 5 Episode 9",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/9",
+        "air_date": "2017-04-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Super Diva Season 5 Episode 10",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/10",
+        "air_date": "2017-05-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Super Diva Season 5 Episode 11",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/11",
+        "air_date": "2017-05-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Super Diva Season 5 Episode 12",
+        "url": "https://mydramalist.com/775079-super-diva-season-5/episode/12",
+        "air_date": "2017-05-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eYWAJE_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eYWAJE_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T21:00:55.533Z"
+  },
+  {
+    "id": 21871,
+    "slug": "21871-frightening-embroidery-shoes",
+    "url": "https://mydramalist.com/21871-frightening-embroidery-shoes",
+    "title": "Frightening Embroidery Shoes",
+    "complete_title": "Frightening Embroidery Shoes (2017)",
+    "native_title": "惊魂绣花鞋",
+    "sub_title": "惊魂绣花鞋 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Jing Hun Xiu Hua Xie"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 29 min.",
+    "duration_minutes": 89,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.226,
+    "scored_by": 6,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 26,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Supernatural Being",
+        "id": "10467"
+      },
+      {
+        "name": "Spirit",
+        "id": "1551"
+      },
+      {
+        "name": "Ghost",
+        "id": "130"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "An Wen is seriously ill, and there is something creepy going on in her mansion. The spirit of Xiu Xua requests she lay a pair of embroidery shoes at the tomb of her dead grandmother to satisfly her spirit, but it seems to enrage her further! Add to the fact that her boyfriend is feeding her hallucinogenic drugs and the recent arrival of her long lost brother, can An Wen survive all this torment? (Source: AllHorror) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/Jk5Lmc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Jk5Lmc.jpg",
+    "trailer_id": "8104",
+    "trailers": [
+      {
+        "id": "8104",
+        "title": "Frightening Embroidery Shoes Official Trailer",
+        "url": "https://v.mydramalist.com/907/9078f2a8254704bd760460f027072e52.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/Jk5Lmc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Jk5Lmc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Jk5Lmc.jpg",
+        "title": "Frightening Embroidery Shoes (2017) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/Jk5Lms.jpg",
+        "hd_url": "https://i.mydramalist.com/Jk5Lms.jpg",
+        "title": "Frightening Embroidery Shoes Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/r2wRNs.jpg",
+        "hd_url": "https://i.mydramalist.com/r2wRNs.jpg",
+        "title": "Frightening Embroidery Shoes Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/l7qpvs.jpg",
+        "hd_url": "https://i.mydramalist.com/l7qpvs.jpg",
+        "title": "Frightening Embroidery Shoes Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/6gPpPs.jpg",
+        "hd_url": "https://i.mydramalist.com/6gPpPs.jpg",
+        "title": "Frightening Embroidery Shoes Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Jk5Lmm.jpg",
+        "hd_url": "https://i.mydramalist.com/Jk5Lmm.jpg",
+        "title": "Frightening Embroidery Shoes (2017)"
+      },
+      {
+        "url": "https://i.mydramalist.com/r2wRNm.jpg",
+        "hd_url": "https://i.mydramalist.com/r2wRNm.jpg",
+        "title": "Frightening Embroidery Shoes (2017)"
+      },
+      {
+        "url": "https://i.mydramalist.com/l7qpvm.jpg",
+        "hd_url": "https://i.mydramalist.com/l7qpvm.jpg",
+        "title": "Frightening Embroidery Shoes (2017)"
+      },
+      {
+        "url": "https://i.mydramalist.com/6gPpPm.jpg",
+        "hd_url": "https://i.mydramalist.com/6gPpPm.jpg",
+        "title": "Frightening Embroidery Shoes (2017)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "He Yi Xuan",
+          "slug": "people/79477-he-yi-xuan",
+          "url": "https://mydramalist.com/people/79477-he-yi-xuan",
+          "image_url": "https://i.mydramalist.com/0Vx2Y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0Vx2Y_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Kim Tae Kwan",
+          "slug": "people/23644-hwi-chan",
+          "url": "https://mydramalist.com/people/23644-hwi-chan",
+          "image_url": "https://i.mydramalist.com/ABW8zg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABW8zg_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Steven Liu",
+          "slug": "people/77993-steven-liu",
+          "url": "https://mydramalist.com/people/77993-steven-liu",
+          "image_url": "https://i.mydramalist.com/Xxy1g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xxy1g_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jia Ming Ying",
+          "slug": "people/79501-jia-ming-ying",
+          "url": "https://mydramalist.com/people/79501-jia-ming-ying",
+          "image_url": "https://i.mydramalist.com/1VObb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1VObb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Guo Zhen",
+          "slug": "people/21931-guo-zhen",
+          "url": "https://mydramalist.com/people/21931-guo-zhen",
+          "image_url": "https://i.mydramalist.com/l0mWPv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0mWPv_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:01:02.188Z"
+  },
+  {
+    "id": 22524,
+    "slug": "22524-h-club",
+    "url": "https://mydramalist.com/22524-h-club",
+    "title": "H-CLUB",
+    "complete_title": "H-CLUB (2017)",
+    "native_title": "帅位",
+    "sub_title": "帅位 ‧ Movie ‧ 2017",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 41 min.",
+    "duration_minutes": 101,
+    "content_rating": "Not Yet Rated",
+    "rating": 23,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 23,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/jnWrb_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jnWrb_4f.jpg",
+    "trailer_id": "8445",
+    "trailers": [
+      {
+        "id": "8445",
+        "title": "H-CLUB Official Trailer",
+        "url": "https://v.mydramalist.com/e3d/e3d11d85deaf57a720d252cd069bcd37.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/jnWrb_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jnWrb_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jnWrb_4f.jpg",
+        "title": "H-CLUB (2017) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/BjeOqs.jpg",
+        "hd_url": "https://i.mydramalist.com/BjeOqs.jpg",
+        "title": "H-CLUB Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/XZPBxs.jpg",
+        "hd_url": "https://i.mydramalist.com/XZPBxs.jpg",
+        "title": "H-CLUB Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Dx7WNs.jpg",
+        "hd_url": "https://i.mydramalist.com/Dx7WNs.jpg",
+        "title": "H-CLUB Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/BjeOqm.jpg",
+        "hd_url": "https://i.mydramalist.com/BjeOqm.jpg",
+        "title": "H-CLUB (2017)"
+      },
+      {
+        "url": "https://i.mydramalist.com/XZPBxm.jpg",
+        "hd_url": "https://i.mydramalist.com/XZPBxm.jpg",
+        "title": "H-CLUB (2017)"
+      },
+      {
+        "url": "https://i.mydramalist.com/Dx7WNm.jpg",
+        "hd_url": "https://i.mydramalist.com/Dx7WNm.jpg",
+        "title": "H-CLUB (2017)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sun Juan Sheng",
+          "slug": "people/100305-sun-juan-sheng",
+          "url": "https://mydramalist.com/people/100305-sun-juan-sheng",
+          "image_url": "https://i.mydramalist.com/d0rBDe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d0rBDe_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "An Yu",
+          "slug": "people/104013-an-yu",
+          "url": "https://mydramalist.com/people/104013-an-yu",
+          "image_url": "https://i.mydramalist.com/wZ2nb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wZ2nb_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Justin Hu",
+          "slug": "people/57361-justin-hu",
+          "url": "https://mydramalist.com/people/57361-justin-hu",
+          "image_url": "https://i.mydramalist.com/qpOBP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qpOBP_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:01:09.770Z"
+  },
+  {
+    "id": 22598,
+    "slug": "22598-bet-on-love",
+    "url": "https://mydramalist.com/22598-bet-on-love",
+    "title": "Bet on Love",
+    "complete_title": "Bet on Love (2017)",
+    "native_title": "爱情对赌",
+    "sub_title": "爱情对赌 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Love Bet"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 40 min.",
+    "duration_minutes": 100,
+    "content_rating": "Not Yet Rated",
+    "rating": 21,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 21,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/o7kmPc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/o7kmPc.jpg",
+    "trailer_id": "8451",
+    "trailers": [
+      {
+        "id": "8451",
+        "title": "Bet on Love Official Trailer",
+        "url": "https://v.mydramalist.com/357/3570af16e9be6a706988f55dd0028a18_1280x720.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/o7kmPc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/o7kmPc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/o7kmPc.jpg",
+        "title": "Bet on Love (2017) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/o7kmPs.jpg",
+        "hd_url": "https://i.mydramalist.com/o7kmPs.jpg",
+        "title": "Bet on Love Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/o7kmPm.jpg",
+        "hd_url": "https://i.mydramalist.com/o7kmPm.jpg",
+        "title": "Bet on Love (2017)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Chen Lu",
+          "slug": "people/41155-chen-lu",
+          "url": "https://mydramalist.com/people/41155-chen-lu",
+          "image_url": "https://i.mydramalist.com/Bm311s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bm311s.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Louis Lou",
+          "slug": "people/45225-louis-lou",
+          "url": "https://mydramalist.com/people/45225-louis-lou",
+          "image_url": "https://i.mydramalist.com/6We2O_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6We2O_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shaun Chen",
+          "slug": "people/4610-chen-shaun",
+          "url": "https://mydramalist.com/people/4610-chen-shaun",
+          "image_url": "https://i.mydramalist.com/vXOd7B_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXOd7B_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wen Xi",
+          "slug": "people/88685-wen-xi",
+          "url": "https://mydramalist.com/people/88685-wen-xi",
+          "image_url": "https://i.mydramalist.com/46ovY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/46ovY_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:01:16.280Z"
+  },
+  {
+    "id": 22601,
+    "slug": "22601-lets-break-up",
+    "url": "https://mydramalist.com/22601-lets-break-up",
+    "title": "Let's Break Up",
+    "complete_title": "Let's Break Up (2017)",
+    "native_title": "咱们分手吧",
+    "sub_title": "咱们分手吧 ‧ Movie ‧ 2017",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 37 min.",
+    "duration_minutes": 97,
+    "content_rating": "Not Yet Rated",
+    "rating": 7,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/7qJOnc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/7qJOnc.jpg",
+    "trailer_id": "8697",
+    "trailers": [
+      {
+        "id": "8697",
+        "title": "Let's Break Up Official Trailer",
+        "url": "https://v.mydramalist.com/e83/e834cb114d33f729dbc9c7fb0c6bb607.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/7qJOnc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/7qJOnc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/7qJOnc.jpg",
+        "title": "Let's Break Up (2017) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/7qJOns.jpg",
+        "hd_url": "https://i.mydramalist.com/7qJOns.jpg",
+        "title": "Let's Break Up Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/14rpKs.jpg",
+        "hd_url": "https://i.mydramalist.com/14rpKs.jpg",
+        "title": "Let's Break Up Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/7qJOnm.jpg",
+        "hd_url": "https://i.mydramalist.com/7qJOnm.jpg",
+        "title": "Let's Break Up (2017)"
+      },
+      {
+        "url": "https://i.mydramalist.com/14rpKm.jpg",
+        "hd_url": "https://i.mydramalist.com/14rpKm.jpg",
+        "title": "Let's Break Up (2017)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Isabelle Wang",
+          "slug": "people/70359-isabelle-wang",
+          "url": "https://mydramalist.com/people/70359-isabelle-wang",
+          "image_url": "https://i.mydramalist.com/4L11J_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4L11J_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [
+        {
+          "name": "Wen Qi",
+          "slug": "people/90033-wen-qi",
+          "url": "https://mydramalist.com/people/90033-wen-qi",
+          "image_url": "https://i.mydramalist.com/4zY2Z_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4zY2Z_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Chi Zhi Qiang",
+          "slug": "people/46301-chi-zhi-qiang",
+          "url": "https://mydramalist.com/people/46301-chi-zhi-qiang",
+          "image_url": "https://i.mydramalist.com/k80lj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/k80lj_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:01:22.704Z"
+  },
+  {
+    "id": 746117,
+    "slug": "746117-the-scope-of-separation",
+    "url": "https://mydramalist.com/746117-the-scope-of-separation",
+    "title": "The Scope of Separation",
+    "complete_title": "The Scope of Separation (2017)",
+    "native_title": "离散的范畴",
+    "sub_title": "离散的范畴 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "A Bouncy Bean , Li San De Fan Chou , Xiao Ha Pi , 小哈皮 , 離散的范疇"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 11 min.",
+    "duration_minutes": 71,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Separated Lovers",
+        "id": "30280"
+      },
+      {
+        "name": "Unemployed Male Lead",
+        "id": "9565"
+      },
+      {
+        "name": "Break Up",
+        "id": "2637"
+      },
+      {
+        "name": "Smoking",
+        "id": "1669"
+      }
+    ],
+    "synopsis": "Liu Shi Dong is a young man who has been cut adrift by the death of his father. He meets Wang Yu Zi, a melancholic and introverted girl who shows interest in him right from the start, but Liu decides not to go out with her. A short while later, he meets Yao Ye, who is bubbly and extroverted, and ends up moving in with her. But the story lasts only about a month and for Liu the moment has come to face work and life as an adult. And Yu Zi, as well. (Source: torinofilmfest.org) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/4K7Vr_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/4K7Vr_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/4K7Vr_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/4K7Vr_4f.jpg",
+        "title": "The Scope of Separation (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:01:29.750Z"
+  },
+  {
+    "id": 790220,
+    "slug": "790220-evil-assassin",
+    "url": "https://mydramalist.com/790220-evil-assassin",
+    "title": "Evil Assassin",
+    "complete_title": "Evil Assassin (2017)",
+    "native_title": "绝杀使徒",
+    "sub_title": "绝杀使徒 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Jue Sha Shi Tu , Kill the Apostle"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 15 min.",
+    "duration_minutes": 75,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Assassin Female Lead",
+        "id": "20399"
+      },
+      {
+        "name": "Criminal Female Lead",
+        "id": "18099"
+      },
+      {
+        "name": "Gun Violence",
+        "id": "6977"
+      },
+      {
+        "name": "Supernatural Power",
+        "id": "2421"
+      },
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Violence",
+        "id": "336"
+      }
+    ],
+    "synopsis": "It tells the story of a survivor of a superpower family who awakens and seeks revenge. (Source: Chinese = Baidu || Translation = MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/PxBQg5_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/PxBQg5_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/PxBQg5_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/PxBQg5_4f.jpg",
+        "title": "Evil Assassin (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Xiang Yun Long",
+          "slug": "people/42651-xiang-yun-long",
+          "url": "https://mydramalist.com/people/42651-xiang-yun-long",
+          "image_url": "https://i.mydramalist.com/Rw4Az_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rw4Az_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wu Xu Yi",
+          "slug": "people/113755-wu-xu-yi",
+          "url": "https://mydramalist.com/people/113755-wu-xu-yi",
+          "image_url": "https://i.mydramalist.com/q7rrz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/q7rrz_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:01:35.628Z"
+  },
+  {
+    "id": 22523,
+    "slug": "22523-stolen-fairytales",
+    "url": "https://mydramalist.com/22523-stolen-fairytales",
+    "title": "Stolen Fairytales",
+    "complete_title": "Stolen Fairytales (2017)",
+    "native_title": "堡藏 Stolen Fairytales",
+    "sub_title": "堡藏 Stolen Fairytales ‧ Movie ‧ 2017",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "Not Yet Rated",
+    "rating": 10,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 10,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/1wLdy7_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1wLdy7_4f.jpg",
+    "trailer_id": "8334",
+    "trailers": [
+      {
+        "id": "8334",
+        "title": "Stolen Fairytales Official Trailer",
+        "url": "https://v.mydramalist.com/9fd/9fda973d541273d51f260b4454d6ac74_1280x720.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/1wLdy7_4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1wLdy7_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1wLdy7_4f.jpg",
+        "title": "Stolen Fairytales (2017) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/r2wjEs.jpg",
+        "hd_url": "https://i.mydramalist.com/r2wjEs.jpg",
+        "title": "Stolen Fairytales Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/r2wjEm.jpg",
+        "hd_url": "https://i.mydramalist.com/r2wjEm.jpg",
+        "title": "Stolen Fairytales (2017)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Lu Yuan Yuan",
+          "slug": "people/52185-lu-yuan-yuan",
+          "url": "https://mydramalist.com/people/52185-lu-yuan-yuan",
+          "image_url": "https://i.mydramalist.com/ENRjl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ENRjl_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Lu Yan Bei",
+          "slug": "people/54305-lu-yan-bei",
+          "url": "https://mydramalist.com/people/54305-lu-yan-bei",
+          "image_url": "https://i.mydramalist.com/73RL2r_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73RL2r_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Yu Zheng",
+          "slug": "people/20978-wang-yu-zheng",
+          "url": "https://mydramalist.com/people/20978-wang-yu-zheng",
+          "image_url": "https://i.mydramalist.com/Bb5DRs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bb5DRs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:01:41.799Z"
+  },
+  {
+    "id": 707875,
+    "slug": "707875-the-dragon-pandent",
+    "url": "https://mydramalist.com/707875-the-dragon-pandent",
+    "title": "The Dragon Pandent",
+    "complete_title": "The Dragon Pandent (2017)",
+    "native_title": "赤血龙鳞",
+    "sub_title": "赤血龙鳞 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "赤血龍鱗"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 31 min.",
+    "duration_minutes": 91,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Crime",
+        "id": "21"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/kjb1b_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/kjb1b_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/kjb1b_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/kjb1b_4f.jpg",
+        "title": "The Dragon Pandent (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Ben Ng",
+          "slug": "people/4928-ng-ben",
+          "url": "https://mydramalist.com/people/4928-ng-ben",
+          "image_url": "https://i.mydramalist.com/knNrm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/knNrm_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Chen Wei Ran",
+          "slug": "people/36557-chen-wei-ran",
+          "url": "https://mydramalist.com/people/36557-chen-wei-ran",
+          "image_url": "https://i.mydramalist.com/Xr5dds.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xr5dds.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xie Meng Wei",
+          "slug": "people/9690-xie-bruce",
+          "url": "https://mydramalist.com/people/9690-xie-bruce",
+          "image_url": "https://i.mydramalist.com/2kW3V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2kW3V_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zeng Chen",
+          "slug": "people/85113-zeng-chen",
+          "url": "https://mydramalist.com/people/85113-zeng-chen",
+          "image_url": "https://i.mydramalist.com/jpDy8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jpDy8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Pan Chun Chun",
+          "slug": "people/102641-pan-chun-chun",
+          "url": "https://mydramalist.com/people/102641-pan-chun-chun",
+          "image_url": "https://i.mydramalist.com/vmbXD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vmbXD_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:01:48.697Z"
+  },
+  {
+    "id": 757647,
+    "slug": "757647-bodyguard-of-the-sun",
+    "url": "https://mydramalist.com/757647-bodyguard-of-the-sun",
+    "title": "Bodyguard of the Sun",
+    "complete_title": "Bodyguard of the Sun (2017)",
+    "native_title": "太阳后裔的保镖",
+    "sub_title": "太阳后裔的保镖 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "太陽后裔的保鏢 , 太陽後裔的保鏢"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 15 min.",
+    "duration_minutes": 75,
+    "content_rating": "Not Yet Rated",
+    "rating": 11,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 11,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Web Movie",
+        "id": "2813"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Xd8eKp_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Xd8eKp_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Xd8eKp_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Xd8eKp_4f.jpg",
+        "title": "Bodyguard of the Sun (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Jiang Bing",
+          "slug": "people/10459-jiang-leo",
+          "url": "https://mydramalist.com/people/10459-jiang-leo",
+          "image_url": "https://i.mydramalist.com/jQ04kb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQ04kb_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jean Michel Casanova",
+          "slug": "people/114097-jean-michel-casanova",
+          "url": "https://mydramalist.com/people/114097-jean-michel-casanova",
+          "image_url": "https://i.mydramalist.com/4K4QQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4K4QQ_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Wang Fei Fei",
+          "slug": "people/99267-wang-fei-fei",
+          "url": "https://mydramalist.com/people/99267-wang-fei-fei",
+          "image_url": "https://i.mydramalist.com/XddPBJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XddPBJ_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Zhang Qing Qing",
+          "slug": "people/26545-zhang-qing-qing",
+          "url": "https://mydramalist.com/people/26545-zhang-qing-qing",
+          "image_url": "https://i.mydramalist.com/Qrv14_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Qrv14_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xu Zheng Guo",
+          "slug": "people/77393-xu-zheng-guo",
+          "url": "https://mydramalist.com/people/77393-xu-zheng-guo",
+          "image_url": "https://i.mydramalist.com/X6mLO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X6mLO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jiang Xiao Lin",
+          "slug": "people/52169-jiang-xiao-lin",
+          "url": "https://mydramalist.com/people/52169-jiang-xiao-lin",
+          "image_url": "https://i.mydramalist.com/KpkB5q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/KpkB5q_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:01:54.291Z"
+  },
+  {
+    "id": 775409,
+    "slug": "775409-round-table-girl-s-party",
+    "url": "https://mydramalist.com/775409-round-table-girl-s-party",
+    "title": "Round Table: Girl's Party",
+    "complete_title": "Round Table: Girl's Party (2017)",
+    "native_title": "圆桌女生派",
+    "sub_title": "圆桌女生派 ‧ TV Program ‧ 2017",
+    "also_known_as": [
+      "Yuan Zhuo Nv Sheng Pai , 圓桌女生派"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": 2,
+    "aired_string": "Mar 1, 2017 - Mar 3, 2017",
+    "aired_start": "2017-03-01",
+    "aired_end": "2017-03-03",
+    "aired_on": [],
+    "original_network": "Youku",
+    "duration_string": "40 min.",
+    "duration_minutes": 40,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Talk Show",
+        "id": "96"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/d0W7QD_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/d0W7QD_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/d0W7QD_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/d0W7QD_4f.jpg",
+        "title": "Round Table: Girl's Party (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Round Table",
+        "slug": "775391-round-table",
+        "url": "https://mydramalist.com/775391-round-table",
+        "relation": "Chinese parent story"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Dou Wen Tao",
+          "slug": "people/54739-dou-wen-tao",
+          "url": "https://mydramalist.com/people/54739-dou-wen-tao",
+          "image_url": "https://i.mydramalist.com/XzVEO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XzVEO_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Leung Man Tao",
+          "slug": "people/51301-leung-man-tao",
+          "url": "https://mydramalist.com/people/51301-leung-man-tao",
+          "image_url": "https://i.mydramalist.com/vgPWD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vgPWD_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Xu Jing Lei",
+          "slug": "people/2557-xu-jinglei",
+          "url": "https://mydramalist.com/people/2557-xu-jinglei",
+          "image_url": "https://i.mydramalist.com/RXLPV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RXLPV_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Round Table: Girl's Party Episode 1",
+        "url": "https://mydramalist.com/775409-round-table-girl-s-party/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d0W7QD_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d0W7QD_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Round Table: Girl's Party Episode 2",
+        "url": "https://mydramalist.com/775409-round-table-girl-s-party/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/d0W7QD_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/d0W7QD_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T21:01:59.643Z"
+  },
+  {
+    "id": 747597,
+    "slug": "747597-the-final-truth-notes-of-a-female-forensic",
+    "url": "https://mydramalist.com/747597-the-final-truth-notes-of-a-female-forensic",
+    "title": "The Final Truth: Notes of a Female Forensic",
+    "complete_title": "The Final Truth: Notes of a Female Forensic (2017)",
+    "native_title": "女法医手记之最后真相",
+    "sub_title": "女法医手记之最后真相 ‧ Movie ‧ 2017",
+    "also_known_as": [
+      "Nv Fa Yi Shou Ji (Xia) , Nv Fa Yi Shou Ji Zhi Zui Hou Zhen Xiang , 女法医手记(下) , 女法醫手記之最后真相"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2017,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 8 min.",
+    "duration_minutes": 68,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Crime",
+        "id": "21"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/vXj6dq_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/vXj6dq_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/vXj6dq_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/vXj6dq_4f.jpg",
+        "title": "The Final Truth: Notes of a Female Forensic (2017) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "The Visitors: Notes of a Female Forensic",
+        "slug": "723897-female-forensic-notes-the-visitors",
+        "url": "https://mydramalist.com/723897-female-forensic-notes-the-visitors",
+        "relation": "Chinese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zhao Cui Wei",
+          "slug": "people/56815-zhao-cui-wei",
+          "url": "https://mydramalist.com/people/56815-zhao-cui-wei",
+          "image_url": "https://i.mydramalist.com/4Egn6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4Egn6_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Marco Chen",
+          "slug": "people/17990-marco-chen-zhen",
+          "url": "https://mydramalist.com/people/17990-marco-chen-zhen",
+          "image_url": "https://i.mydramalist.com/73lRwr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73lRwr_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Fan Xiang",
+          "slug": "people/135145-fan-xiang",
+          "url": "https://mydramalist.com/people/135145-fan-xiang",
+          "image_url": "https://i.mydramalist.com/2wDYqE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wDYqE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Yi Ning",
+          "slug": "people/73537-li-yi-ning",
+          "url": "https://mydramalist.com/people/73537-li-yi-ning",
+          "image_url": "https://i.mydramalist.com/B47w7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B47w7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Meng Zi Ye",
+          "slug": "people/63475-leave-meng",
+          "url": "https://mydramalist.com/people/63475-leave-meng",
+          "image_url": "https://i.mydramalist.com/Z6bYO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Z6bYO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Wei Shen",
+          "slug": "people/86799-wang-wei-shen",
+          "url": "https://mydramalist.com/people/86799-wang-wei-shen",
+          "image_url": "https://i.mydramalist.com/WEpRR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WEpRR_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jampa Tseten",
+          "slug": "people/27241-jampa-tseten",
+          "url": "https://mydramalist.com/people/27241-jampa-tseten",
+          "image_url": "https://i.mydramalist.com/5vDxjw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5vDxjw_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Qi",
+          "slug": "people/21926-zhang-qi",
+          "url": "https://mydramalist.com/people/21926-zhang-qi",
+          "image_url": "https://i.mydramalist.com/RBRDKR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RBRDKR_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T21:02:05.976Z"
   }
 ]
