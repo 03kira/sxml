@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -81,13 +81,13 @@
   },
   "1998": {
     "total_titles": 724,
-    "enriched": 219,
-    "pending": 505,
+    "enriched": 239,
+    "pending": 485,
     "parts_count": 1,
     "active_part": "mdl_enriched_1998.json",
-    "last_id": 24050,
-    "last_title": "Hug",
-    "last_updated": "2026-11-20T18:57:24.589Z"
+    "last_id": 791532,
+    "last_title": "Martin Late at Nite",
+    "last_updated": "2026-11-20T18:59:35.286Z"
   },
   "2017": {
     "total_titles": 3837,
