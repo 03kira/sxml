@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 681,
-    "pending": 0,
+    "enriched": 299,
+    "pending": 382,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -81,13 +81,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 2079,
-    "pending": 1758,
+    "enriched": 2099,
+    "pending": 1738,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 41961,
-    "last_title": "Detective Tokunosuke Jinbo 11",
-    "last_updated": "2026-11-20T17:47:01.226Z"
+    "last_id": 732591,
+    "last_title": "Lotus Takumi",
+    "last_updated": "2026-11-20T17:49:06.508Z"
   },
   "2018": {
     "total_titles": 4200,
