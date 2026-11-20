@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 681,
-    "pending": 0,
+    "enriched": 299,
+    "pending": 382,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -71,13 +71,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 1539,
-    "pending": 2298,
+    "enriched": 1559,
+    "pending": 2278,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 46179,
-    "last_title": "Idol Tour",
-    "last_updated": "2026-11-20T16:45:36.142Z"
+    "last_id": 781908,
+    "last_title": "Difficulty Breathing",
+    "last_updated": "2026-11-20T16:47:50.547Z"
   },
   "2018": {
     "total_titles": 4200,
