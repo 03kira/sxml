@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 564,
-    "pending": 0,
+    "enriched": 159,
+    "pending": 405,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -41,13 +41,13 @@
   },
   "2018": {
     "total_titles": 4200,
-    "enriched": 3819,
-    "pending": 381,
+    "enriched": 3839,
+    "pending": 361,
     "parts_count": 1,
     "active_part": "mdl_enriched_2018.json",
-    "last_id": 718131,
-    "last_title": "The Sai Kwan Mansion",
-    "last_updated": "2026-11-20T12:36:58.253Z"
+    "last_id": 79417,
+    "last_title": "Crossover Singer Season 3",
+    "last_updated": "2026-11-20T12:39:06.990Z"
   },
   "2019": {
     "total_titles": 4288,
