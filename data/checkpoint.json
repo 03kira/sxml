@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -21,13 +21,13 @@
   },
   "1992": {
     "total_titles": 672,
-    "enriched": 139,
-    "pending": 533,
+    "enriched": 159,
+    "pending": 513,
     "parts_count": 1,
     "active_part": "mdl_enriched_1992.json",
-    "last_id": 769337,
-    "last_title": "Basic Impulse",
-    "last_updated": "2026-11-20T10:35:46.779Z"
+    "last_id": 14597,
+    "last_title": "Requital",
+    "last_updated": "2026-11-20T10:37:54.979Z"
   },
   "2018": {
     "total_titles": 4200,
