@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 564,
-    "pending": 0,
+    "enriched": 159,
+    "pending": 405,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -41,13 +41,13 @@
   },
   "2018": {
     "total_titles": 4200,
-    "enriched": 3279,
-    "pending": 921,
+    "enriched": 3359,
+    "pending": 841,
     "parts_count": 1,
     "active_part": "mdl_enriched_2018.json",
-    "last_id": 26993,
-    "last_title": "The Flowers Filled the Palace and Missed the Time Season 2",
-    "last_updated": "2026-11-20T11:37:18.596Z"
+    "last_id": 32277,
+    "last_title": "Super Vocal",
+    "last_updated": "2026-11-20T11:47:49.608Z"
   },
   "2019": {
     "total_titles": 4288,
