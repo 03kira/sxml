@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 299,
-    "pending": 382,
+    "enriched": 681,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -71,13 +71,13 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 379,
-    "pending": 318,
+    "enriched": 399,
+    "pending": 298,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
-    "last_id": 16745,
-    "last_title": "Kaisha no Kaidan",
-    "last_updated": "2026-11-20T17:49:27.409Z"
+    "last_id": 766823,
+    "last_title": "Calvento Files: The Movie",
+    "last_updated": "2026-11-20T17:51:39.760Z"
   },
   "2017": {
     "total_titles": 3837,
