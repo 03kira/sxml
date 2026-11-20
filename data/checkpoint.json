@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -81,13 +81,13 @@
   },
   "1998": {
     "total_titles": 724,
-    "enriched": 619,
-    "pending": 105,
+    "enriched": 639,
+    "pending": 85,
     "parts_count": 1,
     "active_part": "mdl_enriched_1998.json",
-    "last_id": 3599,
-    "last_title": "Anna Magdalena",
-    "last_updated": "2026-11-20T19:41:58.894Z"
+    "last_id": 50449,
+    "last_title": "Troublesome Night 3",
+    "last_updated": "2026-11-20T19:44:13.804Z"
   },
   "2017": {
     "total_titles": 3837,
