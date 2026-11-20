@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 539,
-    "pending": 158,
+    "enriched": 697,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -91,13 +91,13 @@
   },
   "1999": {
     "total_titles": 789,
-    "enriched": 659,
-    "pending": 130,
+    "enriched": 679,
+    "pending": 110,
     "parts_count": 1,
     "active_part": "mdl_enriched_1999.json",
-    "last_id": 15513,
-    "last_title": "Now is the Time to Love",
-    "last_updated": "2026-11-20T21:15:00.207Z"
+    "last_id": 6353,
+    "last_title": "Heavenly Legend",
+    "last_updated": "2026-11-20T21:17:23.439Z"
   },
   "2017": {
     "total_titles": 3837,
