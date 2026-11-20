@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 564,
-    "pending": 0,
+    "enriched": 159,
+    "pending": 405,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -41,13 +41,13 @@
   },
   "2018": {
     "total_titles": 4200,
-    "enriched": 3399,
-    "pending": 801,
+    "enriched": 3419,
+    "pending": 781,
     "parts_count": 1,
     "active_part": "mdl_enriched_2018.json",
-    "last_id": 49383,
-    "last_title": "Avici",
-    "last_updated": "2026-11-20T11:52:40.744Z"
+    "last_id": 713031,
+    "last_title": "Yi An After School",
+    "last_updated": "2026-11-20T11:54:52.500Z"
   },
   "2019": {
     "total_titles": 4288,
