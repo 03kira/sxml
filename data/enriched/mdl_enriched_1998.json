@@ -112819,5 +112819,3831 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-20T18:39:41.567Z"
+  },
+  {
+    "id": 51835,
+    "slug": "51835-king-of-food",
+    "url": "https://mydramalist.com/51835-king-of-food",
+    "title": "King of Food",
+    "complete_title": "King of Food (1998)",
+    "native_title": "食王传奇",
+    "sub_title": "食王传奇 ‧ Drama ‧ 1998",
+    "also_known_as": [
+      "Shi Wang Chuanqi , Supreme Food King , Zhi Zun Shi Wang , Zhi Zun Shi Wang Shi Shen , 至尊食王 , 至尊食王 食神 , 食王传奇"
+    ],
+    "type": "Drama",
+    "country": "Hong Kong",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 40,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "43 min.",
+    "duration_minutes": 43,
+    "content_rating": "Not Yet Rated",
+    "rating": 4.08,
+    "scored_by": 2,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Rr06Ec.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Rr06Ec.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Rr06Ec.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Rr06Ec.jpg",
+        "title": "King of Food (1998) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/Rr06Es.jpg",
+        "hd_url": "https://i.mydramalist.com/Rr06Es.jpg",
+        "title": "King of Food Hong Kong Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "title": "King of Food (1998)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Food Glorious Food",
+        "slug": "4644-food-glorious-food",
+        "url": "https://mydramalist.com/4644-food-glorious-food",
+        "relation": "Hong Kong sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Kent Cheng",
+          "slug": "people/2336-cheng-kent",
+          "url": "https://mydramalist.com/people/2336-cheng-kent",
+          "image_url": "https://i.mydramalist.com/94m8Js.jpg",
+          "image_hd_url": "https://i.mydramalist.com/94m8Js.jpg",
+          "character": "Chang Man",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Carol Cheng",
+          "slug": "people/11115-cheng-carol",
+          "url": "https://mydramalist.com/people/11115-cheng-carol",
+          "image_url": "https://i.mydramalist.com/pBVr8s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pBVr8s.jpg",
+          "character": "Jiang Xin Yue",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Liu Wei",
+          "slug": "people/7804-liu-wei",
+          "url": "https://mydramalist.com/people/7804-liu-wei",
+          "image_url": "https://i.mydramalist.com/pLBZE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pLBZE_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Yang Yi",
+          "slug": "people/28931-yang-yi",
+          "url": "https://mydramalist.com/people/28931-yang-yi",
+          "image_url": "https://i.mydramalist.com/eRr1qs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eRr1qs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Jian Xin",
+          "slug": "people/8026-wang-jian-xin",
+          "url": "https://mydramalist.com/people/8026-wang-jian-xin",
+          "image_url": "https://i.mydramalist.com/O808lL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O808lL_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhao Qian",
+          "slug": "people/14722-zhao-qian",
+          "url": "https://mydramalist.com/people/14722-zhao-qian",
+          "image_url": "https://i.mydramalist.com/BeYPR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BeYPR_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhu Yu Chen",
+          "slug": "people/14847-zhu-yu-chen",
+          "url": "https://mydramalist.com/people/14847-zhu-yu-chen",
+          "image_url": "https://i.mydramalist.com/b3ED7L_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b3ED7L_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xie Fang",
+          "slug": "people/103051-xie-fang",
+          "url": "https://mydramalist.com/people/103051-xie-fang",
+          "image_url": "https://i.mydramalist.com/RBYKW6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RBYKW6_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "King of Food Episode 1",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "King of Food Episode 2",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "King of Food Episode 3",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "King of Food Episode 4",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "King of Food Episode 5",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "King of Food Episode 6",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "King of Food Episode 7",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "King of Food Episode 8",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "King of Food Episode 9",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "King of Food Episode 10",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "King of Food Episode 11",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "King of Food Episode 12",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "King of Food Episode 13",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "King of Food Episode 14",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "King of Food Episode 15",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "King of Food Episode 16",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/16",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "King of Food Episode 17",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/17",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "King of Food Episode 18",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/18",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "King of Food Episode 19",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/19",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "King of Food Episode 20",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/20",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "King of Food Episode 21",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/21",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "King of Food Episode 22",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/22",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "King of Food Episode 23",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/23",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "King of Food Episode 24",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/24",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "King of Food Episode 25",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/25",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "King of Food Episode 26",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/26",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "King of Food Episode 27",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/27",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "King of Food Episode 28",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/28",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 29,
+        "title": "King of Food Episode 29",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/29",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 30,
+        "title": "King of Food Episode 30",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/30",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 31,
+        "title": "King of Food Episode 31",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/31",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 32,
+        "title": "King of Food Episode 32",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/32",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 33,
+        "title": "King of Food Episode 33",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/33",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 34,
+        "title": "King of Food Episode 34",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/34",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 35,
+        "title": "King of Food Episode 35",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/35",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 36,
+        "title": "King of Food Episode 36",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/36",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 37,
+        "title": "King of Food Episode 37",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/37",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 38,
+        "title": "King of Food Episode 38",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/38",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 39,
+        "title": "King of Food Episode 39",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/39",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 40,
+        "title": "King of Food Episode 40",
+        "url": "https://mydramalist.com/51835-king-of-food/episode/40",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Rr06Em.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:39:51.218Z"
+  },
+  {
+    "id": 60015,
+    "slug": "60015-amen",
+    "url": "https://mydramalist.com/60015-amen",
+    "title": "Amen",
+    "complete_title": "Amen (1998)",
+    "native_title": "Amen",
+    "sub_title": "Amen ‧ Movie ‧ 1998",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Philippines",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "15 min.",
+    "duration_minutes": 15,
+    "content_rating": "Not Yet Rated",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "A man goes on a thanking spree. (Source: IMDb) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/0A55ec.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/0A55ec.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/0A55ec.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/0A55ec.jpg",
+        "title": "Amen (1998) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/0A55es.jpg",
+        "hd_url": "https://i.mydramalist.com/0A55es.jpg",
+        "title": "Amen Philippines Movie(1998) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/0A55em.jpg",
+        "hd_url": "https://i.mydramalist.com/0A55em.jpg",
+        "title": "Amen (1998)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Khavn de la Cruz",
+          "slug": "people/42181-khavn-de-la-cruz",
+          "url": "https://mydramalist.com/people/42181-khavn-de-la-cruz",
+          "image_url": "https://i.mydramalist.com/nO7KjW_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nO7KjW_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T18:39:57.900Z"
+  },
+  {
+    "id": 64875,
+    "slug": "64875-the-lord-of-hangzhou",
+    "url": "https://mydramalist.com/64875-the-lord-of-hangzhou",
+    "title": "The Lord of Hangzhou",
+    "complete_title": "The Lord of Hangzhou (1998)",
+    "native_title": "杭州王爺",
+    "sub_title": "杭州王爺 ‧ Movie ‧ 1998",
+    "also_known_as": [
+      "Hang Zhou Wang Ye , Hangzhou Lord"
+    ],
+    "type": "Movie",
+    "country": "Hong Kong",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "The series revolves around the chronicle of Emperor Qianlong's many secret tours to Southern China, and the friendship he developed with Miqi, a big spender from a wealthy family. Their relationship laid the background for what was to follow, as Miqi subsequently headed to the Capital City after losing all his fortunes... ~~ Based on a popular folklore from ancient China. English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/4jDD1_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/4jDD1_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/4jDD1_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/4jDD1_4f.jpg",
+        "title": "The Lord of Hangzhou (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Waise Lee",
+          "slug": "people/5136-lee-waise",
+          "url": "https://mydramalist.com/people/5136-lee-waise",
+          "image_url": "https://i.mydramalist.com/ABAm1g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABAm1g_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Power Chan",
+          "slug": "people/2590-chan-power",
+          "url": "https://mydramalist.com/people/2590-chan-power",
+          "image_url": "https://i.mydramalist.com/JBej7y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBej7y_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Gong Bei Bi",
+          "slug": "people/8276-gong-beibi",
+          "url": "https://mydramalist.com/people/8276-gong-beibi",
+          "image_url": "https://i.mydramalist.com/1xrnz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1xrnz_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Gardner Tse",
+          "slug": "people/6946-tse-gardner",
+          "url": "https://mydramalist.com/people/6946-tse-gardner",
+          "image_url": "https://i.mydramalist.com/QJ8BEQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJ8BEQ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Tony Leung",
+          "slug": "people/60081-tony-leung",
+          "url": "https://mydramalist.com/people/60081-tony-leung",
+          "image_url": "https://i.mydramalist.com/pRegy_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pRegy_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Peter Ngor",
+          "slug": "people/72005-peter-ngor",
+          "url": "https://mydramalist.com/people/72005-peter-ngor",
+          "image_url": "https://i.mydramalist.com/BEwEq_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BEwEq_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Ma Chung Yiu",
+          "slug": "people/70633-ma-chung-yiu",
+          "url": "https://mydramalist.com/people/70633-ma-chung-yiu",
+          "image_url": "https://i.mydramalist.com/B4oQV_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B4oQV_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T18:40:03.338Z"
+  },
+  {
+    "id": 74883,
+    "slug": "74883-tricky-king",
+    "url": "https://mydramalist.com/74883-tricky-king",
+    "title": "Tricky King",
+    "complete_title": "Tricky King (1998)",
+    "native_title": "超級整蠱霸王",
+    "sub_title": "超級整蠱霸王 ‧ Movie ‧ 1998",
+    "also_known_as": [
+      "Chao ji zheng gu ba wang"
+    ],
+    "type": "Movie",
+    "country": "Hong Kong",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 31 min.",
+    "duration_minutes": 91,
+    "content_rating": "15+ - Teens 15 or older",
+    "rating": 6.09,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 9,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Gambling",
+        "id": "952"
+      }
+    ],
+    "synopsis": "The third in the 'Tricky' series of films, Tricky King is another bonkers mix of bizarre slapstick comedy, speeded up chases, silly sound effects and practical-jokery from producer Wong Jing. Eric Kot stars as Ohmygod, a bumbling nice-guy who joins a gang of professional 'tricksters' who are employed by the son of a rich businessman to trick his half-sister. (IMDB) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/j34mJ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/j34mJ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/j34mJ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/j34mJ_4f.jpg",
+        "title": "Tricky King (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Eric Kot",
+          "slug": "people/5210-kot-eric",
+          "url": "https://mydramalist.com/people/5210-kot-eric",
+          "image_url": "https://i.mydramalist.com/GQ4yQs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/GQ4yQs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Natalis Chan",
+          "slug": "people/5034-chan-natalis",
+          "url": "https://mydramalist.com/people/5034-chan-natalis",
+          "image_url": "https://i.mydramalist.com/n0N5xs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/n0N5xs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Athena Chu",
+          "slug": "people/2365-chu-athena",
+          "url": "https://mydramalist.com/people/2365-chu-athena",
+          "image_url": "https://i.mydramalist.com/jpj6w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jpj6w_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Sherming Yiu",
+          "slug": "people/10088-yiu-sherming",
+          "url": "https://mydramalist.com/people/10088-yiu-sherming",
+          "image_url": "https://i.mydramalist.com/YAW5gs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YAW5gs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lo Meng",
+          "slug": "people/9387-law-johnson",
+          "url": "https://mydramalist.com/people/9387-law-johnson",
+          "image_url": "https://i.mydramalist.com/rnbQj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rnbQj_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Frankie Ng",
+          "slug": "people/14798-ng-chi-hung",
+          "url": "https://mydramalist.com/people/14798-ng-chi-hung",
+          "image_url": "https://i.mydramalist.com/1WXrK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1WXrK_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Celine Ma",
+          "slug": "people/7450-ma-celine",
+          "url": "https://mydramalist.com/people/7450-ma-celine",
+          "image_url": "https://i.mydramalist.com/LwQ2L5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/LwQ2L5_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lee Siu Kei",
+          "slug": "people/9911-lee-siu-kei",
+          "url": "https://mydramalist.com/people/9911-lee-siu-kei",
+          "image_url": "https://i.mydramalist.com/4wvDws.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4wvDws.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Simon Lui",
+          "slug": "people/9916-lui-simon",
+          "url": "https://mydramalist.com/people/9916-lui-simon",
+          "image_url": "https://i.mydramalist.com/4g8K6s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4g8K6s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Pinky Cheung",
+          "slug": "people/5181-cheung-pinky",
+          "url": "https://mydramalist.com/people/5181-cheung-pinky",
+          "image_url": "https://i.mydramalist.com/9OjJLs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/9OjJLs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lee Ann",
+          "slug": "people/164756-lee-ann",
+          "url": "https://mydramalist.com/people/164756-lee-ann",
+          "image_url": "https://i.mydramalist.com/81lAkb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81lAkb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mark Lui",
+          "slug": "people/83833-mark-lui",
+          "url": "https://mydramalist.com/people/83833-mark-lui",
+          "image_url": "https://i.mydramalist.com/eqPdq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eqPdq_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Chang Gan Wing",
+          "slug": "people/88607-chang-gan-wing",
+          "url": "https://mydramalist.com/people/88607-chang-gan-wing",
+          "image_url": "https://i.mydramalist.com/jBpb8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jBpb8_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Lee Fung",
+          "slug": "people/74803-lee-fung",
+          "url": "https://mydramalist.com/people/74803-lee-fung",
+          "image_url": "https://i.mydramalist.com/4EY66_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4EY66_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Aman Chang",
+          "slug": "people/73023-aman-chang",
+          "url": "https://mydramalist.com/people/73023-aman-chang",
+          "image_url": "https://i.mydramalist.com/2P0xV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2P0xV_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Raymond Kwok",
+          "slug": "people/66491-raymond-kwok",
+          "url": "https://mydramalist.com/people/66491-raymond-kwok",
+          "image_url": "https://i.mydramalist.com/x17rX_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x17rX_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Kwok Man Ki",
+          "slug": "people/88101-kwok-man-ki",
+          "url": "https://mydramalist.com/people/88101-kwok-man-ki",
+          "image_url": "https://i.mydramalist.com/XVRQx_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XVRQx_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Wong Jing",
+          "slug": "people/17832-wong-jing",
+          "url": "https://mydramalist.com/people/17832-wong-jing",
+          "image_url": "https://i.mydramalist.com/Px8RVy_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Px8RVy_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Aman Chang",
+          "slug": "people/73023-aman-chang",
+          "url": "https://mydramalist.com/people/73023-aman-chang",
+          "image_url": "https://i.mydramalist.com/2P0xV_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2P0xV_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Shing Fuk Ying",
+          "slug": "people/81827-shing-fuk-ying",
+          "url": "https://mydramalist.com/people/81827-shing-fuk-ying",
+          "image_url": "https://i.mydramalist.com/1Vn16_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1Vn16_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Cheung Ka Fai",
+          "slug": "people/72653-cheung-ka-fai",
+          "url": "https://mydramalist.com/people/72653-cheung-ka-fai",
+          "image_url": "https://i.mydramalist.com/0gV5N_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0gV5N_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Chu Wai Fong",
+          "slug": "people/114107-chu-wai-fong",
+          "url": "https://mydramalist.com/people/114107-chu-wai-fong",
+          "image_url": "https://i.mydramalist.com/EA6w5_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EA6w5_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T18:40:08.875Z"
+  },
+  {
+    "id": 74887,
+    "slug": "74887-magnificent-team",
+    "url": "https://mydramalist.com/74887-magnificent-team",
+    "title": "Magnificent Team",
+    "complete_title": "Magnificent Team (1998)",
+    "native_title": "非常警察",
+    "sub_title": "非常警察 ‧ Movie ‧ 1998",
+    "also_known_as": [
+      "Fei Chang Jing Cha"
+    ],
+    "type": "Movie",
+    "country": "Hong Kong",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 32 min.",
+    "duration_minutes": 92,
+    "content_rating": "15+ - Teens 15 or older",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Crime",
+        "id": "21"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Physically Strong Female Lead",
+        "id": "28597"
+      },
+      {
+        "name": "Police Officer Male Lead",
+        "id": "19429"
+      },
+      {
+        "name": "Organized Crime",
+        "id": "2606"
+      },
+      {
+        "name": "Triad",
+        "id": "1625"
+      },
+      {
+        "name": "Mafia",
+        "id": "1158"
+      },
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      }
+    ],
+    "synopsis": "The story about a special police team set up to wipe out crime in Hong Kong, especially from a gang of brutal robbers. (Source: IMDb) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/WeBZX_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/WeBZX_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/WeBZX_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/WeBZX_4f.jpg",
+        "title": "Magnificent Team (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Francis Ng",
+          "slug": "people/3693-ng-francis",
+          "url": "https://mydramalist.com/people/3693-ng-francis",
+          "image_url": "https://i.mydramalist.com/YYWJqB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYWJqB_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Christine Ng",
+          "slug": "people/1358-ng-christine",
+          "url": "https://mydramalist.com/people/1358-ng-christine",
+          "image_url": "https://i.mydramalist.com/8Q0b5W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/8Q0b5W_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Karen Tong",
+          "slug": "people/9071-tong-karen",
+          "url": "https://mydramalist.com/people/9071-tong-karen",
+          "image_url": "https://i.mydramalist.com/BBmAAs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BBmAAs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Simon Lui",
+          "slug": "people/9916-lui-simon",
+          "url": "https://mydramalist.com/people/9916-lui-simon",
+          "image_url": "https://i.mydramalist.com/4g8K6s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4g8K6s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lo Meng",
+          "slug": "people/9387-law-johnson",
+          "url": "https://mydramalist.com/people/9387-law-johnson",
+          "image_url": "https://i.mydramalist.com/rnbQj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rnbQj_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Conroy Chan",
+          "slug": "people/35459-conroy-chan",
+          "url": "https://mydramalist.com/people/35459-conroy-chan",
+          "image_url": "https://i.mydramalist.com/WrA8Ds.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WrA8Ds.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Stephen Ho",
+          "slug": "people/17984-stephen-ho",
+          "url": "https://mydramalist.com/people/17984-stephen-ho",
+          "image_url": "https://i.mydramalist.com/YYjEZA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYjEZA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Amanda Lee",
+          "slug": "people/77137-amanda-lee",
+          "url": "https://mydramalist.com/people/77137-amanda-lee",
+          "image_url": "https://i.mydramalist.com/XkrbJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XkrbJ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Benz Hui",
+          "slug": "people/4378-hui-benz",
+          "url": "https://mydramalist.com/people/4378-hui-benz",
+          "image_url": "https://i.mydramalist.com/mOLwdP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mOLwdP_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Chan Siu Wah",
+          "slug": "people/76497-chan-siu-wah",
+          "url": "https://mydramalist.com/people/76497-chan-siu-wah",
+          "image_url": "https://i.mydramalist.com/JByrDo_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JByrDo_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Joe Chu",
+          "slug": "people/74233-joe-chu",
+          "url": "https://mydramalist.com/people/74233-joe-chu",
+          "image_url": "https://i.mydramalist.com/e1gdK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e1gdK_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Ling Chi Hung",
+          "slug": "people/71589-ling-chi-hung",
+          "url": "https://mydramalist.com/people/71589-ling-chi-hung",
+          "image_url": "https://i.mydramalist.com/kDkog_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kDkog_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Paco Yick",
+          "slug": "people/63121-paco-yick",
+          "url": "https://mydramalist.com/people/63121-paco-yick",
+          "image_url": "https://i.mydramalist.com/1ABmb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1ABmb_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Law Wai Kai",
+          "slug": "people/105093-law-wai-kai",
+          "url": "https://mydramalist.com/people/105093-law-wai-kai",
+          "image_url": "https://i.mydramalist.com/WPAXXX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WPAXXX_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Nelson Cheung",
+          "slug": "people/85539-nelson-cheung",
+          "url": "https://mydramalist.com/people/85539-nelson-cheung",
+          "image_url": "https://i.mydramalist.com/rJmQg_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rJmQg_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Chin Ka Lok",
+          "slug": "people/4093-chin-kar-lok",
+          "url": "https://mydramalist.com/people/4093-chin-kar-lok",
+          "image_url": "https://i.mydramalist.com/DkBblz_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/DkBblz_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Poon Hung",
+          "slug": "people/58901-poon-hung",
+          "url": "https://mydramalist.com/people/58901-poon-hung",
+          "image_url": "https://i.mydramalist.com/1Z0xy_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1Z0xy_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Chu Wai Fong",
+          "slug": "people/114107-chu-wai-fong",
+          "url": "https://mydramalist.com/people/114107-chu-wai-fong",
+          "image_url": "https://i.mydramalist.com/EA6w5_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EA6w5_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Raymond Wong",
+          "slug": "people/12050-wong-raymond",
+          "url": "https://mydramalist.com/people/12050-wong-raymond",
+          "image_url": "https://i.mydramalist.com/ym7PNm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ym7PNm.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Ng Kwok Wah",
+          "slug": "people/84103-ng-kwok-wah",
+          "url": "https://mydramalist.com/people/84103-ng-kwok-wah",
+          "image_url": "https://i.mydramalist.com/2Wl7E_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2Wl7E_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Paco Yick",
+          "slug": "people/63121-paco-yick",
+          "url": "https://mydramalist.com/people/63121-paco-yick",
+          "image_url": "https://i.mydramalist.com/1ABmb_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1ABmb_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Nelson Cheung",
+          "slug": "people/85539-nelson-cheung",
+          "url": "https://mydramalist.com/people/85539-nelson-cheung",
+          "image_url": "https://i.mydramalist.com/rJmQg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rJmQg_5f.jpg",
+          "role_type": "Bit part"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T18:40:14.396Z"
+  },
+  {
+    "id": 693609,
+    "slug": "693609-aruhitotsuzen-ni-kimi-ni-ijime-wa-niawanai",
+    "url": "https://mydramalist.com/693609-aruhitotsuzen-ni-kimi-ni-ijime-wa-niawanai",
+    "title": "Aruhitotsuzen ni… Kimi ni `Ijime' wa Niawanai",
+    "complete_title": "Aruhitotsuzen ni… Kimi ni `Ijime' wa Niawanai (1998)",
+    "native_title": "ある日突然に…君に「いじめ」は似合わない",
+    "sub_title": "ある日突然に…君に「いじめ」は似合わない ‧ Movie ‧ 1998",
+    "also_known_as": [
+      "Suddenly One Day ... \"Bullying\" Doesn't Suit You"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 18 min.",
+    "duration_minutes": 78,
+    "content_rating": "G - All Ages",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Youth",
+        "id": "24"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Student Male Lead",
+        "id": "24955"
+      },
+      {
+        "name": "School Setting",
+        "id": "24877"
+      },
+      {
+        "name": "School Violence",
+        "id": "8505"
+      },
+      {
+        "name": "Scapegoat Male Lead",
+        "id": "7735"
+      },
+      {
+        "name": "Supportive Parent",
+        "id": "4909"
+      },
+      {
+        "name": "Family Relationship",
+        "id": "1470"
+      },
+      {
+        "name": "Violence",
+        "id": "336"
+      },
+      {
+        "name": "School Bullying",
+        "id": "135"
+      }
+    ],
+    "synopsis": "The story of Takuya who witnesses school violence. Soon he becomes victim himself. The film is about the inefficiency of the education system and parents who, despite their sincere intentions, cannot help their children. English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/qR0e2_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/qR0e2_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/qR0e2_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/qR0e2_4f.jpg",
+        "title": "Aruhitotsuzen ni… Kimi ni `Ijime' wa Niawanai (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Yamashita Shinji",
+          "slug": "people/9447-yamashita-shinji",
+          "url": "https://mydramalist.com/people/9447-yamashita-shinji",
+          "image_url": "https://i.mydramalist.com/LwPXdg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/LwPXdg_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Hagio Midori",
+          "slug": "people/3355-hagio-midori",
+          "url": "https://mydramalist.com/people/3355-hagio-midori",
+          "image_url": "https://i.mydramalist.com/0V7JK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0V7JK_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Isohata Hayato",
+          "slug": "people/56575-isohata-hayato",
+          "url": "https://mydramalist.com/people/56575-isohata-hayato",
+          "image_url": "https://i.mydramalist.com/B5mol_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B5mol_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hayashi Hiroko",
+          "slug": "people/61487-hayashi-hiroko",
+          "url": "https://mydramalist.com/people/61487-hayashi-hiroko",
+          "image_url": "https://i.mydramalist.com/rQe5g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rQe5g_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zushi Takao",
+          "slug": "people/61793-zushi-takao",
+          "url": "https://mydramalist.com/people/61793-zushi-takao",
+          "image_url": "https://i.mydramalist.com/qEwqD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qEwqD_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sendo Akiho",
+          "slug": "people/1026-sendo-akiho",
+          "url": "https://mydramalist.com/people/1026-sendo-akiho",
+          "image_url": "https://i.mydramalist.com/MXd0ws.jpg",
+          "image_hd_url": "https://i.mydramalist.com/MXd0ws.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Morita Kensaku",
+          "slug": "people/63667-morita-kensaku",
+          "url": "https://mydramalist.com/people/63667-morita-kensaku",
+          "image_url": "https://i.mydramalist.com/pAoYe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pAoYe_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Arai Yasuhiro",
+          "slug": "people/27105-arai-yasuhiro",
+          "url": "https://mydramalist.com/people/27105-arai-yasuhiro",
+          "image_url": "https://i.mydramalist.com/xOLz3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xOLz3_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mitamura Kenji",
+          "slug": "people/33899-mitamura-kenji",
+          "url": "https://mydramalist.com/people/33899-mitamura-kenji",
+          "image_url": "https://i.mydramalist.com/plrOr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/plrOr_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-20T18:40:20.401Z"
+  },
+  {
+    "id": 695543,
+    "slug": "695543-dab-jed-see-manee-jed-saen",
+    "url": "https://mydramalist.com/695543-dab-jed-see-manee-jed-saen",
+    "title": "Dab Jed See Manee Jed Saen",
+    "complete_title": "Dab Jed See Manee Jed Saen (1998)",
+    "native_title": "ดาบเจ็ดสี มณีเจ็ดแสง",
+    "sub_title": "ดาบเจ็ดสี มณีเจ็ดแสง ‧ Drama ‧ 1998",
+    "also_known_as": [
+      "ดาบเจ็ดสีมณีเจ็ดแสง"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.01,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 10,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Boran",
+        "id": "1862"
+      },
+      {
+        "name": "Adapted From Folklore",
+        "id": "2488"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/2BnbV_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2BnbV_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2BnbV_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2BnbV_4f.jpg",
+        "title": "Dab Jed See Manee Jed Saen (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Dap Jet Si Mani Jet Saeng",
+        "slug": "77985-dab-jed-see-manee-jed-saen",
+        "url": "https://mydramalist.com/77985-dab-jed-see-manee-jed-saen",
+        "relation": "Thai adaptation"
+      },
+      {
+        "title": "Dab Jet See",
+        "slug": "758519-dab-jet-see",
+        "url": "https://mydramalist.com/758519-dab-jet-see",
+        "relation": "Thai adaptation"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Tik Chatmongkol Bumpen",
+          "slug": "people/36009-tik-chatmongkol-bumpen",
+          "url": "https://mydramalist.com/people/36009-tik-chatmongkol-bumpen",
+          "image_url": "https://i.mydramalist.com/e31zEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e31zEs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Nueng Malys Choeysobhon",
+          "slug": "people/67723-malys-choeysobhon",
+          "url": "https://mydramalist.com/people/67723-malys-choeysobhon",
+          "image_url": "https://i.mydramalist.com/qDPLP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qDPLP_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Dab Jed See Manee Jed Saen Episode 1",
+        "url": "https://mydramalist.com/695543-dab-jed-see-manee-jed-saen/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/2BnbV_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/2BnbV_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:40:26.122Z"
+  },
+  {
+    "id": 702815,
+    "slug": "702815-suraphol-kon-jing-sombatcharoen",
+    "url": "https://mydramalist.com/702815-suraphol-kon-jing-sombatcharoen",
+    "title": "Suraphol Kon Jing Sombatcharoen",
+    "complete_title": "Suraphol Kon Jing Sombatcharoen (1998)",
+    "native_title": "สุรพลคนจริงสมบัติเจริญ",
+    "sub_title": "สุรพลคนจริงสมบัติเจริญ ‧ Drama ‧ 1998",
+    "also_known_as": [
+      "สุรพล คนจริง สมบัติเจริญ , สุรพล(คนจริง)สมบัติเจริญ"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [],
+    "original_network": "Channel 3",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Musician Female Lead",
+        "id": "19501"
+      },
+      {
+        "name": "Singer Female Lead",
+        "id": "19423"
+      },
+      {
+        "name": "1950s",
+        "id": "1547"
+      },
+      {
+        "name": "Singing",
+        "id": "1343"
+      },
+      {
+        "name": "Based On A True Story",
+        "id": "113"
+      }
+    ],
+    "synopsis": "Based on the life story of Suraphol Sombatcharoen, a Thai luk thung singer dubbed the \"King of Luk Thung\". (Source: MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/pZ1ny_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pZ1ny_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pZ1ny_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pZ1ny_4f.jpg",
+        "title": "Suraphol Kon Jing Sombatcharoen (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Chadaporn Rattanakorn",
+          "slug": "people/17978-chadaporn-rattanakorn",
+          "url": "https://mydramalist.com/people/17978-chadaporn-rattanakorn",
+          "image_url": "https://i.mydramalist.com/Q5N4Ws.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Q5N4Ws.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Oui Sutita Gatetanon",
+          "slug": "people/25135-oui-sutita-gatetanon",
+          "url": "https://mydramalist.com/people/25135-oui-sutita-gatetanon",
+          "image_url": "https://i.mydramalist.com/WQYjWs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WQYjWs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mek Winai Kraibutr",
+          "slug": "people/7179-winai-kraibutr",
+          "url": "https://mydramalist.com/people/7179-winai-kraibutr",
+          "image_url": "https://i.mydramalist.com/E5Zq5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E5Zq5s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mu Pimpaka Siangsomboon",
+          "slug": "people/19676-pimpaka-siangsomboon",
+          "url": "https://mydramalist.com/people/19676-pimpaka-siangsomboon",
+          "image_url": "https://i.mydramalist.com/kk2vds.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kk2vds.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Poonsawat Teemakorn",
+          "slug": "people/73501-poonsawat-teemakorn",
+          "url": "https://mydramalist.com/people/73501-poonsawat-teemakorn",
+          "image_url": "https://i.mydramalist.com/BEXBb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BEXBb_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Iang Sawanee Navinthananchai",
+          "slug": "people/38121-sawanee-utoomma",
+          "url": "https://mydramalist.com/people/38121-sawanee-utoomma",
+          "image_url": "https://i.mydramalist.com/4LBpr_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4LBpr_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Suraphol Kon Jing Sombatcharoen Episode 1",
+        "url": "https://mydramalist.com/702815-suraphol-kon-jing-sombatcharoen/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZ1ny_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZ1ny_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:40:33.257Z"
+  },
+  {
+    "id": 703681,
+    "slug": "703681-chuan-fun-panan-rak",
+    "url": "https://mydramalist.com/703681-chuan-fun-panan-rak",
+    "title": "Chuan Fun Panan Rak",
+    "complete_title": "Chuan Fun Panan Rak (1998)",
+    "native_title": "ชวนฝันพนันรัก",
+    "sub_title": "ชวนฝันพนันรัก ‧ Drama ‧ 1998",
+    "also_known_as": [],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "original_network": "Channel 7",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Clumsy Female Lead",
+        "id": "2407"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/qv4r5_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/qv4r5_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/qv4r5_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/qv4r5_4f.jpg",
+        "title": "Chuan Fun Panan Rak (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Aum Patchrapa Chaichua",
+          "slug": "people/7130-chaichua-patcharapa",
+          "url": "https://mydramalist.com/people/7130-chaichua-patcharapa",
+          "image_url": "https://i.mydramalist.com/rNeR7y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rNeR7y_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Ek Egkarat Sarasook",
+          "slug": "people/9483-sarasook-egkarat",
+          "url": "https://mydramalist.com/people/9483-sarasook-egkarat",
+          "image_url": "https://i.mydramalist.com/BBzeVs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BBzeVs.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Anchalee Chaisiri",
+          "slug": "people/21086-anchalee-chaisiri",
+          "url": "https://mydramalist.com/people/21086-anchalee-chaisiri",
+          "image_url": "https://i.mydramalist.com/rqewEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rqewEs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tum Rossarin Jantra",
+          "slug": "people/23378-rossarin-jantra",
+          "url": "https://mydramalist.com/people/23378-rossarin-jantra",
+          "image_url": "https://i.mydramalist.com/kJNbbs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kJNbbs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Nongnut Chawala",
+          "slug": "people/80421-nongnut-chawala",
+          "url": "https://mydramalist.com/people/80421-nongnut-chawala",
+          "image_url": "https://i.mydramalist.com/j63ZJ_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/j63ZJ_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Kitti Akaraseranee",
+          "slug": "people/91205-kitti-akaraseranee",
+          "url": "https://mydramalist.com/people/91205-kitti-akaraseranee",
+          "image_url": "https://i.mydramalist.com/W4RDD_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W4RDD_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Chuan Fun Panan Rak Episode 1",
+        "url": "https://mydramalist.com/703681-chuan-fun-panan-rak/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/qv4r5_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/qv4r5_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:40:39.616Z"
+  },
+  {
+    "id": 705199,
+    "slug": "705199-maprang-khang-rua",
+    "url": "https://mydramalist.com/705199-maprang-khang-rua",
+    "title": "Maprang Khang Rua",
+    "complete_title": "Maprang Khang Rua (1998)",
+    "native_title": "มะปรางข้างรั้ว",
+    "sub_title": "มะปรางข้างรั้ว ‧ Drama ‧ 1998",
+    "also_known_as": [],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Channel 7",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Countryside Setting",
+        "id": "21951"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/e1Kze_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/e1Kze_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/e1Kze_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/e1Kze_4f.jpg",
+        "title": "Maprang Khang Rua (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Rung Rattatammanoon Srirerk",
+          "slug": "people/26711-rung-rattatammanoon-srirerk",
+          "url": "https://mydramalist.com/people/26711-rung-rattatammanoon-srirerk",
+          "image_url": "https://i.mydramalist.com/jXljBs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jXljBs.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Atchara Thongthep",
+          "slug": "people/24023-atchara-thongthep",
+          "url": "https://mydramalist.com/people/24023-atchara-thongthep",
+          "image_url": "https://i.mydramalist.com/xm8Nzs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xm8Nzs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Toom Chalit Fuengarom",
+          "slug": "people/12956-fuengarom-chalet",
+          "url": "https://mydramalist.com/people/12956-fuengarom-chalet",
+          "image_url": "https://i.mydramalist.com/NBZdEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NBZdEs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Thongchai Prasongsanti",
+          "slug": "people/19718-thongchai-prasonsanti",
+          "url": "https://mydramalist.com/people/19718-thongchai-prasonsanti",
+          "image_url": "https://i.mydramalist.com/BqAVRs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BqAVRs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Kitti Akaraseranee",
+          "slug": "people/91205-kitti-akaraseranee",
+          "url": "https://mydramalist.com/people/91205-kitti-akaraseranee",
+          "image_url": "https://i.mydramalist.com/W4RDD_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W4RDD_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Maprang Khang Rua Episode 1",
+        "url": "https://mydramalist.com/705199-maprang-khang-rua/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/e1Kze_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/e1Kze_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:40:46.230Z"
+  },
+  {
+    "id": 705207,
+    "slug": "705207-muay-ja",
+    "url": "https://mydramalist.com/705207-muay-ja",
+    "title": "Muay Ja",
+    "complete_title": "Muay Ja (1998)",
+    "native_title": "ม่วยจ๋า",
+    "sub_title": "ม่วยจ๋า ‧ Drama ‧ 1998",
+    "also_known_as": [],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Channel 7",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XQXAq_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XQXAq_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XQXAq_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XQXAq_4f.jpg",
+        "title": "Muay Ja (1998) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/2VElW_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/2VElW_3f.jpg",
+        "title": "Muay Ja Thai Drama photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Oom Sakaojai Poonsawatd",
+          "slug": "people/15240-poolsawad-sakaojai",
+          "url": "https://mydramalist.com/people/15240-poolsawad-sakaojai",
+          "image_url": "https://i.mydramalist.com/r6jrp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r6jrp_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Bie Swiss Petvisetsiri",
+          "slug": "people/8983-petvisetsiri-swiss",
+          "url": "https://mydramalist.com/people/8983-petvisetsiri-swiss",
+          "image_url": "https://i.mydramalist.com/YYWO5A_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYWO5A_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Bordin Duke",
+          "slug": "people/24501-bordin-duke",
+          "url": "https://mydramalist.com/people/24501-bordin-duke",
+          "image_url": "https://i.mydramalist.com/vOVjXs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vOVjXs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Pu Piyamas Monayakol",
+          "slug": "people/26111-piyamas-monayakol",
+          "url": "https://mydramalist.com/people/26111-piyamas-monayakol",
+          "image_url": "https://i.mydramalist.com/NdzqmJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdzqmJ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Kitti Akaraseranee",
+          "slug": "people/91205-kitti-akaraseranee",
+          "url": "https://mydramalist.com/people/91205-kitti-akaraseranee",
+          "image_url": "https://i.mydramalist.com/W4RDD_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W4RDD_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Tik Shiro",
+          "slug": "people/109995-tik-shiro",
+          "url": "https://mydramalist.com/people/109995-tik-shiro",
+          "image_url": "https://i.mydramalist.com/dEq3z_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dEq3z_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Muay Ja Episode 1",
+        "url": "https://mydramalist.com/705207-muay-ja/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XQXAq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XQXAq_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:40:53.222Z"
+  },
+  {
+    "id": 705209,
+    "slug": "705209-4-poo-yung-hay-ying",
+    "url": "https://mydramalist.com/705209-4-poo-yung-hay-ying",
+    "title": "4 Poo Yung Hay Ying",
+    "complete_title": "4 Poo Yung Hay Ying (1998)",
+    "native_title": "4 ผู้ยุ่งเหยิง",
+    "sub_title": "4 ผู้ยุ่งเหยิง ‧ Drama ‧ 1998",
+    "also_known_as": [
+      "See Poo Yung Hay Ying"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Channel 7",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/v18vg_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/v18vg_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/v18vg_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/v18vg_4f.jpg",
+        "title": "4 Poo Yung Hay Ying (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Oh Warut Woratam",
+          "slug": "people/13006-woratam-warut",
+          "url": "https://mydramalist.com/people/13006-woratam-warut",
+          "image_url": "https://i.mydramalist.com/g4dx1s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g4dx1s.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Aom Pratamaporn Rattanapakdee",
+          "slug": "people/15570-rattanapakdee-pratamaporn",
+          "url": "https://mydramalist.com/people/15570-rattanapakdee-pratamaporn",
+          "image_url": "https://i.mydramalist.com/oV3LEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oV3LEs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Atchara Thongthep",
+          "slug": "people/24023-atchara-thongthep",
+          "url": "https://mydramalist.com/people/24023-atchara-thongthep",
+          "image_url": "https://i.mydramalist.com/xm8Nzs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xm8Nzs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Anchalee Chaisiri",
+          "slug": "people/21086-anchalee-chaisiri",
+          "url": "https://mydramalist.com/people/21086-anchalee-chaisiri",
+          "image_url": "https://i.mydramalist.com/rqewEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rqewEs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tum Rossarin Jantra",
+          "slug": "people/23378-rossarin-jantra",
+          "url": "https://mydramalist.com/people/23378-rossarin-jantra",
+          "image_url": "https://i.mydramalist.com/kJNbbs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kJNbbs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ple Venus Meewan",
+          "slug": "people/93481-ple-venus-meewan",
+          "url": "https://mydramalist.com/people/93481-ple-venus-meewan",
+          "image_url": "https://i.mydramalist.com/QOQ4Q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QOQ4Q_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Kitti Akaraseranee",
+          "slug": "people/91205-kitti-akaraseranee",
+          "url": "https://mydramalist.com/people/91205-kitti-akaraseranee",
+          "image_url": "https://i.mydramalist.com/W4RDD_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W4RDD_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "4 Poo Yung Hay Ying Episode 1",
+        "url": "https://mydramalist.com/705209-4-poo-yung-hay-ying/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v18vg_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v18vg_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:40:59.662Z"
+  },
+  {
+    "id": 705219,
+    "slug": "705219-poo-muard-pok-paek",
+    "url": "https://mydramalist.com/705219-poo-muard-pok-paek",
+    "title": "Poo Muard Pok Paek",
+    "complete_title": "Poo Muard Pok Paek (1998)",
+    "native_title": "ผู้หมวดป๊อกแป๊ก",
+    "sub_title": "ผู้หมวดป๊อกแป๊ก ‧ Drama ‧ 1998",
+    "also_known_as": [],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Channel 7",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XQXKJ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XQXKJ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XQXKJ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XQXKJ_4f.jpg",
+        "title": "Poo Muard Pok Paek (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Dodo Yutphichai Chanlakha",
+          "slug": "people/15370-charnlekha-yuthapichye",
+          "url": "https://mydramalist.com/people/15370-charnlekha-yuthapichye",
+          "image_url": "https://i.mydramalist.com/jW4NBs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jW4NBs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Chacha Altermatt",
+          "slug": "people/29701-chacha-altermatt",
+          "url": "https://mydramalist.com/people/29701-chacha-altermatt",
+          "image_url": "https://i.mydramalist.com/x2omqs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x2omqs.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Somkuan Krajangsas",
+          "slug": "people/28089-somkuan-krajangsas",
+          "url": "https://mydramalist.com/people/28089-somkuan-krajangsas",
+          "image_url": "https://i.mydramalist.com/0pR84s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0pR84s.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Poo Muard Pok Paek Episode 1",
+        "url": "https://mydramalist.com/705219-poo-muard-pok-paek/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XQXKJ_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XQXKJ_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:41:06.513Z"
+  },
+  {
+    "id": 705221,
+    "slug": "705221-teppabut-salam",
+    "url": "https://mydramalist.com/705221-teppabut-salam",
+    "title": "Teppabut Salam",
+    "complete_title": "Teppabut Salam (1998)",
+    "native_title": "เทพบุตรสลัม",
+    "sub_title": "เทพบุตรสลัม ‧ Drama ‧ 1998",
+    "also_known_as": [
+      "Slum Goddess"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Channel 7",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/rDj67_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/rDj67_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/rDj67_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/rDj67_4f.jpg",
+        "title": "Teppabut Salam (1998) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/4EBkK_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/4EBkK_4f.jpg",
+        "title": "Teppabut Salam Thai Drama photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "May Feungarom",
+          "slug": "people/8224-feungarom-may",
+          "url": "https://mydramalist.com/people/8224-feungarom-may",
+          "image_url": "https://i.mydramalist.com/Nd1dJs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Nd1dJs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Num Kanchai Kamnerdploy",
+          "slug": "people/9761-kumnerdploy-kunchai",
+          "url": "https://mydramalist.com/people/9761-kumnerdploy-kunchai",
+          "image_url": "https://i.mydramalist.com/d1oVb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d1oVb_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Earth Nuttanan Khunwat",
+          "slug": "people/15368-khunwat-nuttanan",
+          "url": "https://mydramalist.com/people/15368-khunwat-nuttanan",
+          "image_url": "https://i.mydramalist.com/rkxrZs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rkxrZs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jiggy Juthamat Janthasorn",
+          "slug": "people/26639-jiggy-juthamat-janthasorn",
+          "url": "https://mydramalist.com/people/26639-jiggy-juthamat-janthasorn",
+          "image_url": "https://i.mydramalist.com/engmWs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/engmWs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Pairoj Jaisingha",
+          "slug": "people/28021-pairoj-jaisingha",
+          "url": "https://mydramalist.com/people/28021-pairoj-jaisingha",
+          "image_url": "https://i.mydramalist.com/l0Q7zL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0Q7zL_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Anchalee Chaisiri",
+          "slug": "people/21086-anchalee-chaisiri",
+          "url": "https://mydramalist.com/people/21086-anchalee-chaisiri",
+          "image_url": "https://i.mydramalist.com/rqewEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rqewEs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Bua Tanyarat Lohanan",
+          "slug": "people/29489-tanyarat-lohanan",
+          "url": "https://mydramalist.com/people/29489-tanyarat-lohanan",
+          "image_url": "https://i.mydramalist.com/ElXl7s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ElXl7s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Aew Ampa Phusit",
+          "slug": "people/10054-phoosit-ampha",
+          "url": "https://mydramalist.com/people/10054-phoosit-ampha",
+          "image_url": "https://i.mydramalist.com/l0Yl3E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0Yl3E_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Kitti Akaraseranee",
+          "slug": "people/91205-kitti-akaraseranee",
+          "url": "https://mydramalist.com/people/91205-kitti-akaraseranee",
+          "image_url": "https://i.mydramalist.com/W4RDD_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W4RDD_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Teppabut Salam Episode 1",
+        "url": "https://mydramalist.com/705221-teppabut-salam/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/rDj67_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/rDj67_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:41:13.122Z"
+  },
+  {
+    "id": 705225,
+    "slug": "705225-kammathep-len-kol",
+    "url": "https://mydramalist.com/705225-kammathep-len-kol",
+    "title": "Kammathep Len Kol",
+    "complete_title": "Kammathep Len Kol (1998)",
+    "native_title": "กามเทพเล่นกล",
+    "sub_title": "กามเทพเล่นกล ‧ Drama ‧ 1998",
+    "also_known_as": [],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Channel 7",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Cross-Dressing",
+        "id": "126"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/k1RE8_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/k1RE8_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/k1RE8_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/k1RE8_4f.jpg",
+        "title": "Kammathep Len Kol (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Asadawut Luangsuntorn",
+          "slug": "people/22603-asadawut-luangsuntorn",
+          "url": "https://mydramalist.com/people/22603-asadawut-luangsuntorn",
+          "image_url": "https://i.mydramalist.com/qqxl5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qqxl5s.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Oil Sirima Aphirattanaphan",
+          "slug": "people/75699-oil-sirima-aphirattanaphan",
+          "url": "https://mydramalist.com/people/75699-oil-sirima-aphirattanaphan",
+          "image_url": "https://i.mydramalist.com/0XooO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0XooO_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Noom Surawut Maikun",
+          "slug": "people/22822-noom-surawut-maikun",
+          "url": "https://mydramalist.com/people/22822-noom-surawut-maikun",
+          "image_url": "https://i.mydramalist.com/ZyDLk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZyDLk_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Muay Supaporn Kumnuansilp",
+          "slug": "people/26453-suphaphon-khamnuansin",
+          "url": "https://mydramalist.com/people/26453-suphaphon-khamnuansin",
+          "image_url": "https://i.mydramalist.com/e5m7d_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e5m7d_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nok Sikrintarn Plaithuan",
+          "slug": "people/15106-plaithuan-sikrintarn",
+          "url": "https://mydramalist.com/people/15106-plaithuan-sikrintarn",
+          "image_url": "https://i.mydramalist.com/Zyp6k_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Zyp6k_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ae Pairot Sangwariboot",
+          "slug": "people/12942-sangwariboot-pairot",
+          "url": "https://mydramalist.com/people/12942-sangwariboot-pairot",
+          "image_url": "https://i.mydramalist.com/K7kZDs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/K7kZDs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Top Bin Bunluerit",
+          "slug": "people/25985-top-bin-bunluerit",
+          "url": "https://mydramalist.com/people/25985-top-bin-bunluerit",
+          "image_url": "https://i.mydramalist.com/Elkn5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Elkn5s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Orasa Isarangkul",
+          "slug": "people/24477-orasa-isarangkul",
+          "url": "https://mydramalist.com/people/24477-orasa-isarangkul",
+          "image_url": "https://i.mydramalist.com/pWmybs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pWmybs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Panatda Komaratat",
+          "slug": "people/20856-panatda-komaratat",
+          "url": "https://mydramalist.com/people/20856-panatda-komaratat",
+          "image_url": "https://i.mydramalist.com/Env1W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Env1W_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Kammathep Len Kol Episode 1",
+        "url": "https://mydramalist.com/705225-kammathep-len-kol/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1RE8_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1RE8_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:41:19.909Z"
+  },
+  {
+    "id": 705237,
+    "slug": "705237-majurat-ting-tong",
+    "url": "https://mydramalist.com/705237-majurat-ting-tong",
+    "title": "Majurat Ting Tong",
+    "complete_title": "Majurat Ting Tong (1998)",
+    "native_title": "มัจจุราชติงต๊อง",
+    "sub_title": "มัจจุราชติงต๊อง ‧ Drama ‧ 1998",
+    "also_known_as": [],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Channel 7",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/r170N_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/r170N_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/r170N_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/r170N_4f.jpg",
+        "title": "Majurat Ting Tong (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Rung Rattatammanoon Srirerk",
+          "slug": "people/26711-rung-rattatammanoon-srirerk",
+          "url": "https://mydramalist.com/people/26711-rung-rattatammanoon-srirerk",
+          "image_url": "https://i.mydramalist.com/jXljBs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jXljBs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Tik Kanyarat Jiraratchakit",
+          "slug": "people/9023-jirarachakij-kanyarat",
+          "url": "https://mydramalist.com/people/9023-jirarachakij-kanyarat",
+          "image_url": "https://i.mydramalist.com/DydpEy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/DydpEy_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "A Aanan Boonnak",
+          "slug": "people/19653-anan-bunnak",
+          "url": "https://mydramalist.com/people/19653-anan-bunnak",
+          "image_url": "https://i.mydramalist.com/PwYZRs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PwYZRs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Bua Tanyarat Lohanan",
+          "slug": "people/29489-tanyarat-lohanan",
+          "url": "https://mydramalist.com/people/29489-tanyarat-lohanan",
+          "image_url": "https://i.mydramalist.com/ElXl7s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ElXl7s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lek Phorjate Kanpetch",
+          "slug": "people/39411-lek-porjet-kenpet",
+          "url": "https://mydramalist.com/people/39411-lek-porjet-kenpet",
+          "image_url": "https://i.mydramalist.com/01VE7s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/01VE7s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Amara Asavananda",
+          "slug": "people/20852-amara-asavananda",
+          "url": "https://mydramalist.com/people/20852-amara-asavananda",
+          "image_url": "https://i.mydramalist.com/Rg3lx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rg3lx_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Muay Supaporn Kumnuansilp",
+          "slug": "people/26453-suphaphon-khamnuansin",
+          "url": "https://mydramalist.com/people/26453-suphaphon-khamnuansin",
+          "image_url": "https://i.mydramalist.com/e5m7d_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e5m7d_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Majurat Ting Tong Episode 1",
+        "url": "https://mydramalist.com/705237-majurat-ting-tong/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/r170N_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/r170N_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:41:27.764Z"
+  },
+  {
+    "id": 705327,
+    "slug": "705327-thep-niyai-nai-sanor",
+    "url": "https://mydramalist.com/705327-thep-niyai-nai-sanor",
+    "title": "Thep Niyai Nai Sanor",
+    "complete_title": "Thep Niyai Nai Sanor (1998)",
+    "native_title": "เทพนิยายนายเสนาะ",
+    "sub_title": "เทพนิยายนายเสนาะ ‧ Drama ‧ 1998",
+    "also_known_as": [],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [],
+    "original_network": "Channel 3",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/RO5WR_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RO5WR_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RO5WR_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RO5WR_4f.jpg",
+        "title": "Thep Niyai Nai Sanor (1998) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/EnRJm_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/EnRJm_4f.jpg",
+        "title": "Thep Niyai Nai Sanor Thai Drama photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Tua Sarunyu Wongkrajang",
+          "slug": "people/8376-wongkrachang-sarunyu",
+          "url": "https://mydramalist.com/people/8376-wongkrachang-sarunyu",
+          "image_url": "https://i.mydramalist.com/WNZ65s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WNZ65s.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Claudia Chakrabandhu Na Ayudya",
+          "slug": "people/17625-claudia-chakrapan",
+          "url": "https://mydramalist.com/people/17625-claudia-chakrapan",
+          "image_url": "https://i.mydramalist.com/2vO5V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2vO5V_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "May Pataravarin Timkul",
+          "slug": "people/9241-timkul-patharawarin",
+          "url": "https://mydramalist.com/people/9241-timkul-patharawarin",
+          "image_url": "https://i.mydramalist.com/Xd1jxp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xd1jxp_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Paula Taylor",
+          "slug": "people/10058-taylor-paula",
+          "url": "https://mydramalist.com/people/10058-taylor-paula",
+          "image_url": "https://i.mydramalist.com/kAybZd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kAybZd_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Tua Sarunyu Wongkrajang",
+          "slug": "people/8376-wongkrachang-sarunyu",
+          "url": "https://mydramalist.com/people/8376-wongkrachang-sarunyu",
+          "image_url": "https://i.mydramalist.com/WNZ65m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WNZ65m.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Yanee Tramoth",
+          "slug": "people/88525-yanee-tramoth",
+          "url": "https://mydramalist.com/people/88525-yanee-tramoth",
+          "image_url": "https://i.mydramalist.com/qYYbED_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYYbED_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Thep Niyai Nai Sanor Episode 1",
+        "url": "https://mydramalist.com/705327-thep-niyai-nai-sanor/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RO5WR_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RO5WR_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:41:33.957Z"
+  },
+  {
+    "id": 705339,
+    "slug": "705339-mam-ja",
+    "url": "https://mydramalist.com/705339-mam-ja",
+    "title": "Mam Ja",
+    "complete_title": "Mam Ja (1998)",
+    "native_title": "แหม่มจ๋า",
+    "sub_title": "แหม่มจ๋า ‧ Drama ‧ 1998",
+    "also_known_as": [],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [],
+    "original_network": "Channel 3",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/2jAqP_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2jAqP_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2jAqP_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2jAqP_4f.jpg",
+        "title": "Mam Ja (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Chacha Altermatt",
+          "slug": "people/29701-chacha-altermatt",
+          "url": "https://mydramalist.com/people/29701-chacha-altermatt",
+          "image_url": "https://i.mydramalist.com/x2omqs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x2omqs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Dodo Yutphichai Chanlakha",
+          "slug": "people/15370-charnlekha-yuthapichye",
+          "url": "https://mydramalist.com/people/15370-charnlekha-yuthapichye",
+          "image_url": "https://i.mydramalist.com/jW4NBs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jW4NBs.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Bordin Duke",
+          "slug": "people/24501-bordin-duke",
+          "url": "https://mydramalist.com/people/24501-bordin-duke",
+          "image_url": "https://i.mydramalist.com/vOVjXs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vOVjXs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ratree Wittawat",
+          "slug": "people/29581-ratree-wittawat",
+          "url": "https://mydramalist.com/people/29581-ratree-wittawat",
+          "image_url": "https://i.mydramalist.com/ElOvOs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ElOvOs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Aew Ampa Phusit",
+          "slug": "people/10054-phoosit-ampha",
+          "url": "https://mydramalist.com/people/10054-phoosit-ampha",
+          "image_url": "https://i.mydramalist.com/l0Yl3E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0Yl3E_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Witid Laird",
+          "slug": "people/27367-witid-laird",
+          "url": "https://mydramalist.com/people/27367-witid-laird",
+          "image_url": "https://i.mydramalist.com/0pAO6s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0pAO6s.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Mam Ja Episode 1",
+        "url": "https://mydramalist.com/705339-mam-ja/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/2jAqP_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/2jAqP_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:41:40.406Z"
+  },
+  {
+    "id": 705509,
+    "slug": "705509-sadut-ruk-sadut-fun",
+    "url": "https://mydramalist.com/705509-sadut-ruk-sadut-fun",
+    "title": "Sadut Ruk Sadut Fun",
+    "complete_title": "Sadut Ruk Sadut Fun (1998)",
+    "native_title": "สะดุดรักสะดุดฝัน",
+    "sub_title": "สะดุดรักสะดุดฝัน ‧ Drama ‧ 1998",
+    "also_known_as": [
+      "Sadut Rak Sadut Fan"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "1998",
+    "aired_start": "1998-01-01",
+    "aired_end": "1998-01-01",
+    "aired_on": [
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Channel 7",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XQ66J_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XQ66J_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XQ66J_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XQ66J_4f.jpg",
+        "title": "Sadut Ruk Sadut Fun (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Bie Swiss Petvisetsiri",
+          "slug": "people/8983-petvisetsiri-swiss",
+          "url": "https://mydramalist.com/people/8983-petvisetsiri-swiss",
+          "image_url": "https://i.mydramalist.com/YYWO5A_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYWO5A_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Oil Sirima Aphirattanaphan",
+          "slug": "people/75699-oil-sirima-aphirattanaphan",
+          "url": "https://mydramalist.com/people/75699-oil-sirima-aphirattanaphan",
+          "image_url": "https://i.mydramalist.com/0XooO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0XooO_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Jiggy Juthamat Janthasorn",
+          "slug": "people/26639-jiggy-juthamat-janthasorn",
+          "url": "https://mydramalist.com/people/26639-jiggy-juthamat-janthasorn",
+          "image_url": "https://i.mydramalist.com/engmWs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/engmWs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kirk Schiller",
+          "slug": "people/15591-schiller-kirk",
+          "url": "https://mydramalist.com/people/15591-schiller-kirk",
+          "image_url": "https://i.mydramalist.com/NvxjWs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NvxjWs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Pu Piyamas Monayakol",
+          "slug": "people/26111-piyamas-monayakol",
+          "url": "https://mydramalist.com/people/26111-piyamas-monayakol",
+          "image_url": "https://i.mydramalist.com/NdzqmJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdzqmJ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Sadut Ruk Sadut Fun Episode 1",
+        "url": "https://mydramalist.com/705509-sadut-ruk-sadut-fun/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XQ66J_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XQ66J_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:41:46.876Z"
+  },
+  {
+    "id": 705645,
+    "slug": "705645-forever-love-song",
+    "url": "https://mydramalist.com/705645-forever-love-song",
+    "title": "Forever Love Song",
+    "complete_title": "Forever Love Song (1998)",
+    "native_title": "曲終情未了",
+    "sub_title": "曲終情未了 ‧ Drama ‧ 1998",
+    "also_known_as": [
+      "曲终情未了"
+    ],
+    "type": "Drama",
+    "country": "Hong Kong",
+    "year": 1998,
+    "status": "Aired",
+    "episodes": 30,
+    "aired_string": "1998 - ?",
+    "aired_start": "1998-01-01",
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "ATV",
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "The story is based on the music career of a singer named Monica Mui who started out by winning a singing competition. Soon Mui would be recognized as one of the best singers by fans and rise to the top of the industry. But the competing record companies would do anything to make sure she failed. Eventually both Mui and her manager would experience difficult hardships with family, work and other romance issues. English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/k1Zjk_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/k1Zjk_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "title": "Forever Love Song (1998) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Alice Lau",
+          "slug": "people/66179-alice-lau",
+          "url": "https://mydramalist.com/people/66179-alice-lau",
+          "image_url": "https://i.mydramalist.com/qRpeD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qRpeD_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Lau Kwok Shing",
+          "slug": "people/96595-lau-kwok-shing",
+          "url": "https://mydramalist.com/people/96595-lau-kwok-shing",
+          "image_url": "https://i.mydramalist.com/rAQrg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rAQrg_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sophie Ngan",
+          "slug": "people/95497-sophie-ngan",
+          "url": "https://mydramalist.com/people/95497-sophie-ngan",
+          "image_url": "https://i.mydramalist.com/0q1Q4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0q1Q4_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lawrence Yan",
+          "slug": "people/93229-lawrence-yan",
+          "url": "https://mydramalist.com/people/93229-lawrence-yan",
+          "image_url": "https://i.mydramalist.com/d5ZlW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d5ZlW_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cheng Shu Fung",
+          "slug": "people/90265-cheng-chu-fung",
+          "url": "https://mydramalist.com/people/90265-cheng-chu-fung",
+          "image_url": "https://i.mydramalist.com/0DbKr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0DbKr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Law Shu Kei",
+          "slug": "people/88849-law-shu-kei",
+          "url": "https://mydramalist.com/people/88849-law-shu-kei",
+          "image_url": "https://i.mydramalist.com/WVYAX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WVYAX_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Leung Chi Ming",
+          "slug": "people/104137-leung-chi-ming",
+          "url": "https://mydramalist.com/people/104137-leung-chi-ming",
+          "image_url": "https://i.mydramalist.com/Ez3oz_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Ez3oz_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Frankie Lam",
+          "slug": "people/4488-lam-frankie",
+          "url": "https://mydramalist.com/people/4488-lam-frankie",
+          "image_url": "https://i.mydramalist.com/rNx2ng_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rNx2ng_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Kenneth Chan",
+          "slug": "people/10152-chan-kenneth",
+          "url": "https://mydramalist.com/people/10152-chan-kenneth",
+          "image_url": "https://i.mydramalist.com/oQwxrY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQwxrY_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Forever Love Song Episode 1",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Forever Love Song Episode 2",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Forever Love Song Episode 3",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Forever Love Song Episode 4",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Forever Love Song Episode 5",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Forever Love Song Episode 6",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Forever Love Song Episode 7",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Forever Love Song Episode 8",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Forever Love Song Episode 9",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Forever Love Song Episode 10",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Forever Love Song Episode 11",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Forever Love Song Episode 12",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Forever Love Song Episode 13",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Forever Love Song Episode 14",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Forever Love Song Episode 15",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Forever Love Song Episode 16",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/16",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Forever Love Song Episode 17",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/17",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Forever Love Song Episode 18",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/18",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Forever Love Song Episode 19",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/19",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Forever Love Song Episode 20",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/20",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Forever Love Song Episode 21",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/21",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Forever Love Song Episode 22",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/22",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Forever Love Song Episode 23",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/23",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Forever Love Song Episode 24",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/24",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "Forever Love Song Episode 25",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/25",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "Forever Love Song Episode 26",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/26",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "Forever Love Song Episode 27",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/27",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "Forever Love Song Episode 28",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/28",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 29,
+        "title": "Forever Love Song Episode 29",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/29",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 30,
+        "title": "Forever Love Song Episode 30",
+        "url": "https://mydramalist.com/705645-forever-love-song/episode/30",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/k1Zjk_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/k1Zjk_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-20T18:41:53.837Z"
   }
 ]
