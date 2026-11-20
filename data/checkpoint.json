@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -21,13 +21,13 @@
   },
   "1992": {
     "total_titles": 672,
-    "enriched": 199,
-    "pending": 473,
+    "enriched": 219,
+    "pending": 453,
     "parts_count": 1,
     "active_part": "mdl_enriched_1992.json",
-    "last_id": 6969,
-    "last_title": "Continued Fate of Love",
-    "last_updated": "2026-11-20T10:42:03.192Z"
+    "last_id": 35811,
+    "last_title": "Lakorn Rae",
+    "last_updated": "2026-11-20T10:44:14.402Z"
   },
   "2018": {
     "total_titles": 4200,
