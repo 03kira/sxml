@@ -71,8 +71,8 @@
   },
   "1997": {
     "total_titles": 697,
-    "enriched": 697,
-    "pending": 0,
+    "enriched": 539,
+    "pending": 158,
     "parts_count": 1,
     "active_part": "mdl_enriched_1997.json",
     "last_id": 26137,
@@ -101,13 +101,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 3582,
-    "pending": 255,
+    "enriched": 3602,
+    "pending": 235,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 22844,
-    "last_title": "A Story of Two Wanderers",
-    "last_updated": "2026-11-20T20:57:39.227Z"
+    "last_id": 22455,
+    "last_title": "Lost in the Moon Light",
+    "last_updated": "2026-11-20T20:59:51.254Z"
   },
   "2018": {
     "total_titles": 4200,
