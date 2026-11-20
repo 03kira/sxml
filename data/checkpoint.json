@@ -41,8 +41,8 @@
   },
   "1994": {
     "total_titles": 681,
-    "enriched": 681,
-    "pending": 0,
+    "enriched": 299,
+    "pending": 382,
     "parts_count": 1,
     "active_part": "mdl_enriched_1994.json",
     "last_id": 25332,
@@ -81,13 +81,13 @@
   },
   "2017": {
     "total_titles": 3837,
-    "enriched": 1899,
-    "pending": 1938,
+    "enriched": 1919,
+    "pending": 1918,
     "parts_count": 1,
     "active_part": "mdl_enriched_2017.json",
-    "last_id": 45693,
-    "last_title": "I'm Live",
-    "last_updated": "2026-11-20T17:26:31.544Z"
+    "last_id": 35597,
+    "last_title": "Saturday Night Live Korea Season 9",
+    "last_updated": "2026-11-20T17:28:51.653Z"
   },
   "2018": {
     "total_titles": 4200,
