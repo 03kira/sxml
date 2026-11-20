@@ -1,8 +1,8 @@
 {
   "1990": {
     "total_titles": 564,
-    "enriched": 159,
-    "pending": 405,
+    "enriched": 564,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_1990.json",
     "last_id": 805076,
@@ -21,23 +21,23 @@
   },
   "1992": {
     "total_titles": 672,
-    "enriched": 339,
-    "pending": 333,
+    "enriched": 359,
+    "pending": 313,
     "parts_count": 1,
     "active_part": "mdl_enriched_1992.json",
-    "last_id": 808840,
-    "last_title": "Tenshi no yo ni Ikitemitai",
-    "last_updated": "2026-11-20T10:57:01.219Z"
+    "last_id": 696067,
+    "last_title": "Joyu Natsuki Midori Series 4",
+    "last_updated": "2026-11-20T10:59:07.851Z"
   },
   "2018": {
     "total_titles": 4200,
-    "enriched": 2979,
-    "pending": 1221,
+    "enriched": 2659,
+    "pending": 1541,
     "parts_count": 1,
     "active_part": "mdl_enriched_2018.json",
-    "last_id": 22170,
-    "last_title": "Fights Break Sphere",
-    "last_updated": "2026-11-20T10:56:27.577Z"
+    "last_id": 30138,
+    "last_title": "Haruko no Ningyo",
+    "last_updated": "2026-11-20T10:16:20.759Z"
   },
   "2019": {
     "total_titles": 4288,
