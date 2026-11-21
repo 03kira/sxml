@@ -669862,5 +669862,575 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-21T10:32:59.936Z"
+  },
+  {
+    "id": 4980,
+    "slug": "4980-hands-in-the-hair",
+    "url": "https://mydramalist.com/4980-hands-in-the-hair",
+    "title": "Hands in the Hair",
+    "complete_title": "Hands in the Hair (2005)",
+    "native_title": "做头",
+    "sub_title": "做头 ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "Mãos Em Seus Cabelos , Zuo tou"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 41 min.",
+    "duration_minutes": 101,
+    "content_rating": "Not Yet Rated",
+    "rating": 5.9182,
+    "scored_by": 46,
+    "ranked": 67029,
+    "popularity": 99999,
+    "watchers": 182,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Ai Ni has been a beautiful lady in Shanghai. When time passes, she is getting old, and her properties are only her husband, children and a dilapidated house. Hwa’s salon becomes a shell for her. Hwa has been Ai Ni’s stylist for ten years, and an intimate relationship is developed between them. Hwa’s salon is going to close down, and that makes Ai Ni feel worried. The closing of the salon shall represent an end of their relationship, but desire among them is releasing and growing. Just like a final answer to their relationship, they have the first but also the last sex in the vacant salon. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/MRXxzc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/MRXxzc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/MRXxzc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/MRXxzc.jpg",
+        "title": "Hands in the Hair (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/MRXxzs.jpg",
+        "hd_url": "https://i.mydramalist.com/MRXxzs.jpg",
+        "title": "Hands in the Hair Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/MRXxzm.jpg",
+        "hd_url": "https://i.mydramalist.com/MRXxzm.jpg",
+        "title": "Hands in the Hair (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [
+      {
+        "title": "Kenja no Ai",
+        "slug": "19544-kenja-no-ai",
+        "url": "https://mydramalist.com/19544-kenja-no-ai",
+        "poster_url": "https://i.mydramalist.com/A7P74t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/A7P74t.jpg",
+        "year": 2016,
+        "votes": 0
+      },
+      {
+        "title": "The Monster Within",
+        "slug": "788468-mamono",
+        "url": "https://mydramalist.com/788468-mamono",
+        "poster_url": "https://i.mydramalist.com/O87pPL_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/O87pPL_4f.jpg",
+        "year": 2025,
+        "votes": 0
+      },
+      {
+        "title": "Scarlet Innocence",
+        "slug": "11123-scarlet-innocence",
+        "url": "https://mydramalist.com/11123-scarlet-innocence",
+        "poster_url": "https://i.mydramalist.com/nOpREt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/nOpREt.jpg",
+        "year": 2014,
+        "votes": 0
+      },
+      {
+        "title": "Mitsu no Aji",
+        "slug": "3006-mitsu-no-aji",
+        "url": "https://mydramalist.com/3006-mitsu-no-aji",
+        "poster_url": "https://i.mydramalist.com/azvedt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/azvedt.jpg",
+        "year": 2011,
+        "votes": 0
+      },
+      {
+        "title": "Green Chair",
+        "slug": "1484-green-chair",
+        "url": "https://mydramalist.com/1484-green-chair",
+        "poster_url": "https://i.mydramalist.com/W7YqR_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/W7YqR_4f.jpg",
+        "year": 2005,
+        "votes": 0
+      },
+      {
+        "title": "3-Iron",
+        "slug": "1475-3-iron",
+        "url": "https://mydramalist.com/1475-3-iron",
+        "poster_url": "/assets/noimage.jpg",
+        "poster_hd_url": "/assets/noimage.jpg",
+        "year": 2004,
+        "votes": 0
+      },
+      {
+        "title": "Snow Crab",
+        "slug": "727857-yukionna-to-kani-wo-kuu",
+        "url": "https://mydramalist.com/727857-yukionna-to-kani-wo-kuu",
+        "poster_url": "https://i.mydramalist.com/wZkLn_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/wZkLn_4f.jpg",
+        "year": 2022,
+        "votes": 0
+      },
+      {
+        "title": "Liar: Surechigau Koi",
+        "slug": "723129-liar-surechigau-koi",
+        "url": "https://mydramalist.com/723129-liar-surechigau-koi",
+        "poster_url": "https://i.mydramalist.com/eZ27q_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/eZ27q_4f.jpg",
+        "year": 2022,
+        "votes": 0
+      },
+      {
+        "title": "Plum Blossom",
+        "slug": "754-plum-blossom",
+        "url": "https://mydramalist.com/754-plum-blossom",
+        "poster_url": "https://i.mydramalist.com/GLpgGt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/GLpgGt.jpg",
+        "year": 2000,
+        "votes": 0
+      },
+      {
+        "title": "Liar",
+        "slug": "718723-liar",
+        "url": "https://mydramalist.com/718723-liar",
+        "poster_url": "https://i.mydramalist.com/WRKkR_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/WRKkR_4f.jpg",
+        "year": 2022,
+        "votes": 0
+      },
+      {
+        "title": "The Concubine",
+        "slug": "3986-royal-concubine-concubine-of-king",
+        "url": "https://mydramalist.com/3986-royal-concubine-concubine-of-king",
+        "poster_url": "https://i.mydramalist.com/608BPt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/608BPt.jpg",
+        "year": 2012,
+        "votes": 0
+      },
+      {
+        "title": "Obsessed",
+        "slug": "8890-obsessed",
+        "url": "https://mydramalist.com/8890-obsessed",
+        "poster_url": "https://i.mydramalist.com/ONl4Pt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/ONl4Pt.jpg",
+        "year": 2014,
+        "votes": 0
+      },
+      {
+        "title": "Fuufu Enman Recipe: Koukan Shinai? Hitoban Dake",
+        "slug": "737479-fuufu-enman-recipe-koukan-shinai-hitoban-dake",
+        "url": "https://mydramalist.com/737479-fuufu-enman-recipe-koukan-shinai-hitoban-dake",
+        "poster_url": "https://i.mydramalist.com/v0K7Z_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/v0K7Z_4f.jpg",
+        "year": 2022,
+        "votes": 0
+      },
+      {
+        "title": "Saretagawa no Blue",
+        "slug": "701205-saretagawa-no-blue",
+        "url": "https://mydramalist.com/701205-saretagawa-no-blue",
+        "poster_url": "https://i.mydramalist.com/0XKBY_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/0XKBY_4f.jpg",
+        "year": 2021,
+        "votes": 0
+      },
+      {
+        "title": "The World of the Married",
+        "slug": "39975-the-married-life",
+        "url": "https://mydramalist.com/39975-the-married-life",
+        "poster_url": "https://i.mydramalist.com/W3gKXt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/W3gKXt.jpg",
+        "year": 2020,
+        "votes": 0
+      },
+      {
+        "title": "If Only You Weren't the One",
+        "slug": "804566-honmei-janakya-yokatta-no-ni",
+        "url": "https://mydramalist.com/804566-honmei-janakya-yokatta-no-ni",
+        "poster_url": "https://i.mydramalist.com/73VxvB_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/73VxvB_4f.jpg",
+        "year": 2026,
+        "votes": 0
+      },
+      {
+        "title": "Fragments of a Marriage",
+        "slug": "749069-fufu-ga-kowareru-toki",
+        "url": "https://mydramalist.com/749069-fufu-ga-kowareru-toki",
+        "poster_url": "https://i.mydramalist.com/2ww32V_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/2ww32V_4f.jpg",
+        "year": 2023,
+        "votes": 0
+      },
+      {
+        "title": "The Intimate Lover",
+        "slug": "2927-the-intimate-lover",
+        "url": "https://mydramalist.com/2927-the-intimate-lover",
+        "poster_url": "/assets/noimage.jpg",
+        "poster_hd_url": "/assets/noimage.jpg",
+        "year": 2005,
+        "votes": 0
+      },
+      {
+        "title": "Paju",
+        "slug": "1819-paju",
+        "url": "https://mydramalist.com/1819-paju",
+        "poster_url": "https://i.mydramalist.com/MgoqMt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/MgoqMt.jpg",
+        "year": 2009,
+        "votes": 0
+      },
+      {
+        "title": "You Want Me to Steal You",
+        "slug": "743771-anata-wa-watashi-ni-otosaretai",
+        "url": "https://mydramalist.com/743771-anata-wa-watashi-ni-otosaretai",
+        "poster_url": "https://i.mydramalist.com/QvjrY_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/QvjrY_4f.jpg",
+        "year": 2023,
+        "votes": 0
+      },
+      {
+        "title": "Fishbowl Wives",
+        "slug": "683141-kingyo-tsuma",
+        "url": "https://mydramalist.com/683141-kingyo-tsuma",
+        "poster_url": "https://i.mydramalist.com/qLLK0_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/qLLK0_4f.jpg",
+        "year": 2022,
+        "votes": 0
+      },
+      {
+        "title": "My Precious",
+        "slug": "776605-watashi-no-takaramono",
+        "url": "https://mydramalist.com/776605-watashi-no-takaramono",
+        "poster_url": "https://i.mydramalist.com/eYmEod_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/eYmEod_4f.jpg",
+        "year": 2024,
+        "votes": 0
+      }
+    ],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Wallace Huo",
+          "slug": "people/1331-huo-wallace",
+          "url": "https://mydramalist.com/people/1331-huo-wallace",
+          "image_url": "https://i.mydramalist.com/eEgdEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eEgdEs.jpg",
+          "character": "Hwa",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Rosamund Kwan",
+          "slug": "people/3681-rosamund-kwan",
+          "url": "https://mydramalist.com/people/3681-rosamund-kwan",
+          "image_url": "https://i.mydramalist.com/81XnBA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81XnBA_5f.jpg",
+          "character": "Aini",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Francis Ng",
+          "slug": "people/3693-ng-francis",
+          "url": "https://mydramalist.com/people/3693-ng-francis",
+          "image_url": "https://i.mydramalist.com/YYWJqB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYWJqB_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "William Chang",
+          "slug": "people/48513-william-chang",
+          "url": "https://mydramalist.com/people/48513-william-chang",
+          "image_url": "https://i.mydramalist.com/jgQKz_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jgQKz_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Lam Bing Kwan",
+          "slug": "people/119281-lam-bing-kwan",
+          "url": "https://mydramalist.com/people/119281-lam-bing-kwan",
+          "image_url": "https://i.mydramalist.com/BdgWr6_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BdgWr6_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:33:11.326Z"
+  },
+  {
+    "id": 8431,
+    "slug": "8431-my-fair-son",
+    "url": "https://mydramalist.com/8431-my-fair-son",
+    "title": "My Fair Son",
+    "complete_title": "My Fair Son (2005)",
+    "native_title": "我如花似玉的儿子",
+    "sub_title": "我如花似玉的儿子 ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "Wo ruhua si yu de erzi"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 32 min.",
+    "duration_minutes": 92,
+    "content_rating": "18+ Restricted (violence & profanity)",
+    "rating": 258,
+    "scored_by": 2,
+    "ranked": 67530,
+    "popularity": 22407,
+    "watchers": 258,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Family",
+        "id": "29"
+      },
+      {
+        "name": "Mature",
+        "id": "40"
+      }
+    ],
+    "tags": [
+      {
+        "name": "LGBTQ+",
+        "id": "1045"
+      },
+      {
+        "name": "Erotic",
+        "id": "789"
+      },
+      {
+        "name": "Nudity",
+        "id": "696"
+      },
+      {
+        "name": "Extreme Sexual Content",
+        "id": "428"
+      }
+    ],
+    "synopsis": "\"My Fair Son\" is a tender and touching tale about a father and son trying to reconcile their separate lives. Ray, a tall, thin and handsome young man returns to live with his father after having grown up with his grandfather. He is angry and disconnected over his father s middle class life style and hard line ways. Ray enrolls in art school where he makes new friends and starts a relationship with a another student. One morning, Dad discovers the two young men naked in bed and, after being surprised, he must begin to understand his own feelings toward homosexuality. Then Ray meets Bo, one of his dad's top employees. From the start, sparks fly and Ray falls in love. But Bo is to be married, how will the two connect and what will Ray s father think? English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/GWpxRc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/GWpxRc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/GWpxRc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/GWpxRc.jpg",
+        "title": "My Fair Son (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/GWpxRs.jpg",
+        "hd_url": "https://i.mydramalist.com/GWpxRs.jpg",
+        "title": "My Fair Son Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/GWpxRm.jpg",
+        "hd_url": "https://i.mydramalist.com/GWpxRm.jpg",
+        "title": "My Fair Son (2005)"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Etcetera",
+        "author_url": "https://mydramalist.com/profile/Etcetera",
+        "scores": {
+          "overall": 1,
+          "story": 1,
+          "acting": 2,
+          "music": 1,
+          "rewatch_value": 1
+        },
+        "helpful_votes": 0,
+        "review_text": "Overall 1.0 Story 1.0 Acting/Cast 2.0 Music 1.0 Rewatch Value 1.0 So... As you might can tell, I like BL movies, and I just saw this yesterday. The resume was accutally quite good I thought, but then I started watching the movie, and realised, that this was aweful. So, the story line... I couldn't follow it, it just jumped and jumped and left huge gaps in the story, so basically, it was a big mess. The acting/and the cast... The actors were okay I guess... I couldn't feel the emotions though, there were no love, no hate, no disgust or any other kind of emotion for that matter, so I guess they sucked as well? I dont know. I must say, the lines were aweful, it was just random nonsen most of the time, (or maybe the subs I watched with was worse than I thought). The music... Again, there was little to no music in this movie, the only times I remember music, was when the main character was on a roof top (which happened like three times). As of rewatch value... I wouldn't want to see this ever again, I managed to finish it, but I wouldn't do it a second time. As some extra info: The cameraankles were awekward and seemed like they were shot by an amateur, as a matter of fact, the whole movie seemed that way, but then again, maybe I just missed out on some artsy stuff, what do I know? I just want to enjoy movies. Read More Was this review helpful to you?",
+        "has_spoiler": false
+      },
+      {
+        "author": "ariel alba",
+        "author_url": "https://mydramalist.com/profile/arielalba",
+        "scores": {
+          "overall": 10,
+          "story": 10,
+          "acting": 10,
+          "music": 10,
+          "rewatch_value": 10
+        },
+        "helpful_votes": 0,
+        "review_text": "Overall 10 Story 10 Acting/Cast 10 Music 10 Rewatch Value 10 This review may contain spoilers Tender, moving and poetic story about a father and son trying to reconcile their separated lives Xiao Rui (Ray), a tall, thin and handsome teenager, returns home, after having grown up with his grandfather, to live with his father (a character played by Wei-Ming Wang, an actor known for his role in 'Han chan xiao ying' (2014), 'Da yue zai dong ji' (2019) and the 1991 film 'A Summer Day'), a businessman from whom he is physically and emotionally distanced. The local art school has opened its doors for him, and the time has come to return to his father's home.The character of Ray is played by Junrui Wang, an actor known for his role in 'Wo ruhua si yu de erzi' (2005).During the years of estrangement, Ray spent much of his childhood and adolescence rebelling against his father's hard-line, middle-class lifestyle. At school, Ray becomes romantically involved in a relationship with an unnamed boyfriend, played by Guifeng Wang. The two boys are followed by an equally unnamed mutual friend, played by actor Ziqiang Li. But when his father discovers the young lovers naked in bed, after the initial surprise, he must begin to understand his own feelings towards homosexuality.'My Fair Son' makes a slow, uneventful study of a tense relationship between father and son, in which the two must tentatively begin to reconcile their many differences, including Ray's revelation that he is gay, something his father it is difficult for him to accept.Lacking strong emotions and even music until the end, the film, written and directed by the innovative Chinese filmmaker, film scholar, screenwriter, novelist, activist and gay academic Cui Zi En, known internationally for his films 'Zhi tongzhi' (2009 ), 'Jiu yue' (2001), 'Feeding Boys, Ayaya' (2003), 'Chou jue deng chang' ('Enter the Clowns'), from 2001, 'Nannan nünü - Nan Nan Nü Nü' ('Men and Women'), 1999, 'Queer China, Comrade China' (2008), among others, gives us a tender, moving and poetic story about a father and a son trying to reconcile their separate lives.The family ties between father and son will continue to be tested when Ray falls in love with the apparently heterosexual Xiao Bo (played by Bo Yu, a Chinese actor known for 'Zhui qiu xing fu de ri zi' (2014), 'Shao nian ge xing' (2022) and 'Xingxing xiangxi xi' (2004), one of his father's best employees But Bo is committed and, by getting involved in a homosexual relationship, he not only risks his position in the company. the company, but also the persecution in his personal life.When Bo confesses that he is in love with Ray, the father fires him and lies to his son, telling him that he resigned of his own free will. Ray doesn't accept his father's argument. The film ends with the main character wandering around a terrace with floating transparent images of his childhood photographs.But despite having broken the thread that united him to the person he loved, Ray has not stopped believing in love. And at this point it is worth thinking positively and saying with Miguel Hernandez that \"only those who love fly.\" Although later he asks himself: \"Love... But who loves? Fly... But who flies?\". As in \"His flight\", the title of the poem by the Orihuela shepherd from which the cited verses come, the protagonist of the film has wings in love. But Cui Zi En's film also reminds me of that flutter that has reached many, such as the Spanish poet Gustavo Adolfo Bécquer, who in his famous \"Rhyme\". And in that atmosphere where \"the sky dissolves in rays of gold / [and] the earth trembles with joy\", the Sevillian asks: \"Is it love that passes?\" Surely, taking our pedestrian condition to the top to give us the volatile, airy, unstable and changeable life of lovers.I like the brilliant filming of this art film that shows gay life in China, the everyday wonder, the poetry and the complicated existence of life itself.He achieves this through many deliberate slow scenes, for example, instead of the actors moving at a regular pace, their movements to move are slow, parsimonious. In this way, the director seeks to slow down the actions so that the viewer can feel the tenderness and intimate thoughts of the characters, especially those of Ray, giving us the opportunity to understand and feel what is in the microcosm of their lives and feelings actions.With beautiful naked torsos of the handsome and sensual young men, 'My Fair Son' is a lyrical, reflective, silent, melancholic, beautiful, poetic and calm film. What is striking are the scenes of nudity combined with images of the sky, the horizon, the infinite... referring, with a lot of symbolism, to love, thoughts and feelings, too complex and paradoxical to be expressed in words (or the lack of articulation of the characters involved, the love). Although the film does not inspire me with joy and action, it does manage to make me reflect on beauty, poetry, and the value of life in all its tenderness and sadness.The sensuality of the film is worth highlighting. The feel of the cinematography drives it a little more than the plot.Likewise, I enjoyed the long shots, which let you feel the characters' behaviors. The viewer must be attentive, because at times it seems that what we are seeing has little to do with the action on screen. In my case, this puts me in the sensory, dreamlike mindset that Ray seemed to have.Another element to take into account is how, on several occasions, the camera focuses interest on more traditional elements of the plot. In my opinion, the director wants the viewer to perceive how the secondary characters see things as they are expected to be and not as they are through Ray's eyes. For example, when scenes involving father and son appear, there are long shots focused on what we expected to see, but then the images stop, allowing the scenes to develop more than we could expect, in total silence, ensuring that the viewer obtains the necessary information to understand what is happening, but really feeling the atmosphere of the actions at the moment, whether internal to the characters and external to the scene.With all these elements, Cui Zi En creates a film that feels like a more complete, true understanding of what happens between a young dreamer with his head constantly gravitating around his world, his father with things clear, and the rest of the people who surround the lives of these two characters as they care, connect and interact with them. Read More Was this review helpful to you?",
+        "has_spoiler": true
+      }
+    ],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Yu Bo",
+          "slug": "people/14249-yu-bo",
+          "url": "https://mydramalist.com/people/14249-yu-bo",
+          "image_url": "https://i.mydramalist.com/YYzNBo_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYzNBo_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Cui Zi En",
+          "slug": "people/104291-cui-zi-en",
+          "url": "https://mydramalist.com/people/104291-cui-zi-en",
+          "image_url": "https://i.mydramalist.com/4RNed_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4RNed_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:33:18.866Z"
+  },
+  {
+    "id": 20112,
+    "slug": "20112-withered-in-a-blooming-season",
+    "url": "https://mydramalist.com/20112-withered-in-a-blooming-season",
+    "title": "Withered in a Blooming Season",
+    "complete_title": "Withered in a Blooming Season (2005)",
+    "native_title": "少年花草黃",
+    "sub_title": "少年花草黃 ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "Shao nian hua cao huang"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "18+ Restricted (violence & profanity)",
+    "rating": 4.5136,
+    "scored_by": 18,
+    "ranked": 67851,
+    "popularity": 99999,
+    "watchers": 136,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Mature",
+        "id": "40"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Erotic",
+        "id": "789"
+      },
+      {
+        "name": "Nudity",
+        "id": "696"
+      },
+      {
+        "name": "Extreme Sexual Content",
+        "id": "428"
+      }
+    ],
+    "synopsis": "My Fair Son director Cui Zi'en weaves this post-socialist, dysfunctional family drama about a gay Beijing high school student with an unhealthy fixation on his twin sister. Feng may be gay, but his attraction to his sister Wen borders on obsessive. The two siblings currently share a room together, though lately, Wen has been considering the prospect of striking out on her own. Hoping to keep a short leash on his sister, Feng recruits his gay best friend to become involved in a relationship with her. If he can control the relationship, reasons Feng, he can maintain his unusual connection to Wen. But despite all of Feng's planning, the plan backfires, sparking a chain reaction of unexpected events that may prove beneficial to all involved. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "/assets/noimage.jpg",
+    "poster_hd_url": "/assets/noimage.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "/assets/noimage.jpg",
+        "hd_url": "/assets/noimage.jpg",
+        "title": "Withered in a Blooming Season (2005) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Cui Zi En",
+          "slug": "people/104291-cui-zi-en",
+          "url": "https://mydramalist.com/people/104291-cui-zi-en",
+          "image_url": "https://i.mydramalist.com/4RNed_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4RNed_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:33:24.193Z"
   }
 ]
