@@ -1178433,5 +1178433,3084 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-21T16:48:37.803Z"
+  },
+  {
+    "id": 9666,
+    "slug": "9666-who-is-undercover",
+    "url": "https://mydramalist.com/9666-who-is-undercover",
+    "title": "Who Is Undercover",
+    "complete_title": "Who Is Undercover (2014)",
+    "native_title": "一号目标",
+    "sub_title": "一号目标 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "The First Target , Yi Hao Mu Biao"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 48 min.",
+    "duration_minutes": 108,
+    "content_rating": "Not Yet Rated",
+    "rating": 5.729,
+    "scored_by": 6,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 29,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/0wdEec.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/0wdEec.jpg",
+    "trailer_id": "1920",
+    "trailers": [
+      {
+        "id": "1920",
+        "title": "Who Is Undercover Official Trailer",
+        "url": "https://v.mydramalist.com/845/845640a5ace7288aa51b6f008511624e_640x360.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/0wdEec.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/0wdEec.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/0wdEec.jpg",
+        "title": "Who Is Undercover (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/0wdEes.jpg",
+        "hd_url": "https://i.mydramalist.com/0wdEes.jpg",
+        "title": "Who Is Undercover Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/0wdEem.jpg",
+        "hd_url": "https://i.mydramalist.com/0wdEem.jpg",
+        "title": "Who Is Undercover (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sun Wei Min",
+          "slug": "people/20833-sun-wei-min",
+          "url": "https://mydramalist.com/people/20833-sun-wei-min",
+          "image_url": "https://i.mydramalist.com/XrWzps.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XrWzps.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jiang Qin Qin",
+          "slug": "people/7783-jiang-angel",
+          "url": "https://mydramalist.com/people/7783-jiang-angel",
+          "image_url": "https://i.mydramalist.com/BKXD5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BKXD5_5f.jpg",
+          "character": "Lu Yi Ran",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Liu Xiao Feng",
+          "slug": "people/17830-liu-xiao-feng",
+          "url": "https://mydramalist.com/people/17830-liu-xiao-feng",
+          "image_url": "https://i.mydramalist.com/k8Vwj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/k8Vwj_5f.jpg",
+          "character": "Xiong Xianghui",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Sun Qian",
+          "slug": "people/20455-sun-qian",
+          "url": "https://mydramalist.com/people/20455-sun-qian",
+          "image_url": "https://i.mydramalist.com/Rk2ZEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rk2ZEs.jpg",
+          "character": "He Hai Ning",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Zhang Yao",
+          "slug": "people/21158-zhang-yao",
+          "url": "https://mydramalist.com/people/21158-zhang-yao",
+          "image_url": "https://i.mydramalist.com/1wgJjQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wgJjQ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Luan Yuan Hui",
+          "slug": "people/28981-luan-yuan-hui",
+          "url": "https://mydramalist.com/people/28981-luan-yuan-hui",
+          "image_url": "https://i.mydramalist.com/Z6AP7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Z6AP7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lin Dong Fu",
+          "slug": "people/34997-lin-dong-fu",
+          "url": "https://mydramalist.com/people/34997-lin-dong-fu",
+          "image_url": "https://i.mydramalist.com/ZmJLk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZmJLk_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Qin Jun Zhe",
+          "slug": "people/18566-qin-juan-zhe",
+          "url": "https://mydramalist.com/people/18566-qin-juan-zhe",
+          "image_url": "https://i.mydramalist.com/v5VQe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v5VQe_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Morning Chang",
+          "slug": "people/2458-chang-morning",
+          "url": "https://mydramalist.com/people/2458-chang-morning",
+          "image_url": "https://i.mydramalist.com/mOdKrb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mOdKrb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Lei",
+          "slug": "people/17225-lei-zhang",
+          "url": "https://mydramalist.com/people/17225-lei-zhang",
+          "image_url": "https://i.mydramalist.com/yW1Ro6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yW1Ro6_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Jin Xin",
+          "slug": "people/99329-wang-jin-xin",
+          "url": "https://mydramalist.com/people/99329-wang-jin-xin",
+          "image_url": "https://i.mydramalist.com/Rvgdr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rvgdr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhai Wan Chen",
+          "slug": "people/98707-zhai-wan-chen",
+          "url": "https://mydramalist.com/people/98707-zhai-wan-chen",
+          "image_url": "https://i.mydramalist.com/oQwDZE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/oQwDZE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zheng Xiao Zhong",
+          "slug": "people/79709-zheng-xiao-zhong",
+          "url": "https://mydramalist.com/people/79709-zheng-xiao-zhong",
+          "image_url": "https://i.mydramalist.com/nOjw4L_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOjw4L_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Zheng",
+          "slug": "people/73671-wang-zheng",
+          "url": "https://mydramalist.com/people/73671-wang-zheng",
+          "image_url": "https://i.mydramalist.com/BO5KA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BO5KA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Xi Qian",
+          "slug": "people/66575-zhang-xi-qian",
+          "url": "https://mydramalist.com/people/66575-zhang-xi-qian",
+          "image_url": "https://i.mydramalist.com/3vy2wW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3vy2wW_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yan Yi Min",
+          "slug": "people/44109-yan-yi-min",
+          "url": "https://mydramalist.com/people/44109-yan-yi-min",
+          "image_url": "https://i.mydramalist.com/0Z004_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0Z004_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Huang Wei",
+          "slug": "people/35943-huang-wei",
+          "url": "https://mydramalist.com/people/35943-huang-wei",
+          "image_url": "https://i.mydramalist.com/64Pz0s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/64Pz0s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liu Xin",
+          "slug": "people/35939-liu-xin",
+          "url": "https://mydramalist.com/people/35939-liu-xin",
+          "image_url": "https://i.mydramalist.com/vZnkZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vZnkZ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Andrew Lane Cawthon",
+          "slug": "people/104227-andrew-lane-cawthon",
+          "url": "https://mydramalist.com/people/104227-andrew-lane-cawthon",
+          "image_url": "https://i.mydramalist.com/wprv8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wprv8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Guo Jing Lin",
+          "slug": "people/105561-guo-jing-lin",
+          "url": "https://mydramalist.com/people/105561-guo-jing-lin",
+          "image_url": "https://i.mydramalist.com/pmn2n_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pmn2n_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Lei",
+          "slug": "people/21836-zhang-zheng-yang",
+          "url": "https://mydramalist.com/people/21836-zhang-zheng-yang",
+          "image_url": "https://i.mydramalist.com/JB6pYJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB6pYJ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Qiang",
+          "slug": "people/16515-li-qiang",
+          "url": "https://mydramalist.com/people/16515-li-qiang",
+          "image_url": "https://i.mydramalist.com/73R5bR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73R5bR_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Leng Hai Ming",
+          "slug": "people/14328-leng-hai-ming",
+          "url": "https://mydramalist.com/people/14328-leng-hai-ming",
+          "image_url": "https://i.mydramalist.com/BZKoz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BZKoz_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:48:50.663Z"
+  },
+  {
+    "id": 22858,
+    "slug": "22858-police-diary",
+    "url": "https://mydramalist.com/22858-police-diary",
+    "title": "Police Diary",
+    "complete_title": "Police Diary (2014)",
+    "native_title": "警察日记",
+    "sub_title": "警察日记 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Jingcha riji , The Police Diary , To Live and Die in Ordos"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 50 min.",
+    "duration_minutes": 110,
+    "content_rating": "Not Yet Rated",
+    "rating": 12,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 12,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Psychological",
+        "id": "15"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Police Department Setting",
+        "id": "22405"
+      },
+      {
+        "name": "Police Officer Male Lead",
+        "id": "19429"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "The film is inspired by the story of Hao Wan Zhong, a policeman in Ordos, Inner Mongolia. Following his career, through the inner workings of a modern Chinese police department in Inner Mongolia. While rising through the ranks, Hao Wan Zhong successfully solves difficult cases. His story carries us through vicious murders, corruption, and social unrest, against a backdrop of majestic winter landscapes, opulent cities and the raw industrial districts of this remote region of China. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/p7wJbc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/p7wJbc.jpg",
+    "trailer_id": "8541",
+    "trailers": [
+      {
+        "id": "8541",
+        "title": "Police Diary Official Trailer",
+        "url": "https://v.mydramalist.com/936/93661c10ed346f9692f4d512319799b3.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/p7wJbc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/p7wJbc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/p7wJbc.jpg",
+        "title": "Police Diary (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/p7wJbs.jpg",
+        "hd_url": "https://i.mydramalist.com/p7wJbs.jpg",
+        "title": "Police Diary Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/BjkW5s.jpg",
+        "hd_url": "https://i.mydramalist.com/BjkW5s.jpg",
+        "title": "Police Diary Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/p7wJbm.jpg",
+        "hd_url": "https://i.mydramalist.com/p7wJbm.jpg",
+        "title": "Police Diary (2014)"
+      },
+      {
+        "url": "https://i.mydramalist.com/BjkW5m.jpg",
+        "hd_url": "https://i.mydramalist.com/BjkW5m.jpg",
+        "title": "Police Diary (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Wang Jing Chun",
+          "slug": "people/14369-wang-jing-chun",
+          "url": "https://mydramalist.com/people/14369-wang-jing-chun",
+          "image_url": "https://i.mydramalist.com/JB61yl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JB61yl_5f.jpg",
+          "character": "Wanzhong Hao",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Hou Yan Song",
+          "slug": "people/15516-hou-yan-song",
+          "url": "https://mydramalist.com/people/15516-hou-yan-song",
+          "image_url": "https://i.mydramalist.com/AB6wZv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/AB6wZv_5f.jpg",
+          "character": "Hao Wan Qing",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wang Xiao Wei",
+          "slug": "people/14820-wang-nicholas",
+          "url": "https://mydramalist.com/people/14820-wang-nicholas",
+          "image_url": "https://i.mydramalist.com/e4Lgp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e4Lgp_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhu Hui",
+          "slug": "people/34275-zhu-hui",
+          "url": "https://mydramalist.com/people/34275-zhu-hui",
+          "image_url": "https://i.mydramalist.com/pN1kD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pN1kD_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Yang",
+          "slug": "people/77879-li-yang",
+          "url": "https://mydramalist.com/people/77879-li-yang",
+          "image_url": "https://i.mydramalist.com/nOjW3E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOjW3E_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jiang Feng",
+          "slug": "people/35313-jiang-feng",
+          "url": "https://mydramalist.com/people/35313-jiang-feng",
+          "image_url": "https://i.mydramalist.com/nOQko4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOQko4_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Liu Wei",
+          "slug": "people/98709-liu-wei",
+          "url": "https://mydramalist.com/people/98709-liu-wei",
+          "image_url": "https://i.mydramalist.com/jzAWr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jzAWr_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Ning Ying",
+          "slug": "people/154772-ning-ying",
+          "url": "https://mydramalist.com/people/154772-ning-ying",
+          "image_url": "https://i.mydramalist.com/PxDjLz_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxDjLz_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:48:57.536Z"
+  },
+  {
+    "id": 41399,
+    "slug": "41399-shigeshoshi",
+    "url": "https://mydramalist.com/41399-shigeshoshi",
+    "title": "Shigeshoshi",
+    "complete_title": "Shigeshoshi (2014)",
+    "native_title": "化妆师",
+    "sub_title": "化妆师 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "hua zhuang shi , ke sho shi , Makeup artist , 化粧师"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 32 min.",
+    "duration_minutes": 92,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 10.022,
+    "scored_by": 2,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 22,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Ghost",
+        "id": "130"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      },
+      {
+        "name": "Supernatural Being",
+        "id": "10467"
+      }
+    ],
+    "synopsis": "Mei Mei, a socially withdrawn mortuary makeup artist obsessed with death, struggles to connect with the living after years of working with corpses. When a wedding planner named Yang Le accidentally hires her for a wedding, her eerie behavior causes chaos, but also sparks an unusual connection between them. Encouraged to step back into normal social life, Mei Mei reluctantly goes out with friends, only to find herself drawn into a mysterious and terrifying supernatural incident. As strange events unfold, the line between the living and the dead begins to blur around her. (Source: MyDramaList) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/p0rZVc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/p0rZVc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/p0rZVc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/p0rZVc.jpg",
+        "title": "Shigeshoshi (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/p0rZVs.jpg",
+        "hd_url": "https://i.mydramalist.com/p0rZVs.jpg",
+        "title": "Shigeshoshi Chinese Movie(2014) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/p0rZVm.jpg",
+        "hd_url": "https://i.mydramalist.com/p0rZVm.jpg",
+        "title": "Shigeshoshi (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Da Zuo",
+          "slug": "people/20798-da-zuo",
+          "url": "https://mydramalist.com/people/20798-da-zuo",
+          "image_url": "https://i.mydramalist.com/x4n2Kw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4n2Kw_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wu Ma",
+          "slug": "people/2864-wu-ma",
+          "url": "https://mydramalist.com/people/2864-wu-ma",
+          "image_url": "https://i.mydramalist.com/R5g6V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R5g6V_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wang Xi Wei",
+          "slug": "people/20324-wang-xi-wei",
+          "url": "https://mydramalist.com/people/20324-wang-xi-wei",
+          "image_url": "https://i.mydramalist.com/xKVZEs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xKVZEs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gao Wei Guang",
+          "slug": "people/7831-gao-vengo",
+          "url": "https://mydramalist.com/people/7831-gao-vengo",
+          "image_url": "https://i.mydramalist.com/Ewynb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Ewynb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Stanley Fung",
+          "slug": "people/7846-fung-stanley",
+          "url": "https://mydramalist.com/people/7846-fung-stanley",
+          "image_url": "https://i.mydramalist.com/Px5Ogw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Px5Ogw_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Honey Yang",
+          "slug": "people/79149-honey-yang",
+          "url": "https://mydramalist.com/people/79149-honey-yang",
+          "image_url": "https://i.mydramalist.com/2l1Rd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2l1Rd_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:49:04.638Z"
+  },
+  {
+    "id": 64467,
+    "slug": "64467-limi-girl",
+    "url": "https://mydramalist.com/64467-limi-girl",
+    "title": "Limi Girl",
+    "complete_title": "Limi Girl (2014)",
+    "native_title": "俐侎阿朵",
+    "sub_title": "俐侎阿朵 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Li Qi A Duo"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 34 min.",
+    "duration_minutes": 94,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.01,
+    "scored_by": 2,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 10,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Xiou Mei is a 19-year-old Limi girl who has chosen to go study in of Shifang, in neighbouring Szichuan Province, and her father borrowed money from all the village. When, after a year, the money is over, she has to to drop out of dancing school and went back to her village among the green mountains to gather medicinal herbs. However, she dreams to retake the college entrance exam and gain a scholarship, to fulfill her university dream. At the village, she is viewed with resentment and mockery. At the same time, Hei Gou was tricked back to their home villageas well. His mom pretend to be sick in order to make him marry his ‘childhood sweetheart’, Shugio – as has always been intended. Heigou rejects the girl and falls for Xiumei instead. He tries to convince her to marry him and settle there, either immediately or, if she prefers to continue her studies, after some years. But she stubbornly refuses, as she desires a different life. His fiancée does not like the situation one bit. Xiumei finds herself in a predicament because of the love triangle ,financial situation and the gossip in town. (Source: CCTV6 China Movie YouTube; irmar at MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/jxlmw_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jxlmw_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jxlmw_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jxlmw_4f.jpg",
+        "title": "Limi Girl (2014) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:49:10.457Z"
+  },
+  {
+    "id": 44707,
+    "slug": "44707-xiao-ao-jiang-hu",
+    "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu",
+    "title": "The Legendary Swordsman",
+    "complete_title": "The Legendary Swordsman (2014)",
+    "native_title": "笑傲江湖",
+    "sub_title": "笑傲江湖 ‧ TV Program ‧ 2014",
+    "also_known_as": [
+      "Siu Ngo Gong Woo , The Legendary Swordsman Season 1 , Xiao Ao Jiang Hu , 笑傲江湖第一季"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": 13,
+    "aired_string": "Mar 16, 2014 - Jun 8, 2014",
+    "aired_start": "2014-03-16",
+    "aired_end": "2014-06-08",
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 18 min.",
+    "duration_minutes": 78,
+    "content_rating": "Not Yet Rated",
+    "rating": 9.01,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 10,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XKRVOc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XKRVOc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XKRVOc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XKRVOc.jpg",
+        "title": "The Legendary Swordsman (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/XKRVOs.jpg",
+        "hd_url": "https://i.mydramalist.com/XKRVOs.jpg",
+        "title": "The Legendary Swordsman Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "title": "The Legendary Swordsman (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "The Legendary Swordsman Season 2",
+        "slug": "77055-the-legendary-swordsman-season-2",
+        "url": "https://mydramalist.com/77055-the-legendary-swordsman-season-2",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Shi Jia Ning",
+          "slug": "people/49579-shi-jia-ning",
+          "url": "https://mydramalist.com/people/49579-shi-jia-ning",
+          "image_url": "https://i.mydramalist.com/2kkjk_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2kkjk_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Da Peng",
+          "slug": "people/14537-da-peng",
+          "url": "https://mydramalist.com/people/14537-da-peng",
+          "image_url": "https://i.mydramalist.com/lJ84Js.jpg",
+          "image_hd_url": "https://i.mydramalist.com/lJ84Js.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Liu Yi Wei",
+          "slug": "people/44995-liu-yi-wei",
+          "url": "https://mydramalist.com/people/44995-liu-yi-wei",
+          "image_url": "https://i.mydramalist.com/5v61qY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5v61qY_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Song Dan Dan",
+          "slug": "people/15606-song-dan-dan",
+          "url": "https://mydramalist.com/people/15606-song-dan-dan",
+          "image_url": "https://i.mydramalist.com/JBrz2y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBrz2y_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Sandra Ng",
+          "slug": "people/1417-ng-sandra",
+          "url": "https://mydramalist.com/people/1417-ng-sandra",
+          "image_url": "https://i.mydramalist.com/XkdEx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XkdEx_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Feng Xiao Gang",
+          "slug": "people/10441-feng-xiao-gang",
+          "url": "https://mydramalist.com/people/10441-feng-xiao-gang",
+          "image_url": "https://i.mydramalist.com/kVxjgs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kVxjgs.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Arash Estilaf",
+          "slug": "people/30989-hua-bo-bo",
+          "url": "https://mydramalist.com/people/30989-hua-bo-bo",
+          "image_url": "https://i.mydramalist.com/207nw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/207nw_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Guo De Gang",
+          "slug": "people/49521-guo-de-gang",
+          "url": "https://mydramalist.com/people/49521-guo-de-gang",
+          "image_url": "https://i.mydramalist.com/XOOrJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XOOrJ_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "The Legendary Swordsman Episode 1",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "The Legendary Swordsman Episode 2",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "The Legendary Swordsman Episode 3",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "The Legendary Swordsman Episode 4",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "The Legendary Swordsman Episode 5",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "The Legendary Swordsman Episode 6",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "The Legendary Swordsman Episode 7",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "The Legendary Swordsman Episode 8",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "The Legendary Swordsman Episode 9",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "The Legendary Swordsman Episode 10",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "The Legendary Swordsman Episode 11",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "The Legendary Swordsman Episode 12",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "The Legendary Swordsman Episode 13",
+        "url": "https://mydramalist.com/44707-xiao-ao-jiang-hu/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XKRVOm.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T16:49:15.804Z"
+  },
+  {
+    "id": 11896,
+    "slug": "11896-links-love",
+    "url": "https://mydramalist.com/11896-links-love",
+    "title": "Links Love",
+    "complete_title": "Links Love (2014)",
+    "native_title": "链.爱",
+    "sub_title": "链.爱 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Links & Love"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "Not Yet Rated",
+    "rating": 4.633,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 33,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Four urban white-collar women, a different way of life, different personalities, Seven and Sylvia faced each other for the love of acceptance, the Department of itch and Amber faces five years, as well as to find themselves at a loss. An accident, they encounter a magical elf, elves give them magical powers to help them see the reality, you can not see the picture, and find themselves brave and true love. The story from the beginning of the confusion, anxiety, frustration, to the final release of the self. Funny, family, friendship, love, and a series of experiences, so that the final play of the four main characters get a happy ending sex and love positive energy. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/nKKPEc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/nKKPEc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/nKKPEc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/nKKPEc.jpg",
+        "title": "Links Love (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/nKKPEs.jpg",
+        "hd_url": "https://i.mydramalist.com/nKKPEs.jpg",
+        "title": "Links Love Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/nKKPEm.jpg",
+        "hd_url": "https://i.mydramalist.com/nKKPEm.jpg",
+        "title": "Links Love (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:49:22.916Z"
+  },
+  {
+    "id": 9718,
+    "slug": "9718-you-are-the-one",
+    "url": "https://mydramalist.com/9718-you-are-the-one",
+    "title": "You Are The One",
+    "complete_title": "You Are The One (2014)",
+    "native_title": "恋者多喜欢",
+    "sub_title": "恋者多喜欢 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Lian Zhe Duo Xi Huan"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.948,
+    "scored_by": 4,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 48,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/0wdZYc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/0wdZYc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/0wdZYc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/0wdZYc.jpg",
+        "title": "You Are The One (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/0wdZYs.jpg",
+        "hd_url": "https://i.mydramalist.com/0wdZYs.jpg",
+        "title": "You Are The One Chinese Movie(2014) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/0wdZYm.jpg",
+        "hd_url": "https://i.mydramalist.com/0wdZYm.jpg",
+        "title": "You Are The One (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Liu Tao",
+          "slug": "people/7064-liu-tao",
+          "url": "https://mydramalist.com/people/7064-liu-tao",
+          "image_url": "https://i.mydramalist.com/yWxBB1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWxBB1_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Hu Bing",
+          "slug": "people/3066-hu-bing",
+          "url": "https://mydramalist.com/people/3066-hu-bing",
+          "image_url": "https://i.mydramalist.com/15KK3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/15KK3_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Ma Da Ming",
+          "slug": "people/122223-ma-da-ming",
+          "url": "https://mydramalist.com/people/122223-ma-da-ming",
+          "image_url": "https://i.mydramalist.com/81Vngl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81Vngl_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:49:28.611Z"
+  },
+  {
+    "id": 49525,
+    "slug": "49525-final-battle-in-chengzigou-of-kongfu-saga",
+    "url": "https://mydramalist.com/49525-final-battle-in-chengzigou-of-kongfu-saga",
+    "title": "Final Battle In Chengzigou Of Kongfu Saga",
+    "complete_title": "Final Battle In Chengzigou Of Kongfu Saga (2014)",
+    "native_title": "武僧传奇之决战程子沟",
+    "sub_title": "武僧传奇之决战程子沟 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Wu Seng Chuan Qi Zhi Jue Zhan Cheng Zi Gou"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 33 min.",
+    "duration_minutes": 93,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/dY5Qgc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/dY5Qgc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/dY5Qgc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/dY5Qgc.jpg",
+        "title": "Final Battle In Chengzigou Of Kongfu Saga (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/dY5Qgs.jpg",
+        "hd_url": "https://i.mydramalist.com/dY5Qgs.jpg",
+        "title": "Final Battle In Chengzigou Of Kongfu Saga Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/dY5Qgm.jpg",
+        "hd_url": "https://i.mydramalist.com/dY5Qgm.jpg",
+        "title": "Final Battle In Chengzigou Of Kongfu Saga (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Li Lei",
+          "slug": "people/120799-li-lei",
+          "url": "https://mydramalist.com/people/120799-li-lei",
+          "image_url": "https://i.mydramalist.com/vXv2yB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXv2yB_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ding Qi",
+          "slug": "people/77097-ding-qi",
+          "url": "https://mydramalist.com/people/77097-ding-qi",
+          "image_url": "https://i.mydramalist.com/QAlQ5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QAlQ5_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Xue Jiang Tao",
+          "slug": "people/124081-xue-jiang-tao",
+          "url": "https://mydramalist.com/people/124081-xue-jiang-tao",
+          "image_url": "https://i.mydramalist.com/jQrXDw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQrXDw_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:49:34.545Z"
+  },
+  {
+    "id": 43087,
+    "slug": "43087-the-struggle-of-80-s",
+    "url": "https://mydramalist.com/43087-the-struggle-of-80-s",
+    "title": "The Struggle of 80's",
+    "complete_title": "The Struggle of 80's (2014)",
+    "native_title": "80後的獨立宣言",
+    "sub_title": "80後的獨立宣言 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "80 hau dik duk lap suen yin , 80 hou de du li xuan yan , 80后的独立宣言 , baat sap hau dik duk lap suen yin , bai shi hou de du li xuan yan , 八十后的独立宣言 , 八十後的獨立宣言"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 35 min.",
+    "duration_minutes": 95,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.012,
+    "scored_by": 3,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 12,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/xQ5DXc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/xQ5DXc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/xQ5DXc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/xQ5DXc.jpg",
+        "title": "The Struggle of 80's (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/xQ5DXs.jpg",
+        "hd_url": "https://i.mydramalist.com/xQ5DXs.jpg",
+        "title": "The Struggle of 80's Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/xQ5DXm.jpg",
+        "hd_url": "https://i.mydramalist.com/xQ5DXm.jpg",
+        "title": "The Struggle of 80's (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Karlina Zhang",
+          "slug": "people/14399-zhang-karlina",
+          "url": "https://mydramalist.com/people/14399-zhang-karlina",
+          "image_url": "https://i.mydramalist.com/YY6yoe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YY6yoe_5f.jpg",
+          "character": "Xu Xiao Qiao",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Liu Shuai Liang",
+          "slug": "people/16581-liu-shuai-liang",
+          "url": "https://mydramalist.com/people/16581-liu-shuai-liang",
+          "image_url": "https://i.mydramalist.com/x1PZy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x1PZy_5f.jpg",
+          "character": "Qi Wei Jie",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Yang Dong",
+          "slug": "people/44267-yang-dong",
+          "url": "https://mydramalist.com/people/44267-yang-dong",
+          "image_url": "https://i.mydramalist.com/weWA1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/weWA1_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Lou Yu Jian",
+          "slug": "people/57415-lou-yu-jian",
+          "url": "https://mydramalist.com/people/57415-lou-yu-jian",
+          "image_url": "https://i.mydramalist.com/B54DV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B54DV_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cao Bing Kun",
+          "slug": "people/11936-cao-bing-kun",
+          "url": "https://mydramalist.com/people/11936-cao-bing-kun",
+          "image_url": "https://i.mydramalist.com/QJ8nQ7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJ8nQ7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hou Yong",
+          "slug": "people/18721-hou-yong",
+          "url": "https://mydramalist.com/people/18721-hou-yong",
+          "image_url": "https://i.mydramalist.com/nO2Rm2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nO2Rm2_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Hao Tian",
+          "slug": "people/39577-zhang-hao-tian",
+          "url": "https://mydramalist.com/people/39577-zhang-hao-tian",
+          "image_url": "https://i.mydramalist.com/XdZZyO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XdZZyO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xu Huan Shan",
+          "slug": "people/16328-xu-huan-shan",
+          "url": "https://mydramalist.com/people/16328-xu-huan-shan",
+          "image_url": "https://i.mydramalist.com/e3jvYs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e3jvYs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Hong Tao",
+          "slug": "people/14907-li-hong-tao",
+          "url": "https://mydramalist.com/people/14907-li-hong-tao",
+          "image_url": "https://i.mydramalist.com/ArBdjP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ArBdjP_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "He Sai Fei",
+          "slug": "people/18686-he-sai-fei",
+          "url": "https://mydramalist.com/people/18686-he-sai-fei",
+          "image_url": "https://i.mydramalist.com/Nd8mOJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Nd8mOJ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Zhang Wei Wei",
+          "slug": "people/102989-zhang-wei-wei",
+          "url": "https://mydramalist.com/people/102989-zhang-wei-wei",
+          "image_url": "https://i.mydramalist.com/PxjV65_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxjV65_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Liu Bin",
+          "slug": "people/54135-liu-bin",
+          "url": "https://mydramalist.com/people/54135-liu-bin",
+          "image_url": "https://i.mydramalist.com/07Dqk_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/07Dqk_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:49:40.233Z"
+  },
+  {
+    "id": 62605,
+    "slug": "62605-laugh-out-loud",
+    "url": "https://mydramalist.com/62605-laugh-out-loud",
+    "title": "Laugh Out Loud",
+    "complete_title": "Laugh Out Loud (2014)",
+    "native_title": "我们都爱笑",
+    "sub_title": "我们都爱笑 ‧ TV Program ‧ 2014 - 2015",
+    "also_known_as": [
+      "We All Love To Laugh"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": 12,
+    "aired_string": "Feb 15, 2014 - Dec 27, 2015",
+    "aired_start": "2014-02-15",
+    "aired_end": "2015-12-27",
+    "aired_on": [
+      "Saturday"
+    ],
+    "original_network": "Hunan TV, Mango TV",
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "G - All Ages",
+    "rating": 8.06,
+    "scored_by": 7,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 60,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Fahrenheit (Group)",
+        "id": "18799"
+      }
+    ],
+    "synopsis": "\"We all love to laugh\" is a comedy factory program that makes happiness, and the program is divided into four sections: \"The Laughter\", \"The Laughter\", \"The Laughter Situation House\", \"The Laughter Flat Drama\" . English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/QYlP4_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/QYlP4_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "title": "Laugh Out Loud (2014) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Gu Xiao Zheng",
+          "slug": "people/108433-gu-xiao-zheng",
+          "url": "https://mydramalist.com/people/108433-gu-xiao-zheng",
+          "image_url": "https://i.mydramalist.com/4XAN6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4XAN6_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "William Chan",
+          "slug": "people/5307-chan-william",
+          "url": "https://mydramalist.com/people/5307-chan-william",
+          "image_url": "https://i.mydramalist.com/WPJX7P_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WPJX7P_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Leo Wu",
+          "slug": "people/7631-wu-leo",
+          "url": "https://mydramalist.com/people/7631-wu-leo",
+          "image_url": "https://i.mydramalist.com/Xd1zNn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xd1zNn_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Wei Da Xun",
+          "slug": "people/13749-wei-da-xun",
+          "url": "https://mydramalist.com/people/13749-wei-da-xun",
+          "image_url": "https://i.mydramalist.com/WPJyBl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WPJyBl_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Bai Jing Ting",
+          "slug": "people/7762-bai-jing-ting",
+          "url": "https://mydramalist.com/people/7762-bai-jing-ting",
+          "image_url": "https://i.mydramalist.com/jQjpnd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQjpnd_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Dilraba Dilmurat",
+          "slug": "people/7830-dilmurat-dilraba",
+          "url": "https://mydramalist.com/people/7830-dilmurat-dilraba",
+          "image_url": "https://i.mydramalist.com/b35kje_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b35kje_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Sie Yi Lin",
+          "slug": "people/6471-sie-evonne",
+          "url": "https://mydramalist.com/people/6471-sie-evonne",
+          "image_url": "https://i.mydramalist.com/nOmPWL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOmPWL_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Yang Yang",
+          "slug": "people/5305-yang-yang",
+          "url": "https://mydramalist.com/people/5305-yang-yang",
+          "image_url": "https://i.mydramalist.com/zBQOgO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zBQOgO_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Chen Xiang",
+          "slug": "people/2444-chen-sean",
+          "url": "https://mydramalist.com/people/2444-chen-sean",
+          "image_url": "https://i.mydramalist.com/vy5eWs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vy5eWs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Jiro Wang",
+          "slug": "people/264-wang-jiro",
+          "url": "https://mydramalist.com/people/264-wang-jiro",
+          "image_url": "https://i.mydramalist.com/BzJEA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BzJEA_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Tan Song Yun",
+          "slug": "people/7017-tan-song-yun",
+          "url": "https://mydramalist.com/people/7017-tan-song-yun",
+          "image_url": "https://i.mydramalist.com/NdLY5A_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdLY5A_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Hu Bing Qing",
+          "slug": "people/7815-hu-bing-qing",
+          "url": "https://mydramalist.com/people/7815-hu-bing-qing",
+          "image_url": "https://i.mydramalist.com/eYzLKK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYzLKK_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Pan Yue Ming",
+          "slug": "people/8074-pan-yue-ming",
+          "url": "https://mydramalist.com/people/8074-pan-yue-ming",
+          "image_url": "https://i.mydramalist.com/4JPZY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4JPZY_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Sun Jian",
+          "slug": "people/5052-sun-jian",
+          "url": "https://mydramalist.com/people/5052-sun-jian",
+          "image_url": "https://i.mydramalist.com/KpyzK0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/KpyzK0_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Huang Sheng Yi",
+          "slug": "people/4024-huang-eva",
+          "url": "https://mydramalist.com/people/4024-huang-eva",
+          "image_url": "https://i.mydramalist.com/l0owJN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0owJN_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Zhang Hao Ran",
+          "slug": "people/15510-zhang-hao-ran",
+          "url": "https://mydramalist.com/people/15510-zhang-hao-ran",
+          "image_url": "https://i.mydramalist.com/5v62YA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5v62YA_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Liu Yun",
+          "slug": "people/7607-liu-yun",
+          "url": "https://mydramalist.com/people/7607-liu-yun",
+          "image_url": "https://i.mydramalist.com/0wxoW6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wxoW6_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Shi Rui",
+          "slug": "people/45621-shi-rui",
+          "url": "https://mydramalist.com/people/45621-shi-rui",
+          "image_url": "https://i.mydramalist.com/nOoBy2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOoBy2_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Li Yi Feng",
+          "slug": "people/525-li-yi-feng",
+          "url": "https://mydramalist.com/people/525-li-yi-feng",
+          "image_url": "https://i.mydramalist.com/WyPA3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WyPA3_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ma Su",
+          "slug": "people/1162-ma-su",
+          "url": "https://mydramalist.com/people/1162-ma-su",
+          "image_url": "https://i.mydramalist.com/r6ekm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r6ekm_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Ma Ke",
+          "slug": "people/7452-ma-ke",
+          "url": "https://mydramalist.com/people/7452-ma-ke",
+          "image_url": "https://i.mydramalist.com/rJXDD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rJXDD_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Xu Lu",
+          "slug": "people/7708-xu-lu",
+          "url": "https://mydramalist.com/people/7708-xu-lu",
+          "image_url": "https://i.mydramalist.com/RBrdwx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RBrdwx_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Shen Meng Chen",
+          "slug": "people/11872-shen-meng-chen",
+          "url": "https://mydramalist.com/people/11872-shen-meng-chen",
+          "image_url": "https://i.mydramalist.com/XJn0J_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XJn0J_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Wowkie Zhang",
+          "slug": "people/17277-zhang-wowkie",
+          "url": "https://mydramalist.com/people/17277-zhang-wowkie",
+          "image_url": "https://i.mydramalist.com/Zg8gYs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Zg8gYs.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Hawick Lau",
+          "slug": "people/2063-lau-hawick",
+          "url": "https://mydramalist.com/people/2063-lau-hawick",
+          "image_url": "https://i.mydramalist.com/4e34qk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4e34qk_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Zhang Hao Ran",
+          "slug": "people/18704-zhang-hao-ran",
+          "url": "https://mydramalist.com/people/18704-zhang-hao-ran",
+          "image_url": "https://i.mydramalist.com/Zwyoj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Zwyoj_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Han Cheng Yu",
+          "slug": "people/6002-han-cheng-yu",
+          "url": "https://mydramalist.com/people/6002-han-cheng-yu",
+          "image_url": "https://i.mydramalist.com/4ERX1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4ERX1_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Laugh Out Loud Episode 1",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Laugh Out Loud Episode 2",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Laugh Out Loud Episode 3",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Laugh Out Loud Episode 4",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Laugh Out Loud Episode 5",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Laugh Out Loud Episode 6",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Laugh Out Loud Episode 7",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Laugh Out Loud Episode 8",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Laugh Out Loud Episode 9",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Laugh Out Loud Episode 10",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Laugh Out Loud Episode 11",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Laugh Out Loud Episode 12",
+        "url": "https://mydramalist.com/62605-laugh-out-loud/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/QYlP4_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/QYlP4_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T16:49:45.639Z"
+  },
+  {
+    "id": 8754,
+    "slug": "8754-the-destiny-",
+    "url": "https://mydramalist.com/8754-the-destiny-",
+    "title": "The Destiny",
+    "complete_title": "The Destiny (2014)",
+    "native_title": "江南爱情故事",
+    "sub_title": "江南爱情故事 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Jiang Nan Ai Qing Gu Shi"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 33 min.",
+    "duration_minutes": 93,
+    "content_rating": "Not Yet Rated",
+    "rating": 8.419,
+    "scored_by": 3,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 19,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Qzgl2_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Qzgl2_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Qzgl2_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Qzgl2_4f.jpg",
+        "title": "The Destiny (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/wJn4ks.jpg",
+        "hd_url": "https://i.mydramalist.com/wJn4ks.jpg",
+        "title": "The Destiny Chinese Movie(2014) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/wJn4km.jpg",
+        "hd_url": "https://i.mydramalist.com/wJn4km.jpg",
+        "title": "The Destiny (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zhang En Qi",
+          "slug": "people/90997-zhang-en-qi",
+          "url": "https://mydramalist.com/people/90997-zhang-en-qi",
+          "image_url": "https://i.mydramalist.com/73ExKe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73ExKe_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Shen Tao",
+          "slug": "people/55975-shen-tao",
+          "url": "https://mydramalist.com/people/55975-shen-tao",
+          "image_url": "https://i.mydramalist.com/6l0Ad_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6l0Ad_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:49:53.126Z"
+  },
+  {
+    "id": 11428,
+    "slug": "11428-the-cabin-in-the-mountains",
+    "url": "https://mydramalist.com/11428-the-cabin-in-the-mountains",
+    "title": "The Cabin in the Mountains",
+    "complete_title": "The Cabin in the Mountains (2014)",
+    "native_title": "林中小屋",
+    "sub_title": "林中小屋 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Lin Zhong Xiao Wu , Línzhōng Xiǎowū , The Lodge in the Woods"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 35 min.",
+    "duration_minutes": 95,
+    "content_rating": "18+ Restricted (violence & profanity)",
+    "rating": 6.233,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 33,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "With Valentine's Day approaching, a group of seven wealthy and beautiful friends go to a lodge in a Vietnam's mountain on vacation, but their idyllic holiday soon takes a dark turn when one of them is found dead in the woods. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/81lmbc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/81lmbc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/81lmbc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/81lmbc.jpg",
+        "title": "The Cabin in the Mountains (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/81lmbs.jpg",
+        "hd_url": "https://i.mydramalist.com/81lmbs.jpg",
+        "title": "The Cabin in the Mountains Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/81lmbm.jpg",
+        "hd_url": "https://i.mydramalist.com/81lmbm.jpg",
+        "title": "The Cabin in the Mountains (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Gregory Wong",
+          "slug": "people/8610-wong-gregory",
+          "url": "https://mydramalist.com/people/8610-wong-gregory",
+          "image_url": "https://i.mydramalist.com/ONBJbs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ONBJbs.jpg",
+          "character": "Jian Ming",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Sienna Li",
+          "slug": "people/9904-li-sienna",
+          "url": "https://mydramalist.com/people/9904-li-sienna",
+          "image_url": "https://i.mydramalist.com/wBQKY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wBQKY_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Du Yi Heng",
+          "slug": "people/17590-mark-du",
+          "url": "https://mydramalist.com/people/17590-mark-du",
+          "image_url": "https://i.mydramalist.com/73VDjR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73VDjR_5f.jpg",
+          "character": "Zhen Bang",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "A.Lin",
+          "slug": "people/11753-a.lin",
+          "url": "https://mydramalist.com/people/11753-a.lin",
+          "image_url": "https://i.mydramalist.com/Q26K7s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Q26K7s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gu Shang Wei",
+          "slug": "people/92739-gu-shang-wei",
+          "url": "https://mydramalist.com/people/92739-gu-shang-wei",
+          "image_url": "https://i.mydramalist.com/6Oz20_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6Oz20_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tu Jia Na",
+          "slug": "people/79841-tu-jia-na",
+          "url": "https://mydramalist.com/people/79841-tu-jia-na",
+          "image_url": "https://i.mydramalist.com/j6AwJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/j6AwJ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Ava Yu",
+          "slug": "people/79189-ava-yu",
+          "url": "https://mydramalist.com/people/79189-ava-yu",
+          "image_url": "https://i.mydramalist.com/r8Bw2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r8Bw2_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:49:59.120Z"
+  },
+  {
+    "id": 63535,
+    "slug": "63535-chrysanthemum-terrace",
+    "url": "https://mydramalist.com/63535-chrysanthemum-terrace",
+    "title": "Chrysanthemum Terrace",
+    "complete_title": "Chrysanthemum Terrace (2014)",
+    "native_title": "菊花台",
+    "sub_title": "菊花台 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Ju Hua Tai"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/ZBVJ8_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ZBVJ8_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ZBVJ8_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ZBVJ8_4f.jpg",
+        "title": "Chrysanthemum Terrace (2014) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Grace Xia",
+          "slug": "people/20080-xia-yi-yao",
+          "url": "https://mydramalist.com/people/20080-xia-yi-yao",
+          "image_url": "https://i.mydramalist.com/6Pwjd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6Pwjd_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Song Lai Yun",
+          "slug": "people/144970-song-lai-yun",
+          "url": "https://mydramalist.com/people/144970-song-lai-yun",
+          "image_url": "https://i.mydramalist.com/DkK4lN_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/DkK4lN_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Huang Hai",
+          "slug": "people/50419-huang-hai",
+          "url": "https://mydramalist.com/people/50419-huang-hai",
+          "image_url": "https://i.mydramalist.com/Rbwzr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rbwzr_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:50:04.790Z"
+  },
+  {
+    "id": 709671,
+    "slug": "709671-wei-xin-i-yan-yu",
+    "url": "https://mydramalist.com/709671-wei-xin-i-yan-yu",
+    "title": "Wei Xin I Yan Yu",
+    "complete_title": "Wei Xin I Yan Yu (2014)",
+    "native_title": "微信之艳遇",
+    "sub_title": "微信之艳遇 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Wei Xin Zhi Yan Yu , 微信之艷遇"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Z6dE8_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Z6dE8_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Z6dE8_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Z6dE8_4f.jpg",
+        "title": "Wei Xin I Yan Yu (2014) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zenia Chu",
+          "slug": "people/80219-zenia-chu",
+          "url": "https://mydramalist.com/people/80219-zenia-chu",
+          "image_url": "https://i.mydramalist.com/0VKq6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0VKq6_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jenny Gui",
+          "slug": "people/80297-jenny-gui",
+          "url": "https://mydramalist.com/people/80297-jenny-gui",
+          "image_url": "https://i.mydramalist.com/r6g7p_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r6g7p_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Deng Tian Qing",
+          "slug": "people/80273-deng-tian-qing",
+          "url": "https://mydramalist.com/people/80273-deng-tian-qing",
+          "image_url": "https://i.mydramalist.com/qzJNQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qzJNQ_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:50:10.460Z"
+  },
+  {
+    "id": 748477,
+    "slug": "748477-peng-you-quan-zhi-te-bie-ding-zhi",
+    "url": "https://mydramalist.com/748477-peng-you-quan-zhi-te-bie-ding-zhi",
+    "title": "Peng You Quan Zhi Te Bie Ding Zhi",
+    "complete_title": "Peng You Quan Zhi Te Bie Ding Zhi (2014)",
+    "native_title": "朋友圈之特别定制",
+    "sub_title": "朋友圈之特别定制 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Peng You Quan 1 Te Bie Ding Zhi , 朋友圈1特別定制 , 朋友圈1特别定制 , 朋友圈之特別定制"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 14 min.",
+    "duration_minutes": 74,
+    "content_rating": "Not Yet Rated",
+    "rating": 20,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 20,
+    "favorites": 0,
+    "genres": [],
+    "tags": [
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "synopsis": "A story about the real life behind the fashion world of two artists and models, Yan Jiao Jiao and Ai Li Sha, who work in the \"entertainment business\". (Source: Chinese = Baidu || Translation = MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/E5dm7Q_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/E5dm7Q_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/E5dm7Q_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/E5dm7Q_4f.jpg",
+        "title": "Peng You Quan Zhi Te Bie Ding Zhi (2014) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:50:15.936Z"
+  },
+  {
+    "id": 22275,
+    "slug": "22275-the-night",
+    "url": "https://mydramalist.com/22275-the-night",
+    "title": "The Night",
+    "complete_title": "The Night (2014)",
+    "native_title": "夜",
+    "sub_title": "夜 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Ye"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 35 min.",
+    "duration_minutes": 95,
+    "content_rating": "Not Yet Rated",
+    "rating": 101,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 101,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Sex Industry",
+        "id": "23459"
+      },
+      {
+        "name": "Prostitute Male Lead",
+        "id": "20023"
+      },
+      {
+        "name": "Gay Male Lead",
+        "id": "18113"
+      },
+      {
+        "name": "Gay Romance",
+        "id": "15263"
+      },
+      {
+        "name": "Prostitute Female Lead",
+        "id": "10783"
+      },
+      {
+        "name": "Gay Relationship",
+        "id": "1452"
+      },
+      {
+        "name": "LGBTQ+",
+        "id": "1045"
+      },
+      {
+        "name": "Social Issues",
+        "id": "1025"
+      },
+      {
+        "name": "Prostitution",
+        "id": "174"
+      }
+    ],
+    "synopsis": "Lives of male and female prostitutes in China. A young man stands in front of a mirror. The night belongs to him. Every evening, he appraises his appearance, attired in a new shirt, leaves his apartment and waits in a poorly lit alleyway for his johns. One night he meets a female prostitute of his age who’s new in this part of town. They flirt and wander the streets, toy with the idea of renting their bodies out to each other and name themselves after flowers: he calls himself Tuberose and she, Narcissus. The strangers they follow remain faceless – until Rose, a one-night stand, falls in love with Tuberose. With help from Narcissus, Rose uses all his charm to try to win over the young sex worker and although Tuberose responds with cool reserve it becomes increasingly difficult for him to remain aloof. In his visually impressive, sensual debut film in which he also plays the leading role this 21-year-old director demonstrates all the poetic intensity of a Jean Genet in describing these three misfits’ mute search for intimacy. The love songs of Taiwanese singer Teresa Tung help the protagonist get in touch with his locked-away emotions. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/5dwy4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/5dwy4c.jpg",
+    "trailer_id": "8219",
+    "trailers": [
+      {
+        "id": "8219",
+        "title": "The Night Official Trailer",
+        "url": "https://v.mydramalist.com/653/6531d267e79dc56806a0f69f306d1adf_1280x720.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/5dwy4c.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/5dwy4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/5dwy4c.jpg",
+        "title": "The Night (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/5dwy4s.jpg",
+        "hd_url": "https://i.mydramalist.com/5dwy4s.jpg",
+        "title": "The Night Chinese Movie(2014) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/5dwy4m.jpg",
+        "hd_url": "https://i.mydramalist.com/5dwy4m.jpg",
+        "title": "The Night (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:50:22.236Z"
+  },
+  {
+    "id": 7589,
+    "slug": "7589-unexpected-love",
+    "url": "https://mydramalist.com/7589-unexpected-love",
+    "title": "Unexpected Love",
+    "complete_title": "Unexpected Love (2014)",
+    "native_title": "谁说我们不会爱",
+    "sub_title": "谁说我们不会爱 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Amor Inesperado , Gong Ti Ai Qing Gu Shi , Shui Shuo Wo Men Bu Hui Ai"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 36 min.",
+    "duration_minutes": 96,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.5166,
+    "scored_by": 7,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 166,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "The movie tells the stories of four young couples of young lovers in a raucous night club setting. In the film, all eight of the characters come from different family backgrounds and hold different attitudes towards love. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/XdgZqc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XdgZqc.jpg",
+    "trailer_id": "1463",
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XdgZqc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XdgZqc.jpg",
+        "title": "Unexpected Love (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/XdgZqs.jpg",
+        "hd_url": "https://i.mydramalist.com/XdgZqs.jpg",
+        "title": "Unexpected Love Chinese Movie(2014) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/M53Kes.jpg",
+        "hd_url": "https://i.mydramalist.com/M53Kes.jpg",
+        "title": "Unexpected Love Chinese Movie(2014) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/aklxgs.jpg",
+        "hd_url": "https://i.mydramalist.com/aklxgs.jpg",
+        "title": "Unexpected Love Chinese Movie(2014) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/a8WBWs.jpg",
+        "hd_url": "https://i.mydramalist.com/a8WBWs.jpg",
+        "title": "Unexpected Love Chinese Movie(2014) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Mdpxbs.jpg",
+        "hd_url": "https://i.mydramalist.com/Mdpxbs.jpg",
+        "title": "Unexpected Love Chinese Movie(2014) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/aEAgzs.jpg",
+        "hd_url": "https://i.mydramalist.com/aEAgzs.jpg",
+        "title": "Unexpected Love Chinese Movie(2014) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/XdgZqm.jpg",
+        "hd_url": "https://i.mydramalist.com/XdgZqm.jpg",
+        "title": "Unexpected Love (2014)"
+      },
+      {
+        "url": "https://i.mydramalist.com/M53Kem.jpg",
+        "hd_url": "https://i.mydramalist.com/M53Kem.jpg",
+        "title": "Unexpected Love (2014)"
+      },
+      {
+        "url": "https://i.mydramalist.com/aklxgm.jpg",
+        "hd_url": "https://i.mydramalist.com/aklxgm.jpg",
+        "title": "Unexpected Love (2014)"
+      },
+      {
+        "url": "https://i.mydramalist.com/a8WBWm.jpg",
+        "hd_url": "https://i.mydramalist.com/a8WBWm.jpg",
+        "title": "Unexpected Love (2014)"
+      },
+      {
+        "url": "https://i.mydramalist.com/Mdpxbm.jpg",
+        "hd_url": "https://i.mydramalist.com/Mdpxbm.jpg",
+        "title": "Unexpected Love (2014)"
+      },
+      {
+        "url": "https://i.mydramalist.com/aEAgzm.jpg",
+        "hd_url": "https://i.mydramalist.com/aEAgzm.jpg",
+        "title": "Unexpected Love (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Unexpected Love 2",
+        "slug": "69297-unexpected-love-2",
+        "url": "https://mydramalist.com/69297-unexpected-love-2",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Melrose Hu",
+          "slug": "people/7411-melrose-hu",
+          "url": "https://mydramalist.com/people/7411-melrose-hu",
+          "image_url": "https://i.mydramalist.com/B5PQV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B5PQV_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Du Chun",
+          "slug": "people/855-du-chun",
+          "url": "https://mydramalist.com/people/855-du-chun",
+          "image_url": "https://i.mydramalist.com/ABXlbE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABXlbE_5f.jpg",
+          "character": "Xin Shao Ye",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Elena Chen",
+          "slug": "people/21159-chen-ting-jia",
+          "url": "https://mydramalist.com/people/21159-chen-ting-jia",
+          "image_url": "https://i.mydramalist.com/50drBs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/50drBs.jpg",
+          "character": "Yu Zuo Zuo",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Ying Er",
+          "slug": "people/2174-ying-er",
+          "url": "https://mydramalist.com/people/2174-ying-er",
+          "image_url": "https://i.mydramalist.com/g0d5Oo_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0d5Oo_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gao Hu",
+          "slug": "people/16557-gao-hu",
+          "url": "https://mydramalist.com/people/16557-gao-hu",
+          "image_url": "https://i.mydramalist.com/rrOWy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rrOWy_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "September Zhang",
+          "slug": "people/45309-september-zhang",
+          "url": "https://mydramalist.com/people/45309-september-zhang",
+          "image_url": "https://i.mydramalist.com/Z80jq7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Z80jq7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gao Shi Ming",
+          "slug": "people/35967-gao-jian",
+          "url": "https://mydramalist.com/people/35967-gao-jian",
+          "image_url": "https://i.mydramalist.com/vKzbp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vKzbp_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Miranda Wang",
+          "slug": "people/119721-miranda-wang",
+          "url": "https://mydramalist.com/people/119721-miranda-wang",
+          "image_url": "https://i.mydramalist.com/1wd5z3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wd5z3_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Wen Xiang",
+          "slug": "people/70191-wen-xiang",
+          "url": "https://mydramalist.com/people/70191-wen-xiang",
+          "image_url": "https://i.mydramalist.com/6PgrW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6PgrW_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Zi Mu",
+          "slug": "people/7407-zhang-zi-mu",
+          "url": "https://mydramalist.com/people/7407-zhang-zi-mu",
+          "image_url": "https://i.mydramalist.com/Pxy625_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Pxy625_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Li Yan Sheng",
+          "slug": "people/20371-li-yan-sheng",
+          "url": "https://mydramalist.com/people/20371-li-yan-sheng",
+          "image_url": "https://i.mydramalist.com/Avy2Ls.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Avy2Ls.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Yue Xiao Jun",
+          "slug": "people/60465-yue-xiao-jun",
+          "url": "https://mydramalist.com/people/60465-yue-xiao-jun",
+          "image_url": "https://i.mydramalist.com/DkmO1N_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/DkmO1N_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Ba Duo",
+          "slug": "people/57645-ba-duo",
+          "url": "https://mydramalist.com/people/57645-ba-duo",
+          "image_url": "https://i.mydramalist.com/kKeLv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kKeLv_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Sharon Hui",
+          "slug": "people/48473-sharon-hui",
+          "url": "https://mydramalist.com/people/48473-sharon-hui",
+          "image_url": "https://i.mydramalist.com/18wXb_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/18wXb_5f.jpg",
+          "role_type": "Screenwriter"
+        },
+        {
+          "name": "Mai Tian",
+          "slug": "people/50461-mai-tian",
+          "url": "https://mydramalist.com/people/50461-mai-tian",
+          "image_url": "https://i.mydramalist.com/rvpK7_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rvpK7_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Shi Tian Qi",
+          "slug": "people/42055-shi-tian-qi",
+          "url": "https://mydramalist.com/people/42055-shi-tian-qi",
+          "image_url": "https://i.mydramalist.com/jQVQ8J_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQVQ8J_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Nelson Cheung",
+          "slug": "people/85539-nelson-cheung",
+          "url": "https://mydramalist.com/people/85539-nelson-cheung",
+          "image_url": "https://i.mydramalist.com/rJmQg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rJmQg_5f.jpg",
+          "role_type": "Bit part"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:50:28.595Z"
+  },
+  {
+    "id": 47809,
+    "slug": "47809-u-disc",
+    "url": "https://mydramalist.com/47809-u-disc",
+    "title": "U DISC",
+    "complete_title": "U DISC (2014)",
+    "native_title": "U盤",
+    "sub_title": "U盤 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "U Disk , U Pan , U Poon , U盘"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 35 min.",
+    "duration_minutes": 95,
+    "content_rating": "Not Yet Rated",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/vdYeWc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/vdYeWc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/vdYeWc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/vdYeWc.jpg",
+        "title": "U DISC (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/vdYeWs.jpg",
+        "hd_url": "https://i.mydramalist.com/vdYeWs.jpg",
+        "title": "U DISC Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/vdYeWm.jpg",
+        "hd_url": "https://i.mydramalist.com/vdYeWm.jpg",
+        "title": "U DISC (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:50:35.676Z"
+  },
+  {
+    "id": 38981,
+    "slug": "38981-lake-august",
+    "url": "https://mydramalist.com/38981-lake-august",
+    "title": "Lake August",
+    "complete_title": "Lake August (2014)",
+    "native_title": "那片湖水",
+    "sub_title": "那片湖水 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Na Pian Hu Shui"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 55 min.",
+    "duration_minutes": 115,
+    "content_rating": "Not Yet Rated",
+    "rating": 9,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 9,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "One summer morning, Ah Li's father throws himself into a lake and ends his life. After the funeral, Ah Li lives a solitary life until one day, his former girlfriend tells him she is getting married. Feeling abandoned, Ah Li goes home and drinks himself into a stupor. He then decides to go to a lakeside resort to forget his troubles in a change of scene. There, he finds himself at a lakeside restaurant, where he meets the manager, a young lady named Ah Fang. (Source: IMDB) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/1pe0zc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1pe0zc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1pe0zc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1pe0zc.jpg",
+        "title": "Lake August (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/1pe0zs.jpg",
+        "hd_url": "https://i.mydramalist.com/1pe0zs.jpg",
+        "title": "Lake August Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/1pe0zm.jpg",
+        "hd_url": "https://i.mydramalist.com/1pe0zm.jpg",
+        "title": "Lake August (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Yang Heng",
+          "slug": "people/29527-yang-heng",
+          "url": "https://mydramalist.com/people/29527-yang-heng",
+          "image_url": "https://i.mydramalist.com/RAKXom.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RAKXom.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:50:41.738Z"
+  },
+  {
+    "id": 51019,
+    "slug": "51019-a-gold-medal-winning-tramp-dog",
+    "url": "https://mydramalist.com/51019-a-gold-medal-winning-tramp-dog",
+    "title": "A Gold Medal Winning Tramp Dog",
+    "complete_title": "A Gold Medal Winning Tramp Dog (2014)",
+    "native_title": "金牌流浪狗",
+    "sub_title": "金牌流浪狗 ‧ Movie ‧ 2014",
+    "also_known_as": [
+      "Come on Wang Xing Ren , Come on Wong Sing Yan , Come on! 汪星人 , Gam Paai Lau Long Sau"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2014,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 23 min.",
+    "duration_minutes": 83,
+    "content_rating": "G - All Ages",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Sports",
+        "id": "31"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Dog",
+        "id": "1237"
+      },
+      {
+        "name": "Animal",
+        "id": "9"
+      }
+    ],
+    "synopsis": "Lu Fei, a teenage boy found the dog, Dong Dong, wandering on the streets in an almost dying condition. He felt sympathetic towards it and decided to adopt it. Lu Fei soon found out the talent of Dong Dong, and despite the disagreement from his father and the school manager, he kept it to train it for the Gold Medal Winning Tramp Dog championship. (Source: Wikipedia) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/xQe13c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/xQe13c.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/xQe13c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/xQe13c.jpg",
+        "title": "A Gold Medal Winning Tramp Dog (2014) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/xQe13s.jpg",
+        "hd_url": "https://i.mydramalist.com/xQe13s.jpg",
+        "title": "A Gold Medal Winning Tramp Dog Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/xQe13m.jpg",
+        "hd_url": "https://i.mydramalist.com/xQe13m.jpg",
+        "title": "A Gold Medal Winning Tramp Dog (2014)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Mao Yi",
+          "slug": "people/41447-mao-yi",
+          "url": "https://mydramalist.com/people/41447-mao-yi",
+          "image_url": "https://i.mydramalist.com/XzOEX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XzOEX_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Du Xiao Nan",
+          "slug": "people/160166-du-xiao-nan",
+          "url": "https://mydramalist.com/people/160166-du-xiao-nan",
+          "image_url": "https://i.mydramalist.com/l0b6Qe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0b6Qe_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T16:50:47.771Z"
   }
 ]
