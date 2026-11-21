@@ -241896,5 +241896,5337 @@
       }
     ],
     "scraped_at": "2026-11-21T08:56:29.965Z"
+  },
+  {
+    "id": 763111,
+    "slug": "763111-little-big-star",
+    "url": "https://mydramalist.com/763111-little-big-star",
+    "title": "Little Big Star",
+    "complete_title": "Little Big Star (2005)",
+    "native_title": "Little Big Star",
+    "sub_title": "Little Big Star ‧ TV Program ‧ 2005 - 2006",
+    "also_known_as": [
+      "Little Big Star 1 , Little Big Star Season 1"
+    ],
+    "type": "TV Program",
+    "country": "Philippines",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "Sep 24, 2005 - Apr 8, 2006",
+    "aired_start": "2005-09-24",
+    "aired_end": "2006-04-08",
+    "aired_on": [
+      "Saturday"
+    ],
+    "original_network": "ABS-CBN",
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "Not Yet Rated",
+    "rating": 0,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 0,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Youth",
+        "id": "24"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Singing",
+        "id": "1343"
+      },
+      {
+        "name": "Talent Show",
+        "id": "249"
+      },
+      {
+        "name": "Competition",
+        "id": "100"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XdKnjp_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XdKnjp_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XdKnjp_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XdKnjp_4f.jpg",
+        "title": "Little Big Star (2005) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Little Big Star Season 2",
+        "slug": "763113-little-big-star-season-2",
+        "url": "https://mydramalist.com/763113-little-big-star-season-2",
+        "relation": "Filipino sequel"
+      },
+      {
+        "title": "Little Big Superstar",
+        "slug": "763115-little-big-superstar",
+        "url": "https://mydramalist.com/763115-little-big-superstar",
+        "relation": "Filipino spinoff"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Sarah Geronimo",
+          "slug": "people/17829-sarah-geronimo",
+          "url": "https://mydramalist.com/people/17829-sarah-geronimo",
+          "image_url": "https://i.mydramalist.com/QWdpY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QWdpY_5f.jpg",
+          "role_type": "Main Host"
+        },
+        {
+          "name": "Makisig Morales",
+          "slug": "people/50845-makisig-morales",
+          "url": "https://mydramalist.com/people/50845-makisig-morales",
+          "image_url": "https://i.mydramalist.com/kq4Od_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kq4Od_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Sam Concepcion",
+          "slug": "people/21722-sam-concepcion",
+          "url": "https://mydramalist.com/people/21722-sam-concepcion",
+          "image_url": "https://i.mydramalist.com/BdqLPl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BdqLPl_5f.jpg",
+          "role_type": "Regular Member"
+        },
+        {
+          "name": "Jake Zyrus",
+          "slug": "people/150730-jake-zyrus",
+          "url": "https://mydramalist.com/people/150730-jake-zyrus",
+          "image_url": "https://i.mydramalist.com/73bOkr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73bOkr_5f.jpg",
+          "role_type": "Regular Member"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Little Big Star Episode 1",
+        "url": "https://mydramalist.com/763111-little-big-star/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/XdKnjp_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/XdKnjp_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T08:56:40.046Z"
+  },
+  {
+    "id": 3443,
+    "slug": "3443-haan",
+    "url": "https://mydramalist.com/3443-haan",
+    "title": "Haan",
+    "complete_title": "Haan (2005)",
+    "native_title": "HAAN 한길수",
+    "sub_title": "HAAN 한길수 ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "Haan, Han Gil Soo"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 32 min.",
+    "duration_minutes": 92,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.237,
+    "scored_by": 7,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 37,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "The Pearl Harbor Attack by Japan in 1941 and the nuclear bomb explosion in 1945 together led to the independence of Chosun (Korea). Behind these historical incidents, there was HAN Gil-soo, the double agent. For Chosun's independence, HAN has stirred the era. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/9oeRzc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/9oeRzc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/9oeRzc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/9oeRzc.jpg",
+        "title": "Haan (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/9oeRzs.jpg",
+        "hd_url": "https://i.mydramalist.com/9oeRzs.jpg",
+        "title": "Haan Korean Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/9oeRzm.jpg",
+        "hd_url": "https://i.mydramalist.com/9oeRzm.jpg",
+        "title": "Haan (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Ahn Jae Mo",
+          "slug": "people/859-ahn-jae-mo",
+          "url": "https://mydramalist.com/people/859-ahn-jae-mo",
+          "image_url": "https://i.mydramalist.com/eYgq2Y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eYgq2Y_5f.jpg",
+          "character": "Haan Gil Soo",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Im Yoo Jin",
+          "slug": "people/18341-im-yoo-jin",
+          "url": "https://mydramalist.com/people/18341-im-yoo-jin",
+          "image_url": "https://i.mydramalist.com/wmexps.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wmexps.jpg",
+          "character": "Na Na Mi / Yoon Ji In",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Go Jung Il",
+          "slug": "people/32953-go-jung-il",
+          "url": "https://mydramalist.com/people/32953-go-jung-il",
+          "image_url": "https://i.mydramalist.com/QNRVYs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QNRVYs.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Lee Young Suk",
+          "slug": "people/13878-lee-young-suk",
+          "url": "https://mydramalist.com/people/13878-lee-young-suk",
+          "image_url": "https://i.mydramalist.com/AvqzZs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/AvqzZs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Han In Soo",
+          "slug": "people/1871-han-in-soo",
+          "url": "https://mydramalist.com/people/1871-han-in-soo",
+          "image_url": "https://i.mydramalist.com/w2LBgs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/w2LBgs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shin Wu Cheol",
+          "slug": "people/78785-shin-wu-cheol",
+          "url": "https://mydramalist.com/people/78785-shin-wu-cheol",
+          "image_url": "https://i.mydramalist.com/E4zez_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E4zez_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jeong Min Sung",
+          "slug": "people/1872-jung-min-sung",
+          "url": "https://mydramalist.com/people/1872-jung-min-sung",
+          "image_url": "https://i.mydramalist.com/RRnBx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RRnBx_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Song Seung Yong",
+          "slug": "people/30743-song-seung-yong",
+          "url": "https://mydramalist.com/people/30743-song-seung-yong",
+          "image_url": "https://i.mydramalist.com/vzy2e_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vzy2e_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jung Jong Yul",
+          "slug": "people/28577-jung-jong-yul",
+          "url": "https://mydramalist.com/people/28577-jung-jong-yul",
+          "image_url": "https://i.mydramalist.com/eNZxW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eNZxW_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Park Young",
+          "slug": "people/7887-park-young",
+          "url": "https://mydramalist.com/people/7887-park-young",
+          "image_url": "https://i.mydramalist.com/VBnLLs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VBnLLs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Lee Jung Hoon",
+          "slug": "people/2847-lee-jung-hoon",
+          "url": "https://mydramalist.com/people/2847-lee-jung-hoon",
+          "image_url": "https://i.mydramalist.com/rqYyys.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rqYyys.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Choi Hae Chul",
+          "slug": "people/58549-choi-hae-chul",
+          "url": "https://mydramalist.com/people/58549-choi-hae-chul",
+          "image_url": "https://i.mydramalist.com/WgnWp_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WgnWp_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T08:56:47.625Z"
+  },
+  {
+    "id": 26998,
+    "slug": "26998-christmas-in-august",
+    "url": "https://mydramalist.com/26998-christmas-in-august",
+    "title": "Christmas in August",
+    "complete_title": "Christmas in August (2005)",
+    "native_title": "８月のクリスマス",
+    "sub_title": "８月のクリスマス ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "8-gatsu no Kurisumasu"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 43 min.",
+    "duration_minutes": 103,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.469,
+    "scored_by": 7,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 69,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Remake of 1998 South Korean film, about a guy who suffers from a fatal disease falls in love with a girl. What will be the fate of this love, will it be a tragic ending? English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/Bqdjbc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Bqdjbc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Bqdjbc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Bqdjbc.jpg",
+        "title": "Christmas in August (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bqdjbs.jpg",
+        "hd_url": "https://i.mydramalist.com/Bqdjbs.jpg",
+        "title": "Christmas in August Japanese Movie(2005) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Bqdjbm.jpg",
+        "hd_url": "https://i.mydramalist.com/Bqdjbm.jpg",
+        "title": "Christmas in August (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [
+      {
+        "title": "Christmas in August",
+        "slug": "1246-christmas-in-august",
+        "url": "https://mydramalist.com/1246-christmas-in-august",
+        "poster_url": "https://i.mydramalist.com/Bbyjbt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/Bbyjbt.jpg",
+        "year": 1998,
+        "votes": 0
+      },
+      {
+        "title": "Butterfly Sleep",
+        "slug": "26254-butterfly-sleep",
+        "url": "https://mydramalist.com/26254-butterfly-sleep",
+        "poster_url": "https://i.mydramalist.com/lyyZJt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/lyyZJt.jpg",
+        "year": 2017,
+        "votes": 0
+      },
+      {
+        "title": "First Time",
+        "slug": "5050-first-time",
+        "url": "https://mydramalist.com/5050-first-time",
+        "poster_url": "https://i.mydramalist.com/92kBEt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/92kBEt.jpg",
+        "year": 2012,
+        "votes": 0
+      },
+      {
+        "title": "...ing",
+        "slug": "519-...ing",
+        "url": "https://mydramalist.com/519-...ing",
+        "poster_url": "https://i.mydramalist.com/90469t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/90469t.jpg",
+        "year": 2003,
+        "votes": 0
+      },
+      {
+        "title": "Now and Forever",
+        "slug": "552-now-and-forever",
+        "url": "https://mydramalist.com/552-now-and-forever",
+        "poster_url": "https://i.mydramalist.com/qYye0z_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/qYye0z_4f.jpg",
+        "year": 2006,
+        "votes": 0
+      },
+      {
+        "title": "Bad Memory Eraser",
+        "slug": "705075-bad-memory-eraser",
+        "url": "https://mydramalist.com/705075-bad-memory-eraser",
+        "poster_url": "https://i.mydramalist.com/rNzw8p_4t.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/rNzw8p_4f.jpg",
+        "year": 2024,
+        "votes": 0
+      }
+    ],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Christmas in August",
+        "slug": "1246-christmas-in-august",
+        "url": "https://mydramalist.com/1246-christmas-in-august",
+        "relation": "Korean parent story"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Seki Megumi",
+          "slug": "people/1554-seki-megumi",
+          "url": "https://mydramalist.com/people/1554-seki-megumi",
+          "image_url": "https://i.mydramalist.com/B4Jn5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B4Jn5_5f.jpg",
+          "character": "Takahashi Yukiko",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Igawa Hisashi",
+          "slug": "people/12596-igawa-hisashi",
+          "url": "https://mydramalist.com/people/12596-igawa-hisashi",
+          "image_url": "https://i.mydramalist.com/EjyQl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EjyQl_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nishida Naomi",
+          "slug": "people/2217-nishida-naomi",
+          "url": "https://mydramalist.com/people/2217-nishida-naomi",
+          "image_url": "https://i.mydramalist.com/BEme1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BEme1_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Toda Naho",
+          "slug": "people/1039-toda-naho",
+          "url": "https://mydramalist.com/people/1039-toda-naho",
+          "image_url": "https://i.mydramalist.com/l06ExJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l06ExJ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Suwa Taro",
+          "slug": "people/1937-suwa-taro",
+          "url": "https://mydramalist.com/people/1937-suwa-taro",
+          "image_url": "https://i.mydramalist.com/2woLkE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2woLkE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ohkura Koji",
+          "slug": "people/711-ohkura-koji",
+          "url": "https://mydramalist.com/people/711-ohkura-koji",
+          "image_url": "https://i.mydramalist.com/Lw6YZ5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lw6YZ5_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Noguchi Masahiro",
+          "slug": "people/11283-noguchi-masahiro",
+          "url": "https://mydramalist.com/people/11283-noguchi-masahiro",
+          "image_url": "https://i.mydramalist.com/jNW4y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jNW4y_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Hanatani Hidefumi",
+          "slug": "people/134345-hanatani-hidefumi",
+          "url": "https://mydramalist.com/people/134345-hanatani-hidefumi",
+          "image_url": "https://i.mydramalist.com/WPBPOX_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WPBPOX_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Nagasaki Shunichi",
+          "slug": "people/53175-nagasaki-shunichi",
+          "url": "https://mydramalist.com/people/53175-nagasaki-shunichi",
+          "image_url": "https://i.mydramalist.com/w3lzn_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/w3lzn_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Mizushima Kaori",
+          "slug": "people/4808-mizushima-kaori",
+          "url": "https://mydramalist.com/people/4808-mizushima-kaori",
+          "image_url": "https://i.mydramalist.com/6R8bX_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6R8bX_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Yamazaki Masayoshi",
+          "slug": "people/34289-yamazaki-masayoshi",
+          "url": "https://mydramalist.com/people/34289-yamazaki-masayoshi",
+          "image_url": "https://i.mydramalist.com/vXgNLp_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXgNLp_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Otakara Tomoko",
+          "slug": "people/51747-otakara-tomoko",
+          "url": "https://mydramalist.com/people/51747-otakara-tomoko",
+          "image_url": "https://i.mydramalist.com/eWDPW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eWDPW_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T08:56:53.483Z"
+  },
+  {
+    "id": 686245,
+    "slug": "686245-miss-peach-kyonyu-wa-momo-no-umami",
+    "url": "https://mydramalist.com/686245-miss-peach-kyonyu-wa-momo-no-umami",
+    "title": "Miss Peach: Kyonyu wa Momo no Umami",
+    "complete_title": "Miss Peach: Kyonyu wa Momo no Umami (2005)",
+    "native_title": "ミスピーチ 巨乳は桃の甘み",
+    "sub_title": "ミスピーチ 巨乳は桃の甘み ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "Miss Peach Memorial Edition , Miss Peach: Kyonyu wa Momo no Umami , Miss Peach: Peachy Sweetness Huge Breasts , Misu Piichi: Kyonyû wa Momo no Umami , Sweet As a Peach , ミス・ピーチ メモリアル・エディション"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "18+ Restricted (violence & profanity)",
+    "rating": 7,
+    "scored_by": null,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Mature",
+        "id": "40"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Pink Film",
+        "id": "5669"
+      },
+      {
+        "name": "Nudity",
+        "id": "696"
+      },
+      {
+        "name": "Extreme Sexual Content",
+        "id": "428"
+      }
+    ],
+    "synopsis": "Sweet as a Peach follows three beautiful women as they compete for one of Japan’s most coveted positions….a spot in “Miss Fruit International” of course!! This is a ruthless competition, and no one is pulling any punches. Miki is our leading lady in this film, and she must keep hidden the deep and dark secrets that would destroy her! The busty and luscious Sakie tries desperately to use her body and sexuality to get what she wants, but will it be enough?! (Source: IMDb) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "/assets/noimage.jpg",
+    "poster_hd_url": "/assets/noimage.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Hayashi Yumika",
+          "slug": "people/60793-hayashi-yumika",
+          "url": "https://mydramalist.com/people/60793-hayashi-yumika",
+          "image_url": "https://i.mydramalist.com/2Z1dV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2Z1dV_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Yoshiyuki Yumi",
+          "slug": "people/37305-yoshiyuki-yumi",
+          "url": "https://mydramalist.com/people/37305-yoshiyuki-yumi",
+          "image_url": "https://i.mydramalist.com/2qwqWm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2qwqWm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T08:57:00.418Z"
+  },
+  {
+    "id": 15693,
+    "slug": "15693-kon-raruek-chat",
+    "url": "https://mydramalist.com/15693-kon-raruek-chat",
+    "title": "Kon Raruek Chat",
+    "complete_title": "Kon Raruek Chat (2005)",
+    "native_title": "คนระลึกชาติ",
+    "sub_title": "คนระลึกชาติ ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "The Remaker"
+    ],
+    "type": "Movie",
+    "country": "Thailand",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 15 min.",
+    "duration_minutes": 75,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.623,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 23,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      },
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Supernatural",
+        "id": "34"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      },
+      {
+        "name": "Karma",
+        "id": "3043"
+      },
+      {
+        "name": "Car Accident",
+        "id": "2552"
+      },
+      {
+        "name": "Supernatural Phenomena",
+        "id": "984"
+      },
+      {
+        "name": "Coma",
+        "id": "721"
+      }
+    ],
+    "synopsis": "While driving in a road, a reckless truck driver forces the car of the selfish exporter Tom to plunge off a bridge into a river. He is rescued by Pim, who jumps in the water to save him, and mysteriously get into a coma. Tom becomes aware that Pim and him are paying for what they had done wrong in their past lives, and Tom must save the lives of three women to redeem from his errors and save Pim. (Source: IMDb) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/bBZbec.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/bBZbec.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/bBZbec.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/bBZbec.jpg",
+        "title": "Kon Raruek Chat (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/XRBNO_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/XRBNO_3f.jpg",
+        "title": "Kon Raruek Chat Thai Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/RzXpR_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/RzXpR_3f.jpg",
+        "title": "Kon Raruek Chat Thai Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/2BXJ7_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/2BXJ7_3f.jpg",
+        "title": "Kon Raruek Chat Thai Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/v6zAX_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/v6zAX_3f.jpg",
+        "title": "Kon Raruek Chat Thai Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/17lAb_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/17lAb_3f.jpg",
+        "title": "Kon Raruek Chat Thai Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/bBZbes.jpg",
+        "hd_url": "https://i.mydramalist.com/bBZbes.jpg",
+        "title": "Kon Raruek Chat Thai Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/bBZbem.jpg",
+        "hd_url": "https://i.mydramalist.com/bBZbem.jpg",
+        "title": "Kon Raruek Chat (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Andrew Gregson",
+          "slug": "people/7331-gregson-andrew",
+          "url": "https://mydramalist.com/people/7331-gregson-andrew",
+          "image_url": "https://i.mydramalist.com/16oBb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/16oBb_5f.jpg",
+          "character": "Tom / Keng",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Aom Phiyada Chutharatkul",
+          "slug": "people/8556-akarasenee-phiyada",
+          "url": "https://mydramalist.com/people/8556-akarasenee-phiyada",
+          "image_url": "https://i.mydramalist.com/eeB4Y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eeB4Y_5f.jpg",
+          "character": "Pim / Fon / Koi / Tukta",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Pang Chun Oxide",
+          "slug": "people/37985-pang-chun-oxide",
+          "url": "https://mydramalist.com/people/37985-pang-chun-oxide",
+          "image_url": "https://i.mydramalist.com/qob6Bm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qob6Bm.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Uncle Adirek Wattaleela",
+          "slug": "people/76591-uncle-adirek-wattaleela",
+          "url": "https://mydramalist.com/people/76591-uncle-adirek-wattaleela",
+          "image_url": "https://i.mydramalist.com/wQO1k_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wQO1k_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T08:57:06.172Z"
+  },
+  {
+    "id": 760223,
+    "slug": "760223-much-ado-about-love-drama-special-love-stories-ii",
+    "url": "https://mydramalist.com/760223-much-ado-about-love-drama-special-love-stories-ii",
+    "title": "Much Ado About Love Drama Special: Love Stories II",
+    "complete_title": "Much Ado About Love Drama Special: Love Stories II (2005)",
+    "native_title": "恋のから騒ぎ ドラマスペシャル〜Love StoriesII〜",
+    "sub_title": "恋のから騒ぎ ドラマスペシャル〜Love StoriesII〜 ‧ Drama ‧ 2005",
+    "also_known_as": [
+      "Koi no kara Sawagi Dorama Supesharu: Love Stories II"
+    ],
+    "type": "Drama",
+    "country": "Japan",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": 1,
+    "aired_string": "Sep 21, 2005",
+    "aired_start": "2005-09-21",
+    "aired_end": "2005-09-21",
+    "aired_on": [
+      "Wednesday"
+    ],
+    "original_network": "NTV",
+    "duration_string": "2 hr. 8 min.",
+    "duration_minutes": 128,
+    "content_rating": "Not Yet Rated",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Omnibus",
+        "id": "1381"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/0wppVe_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/0wppVe_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/0wppVe_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/0wppVe_4f.jpg",
+        "title": "Much Ado About Love Drama Special: Love Stories II (2005) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Mizuki Alisa",
+          "slug": "people/466-mizuki-alisa",
+          "url": "https://mydramalist.com/people/466-mizuki-alisa",
+          "image_url": "https://i.mydramalist.com/v54kW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v54kW_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Kuninaka Ryoko",
+          "slug": "people/665-kuninaka-ryoko",
+          "url": "https://mydramalist.com/people/665-kuninaka-ryoko",
+          "image_url": "https://i.mydramalist.com/BJr81_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BJr81_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Yamaguchi Sayaka",
+          "slug": "people/2703-yamaguchi-sayaka",
+          "url": "https://mydramalist.com/people/2703-yamaguchi-sayaka",
+          "image_url": "https://i.mydramalist.com/73J61n_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73J61n_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sano Shiro",
+          "slug": "people/768-sano-shiro",
+          "url": "https://mydramalist.com/people/768-sano-shiro",
+          "image_url": "https://i.mydramalist.com/BdrdA7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BdrdA7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Saiki Shigeru",
+          "slug": "people/8150-saiki-shigeru",
+          "url": "https://mydramalist.com/people/8150-saiki-shigeru",
+          "image_url": "https://i.mydramalist.com/6VmbW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6VmbW_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ohkura Koji",
+          "slug": "people/711-ohkura-koji",
+          "url": "https://mydramalist.com/people/711-ohkura-koji",
+          "image_url": "https://i.mydramalist.com/Lw6YZ5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lw6YZ5_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hakamada Yoshihiko",
+          "slug": "people/3228-hakamada-yoshihiko",
+          "url": "https://mydramalist.com/people/3228-hakamada-yoshihiko",
+          "image_url": "https://i.mydramalist.com/eAnop_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eAnop_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Abe Sadawo",
+          "slug": "people/808-abe-sadao",
+          "url": "https://mydramalist.com/people/808-abe-sadao",
+          "image_url": "https://i.mydramalist.com/jn6JO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jn6JO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yoshida Hideko",
+          "slug": "people/33465-yoshida-hideko",
+          "url": "https://mydramalist.com/people/33465-yoshida-hideko",
+          "image_url": "https://i.mydramalist.com/WN0bps.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WN0bps.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Uehara Takako",
+          "slug": "people/3150-uehara-takako",
+          "url": "https://mydramalist.com/people/3150-uehara-takako",
+          "image_url": "https://i.mydramalist.com/GJKRos.jpg",
+          "image_hd_url": "https://i.mydramalist.com/GJKRos.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ryu Shi Won",
+          "slug": "people/1259-ryu-shi-won",
+          "url": "https://mydramalist.com/people/1259-ryu-shi-won",
+          "image_url": "https://i.mydramalist.com/O804zb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O804zb_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kondo Yoshimasa",
+          "slug": "people/4201-kondo-yoshimasa",
+          "url": "https://mydramalist.com/people/4201-kondo-yoshimasa",
+          "image_url": "https://i.mydramalist.com/rzPkE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rzPkE_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kohinata Fumiyo",
+          "slug": "people/514-kohinata-fumiyo",
+          "url": "https://mydramalist.com/people/514-kohinata-fumiyo",
+          "image_url": "https://i.mydramalist.com/jR3gJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jR3gJ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ichige Yoshie",
+          "slug": "people/3006-ichige-yoshie",
+          "url": "https://mydramalist.com/people/3006-ichige-yoshie",
+          "image_url": "https://i.mydramalist.com/joxxJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/joxxJ_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Much Ado About Love Drama Special: Love Stories II Episode 1",
+        "url": "https://mydramalist.com/760223-much-ado-about-love-drama-special-love-stories-ii/episode/1",
+        "air_date": "2005-09-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/0wppVe_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/0wppVe_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T08:57:11.747Z"
+  },
+  {
+    "id": 701397,
+    "slug": "701397-keiji-onitsura-hachiro-18-mayonaka-no-jokyaku",
+    "url": "https://mydramalist.com/701397-keiji-onitsura-hachiro-18-mayonaka-no-jokyaku",
+    "title": "Keiji Onitsura Hachiro 18: Mayonaka no Jokyaku",
+    "complete_title": "Keiji Onitsura Hachiro 18: Mayonaka no Jokyaku (2005)",
+    "native_title": "刑事・鬼貫八郎18 真夜中の乗客",
+    "sub_title": "刑事・鬼貫八郎18 真夜中の乗客 ‧ Drama ‧ 2005",
+    "also_known_as": [],
+    "type": "Drama",
+    "country": "Japan",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": 1,
+    "aired_string": "Sep 20, 2005",
+    "aired_start": "2005-09-20",
+    "aired_end": "2005-09-20",
+    "aired_on": [],
+    "original_network": "NTV",
+    "duration_string": "1 hr. 54 min.",
+    "duration_minutes": 114,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Mystery",
+        "id": "11"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Detective Fiction",
+        "id": "19157"
+      },
+      {
+        "name": "Detective Male Lead",
+        "id": "17623"
+      },
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Murder",
+        "id": "270"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/jojby_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jojby_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jojby_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jojby_4f.jpg",
+        "title": "Keiji Onitsura Hachiro 18: Mayonaka no Jokyaku (2005) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Keiji Onitsura Hachiro 17: Hono no Kioku",
+        "slug": "701395-keiji-onitsura-hachiro-17-hono-no-kioku",
+        "url": "https://mydramalist.com/701395-keiji-onitsura-hachiro-17-hono-no-kioku",
+        "relation": "Japanese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Daichi Yasuo",
+          "slug": "people/2734-daichi-yasuo",
+          "url": "https://mydramalist.com/people/2734-daichi-yasuo",
+          "image_url": "https://i.mydramalist.com/6qK22_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6qK22_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Haba Yuichi",
+          "slug": "people/4272-haba-yuichi",
+          "url": "https://mydramalist.com/people/4272-haba-yuichi",
+          "image_url": "https://i.mydramalist.com/KpKB54_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/KpKB54_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jukkanji Baiken",
+          "slug": "people/24595-jukkanji-baiken",
+          "url": "https://mydramalist.com/people/24595-jukkanji-baiken",
+          "image_url": "https://i.mydramalist.com/0KokO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0KokO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Amada Toshiaki",
+          "slug": "people/52843-amada-toshiaki",
+          "url": "https://mydramalist.com/people/52843-amada-toshiaki",
+          "image_url": "https://i.mydramalist.com/ZQ0O8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZQ0O8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hidari Tokie",
+          "slug": "people/4274-hidari-tokie",
+          "url": "https://mydramalist.com/people/4274-hidari-tokie",
+          "image_url": "https://i.mydramalist.com/rn0wg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rn0wg_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sudo Atsuko",
+          "slug": "people/3616-sudo-atsuko",
+          "url": "https://mydramalist.com/people/3616-sudo-atsuko",
+          "image_url": "https://i.mydramalist.com/1WYny_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1WYny_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Kitahara Sawako",
+          "slug": "people/49439-kitahara-sawako",
+          "url": "https://mydramalist.com/people/49439-kitahara-sawako",
+          "image_url": "https://i.mydramalist.com/jJdJd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jJdJd_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Ogura Ichiro",
+          "slug": "people/4838-ogura-ichirou",
+          "url": "https://mydramalist.com/people/4838-ogura-ichirou",
+          "image_url": "https://i.mydramalist.com/QYqJY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QYqJY_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Matsunaga Kyoko",
+          "slug": "people/4107-matsunaga-kyoko",
+          "url": "https://mydramalist.com/people/4107-matsunaga-kyoko",
+          "image_url": "https://i.mydramalist.com/20bo2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/20bo2_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Mizuki Kaoru",
+          "slug": "people/1931-mizuki-kaoru",
+          "url": "https://mydramalist.com/people/1931-mizuki-kaoru",
+          "image_url": "https://i.mydramalist.com/E52g4l_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E52g4l_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Haruta Junichi",
+          "slug": "people/3528-haruta-junichi",
+          "url": "https://mydramalist.com/people/3528-haruta-junichi",
+          "image_url": "https://i.mydramalist.com/R1mO6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R1mO6_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Kuwahara Kazuki",
+          "slug": "people/15728-kuwahara-kazuki",
+          "url": "https://mydramalist.com/people/15728-kuwahara-kazuki",
+          "image_url": "https://i.mydramalist.com/NvorJs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NvorJs.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Koshimizu Kazuki",
+          "slug": "people/37749-koshimizu-kazuki",
+          "url": "https://mydramalist.com/people/37749-koshimizu-kazuki",
+          "image_url": "https://i.mydramalist.com/BOZ3A_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BOZ3A_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Nakajima Hiroko",
+          "slug": "people/16301-nakajima-hiroko",
+          "url": "https://mydramalist.com/people/16301-nakajima-hiroko",
+          "image_url": "https://i.mydramalist.com/vlQqB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vlQqB_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Shiraishi Kayoko",
+          "slug": "people/22488-shiraishi-kayoko",
+          "url": "https://mydramalist.com/people/22488-shiraishi-kayoko",
+          "image_url": "https://i.mydramalist.com/jbgw8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jbgw8_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Nakada Yoshiko",
+          "slug": "people/9449-nakada-yoshiko",
+          "url": "https://mydramalist.com/people/9449-nakada-yoshiko",
+          "image_url": "https://i.mydramalist.com/VXAejO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXAejO_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Keiji Onitsura Hachiro 18: Mayonaka no Jokyaku Episode 1",
+        "url": "https://mydramalist.com/701397-keiji-onitsura-hachiro-18-mayonaka-no-jokyaku/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/jojby_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/jojby_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T08:57:18.097Z"
+  },
+  {
+    "id": 58879,
+    "slug": "58879-vietnam-rose",
+    "url": "https://mydramalist.com/58879-vietnam-rose",
+    "title": "Vietnam Rose",
+    "complete_title": "Vietnam Rose (2005)",
+    "native_title": "Vietnam Rose",
+    "sub_title": "Vietnam Rose ‧ Drama ‧ 2005 - 2006",
+    "also_known_as": [
+      "Hoa hồng Việt Nam"
+    ],
+    "type": "Drama",
+    "country": "Philippines",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": 105,
+    "aired_string": "Sep 19, 2005 - Feb 10, 2006",
+    "aired_start": "2005-09-19",
+    "aired_end": "2006-02-10",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "original_network": "ABS-CBN",
+    "duration_string": "30 min.",
+    "duration_minutes": 30,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.425,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 25,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Filmed Abroad",
+        "id": "139"
+      }
+    ],
+    "synopsis": "Vietnam Rose follows the journey of Nguyễn Đặng Thiêm Yểu, a Vietnamese woman, who embraces life in a foreign land to forget the memory of her tragic past. Yểu, resembling the plight of thousands of Vietnamese in the turbulent years of the War, was pushed out of her beloved nation. As her father, a Vietcong, fights out the invading forces, she discovers that her mother has betrayed them by having an affair with a Filipino soldier. Later on, this illicit affair comes back to haunt Yểu’s family, as her father is killed by the Filipino soldier. In the succeeding moments, Yểu is washed away to a foreign land – the Philippines – where she starts and builds a new life as a Filipino with a Vietnamese heart. Years pass and little Yểu has grown into Carina Mojica dela Cerna, a successful businesswoman who is married to man who belongs to one of the most powerful families in the Philippines. Seemingly living a perfect life, Carina has learned to adapt to Philippine ways, but continues to pay respects to her cultural background as a Vietnamese. All the while she also successfully hides a dark secret to her past. That is, until one mysterious night, when an image of her dying mother appears to her and begs her to come home to Vietnam. Carina is now being haunted by the past and thus realizes that her present unhappiness stems from her not being able to confront her past. She goes back to Vietnam to face her mother and settle things once and for all. However, as she arrives in Vietnam in an effort to move on, a complication confronts her. Carina meets her half-sister, Đoàn Đặng Thiên Tín, a smart young Vietnamese who has grown up in the outskirts of Ho Chi Minh City. Living a hard life with her mother, Tín has grown resentful of the sister who has abandoned them and was the source of her mother’s heart break. The two sisters are now forced to be together, bound by their sense of duty and a promise they had made to their dying mother to take care and love each other. Now is the start of an overly complicated relationship of love, hate, revenge and the attainment of ultimate happiness as Yểu, in her journey through life with her sister, learns that only through coming to terms with the past will she realize where her heart, caught between two worlds and two loves, truly lies. (Source: Wikipedia) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/w8r51c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/w8r51c.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/w8r51c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/w8r51c.jpg",
+        "title": "Vietnam Rose (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/w8r51s.jpg",
+        "hd_url": "https://i.mydramalist.com/w8r51s.jpg",
+        "title": "Vietnam Rose Philippines Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/w8r51m.jpg",
+        "hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "title": "Vietnam Rose (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Maricel Soriano",
+          "slug": "people/20875-maricel-soriano",
+          "url": "https://mydramalist.com/people/20875-maricel-soriano",
+          "image_url": "https://i.mydramalist.com/pW2bns.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pW2bns.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "John Estrada",
+          "slug": "people/21690-john-estrada",
+          "url": "https://mydramalist.com/people/21690-john-estrada",
+          "image_url": "https://i.mydramalist.com/E88obs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E88obs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Assunta de Rossi",
+          "slug": "people/21725-assunta-de-rossi",
+          "url": "https://mydramalist.com/people/21725-assunta-de-rossi",
+          "image_url": "https://i.mydramalist.com/www6gs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/www6gs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Jason Abalos",
+          "slug": "people/17651-jason-abalos",
+          "url": "https://mydramalist.com/people/17651-jason-abalos",
+          "image_url": "https://i.mydramalist.com/b3X4k6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b3X4k6_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Angelica Panganiban",
+          "slug": "people/17821-angelica-panganiban",
+          "url": "https://mydramalist.com/people/17821-angelica-panganiban",
+          "image_url": "https://i.mydramalist.com/6bgyX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6bgyX_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Jay Manalo",
+          "slug": "people/21948-jay-manalo",
+          "url": "https://mydramalist.com/people/21948-jay-manalo",
+          "image_url": "https://i.mydramalist.com/kLkE8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kLkE8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ricky Davao",
+          "slug": "people/18332-ricky-davao",
+          "url": "https://mydramalist.com/people/18332-ricky-davao",
+          "image_url": "https://i.mydramalist.com/4XrDd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4XrDd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gina Alajar",
+          "slug": "people/39997-gina-alajar",
+          "url": "https://mydramalist.com/people/39997-gina-alajar",
+          "image_url": "https://i.mydramalist.com/ZZjr7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZZjr7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chanda Romero",
+          "slug": "people/39323-chanda-romero",
+          "url": "https://mydramalist.com/people/39323-chanda-romero",
+          "image_url": "https://i.mydramalist.com/wonw1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wonw1_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tony Mabesa",
+          "slug": "people/18083-tony-mabesa",
+          "url": "https://mydramalist.com/people/18083-tony-mabesa",
+          "image_url": "https://i.mydramalist.com/Nr3EAs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Nr3EAs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Baron Geisler",
+          "slug": "people/20479-baron-geisler",
+          "url": "https://mydramalist.com/people/20479-baron-geisler",
+          "image_url": "https://i.mydramalist.com/dpm6W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dpm6W_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jang Seo Hee",
+          "slug": "people/692-jang-seo-hee",
+          "url": "https://mydramalist.com/people/692-jang-seo-hee",
+          "image_url": "https://i.mydramalist.com/QLk56_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QLk56_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Michelle Madrigal",
+          "slug": "people/18536-michelle-madrigal",
+          "url": "https://mydramalist.com/people/18536-michelle-madrigal",
+          "image_url": "https://i.mydramalist.com/RPQjYs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RPQjYs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "AJ Dee",
+          "slug": "people/164118-aj-dee",
+          "url": "https://mydramalist.com/people/164118-aj-dee",
+          "image_url": "https://i.mydramalist.com/Nd015e_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Nd015e_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lollie Mara",
+          "slug": "people/97039-lollie-mara",
+          "url": "https://mydramalist.com/people/97039-lollie-mara",
+          "image_url": "https://i.mydramalist.com/4RpvK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4RpvK_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Joseph Bitangcol",
+          "slug": "people/69235-joseph-bitangcol",
+          "url": "https://mydramalist.com/people/69235-joseph-bitangcol",
+          "image_url": "https://i.mydramalist.com/qNQ0Q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qNQ0Q_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gilleth Sandico",
+          "slug": "people/68237-gilleth-sandico",
+          "url": "https://mydramalist.com/people/68237-gilleth-sandico",
+          "image_url": "https://i.mydramalist.com/6kqJX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6kqJX_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Kathryn Bernardo",
+          "slug": "people/17602-kathryn-bernardo",
+          "url": "https://mydramalist.com/people/17602-kathryn-bernardo",
+          "image_url": "https://i.mydramalist.com/jBq4b_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jBq4b_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Joshua Dionisio",
+          "slug": "people/36765-joshua-dionisio",
+          "url": "https://mydramalist.com/people/36765-joshua-dionisio",
+          "image_url": "https://i.mydramalist.com/0N3e7s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0N3e7s.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Adrian Alandy",
+          "slug": "people/18000-luis-alandy",
+          "url": "https://mydramalist.com/people/18000-luis-alandy",
+          "image_url": "https://i.mydramalist.com/ly58Es.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ly58Es.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Jodi Sta. Maria",
+          "slug": "people/18648-jodi-sta-maria",
+          "url": "https://mydramalist.com/people/18648-jodi-sta-maria",
+          "image_url": "https://i.mydramalist.com/WV26O_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WV26O_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "CJ Navato",
+          "slug": "people/43123-cj-navato",
+          "url": "https://mydramalist.com/people/43123-cj-navato",
+          "image_url": "https://i.mydramalist.com/4vLVw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4vLVw_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Joel Lamangan",
+          "slug": "people/18501-joel-lamangan",
+          "url": "https://mydramalist.com/people/18501-joel-lamangan",
+          "image_url": "https://i.mydramalist.com/gZxQqm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/gZxQqm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Ricky Lee",
+          "slug": "people/40645-ricky-lee",
+          "url": "https://mydramalist.com/people/40645-ricky-lee",
+          "image_url": "https://i.mydramalist.com/W3dAlm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W3dAlm.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Eduardo Jacinto",
+          "slug": "people/99903-eduardo-jacinto",
+          "url": "https://mydramalist.com/people/99903-eduardo-jacinto",
+          "image_url": "https://i.mydramalist.com/qz4wP_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qz4wP_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Jim Pebanco",
+          "slug": "people/90005-jim-pebanco",
+          "url": "https://mydramalist.com/people/90005-jim-pebanco",
+          "image_url": "https://i.mydramalist.com/W4zR3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W4zR3_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Vietnam Rose Episode 1",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/1",
+        "air_date": "2005-09-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Vietnam Rose Episode 2",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/2",
+        "air_date": "2005-09-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Vietnam Rose Episode 3",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/3",
+        "air_date": "2005-09-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Vietnam Rose Episode 4",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/4",
+        "air_date": "2005-09-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Vietnam Rose Episode 5",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/5",
+        "air_date": "2005-09-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Vietnam Rose Episode 6",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/6",
+        "air_date": "2005-09-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Vietnam Rose Episode 7",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/7",
+        "air_date": "2005-09-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Vietnam Rose Episode 8",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/8",
+        "air_date": "2005-09-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Vietnam Rose Episode 9",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/9",
+        "air_date": "2005-09-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Vietnam Rose Episode 10",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/10",
+        "air_date": "2005-09-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Vietnam Rose Episode 11",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/11",
+        "air_date": "2005-10-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Vietnam Rose Episode 12",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/12",
+        "air_date": "2005-10-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Vietnam Rose Episode 13",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/13",
+        "air_date": "2005-10-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Vietnam Rose Episode 14",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/14",
+        "air_date": "2005-10-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Vietnam Rose Episode 15",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/15",
+        "air_date": "2005-10-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Vietnam Rose Episode 16",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/16",
+        "air_date": "2005-10-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Vietnam Rose Episode 17",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/17",
+        "air_date": "2005-10-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Vietnam Rose Episode 18",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/18",
+        "air_date": "2005-10-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Vietnam Rose Episode 19",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/19",
+        "air_date": "2005-10-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Vietnam Rose Episode 20",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/20",
+        "air_date": "2005-10-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Vietnam Rose Episode 21",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/21",
+        "air_date": "2005-10-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Vietnam Rose Episode 22",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/22",
+        "air_date": "2005-10-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Vietnam Rose Episode 23",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/23",
+        "air_date": "2005-10-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Vietnam Rose Episode 24",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/24",
+        "air_date": "2005-10-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "Vietnam Rose Episode 25",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/25",
+        "air_date": "2005-10-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "Vietnam Rose Episode 26",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/26",
+        "air_date": "2005-10-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "Vietnam Rose Episode 27",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/27",
+        "air_date": "2005-10-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "Vietnam Rose Episode 28",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/28",
+        "air_date": "2005-10-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 29,
+        "title": "Vietnam Rose Episode 29",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/29",
+        "air_date": "2005-10-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 30,
+        "title": "Vietnam Rose Episode 30",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/30",
+        "air_date": "2005-10-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 31,
+        "title": "Vietnam Rose Episode 31",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/31",
+        "air_date": "2005-10-31",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 32,
+        "title": "Vietnam Rose Episode 32",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/32",
+        "air_date": "2005-11-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 33,
+        "title": "Vietnam Rose Episode 33",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/33",
+        "air_date": "2005-11-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 34,
+        "title": "Vietnam Rose Episode 34",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/34",
+        "air_date": "2005-11-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 35,
+        "title": "Vietnam Rose Episode 35",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/35",
+        "air_date": "2005-11-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 36,
+        "title": "Vietnam Rose Episode 36",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/36",
+        "air_date": "2005-11-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 37,
+        "title": "Vietnam Rose Episode 37",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/37",
+        "air_date": "2005-11-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 38,
+        "title": "Vietnam Rose Episode 38",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/38",
+        "air_date": "2005-11-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 39,
+        "title": "Vietnam Rose Episode 39",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/39",
+        "air_date": "2005-11-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 40,
+        "title": "Vietnam Rose Episode 40",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/40",
+        "air_date": "2005-11-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 41,
+        "title": "Vietnam Rose Episode 41",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/41",
+        "air_date": "2005-11-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 42,
+        "title": "Vietnam Rose Episode 42",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/42",
+        "air_date": "2005-11-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 43,
+        "title": "Vietnam Rose Episode 43",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/43",
+        "air_date": "2005-11-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 44,
+        "title": "Vietnam Rose Episode 44",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/44",
+        "air_date": "2005-11-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 45,
+        "title": "Vietnam Rose Episode 45",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/45",
+        "air_date": "2005-11-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 46,
+        "title": "Vietnam Rose Episode 46",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/46",
+        "air_date": "2005-11-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 47,
+        "title": "Vietnam Rose Episode 47",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/47",
+        "air_date": "2005-11-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 48,
+        "title": "Vietnam Rose Episode 48",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/48",
+        "air_date": "2005-11-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 49,
+        "title": "Vietnam Rose Episode 49",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/49",
+        "air_date": "2005-11-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 50,
+        "title": "Vietnam Rose Episode 50",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/50",
+        "air_date": "2005-11-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 51,
+        "title": "Vietnam Rose Episode 51",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/51",
+        "air_date": "2005-11-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 52,
+        "title": "Vietnam Rose Episode 52",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/52",
+        "air_date": "2005-11-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 53,
+        "title": "Vietnam Rose Episode 53",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/53",
+        "air_date": "2005-11-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 54,
+        "title": "Vietnam Rose Episode 54",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/54",
+        "air_date": "2005-12-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 55,
+        "title": "Vietnam Rose Episode 55",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/55",
+        "air_date": "2005-12-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 56,
+        "title": "Vietnam Rose Episode 56",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/56",
+        "air_date": "2005-12-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 57,
+        "title": "Vietnam Rose Episode 57",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/57",
+        "air_date": "2005-12-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 58,
+        "title": "Vietnam Rose Episode 58",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/58",
+        "air_date": "2005-12-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 59,
+        "title": "Vietnam Rose Episode 59",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/59",
+        "air_date": "2005-12-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 60,
+        "title": "Vietnam Rose Episode 60",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/60",
+        "air_date": "2005-12-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 61,
+        "title": "Vietnam Rose Episode 61",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/61",
+        "air_date": "2005-12-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 62,
+        "title": "Vietnam Rose Episode 62",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/62",
+        "air_date": "2005-12-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 63,
+        "title": "Vietnam Rose Episode 63",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/63",
+        "air_date": "2005-12-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 64,
+        "title": "Vietnam Rose Episode 64",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/64",
+        "air_date": "2005-12-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 65,
+        "title": "Vietnam Rose Episode 65",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/65",
+        "air_date": "2005-12-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 66,
+        "title": "Vietnam Rose Episode 66",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/66",
+        "air_date": "2005-12-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 67,
+        "title": "Vietnam Rose Episode 67",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/67",
+        "air_date": "2005-12-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 68,
+        "title": "Vietnam Rose Episode 68",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/68",
+        "air_date": "2005-12-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 69,
+        "title": "Vietnam Rose Episode 69",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/69",
+        "air_date": "2005-12-22",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 70,
+        "title": "Vietnam Rose Episode 70",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/70",
+        "air_date": "2005-12-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 71,
+        "title": "Vietnam Rose Episode 71",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/71",
+        "air_date": "2005-12-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 72,
+        "title": "Vietnam Rose Episode 72",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/72",
+        "air_date": "2005-12-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 73,
+        "title": "Vietnam Rose Episode 73",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/73",
+        "air_date": "2005-12-28",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 74,
+        "title": "Vietnam Rose Episode 74",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/74",
+        "air_date": "2005-12-29",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 75,
+        "title": "Vietnam Rose Episode 75",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/75",
+        "air_date": "2005-12-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 76,
+        "title": "Vietnam Rose Episode 76",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/76",
+        "air_date": "2006-01-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 77,
+        "title": "Vietnam Rose Episode 77",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/77",
+        "air_date": "2006-01-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 78,
+        "title": "Vietnam Rose Episode 78",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/78",
+        "air_date": "2006-01-04",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 79,
+        "title": "Vietnam Rose Episode 79",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/79",
+        "air_date": "2006-01-05",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 80,
+        "title": "Vietnam Rose Episode 80",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/80",
+        "air_date": "2006-01-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 81,
+        "title": "Vietnam Rose Episode 81",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/81",
+        "air_date": "2006-01-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 82,
+        "title": "Vietnam Rose Episode 82",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/82",
+        "air_date": "2006-01-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 83,
+        "title": "Vietnam Rose Episode 83",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/83",
+        "air_date": "2006-01-11",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 84,
+        "title": "Vietnam Rose Episode 84",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/84",
+        "air_date": "2006-01-12",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 85,
+        "title": "Vietnam Rose Episode 85",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/85",
+        "air_date": "2006-01-13",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 86,
+        "title": "Vietnam Rose Episode 86",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/86",
+        "air_date": "2006-01-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 87,
+        "title": "Vietnam Rose Episode 87",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/87",
+        "air_date": "2006-01-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 88,
+        "title": "Vietnam Rose Episode 88",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/88",
+        "air_date": "2006-01-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 89,
+        "title": "Vietnam Rose Episode 89",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/89",
+        "air_date": "2006-01-19",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 90,
+        "title": "Vietnam Rose Episode 90",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/90",
+        "air_date": "2006-01-20",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 91,
+        "title": "Vietnam Rose Episode 91",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/91",
+        "air_date": "2006-01-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 92,
+        "title": "Vietnam Rose Episode 92",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/92",
+        "air_date": "2006-01-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 93,
+        "title": "Vietnam Rose Episode 93",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/93",
+        "air_date": "2006-01-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 94,
+        "title": "Vietnam Rose Episode 94",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/94",
+        "air_date": "2006-01-26",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 95,
+        "title": "Vietnam Rose Episode 95",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/95",
+        "air_date": "2006-01-27",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 96,
+        "title": "Vietnam Rose Episode 96",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/96",
+        "air_date": "2006-01-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 97,
+        "title": "Vietnam Rose Episode 97",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/97",
+        "air_date": "2006-01-31",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 98,
+        "title": "Vietnam Rose Episode 98",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/98",
+        "air_date": "2006-02-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 99,
+        "title": "Vietnam Rose Episode 99",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/99",
+        "air_date": "2006-02-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 100,
+        "title": "Vietnam Rose Episode 100",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/100",
+        "air_date": "2006-02-03",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 101,
+        "title": "Vietnam Rose Episode 101",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/101",
+        "air_date": "2006-02-06",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 102,
+        "title": "Vietnam Rose Episode 102",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/102",
+        "air_date": "2006-02-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 103,
+        "title": "Vietnam Rose Episode 103",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/103",
+        "air_date": "2006-02-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 104,
+        "title": "Vietnam Rose Episode 104",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/104",
+        "air_date": "2006-02-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 105,
+        "title": "Vietnam Rose Episode 105",
+        "url": "https://mydramalist.com/58879-vietnam-rose/episode/105",
+        "air_date": "2006-02-10",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/w8r51m.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T08:57:25.049Z"
+  },
+  {
+    "id": 46791,
+    "slug": "46791-kaigo-etoile",
+    "url": "https://mydramalist.com/46791-kaigo-etoile",
+    "title": "Kaigo Etoile",
+    "complete_title": "Kaigo Etoile (2005)",
+    "native_title": "介護エトワール",
+    "sub_title": "介護エトワール ‧ Drama ‧ 2005",
+    "also_known_as": [
+      "Kaigo Etowaaru , Nursing Care Star"
+    ],
+    "type": "Drama",
+    "country": "Japan",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": 1,
+    "aired_string": "Sep 18, 2005",
+    "aired_start": "2005-09-18",
+    "aired_end": "2005-09-18",
+    "aired_on": [
+      "Monday"
+    ],
+    "original_network": "NHK",
+    "duration_string": "1 hr. 15 min.",
+    "duration_minutes": 75,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/RZdyoc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/RZdyoc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/RZdyoc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/RZdyoc.jpg",
+        "title": "Kaigo Etoile (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/RZdyos.jpg",
+        "hd_url": "https://i.mydramalist.com/RZdyos.jpg",
+        "title": "Kaigo Etoile Japanese Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/RZdyom.jpg",
+        "hd_url": "https://i.mydramalist.com/RZdyom.jpg",
+        "title": "Kaigo Etoile (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Kaigo Etoile Episode 1",
+        "url": "https://mydramalist.com/46791-kaigo-etoile/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/RZdyom.jpg",
+        "image_hd_url": "https://i.mydramalist.com/RZdyom.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T08:57:31.539Z"
+  },
+  {
+    "id": 30601,
+    "slug": "30601-maicchingu-machiko-biginzu",
+    "url": "https://mydramalist.com/30601-maicchingu-machiko-biginzu",
+    "title": "Maicchingu Machiko! Biginzu",
+    "complete_title": "Maicchingu Machiko! Biginzu (2005)",
+    "native_title": "まいっちんぐ! マチコ ビギンズ",
+    "sub_title": "まいっちんぐ! マチコ ビギンズ ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "Maicching Machiko! Biginzu"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 20 min.",
+    "duration_minutes": 80,
+    "content_rating": "Not Yet Rated",
+    "rating": 8.021,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 21,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Youth",
+        "id": "24"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Student Female Lead",
+        "id": "24957"
+      },
+      {
+        "name": "School Setting",
+        "id": "24877"
+      },
+      {
+        "name": "Adapted From A Manga",
+        "id": "127"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/330LVc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/330LVc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/330LVc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/330LVc.jpg",
+        "title": "Maicchingu Machiko! Biginzu (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/330LVs.jpg",
+        "hd_url": "https://i.mydramalist.com/330LVs.jpg",
+        "title": "Maicchingu Machiko! Biginzu Japanese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/330LVm.jpg",
+        "hd_url": "https://i.mydramalist.com/330LVm.jpg",
+        "title": "Maicchingu Machiko! Biginzu (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Isoyama Sayaka",
+          "slug": "people/6595-isoyama-sayaka",
+          "url": "https://mydramalist.com/people/6595-isoyama-sayaka",
+          "image_url": "https://i.mydramalist.com/0K8qE_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0K8qE_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Miyazawa Mai",
+          "slug": "people/68279-miyazawa-mai",
+          "url": "https://mydramalist.com/people/68279-miyazawa-mai",
+          "image_url": "https://i.mydramalist.com/QQO0Q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QQO0Q_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nakahara Shoko",
+          "slug": "people/31081-nakahara-shoko",
+          "url": "https://mydramalist.com/people/31081-nakahara-shoko",
+          "image_url": "https://i.mydramalist.com/JBbrrl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBbrrl_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Masumoto Shoichiro",
+          "slug": "people/60041-masumoto-shoichiro",
+          "url": "https://mydramalist.com/people/60041-masumoto-shoichiro",
+          "image_url": "https://i.mydramalist.com/4EX7w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4EX7w_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yagi Saori",
+          "slug": "people/51293-yagi-saori",
+          "url": "https://mydramalist.com/people/51293-yagi-saori",
+          "image_url": "https://i.mydramalist.com/wJjVZ8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJjVZ8_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Suzuki Kosuke",
+          "slug": "people/18031-suzuki-kosuke",
+          "url": "https://mydramalist.com/people/18031-suzuki-kosuke",
+          "image_url": "https://i.mydramalist.com/XXqxX_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XXqxX_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Masumoto Shoichiro",
+          "slug": "people/60041-masumoto-shoichiro",
+          "url": "https://mydramalist.com/people/60041-masumoto-shoichiro",
+          "image_url": "https://i.mydramalist.com/4EX7w_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4EX7w_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Endo Koji",
+          "slug": "people/83557-endo-koji",
+          "url": "https://mydramalist.com/people/83557-endo-koji",
+          "image_url": "https://i.mydramalist.com/WR5Dm_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WR5Dm_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Yamaguchi Yukihiko",
+          "slug": "people/145866-yamaguchi-yukihiko",
+          "url": "https://mydramalist.com/people/145866-yamaguchi-yukihiko",
+          "image_url": "https://i.mydramalist.com/g082Zo_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g082Zo_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T08:57:38.424Z"
+  },
+  {
+    "id": 734407,
+    "slug": "734407-hamidashi-bengoshi-tatsumi-shiro-9-moto-tsuma-celeb-wa-satsujin-han-toshishita-host-to-kikenna-joji",
+    "url": "https://mydramalist.com/734407-hamidashi-bengoshi-tatsumi-shiro-9-moto-tsuma-celeb-wa-satsujin-han-toshishita-host-to-kikenna-joji",
+    "title": "Hamidashi Bengoshi Tatsumi Shiro 9: Moto Tsuma Celeb wa Satsujin-han?! Toshishita Host to Kikenna Jo",
+    "complete_title": "Hamidashi Bengoshi Tatsumi Shiro 9: Moto Tsuma Celeb wa Satsujin-han?! Toshishita Host to Kikenna Jo (2005)",
+    "native_title": "はみだし弁護士・巽志郎9 元妻・セレブは殺人犯!? 年下ホストと危険な情事",
+    "sub_title": "はみだし弁護士・巽志郎9 元妻・セレブは殺人犯!? 年下ホストと危険な情事 ‧ Drama ‧ 2005",
+    "also_known_as": [
+      "Hamidashi Bengoshi 9 , はみだし弁護士(9)～元妻・セレブは殺人犯!? 年下ホストと危険な情事 美人記者とみちのく二人旅 , はみだし弁護士9"
+    ],
+    "type": "Drama",
+    "country": "Japan",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": 1,
+    "aired_string": "Sep 17, 2005",
+    "aired_start": "2005-09-17",
+    "aired_end": "2005-09-17",
+    "aired_on": [
+      "Saturday"
+    ],
+    "original_network": "ABC, TV Asahi",
+    "duration_string": "1 hr. 51 min.",
+    "duration_minutes": 111,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Mystery",
+        "id": "11"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Lawyer Male Lead",
+        "id": "17903"
+      },
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Murder",
+        "id": "270"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      },
+      {
+        "name": "Law",
+        "id": "18"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/jzyPy_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jzyPy_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jzyPy_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jzyPy_4f.jpg",
+        "title": "Hamidashi Bengoshi Tatsumi Shiro 9: Moto Tsuma Celeb wa Satsujin-han?! Toshishita Host to Kikenna Jo (2005) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Hamidashi Bengoshi Tatsumi Shiro 8: Seikaiisan Yakushima ni Kieta 'Muzai?' no Satsujin-sha",
+        "slug": "734405-hamidashi-bengoshi-tatsumi-shiro-8-seikaiisan-yakushima-ni-kieta-muzai-no-satsujin-sha",
+        "url": "https://mydramalist.com/734405-hamidashi-bengoshi-tatsumi-shiro-8-seikaiisan-yakushima-ni-kieta-muzai-no-satsujin-sha",
+        "relation": "Japanese prequel"
+      },
+      {
+        "title": "Hamidashi Bengoshi Tatsumi Shiro 10: Deaikei Site wa Shi no Kaori Bijin Tsuma Stalker Satsujin Jiken",
+        "slug": "734409-hamidashi-bengoshi-tatsumi-shiro-10-deaikei-site-wa-shi-no-kaori-bijin-tsuma-stalker-satsujin-jiken-zettaizetsumei",
+        "url": "https://mydramalist.com/734409-hamidashi-bengoshi-tatsumi-shiro-10-deaikei-site-wa-shi-no-kaori-bijin-tsuma-stalker-satsujin-jiken-zettaizetsumei",
+        "relation": "Japanese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Miura Tomokazu",
+          "slug": "people/3928-miura-tomokazu",
+          "url": "https://mydramalist.com/people/3928-miura-tomokazu",
+          "image_url": "https://i.mydramalist.com/735Lrb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/735Lrb_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Sakashita Chiriko",
+          "slug": "people/105429-sakashita-chiriko",
+          "url": "https://mydramalist.com/people/105429-sakashita-chiriko",
+          "image_url": "https://i.mydramalist.com/LwQ8vx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/LwQ8vx_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Takejo Aki",
+          "slug": "people/41437-takejo-aki",
+          "url": "https://mydramalist.com/people/41437-takejo-aki",
+          "image_url": "https://i.mydramalist.com/0AgWes.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0AgWes.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Suzukaze Mayo",
+          "slug": "people/15585-suzukaze-mayo",
+          "url": "https://mydramalist.com/people/15585-suzukaze-mayo",
+          "image_url": "https://i.mydramalist.com/pkrdns.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pkrdns.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kawahara Sabu",
+          "slug": "people/928-kawahara-sabu",
+          "url": "https://mydramalist.com/people/928-kawahara-sabu",
+          "image_url": "https://i.mydramalist.com/9oQz6s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/9oQz6s.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Endo Kumiko",
+          "slug": "people/7570-endo-kumiko",
+          "url": "https://mydramalist.com/people/7570-endo-kumiko",
+          "image_url": "https://i.mydramalist.com/xeBn3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xeBn3_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "David Ito",
+          "slug": "people/1067-david-ito",
+          "url": "https://mydramalist.com/people/1067-david-ito",
+          "image_url": "https://i.mydramalist.com/j6Rdy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/j6Rdy_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Takuma Takayuki",
+          "slug": "people/3295-takuma-takayuki",
+          "url": "https://mydramalist.com/people/3295-takuma-takayuki",
+          "image_url": "https://i.mydramalist.com/qekVd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qekVd_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Nishizawa Toshiaki",
+          "slug": "people/60049-nishizawa-toshiaki",
+          "url": "https://mydramalist.com/people/60049-nishizawa-toshiaki",
+          "image_url": "https://i.mydramalist.com/vE7PX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vE7PX_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Asami Koshiro",
+          "slug": "people/14176-asami-koshiro",
+          "url": "https://mydramalist.com/people/14176-asami-koshiro",
+          "image_url": "https://i.mydramalist.com/jZW8y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jZW8y_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Kakeda Makoto",
+          "slug": "people/59701-kakeda-makoto",
+          "url": "https://mydramalist.com/people/59701-kakeda-makoto",
+          "image_url": "https://i.mydramalist.com/4xBv6_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4xBv6_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Shimazaki Nobuo",
+          "slug": "people/59753-shimazaki-nobuo",
+          "url": "https://mydramalist.com/people/59753-shimazaki-nobuo",
+          "image_url": "https://i.mydramalist.com/2ZJPW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2ZJPW_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Endo Yumi",
+          "slug": "people/24327-endo-yumi",
+          "url": "https://mydramalist.com/people/24327-endo-yumi",
+          "image_url": "https://i.mydramalist.com/evpL8s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/evpL8s.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Masuoka Tohru",
+          "slug": "people/3356-masuoka-toru",
+          "url": "https://mydramalist.com/people/3356-masuoka-toru",
+          "image_url": "https://i.mydramalist.com/ABLmqg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABLmqg_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Kotani Tsugunobu",
+          "slug": "people/49045-kotani-tsugunobu",
+          "url": "https://mydramalist.com/people/49045-kotani-tsugunobu",
+          "image_url": "https://i.mydramalist.com/65V0O_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/65V0O_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Tagami Yu",
+          "slug": "people/59345-tagami-takeshi",
+          "url": "https://mydramalist.com/people/59345-tagami-takeshi",
+          "image_url": "https://i.mydramalist.com/k6jbj_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/k6jbj_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Hamidashi Bengoshi Tatsumi Shiro 9: Moto Tsuma Celeb wa Satsujin-han?! Toshishita Host to Kikenna Jo Episode 1",
+        "url": "https://mydramalist.com/734407-hamidashi-bengoshi-tatsumi-shiro-9-moto-tsuma-celeb-wa-satsujin-han-toshishita-host-to-kikenna-joji/episode/1",
+        "air_date": "2005-09-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/jzyPy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/jzyPy_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T08:57:44.519Z"
+  },
+  {
+    "id": 26632,
+    "slug": "26632-sapai-ka-fak",
+    "url": "https://mydramalist.com/26632-sapai-ka-fak",
+    "title": "Sapai Ka Fak",
+    "complete_title": "Sapai Ka Fak (2005)",
+    "native_title": "สะใภ้กาฝาก",
+    "sub_title": "สะใภ้กาฝาก ‧ Drama ‧ 2005",
+    "also_known_as": [
+      "Parasitic Daughter-In-Law"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": 15,
+    "aired_string": "Sep 16, 2005 - Oct 21, 2005",
+    "aired_start": "2005-09-16",
+    "aired_end": "2005-10-21",
+    "aired_on": [
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Channel 3",
+    "duration_string": "1 hr. 20 min.",
+    "duration_minutes": 80,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.036,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 36,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Fake Relationship",
+        "id": "9109"
+      },
+      {
+        "name": "Poor Female Lead",
+        "id": "1224"
+      },
+      {
+        "name": "Rich Man/Poor Woman",
+        "id": "198"
+      },
+      {
+        "name": "Rich Male Lead",
+        "id": "170"
+      }
+    ],
+    "synopsis": "Rainie is raised by her mother because her father left to America and never returned. Rainie finds herself needing money for her mother’s medical expenses and ends up becoming a girlfriend for her hire to wealthy heir Traikhun. (Source: Saming Fansubs) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/KDPA0c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/KDPA0c.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/KDPA0c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/KDPA0c.jpg",
+        "title": "Sapai Ka Fak (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/O86q1Q_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/O86q1Q_3f.jpg",
+        "title": "Sapai Ka Fak Thai Drama(2005) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/KDPA0s.jpg",
+        "hd_url": "https://i.mydramalist.com/KDPA0s.jpg",
+        "title": "Sapai Ka Fak Thai Drama(2005) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "title": "Sapai Ka Fak (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [
+      {
+        "title": "Sapai Ka Fak",
+        "slug": "26633-sapai-ka-fak",
+        "url": "https://mydramalist.com/26633-sapai-ka-fak",
+        "poster_url": "https://i.mydramalist.com/mkwVqt.jpg",
+        "poster_hd_url": "https://i.mydramalist.com/mkwVqt.jpg",
+        "year": 2018,
+        "votes": 0
+      }
+    ],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Sapai Ka Fak",
+        "slug": "26633-sapai-ka-fak",
+        "url": "https://mydramalist.com/26633-sapai-ka-fak",
+        "relation": "Thai remake"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Willie Ruengrit McIntosh",
+          "slug": "people/7532-mcintosh-ruengrit",
+          "url": "https://mydramalist.com/people/7532-mcintosh-ruengrit",
+          "image_url": "https://i.mydramalist.com/xy0Zy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xy0Zy_5f.jpg",
+          "character": "Traikhun",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Benz Pornchita Na Songkhla",
+          "slug": "people/7337-songkhla-pornchita-na",
+          "url": "https://mydramalist.com/people/7337-songkhla-pornchita-na",
+          "image_url": "https://i.mydramalist.com/2zYDV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2zYDV_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Nhing Nirut Sirijanya",
+          "slug": "people/6726-sirichanya-nirut",
+          "url": "https://mydramalist.com/people/6726-sirichanya-nirut",
+          "image_url": "https://i.mydramalist.com/rP5rg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rP5rg_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tai Penpak Sirikul",
+          "slug": "people/13725-sirikul-penpak",
+          "url": "https://mydramalist.com/people/13725-sirikul-penpak",
+          "image_url": "https://i.mydramalist.com/x3xqy_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x3xqy_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kae Chollada Mekratree",
+          "slug": "people/28481-kae-chollada-mekratree",
+          "url": "https://mydramalist.com/people/28481-kae-chollada-mekratree",
+          "image_url": "https://i.mydramalist.com/x2yx0s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x2yx0s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Took Chanokwanun Rakcheep",
+          "slug": "people/21862-chanokwanun-rakcheep",
+          "url": "https://mydramalist.com/people/21862-chanokwanun-rakcheep",
+          "image_url": "https://i.mydramalist.com/QJndAA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJndAA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "David Asavanond",
+          "slug": "people/21832-david-asavanond",
+          "url": "https://mydramalist.com/people/21832-david-asavanond",
+          "image_url": "https://i.mydramalist.com/VXVVZO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXVVZO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Hong Suchada Poonpattanasuk",
+          "slug": "people/26883-suchada-poonpattanasuk",
+          "url": "https://mydramalist.com/people/26883-suchada-poonpattanasuk",
+          "image_url": "https://i.mydramalist.com/XwwOXs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XwwOXs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jubjang Vimpolphan Chaleejunghran",
+          "slug": "people/23325-jubjang-wimolphan-chaleejunghan",
+          "url": "https://mydramalist.com/people/23325-jubjang-wimolphan-chaleejunghan",
+          "image_url": "https://i.mydramalist.com/6qDB2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6qDB2_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gift Unchisa Liaopairoj",
+          "slug": "people/44343-gift-unchisa",
+          "url": "https://mydramalist.com/people/44343-gift-unchisa",
+          "image_url": "https://i.mydramalist.com/nOXrb4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOXrb4_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Koi Parichat Praihirun",
+          "slug": "people/25977-koy-parichat-phraihiran",
+          "url": "https://mydramalist.com/people/25977-koy-parichat-phraihiran",
+          "image_url": "https://i.mydramalist.com/0p4eYs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0p4eYs.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Amara Asavananda",
+          "slug": "people/20852-amara-asavananda",
+          "url": "https://mydramalist.com/people/20852-amara-asavananda",
+          "image_url": "https://i.mydramalist.com/Rg3lx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rg3lx_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Suprawat Pattamasoot",
+          "slug": "people/23541-suprawat-pattamasoot",
+          "url": "https://mydramalist.com/people/23541-suprawat-pattamasoot",
+          "image_url": "https://i.mydramalist.com/6nVodm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6nVodm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Eklikhit",
+          "slug": "people/17641-eklikit",
+          "url": "https://mydramalist.com/people/17641-eklikit",
+          "image_url": "https://i.mydramalist.com/JxxEom.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JxxEom.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Pin Nathanan Chaweewong",
+          "slug": "people/65059-pin-nathanan-chaweewong",
+          "url": "https://mydramalist.com/people/65059-pin-nathanan-chaweewong",
+          "image_url": "https://i.mydramalist.com/rlENm_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rlENm_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Fresh Arisara Wongchalee",
+          "slug": "people/19685-arisara-wongchalee",
+          "url": "https://mydramalist.com/people/19685-arisara-wongchalee",
+          "image_url": "https://i.mydramalist.com/WPjrll_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WPjrll_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Sapai Ka Fak Episode 1",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/1",
+        "air_date": "2005-09-16",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Sapai Ka Fak Episode 2",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/2",
+        "air_date": "2005-09-17",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Sapai Ka Fak Episode 3",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/3",
+        "air_date": "2005-09-18",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Sapai Ka Fak Episode 4",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/4",
+        "air_date": "2005-09-23",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Sapai Ka Fak Episode 5",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/5",
+        "air_date": "2005-09-24",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Sapai Ka Fak Episode 6",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/6",
+        "air_date": "2005-09-25",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Sapai Ka Fak Episode 7",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/7",
+        "air_date": "2005-09-30",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Sapai Ka Fak Episode 8",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/8",
+        "air_date": "2005-10-01",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Sapai Ka Fak Episode 9",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/9",
+        "air_date": "2005-10-02",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Sapai Ka Fak Episode 10",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/10",
+        "air_date": "2005-10-07",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Sapai Ka Fak Episode 11",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/11",
+        "air_date": "2005-10-08",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Sapai Ka Fak Episode 12",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/12",
+        "air_date": "2005-10-09",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Sapai Ka Fak Episode 13",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/13",
+        "air_date": "2005-10-14",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Sapai Ka Fak Episode 14",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/14",
+        "air_date": "2005-10-15",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Sapai Ka Fak Episode 15",
+        "url": "https://mydramalist.com/26632-sapai-ka-fak/episode/15",
+        "air_date": "2005-10-21",
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/KDPA0m.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T08:57:50.820Z"
+  },
+  {
+    "id": 31326,
+    "slug": "31326-fade-into-you",
+    "url": "https://mydramalist.com/31326-fade-into-you",
+    "title": "Fade into You",
+    "complete_title": "Fade into You (2005)",
+    "native_title": "빛나는 거짓",
+    "sub_title": "빛나는 거짓 ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "빛나는 거짓"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 10 min.",
+    "duration_minutes": 70,
+    "content_rating": "15+ - Teens 15 or older",
+    "rating": 2.05,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/g2ypnc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/g2ypnc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/g2ypnc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/g2ypnc.jpg",
+        "title": "Fade into You (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/g2ypns.jpg",
+        "hd_url": "https://i.mydramalist.com/g2ypns.jpg",
+        "title": "Fade into You Korean Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/g2ypnm.jpg",
+        "hd_url": "https://i.mydramalist.com/g2ypnm.jpg",
+        "title": "Fade into You (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Inan",
+          "slug": "people/20672-inan",
+          "url": "https://mydramalist.com/people/20672-inan",
+          "image_url": "https://i.mydramalist.com/OxgDPs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/OxgDPs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Kim Han",
+          "slug": "people/12332-kim-han",
+          "url": "https://mydramalist.com/people/12332-kim-han",
+          "image_url": "https://i.mydramalist.com/eogdqs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eogdqs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Ok Go Woon",
+          "slug": "people/3848-ok-ji-young",
+          "url": "https://mydramalist.com/people/3848-ok-ji-young",
+          "image_url": "https://i.mydramalist.com/x8mzj_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x8mzj_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Kwon Hyeok Pung",
+          "slug": "people/6185-kwon-hyeok-pung",
+          "url": "https://mydramalist.com/people/6185-kwon-hyeok-pung",
+          "image_url": "https://i.mydramalist.com/BggNR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BggNR_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Chae Gi",
+          "slug": "people/20673-chae-gi",
+          "url": "https://mydramalist.com/people/20673-chae-gi",
+          "image_url": "https://i.mydramalist.com/2xrLwm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2xrLwm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T08:57:58.222Z"
+  },
+  {
+    "id": 62271,
+    "slug": "62271-blue-cha-cha",
+    "url": "https://mydramalist.com/62271-blue-cha-cha",
+    "title": "Blue Cha Cha",
+    "complete_title": "Blue Cha Cha (2005)",
+    "native_title": "深海",
+    "sub_title": "深海 ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "Shen Hai"
+    ],
+    "type": "Movie",
+    "country": "Taiwan",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 48 min.",
+    "duration_minutes": 108,
+    "content_rating": "G - All Ages",
+    "rating": 6.717,
+    "scored_by": 4,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 17,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Released from prison, a woman (Tarcy Su) finds romance with her new supervisor. (Source: Moviefone) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/jbWQB_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jbWQB_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jbWQB_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jbWQB_4f.jpg",
+        "title": "Blue Cha Cha (2005) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Lu Yi Ching",
+          "slug": "people/22126-lu-yi-ching",
+          "url": "https://mydramalist.com/people/22126-lu-yi-ching",
+          "image_url": "https://i.mydramalist.com/YYlBXP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYlBXP_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Leon Dai",
+          "slug": "people/1211-dai-leon",
+          "url": "https://mydramalist.com/people/1211-dai-leon",
+          "image_url": "https://i.mydramalist.com/qYwrXP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYwrXP_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lee Wei",
+          "slug": "people/867-lee-wei",
+          "url": "https://mydramalist.com/people/867-lee-wei",
+          "image_url": "https://i.mydramalist.com/d3AX5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d3AX5_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Cheng Wen Tang",
+          "slug": "people/83519-cheng-wen-tang",
+          "url": "https://mydramalist.com/people/83519-cheng-wen-tang",
+          "image_url": "https://i.mydramalist.com/wbzD1_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wbzD1_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T08:58:03.740Z"
+  },
+  {
+    "id": 768375,
+    "slug": "768375-cream-lemon-ami-s-diary",
+    "url": "https://mydramalist.com/768375-cream-lemon-ami-s-diary",
+    "title": "Cream Lemon: Ami's Diary",
+    "complete_title": "Cream Lemon: Ami's Diary (2005)",
+    "native_title": "くりいむレモン 亜美の日記",
+    "sub_title": "くりいむレモン 亜美の日記 ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "Kuriimu Remon Ami no Nikki"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 5 min.",
+    "duration_minutes": 65,
+    "content_rating": "R - Restricted Screening (nudity & violence)",
+    "rating": 15,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 15,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Crime Against Morality",
+        "id": "29426"
+      },
+      {
+        "name": "Sexual Content",
+        "id": "838"
+      },
+      {
+        "name": "Nudity",
+        "id": "696"
+      },
+      {
+        "name": "Incest",
+        "id": "178"
+      }
+    ],
+    "synopsis": "On her 18th birthday, Nonomura Ami wants to meet her father and brother who live far away. While searching for her brother's house, she is attacked by a thief, but is helped by Hiroshi Tazaki. They fall in love but discover that they are siblings. (Source: TMDb) English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/2wDQXk_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/2wDQXk_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/2wDQXk_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/2wDQXk_4f.jpg",
+        "title": "Cream Lemon: Ami's Diary (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/731XVy_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/731XVy_3f.jpg",
+        "title": "Cream Lemon: Ami's Diary Japanese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/ABXkjv_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/ABXkjv_3f.jpg",
+        "title": "Cream Lemon: Ami's Diary Japanese Movie photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Cream Lemon",
+        "slug": "9798-cream-lemon",
+        "url": "https://mydramalist.com/9798-cream-lemon",
+        "relation": "Japanese compilation"
+      },
+      {
+        "title": "Cream Lemon: The End of a Journey",
+        "slug": "10462-cream-lemon-the-end-of-a-journey",
+        "url": "https://mydramalist.com/10462-cream-lemon-the-end-of-a-journey",
+        "relation": "Japanese compilation"
+      },
+      {
+        "title": "Cream Lemon: Bud Shape",
+        "slug": "688877-cream-lemon-bud-shape",
+        "url": "https://mydramalist.com/688877-cream-lemon-bud-shape",
+        "relation": "Japanese compilation"
+      },
+      {
+        "title": "Cream Lemon: Devil doll",
+        "slug": "10463-cream-lemon-devil-doll",
+        "url": "https://mydramalist.com/10463-cream-lemon-devil-doll",
+        "relation": "Japanese compilation"
+      },
+      {
+        "title": "Cream Lemon: Ami on the Poolside",
+        "slug": "768379-cream-lemon-ami-on-the-poolside",
+        "url": "https://mydramalist.com/768379-cream-lemon-ami-on-the-poolside",
+        "relation": "Japanese compilation"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sugiura Asami",
+          "slug": "people/5917-sugiura-asami",
+          "url": "https://mydramalist.com/people/5917-sugiura-asami",
+          "image_url": "https://i.mydramalist.com/Zkd6Ls.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Zkd6Ls.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Kawaya Hidetoshi",
+          "slug": "people/84991-kawaya-setchin",
+          "url": "https://mydramalist.com/people/84991-kawaya-setchin",
+          "image_url": "https://i.mydramalist.com/5v7dK0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5v7dK0_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T08:58:09.609Z"
+  },
+  {
+    "id": 4500,
+    "slug": "4500-geochilmaru",
+    "url": "https://mydramalist.com/4500-geochilmaru",
+    "title": "Geochilmaru",
+    "complete_title": "Geochilmaru (2005)",
+    "native_title": "거칠마루",
+    "sub_title": "거칠마루 ‧ Movie ‧ 2005",
+    "also_known_as": [
+      "The Showdown"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 26 min.",
+    "duration_minutes": 86,
+    "content_rating": "Not Yet Rated",
+    "rating": 5.928,
+    "scored_by": 7,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 28,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      }
+    ],
+    "tags": [],
+    "synopsis": "A martial arts website hosts discussions on different aspects of fighting styles and techniques. Through the website a mysterious and legendary fighter called Geochilmaru invites eight martial arts masters to meet him for a competition. No-one has ever met Geochilmaru or even seen him before. The group drive up into a secluded mountain together where they are told that only one of them will face Geochilmaru and they must decide between them who this one person will be. They all agree that the best way to decide is to fight each other. The winner of each fight will takes the loser’s necklace and only the person who holds all of the eight necklaces will finally get to meet the mysterious host of the competition… English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/G1EO5c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/G1EO5c.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/G1EO5c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/G1EO5c.jpg",
+        "title": "Geochilmaru (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/G1EO5s.jpg",
+        "hd_url": "https://i.mydramalist.com/G1EO5s.jpg",
+        "title": "Geochilmaru Korean Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/G1EO5m.jpg",
+        "hd_url": "https://i.mydramalist.com/G1EO5m.jpg",
+        "title": "Geochilmaru (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sung Hong Il",
+          "slug": "people/11029-sung-hong-il",
+          "url": "https://mydramalist.com/people/11029-sung-hong-il",
+          "image_url": "https://i.mydramalist.com/2zyvw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2zyvw_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Hong Sung Chun",
+          "slug": "people/17506-hong-sung-chun",
+          "url": "https://mydramalist.com/people/17506-hong-sung-chun",
+          "image_url": "https://i.mydramalist.com/ElLXbs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ElLXbs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Kim Jin Seong",
+          "slug": "people/107291-kim-jin-seong",
+          "url": "https://mydramalist.com/people/107291-kim-jin-seong",
+          "image_url": "https://i.mydramalist.com/jzAQJ_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jzAQJ_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T08:58:15.280Z"
+  },
+  {
+    "id": 79277,
+    "slug": "79277-3-friends",
+    "url": "https://mydramalist.com/79277-3-friends",
+    "title": "3 Friends",
+    "complete_title": "3 Friends (2005)",
+    "native_title": "มะหมี่",
+    "sub_title": "มะหมี่ ‧ Movie ‧ 2005",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Thailand",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 15 min.",
+    "duration_minutes": 75,
+    "content_rating": "Not Yet Rated",
+    "rating": 10.022,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 22,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [],
+    "synopsis": "'3 Friends' is an experimental fiction/documentary film conceived and directed by 3 friends. This video documentary follows model Napakpapah Nakprasit and her friends Penporn Poonsaem and Jitraporn Panit (nicknamed Mamee, Yo and Belle, respectively) as they frolic on the gorgeous beaches of Thailand. We see the real lives of three girlfriends: Belle flirts with a boatman, Yo searches for a cell phone signal so she can call her boyfriend in the city, while Mamee befriends a young Japanese ecologist. Beyond that there is little substance to this film. In fact, '3 Friends' resembles a vacation video. The girls lie in the sand, chat in bed and roam the lush, leafy countryside. Their conversations are trivial and their journeys from start to end are insignificant. Apparently, the genesis of this film lies in Thailand's \"star films,\" which are easily available on cheaply produced video discs sold at convenience stores. These discs supposedly reveal the private lives of movie stars and popular models, following them in their daily routines and showing lots of flesh. Produced by big entertainment companies, these videos seem like documentaries, but are really sold to titillate viewers, being little more than eye candy. To subvert this genre, the filmmakers contacted Nakprasit, who is a big media personality in her homeland, where she's typecast as a sex symbol. However, there is nothing in 3 Friends to suggest an attack or even parody of this Thai genre of fluffy celebrity documentaries. Sure, the tropical island's translucent blue water, endless beaches and golden skin are beautiful to watch on the big screen, but that's not enough to fill a feature length movie. English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/j3Rjr_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/j3Rjr_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/j3Rjr_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/j3Rjr_4f.jpg",
+        "title": "3 Friends (2005) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Mamee Napakpapha Nakprasitte",
+          "slug": "people/10061-nakprasitte-napakpapha",
+          "url": "https://mydramalist.com/people/10061-nakprasitte-napakpapha",
+          "image_url": "https://i.mydramalist.com/6BnDW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6BnDW_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Aditya Assarat",
+          "slug": "people/16268-aditya-assarat",
+          "url": "https://mydramalist.com/people/16268-aditya-assarat",
+          "image_url": "https://i.mydramalist.com/ENmZW_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ENmZW_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Rit Akritchalerm Kalayanamitr",
+          "slug": "people/96851-rit-akritchalerm-kalayanamitr",
+          "url": "https://mydramalist.com/people/96851-rit-akritchalerm-kalayanamitr",
+          "image_url": "https://i.mydramalist.com/1BrRy_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1BrRy_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T08:58:20.811Z"
+  },
+  {
+    "id": 719513,
+    "slug": "719513-luerd-samsee",
+    "url": "https://mydramalist.com/719513-luerd-samsee",
+    "title": "Luerd Samsee",
+    "complete_title": "Luerd Samsee (2005)",
+    "native_title": "เลือดสามสี",
+    "sub_title": "เลือดสามสี ‧ Drama ‧ 2005",
+    "also_known_as": [
+      "Leud Sam See"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": 29,
+    "aired_string": "Sep 15, 2005 - Oct 25, 2005",
+    "aired_start": "2005-09-15",
+    "aired_end": "2005-10-25",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "original_network": "Channel 3",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 8,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Family",
+        "id": "29"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Brothers' Relationship",
+        "id": "14737"
+      },
+      {
+        "name": "Father-Son Relationship",
+        "id": "846"
+      }
+    ],
+    "synopsis": "Pamut and Ruangurai have three sons: Chanon, Kanin and Naruenat. Kanin is a good student who is loved by his father, meanwhile Chanon is hated because the day he was born, Pamut's business went bankrupt. In addition, Chanon is not good at studying. It made Pamut hate Chanon even more. Everytime Chanon gets scolded or abused by his father, he receives encouragement from Tulaya or Tik, a close friend who's the daughter of a local electronics repair shop. Tik is in love with Chanon. Kanin became a student at the Faculty of Medicine and Pamut bought a motorcycle as a reward to him. One day, Chanon rode the motorcycle to take his mother Ruangurai to the market and an accident happened. As a result, Ruangurai became blind. Pamut was very angry with Chanon and feeling guilty, Chanon ran away from home. He thought of comitting suicide but Thanet, a young businessman, helped him. After that, Chanon went to Tik's shop and started working there until becoming very proficient in the job. Pamut becomes disappointed with his third son Naruenat after finding out he's transgender. Kanin also disappoints him when his girlfriend Mathukorn becomes pregnant. Will Pamut realize his mistakes as a father and forgive his children? (Source: th.wikipedia; edited by msbrightside on MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/v2yVq_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/v2yVq_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "title": "Luerd Samsee (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/eevPe_4s.jpg",
+        "hd_url": "https://i.mydramalist.com/eevPe_4f.jpg",
+        "title": "Luerd Samsee Thai Drama photo"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "A Chaiya Mitchai",
+          "slug": "people/41317-a-chaiya-mitchai",
+          "url": "https://mydramalist.com/people/41317-a-chaiya-mitchai",
+          "image_url": "https://i.mydramalist.com/Bod2V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bod2V_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Oh Petchlada Tiampetch",
+          "slug": "people/9362-tiampetch-petchlada",
+          "url": "https://mydramalist.com/people/9362-tiampetch-petchlada",
+          "image_url": "https://i.mydramalist.com/40rRJs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/40rRJs.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Eed Ron Banjongsang",
+          "slug": "people/10410-banjongsang-ron",
+          "url": "https://mydramalist.com/people/10410-banjongsang-ron",
+          "image_url": "https://i.mydramalist.com/41y5ws.jpg",
+          "image_hd_url": "https://i.mydramalist.com/41y5ws.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Buum Ranya Siyanon",
+          "slug": "people/16156-bum-ranya-siyanon",
+          "url": "https://mydramalist.com/people/16156-bum-ranya-siyanon",
+          "image_url": "https://i.mydramalist.com/Rdjyr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rdjyr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tao Sarocha Watittapan",
+          "slug": "people/9461-watitapun-sarocha",
+          "url": "https://mydramalist.com/people/9461-watitapun-sarocha",
+          "image_url": "https://i.mydramalist.com/EEzPz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EEzPz_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Yanee Tramoth",
+          "slug": "people/88525-yanee-tramoth",
+          "url": "https://mydramalist.com/people/88525-yanee-tramoth",
+          "image_url": "https://i.mydramalist.com/qYYbED_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qYYbED_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Keng Chatchawan Petchvisit",
+          "slug": "people/23331-chatchawan-petchvisit",
+          "url": "https://mydramalist.com/people/23331-chatchawan-petchvisit",
+          "image_url": "https://i.mydramalist.com/4k0z1s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4k0z1s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Oliver Bever",
+          "slug": "people/10981-beaver-oliver",
+          "url": "https://mydramalist.com/people/10981-beaver-oliver",
+          "image_url": "https://i.mydramalist.com/Az2BPs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Az2BPs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kasama Nitsaiphan",
+          "slug": "people/26301-kasama-nitsaiphan",
+          "url": "https://mydramalist.com/people/26301-kasama-nitsaiphan",
+          "image_url": "https://i.mydramalist.com/pv76Vs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pv76Vs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Aew Ampa Phusit",
+          "slug": "people/10054-phoosit-ampha",
+          "url": "https://mydramalist.com/people/10054-phoosit-ampha",
+          "image_url": "https://i.mydramalist.com/l0Yl3E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0Yl3E_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Pin Nathanan Chaweewong",
+          "slug": "people/65059-pin-nathanan-chaweewong",
+          "url": "https://mydramalist.com/people/65059-pin-nathanan-chaweewong",
+          "image_url": "https://i.mydramalist.com/rlENm_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rlENm_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Luerd Samsee Episode 1",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Luerd Samsee Episode 2",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Luerd Samsee Episode 3",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Luerd Samsee Episode 4",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Luerd Samsee Episode 5",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Luerd Samsee Episode 6",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Luerd Samsee Episode 7",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Luerd Samsee Episode 8",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Luerd Samsee Episode 9",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Luerd Samsee Episode 10",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Luerd Samsee Episode 11",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Luerd Samsee Episode 12",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Luerd Samsee Episode 13",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Luerd Samsee Episode 14",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Luerd Samsee Episode 15",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Luerd Samsee Episode 16",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/16",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Luerd Samsee Episode 17",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/17",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Luerd Samsee Episode 18",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/18",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Luerd Samsee Episode 19",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/19",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Luerd Samsee Episode 20",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/20",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Luerd Samsee Episode 21",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/21",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Luerd Samsee Episode 22",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/22",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Luerd Samsee Episode 23",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/23",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Luerd Samsee Episode 24",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/24",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "Luerd Samsee Episode 25",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/25",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "Luerd Samsee Episode 26",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/26",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "Luerd Samsee Episode 27",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/27",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "Luerd Samsee Episode 28",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/28",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 29,
+        "title": "Luerd Samsee Episode 29",
+        "url": "https://mydramalist.com/719513-luerd-samsee/episode/29",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/v2yVq_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/v2yVq_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T08:58:26.674Z"
+  },
+  {
+    "id": 48657,
+    "slug": "48657-chuugakusei-nikki-nagareboshi-wa-sasayaku",
+    "url": "https://mydramalist.com/48657-chuugakusei-nikki-nagareboshi-wa-sasayaku",
+    "title": "Chuugakusei Nikki: Nagareboshi wa Sasayaku",
+    "complete_title": "Chuugakusei Nikki: Nagareboshi wa Sasayaku (2005)",
+    "native_title": "中学生日記 流れ星は囁く",
+    "sub_title": "中学生日記 流れ星は囁く ‧ Drama ‧ 2005",
+    "also_known_as": [
+      "中学生日記 流れ星は囁く"
+    ],
+    "type": "Drama",
+    "country": "Japan",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": 2,
+    "aired_string": "Sep 12, 2005 - Sep 19, 2005",
+    "aired_start": "2005-09-12",
+    "aired_end": "2005-09-19",
+    "aired_on": [
+      "Monday"
+    ],
+    "original_network": "NHK",
+    "duration_string": "29 min.",
+    "duration_minutes": 29,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.06,
+    "scored_by": 1,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Miniseries",
+        "id": "964"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/eRqLQc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/eRqLQc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/eRqLQc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/eRqLQc.jpg",
+        "title": "Chuugakusei Nikki: Nagareboshi wa Sasayaku (2005) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/eRqLQs.jpg",
+        "hd_url": "https://i.mydramalist.com/eRqLQs.jpg",
+        "title": "Chuugakusei Nikki: Nagareboshi wa Sasayaku Japanese Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/eRqLQm.jpg",
+        "hd_url": "https://i.mydramalist.com/eRqLQm.jpg",
+        "title": "Chuugakusei Nikki: Nagareboshi wa Sasayaku (2005)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Chuugakusei Nikki: Nagareboshi wa Sasayaku Episode 1",
+        "url": "https://mydramalist.com/48657-chuugakusei-nikki-nagareboshi-wa-sasayaku/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eRqLQm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eRqLQm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Chuugakusei Nikki: Nagareboshi wa Sasayaku Episode 2",
+        "url": "https://mydramalist.com/48657-chuugakusei-nikki-nagareboshi-wa-sasayaku/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/eRqLQm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/eRqLQm.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T08:58:33.516Z"
+  },
+  {
+    "id": 703783,
+    "slug": "703783-sao-chai-kon-mai",
+    "url": "https://mydramalist.com/703783-sao-chai-kon-mai",
+    "title": "Sao Chai Kon Mai",
+    "complete_title": "Sao Chai Kon Mai (2005)",
+    "native_title": "สาวใช้คนใหม่",
+    "sub_title": "สาวใช้คนใหม่ ‧ Drama ‧ 2005",
+    "also_known_as": [
+      "New Maid , Sao Chai Khon Mai"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2005,
+    "status": "Aired",
+    "episodes": 28,
+    "aired_string": "Sep 12, 2005 - Oct 9, 2005",
+    "aired_start": "2005-09-12",
+    "aired_end": "2005-10-09",
+    "aired_on": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "original_network": "Channel 7",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 13,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 13,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Rich Female Lead",
+        "id": "1646"
+      },
+      {
+        "name": "Riches To Rags",
+        "id": "212"
+      },
+      {
+        "name": "Adapted From A Novel",
+        "id": "133"
+      }
+    ],
+    "synopsis": "Dum's parents passed away, leaving her their house, but she couldn't afford to live in it anymore so she sells it. She ends up living with her maid's family, and her maid helps her sell the house to Pathai. Her maid injures herself, so Dum pretends to be the maid's daughter and becomes Pathai's maid. Pathai is a well-known writer from a wealthy family but was kicked out due to greed over his father's inheritance from his siblings. He falls in love with Dum not knowing she was the previous owner of his house. Pathai's dad is sick and he wants to visit him but he can't because of his siblings, so Dum goes to work as a maid in his family's house. He has an older brother, 2 sisters, and a perverted younger brother. (Source: asianfuse.net) English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/pZwVy_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pZwVy_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "title": "Sao Chai Kon Mai (2005) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Sao Chai Kon Mai",
+        "slug": "703773-sao-chai-kon-mai",
+        "url": "https://mydramalist.com/703773-sao-chai-kon-mai",
+        "relation": "Thai adaptation"
+      },
+      {
+        "title": "Sao Chai Kon Mai",
+        "slug": "33895-sao-chai-kon-mai",
+        "url": "https://mydramalist.com/33895-sao-chai-kon-mai",
+        "relation": "Thai adaptation"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Bank Pavarit Mongkolpisit",
+          "slug": "people/9568-mongkolpisit-pawalit",
+          "url": "https://mydramalist.com/people/9568-mongkolpisit-pawalit",
+          "image_url": "https://i.mydramalist.com/eeBnQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eeBnQ_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Nina Suthita Panyayong",
+          "slug": "people/92639-nina-suthita-panyayong",
+          "url": "https://mydramalist.com/people/92639-nina-suthita-panyayong",
+          "image_url": "https://i.mydramalist.com/ROklx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ROklx_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Nong Thanongsak Suphakan",
+          "slug": "people/15392-suphakan-thanongsak",
+          "url": "https://mydramalist.com/people/15392-suphakan-thanongsak",
+          "image_url": "https://i.mydramalist.com/Yo78zs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Yo78zs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jake Sattawat Doonwichit",
+          "slug": "people/9943-doonwichit-sattawat",
+          "url": "https://mydramalist.com/people/9943-doonwichit-sattawat",
+          "image_url": "https://i.mydramalist.com/BBAL6s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BBAL6s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tu Jarusiri Phuwanai",
+          "slug": "people/67743-tu-jarusiri-phuwanai",
+          "url": "https://mydramalist.com/people/67743-tu-jarusiri-phuwanai",
+          "image_url": "https://i.mydramalist.com/XR1Wx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XR1Wx_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Tai Chatchadaporn Tananta",
+          "slug": "people/10021-thananta-chatchadaporn",
+          "url": "https://mydramalist.com/people/10021-thananta-chatchadaporn",
+          "image_url": "https://i.mydramalist.com/dLl6b_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dLl6b_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ning Panita Pattanahirun",
+          "slug": "people/11677-tumwattana-panita",
+          "url": "https://mydramalist.com/people/11677-tumwattana-panita",
+          "image_url": "https://i.mydramalist.com/ABXmb4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABXmb4_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Dao Duangdao Jarujinda",
+          "slug": "people/13480-jarujinda-duangdao",
+          "url": "https://mydramalist.com/people/13480-jarujinda-duangdao",
+          "image_url": "https://i.mydramalist.com/O8zZ3Y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8zZ3Y_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Kanchana Wongpuapan",
+          "slug": "people/23469-kanchana-wongpuapan",
+          "url": "https://mydramalist.com/people/23469-kanchana-wongpuapan",
+          "image_url": "https://i.mydramalist.com/RWdDzm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RWdDzm.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Kanchana Nakhanan",
+          "slug": "people/75729-kanchana-nakhanan",
+          "url": "https://mydramalist.com/people/75729-kanchana-nakhanan",
+          "image_url": "https://i.mydramalist.com/k1pzg_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/k1pzg_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Sao Chai Kon Mai Episode 1",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Sao Chai Kon Mai Episode 2",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Sao Chai Kon Mai Episode 3",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Sao Chai Kon Mai Episode 4",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Sao Chai Kon Mai Episode 5",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Sao Chai Kon Mai Episode 6",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Sao Chai Kon Mai Episode 7",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Sao Chai Kon Mai Episode 8",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Sao Chai Kon Mai Episode 9",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Sao Chai Kon Mai Episode 10",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Sao Chai Kon Mai Episode 11",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Sao Chai Kon Mai Episode 12",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Sao Chai Kon Mai Episode 13",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Sao Chai Kon Mai Episode 14",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Sao Chai Kon Mai Episode 15",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Sao Chai Kon Mai Episode 16",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/16",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Sao Chai Kon Mai Episode 17",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/17",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Sao Chai Kon Mai Episode 18",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/18",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Sao Chai Kon Mai Episode 19",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/19",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Sao Chai Kon Mai Episode 20",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/20",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Sao Chai Kon Mai Episode 21",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/21",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Sao Chai Kon Mai Episode 22",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/22",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Sao Chai Kon Mai Episode 23",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/23",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Sao Chai Kon Mai Episode 24",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/24",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "Sao Chai Kon Mai Episode 25",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/25",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 26,
+        "title": "Sao Chai Kon Mai Episode 26",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/26",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 27,
+        "title": "Sao Chai Kon Mai Episode 27",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/27",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 28,
+        "title": "Sao Chai Kon Mai Episode 28",
+        "url": "https://mydramalist.com/703783-sao-chai-kon-mai/episode/28",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/pZwVy_4m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/pZwVy_4f.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T08:58:40.410Z"
   }
 ]
