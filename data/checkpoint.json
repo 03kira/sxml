@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -161,13 +161,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 2039,
-    "pending": 916,
+    "enriched": 2059,
+    "pending": 896,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 9707,
-    "last_title": "Under the Veil",
-    "last_updated": "2026-11-21T09:18:55.546Z"
+    "last_id": 9441,
+    "last_title": "Tattoo",
+    "last_updated": "2026-11-21T09:21:23.205Z"
   },
   "2016": {
     "total_titles": 3621,
