@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,13 +151,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 139,
-    "pending": 2816,
+    "enriched": 379,
+    "pending": 2576,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 15806,
-    "last_title": "Sapai Jao",
-    "last_updated": "2026-11-21T05:31:52.576Z"
+    "last_id": 15846,
+    "last_title": "Riders: Catch Tomorrow",
+    "last_updated": "2026-11-21T06:05:46.105Z"
   },
   "2016": {
     "total_titles": 3621,
