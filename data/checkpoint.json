@@ -171,8 +171,8 @@
   },
   "2007": {
     "total_titles": 1471,
-    "enriched": 1279,
-    "pending": 192,
+    "enriched": 1471,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2007.json",
     "last_id": 14694,
@@ -181,13 +181,13 @@
   },
   "2008": {
     "total_titles": 1549,
-    "enriched": 179,
-    "pending": 1370,
+    "enriched": 199,
+    "pending": 1350,
     "parts_count": 1,
     "active_part": "mdl_enriched_2008.json",
-    "last_id": 358,
-    "last_title": "Tokyo Ghost Trip",
-    "last_updated": "2026-11-21T16:56:10.731Z"
+    "last_id": 228,
+    "last_title": "Why Did You Come to My House?",
+    "last_updated": "2026-11-21T16:58:38.480Z"
   },
   "2014": {
     "total_titles": 2696,
