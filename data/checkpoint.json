@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -141,13 +141,13 @@
   },
   "2004": {
     "total_titles": 1247,
-    "enriched": 939,
-    "pending": 308,
+    "enriched": 959,
+    "pending": 288,
     "parts_count": 1,
     "active_part": "mdl_enriched_2004.json",
-    "last_id": 4851,
-    "last_title": "Ace wo Nerae! Kiseki e no Chousen",
-    "last_updated": "2026-11-21T07:23:24.274Z"
+    "last_id": 2123,
+    "last_title": "Second Proposal",
+    "last_updated": "2026-11-21T07:25:41.956Z"
   },
   "2015": {
     "total_titles": 2955,
