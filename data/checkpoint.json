@@ -121,23 +121,23 @@
   },
   "2002": {
     "total_titles": 1032,
-    "enriched": 1032,
-    "pending": 0,
+    "enriched": 479,
+    "pending": 553,
     "parts_count": 1,
     "active_part": "mdl_enriched_2002.json",
-    "last_id": 5913,
-    "last_title": "Fish and Elephant",
-    "last_updated": "2026-11-21T03:10:26.820Z"
+    "last_id": 701999,
+    "last_title": "Shinpen Keigo 10: Keiji no Kenju ga Ubaware Hitojichi no Onna ga Utareta!",
+    "last_updated": "2026-11-21T02:08:14.899Z"
   },
   "2016": {
     "total_titles": 3621,
-    "enriched": 2632,
-    "pending": 989,
+    "enriched": 2652,
+    "pending": 969,
     "parts_count": 1,
     "active_part": "mdl_enriched_2016.json",
-    "last_id": 16551,
-    "last_title": "Hello Mr. Right",
-    "last_updated": "2026-11-21T03:11:52.014Z"
+    "last_id": 27884,
+    "last_title": "We Are Not Human",
+    "last_updated": "2026-11-21T03:14:34.106Z"
   },
   "2017": {
     "total_titles": 3837,
