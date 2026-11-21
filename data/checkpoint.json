@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,13 +151,13 @@
   },
   "2005": {
     "total_titles": 1283,
-    "enriched": 659,
-    "pending": 624,
+    "enriched": 679,
+    "pending": 604,
     "parts_count": 1,
     "active_part": "mdl_enriched_2005.json",
-    "last_id": 731683,
-    "last_title": "The Shower",
-    "last_updated": "2026-11-21T09:22:22.624Z"
+    "last_id": 737023,
+    "last_title": "Omiyasan 4",
+    "last_updated": "2026-11-21T09:24:39.333Z"
   },
   "2015": {
     "total_titles": 2955,
