@@ -161,8 +161,8 @@
   },
   "2006": {
     "total_titles": 1459,
-    "enriched": 1459,
-    "pending": 0,
+    "enriched": 319,
+    "pending": 1140,
     "parts_count": 1,
     "active_part": "mdl_enriched_2006.json",
     "last_id": 10358,
@@ -181,13 +181,13 @@
   },
   "2014": {
     "total_titles": 2696,
-    "enriched": 1479,
-    "pending": 1217,
+    "enriched": 1499,
+    "pending": 1197,
     "parts_count": 1,
     "active_part": "mdl_enriched_2014.json",
-    "last_id": 50339,
-    "last_title": "Gamushara!",
-    "last_updated": "2026-11-21T14:25:01.699Z"
+    "last_id": 771259,
+    "last_title": "Our Best Years",
+    "last_updated": "2026-11-21T14:27:11.263Z"
   },
   "2015": {
     "total_titles": 2955,
