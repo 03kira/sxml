@@ -151,8 +151,8 @@
   },
   "2005": {
     "total_titles": 1283,
-    "enriched": 1283,
-    "pending": 0,
+    "enriched": 859,
+    "pending": 424,
     "parts_count": 1,
     "active_part": "mdl_enriched_2005.json",
     "last_id": 20112,
@@ -171,13 +171,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 2942,
-    "pending": 13,
+    "enriched": 2955,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 19132,
-    "last_title": "Taste of Love",
-    "last_updated": "2026-11-21T11:16:16.467Z"
+    "last_id": 18608,
+    "last_title": "A Tiger Wife",
+    "last_updated": "2026-11-21T11:17:44.300Z"
   },
   "2016": {
     "total_titles": 3621,
