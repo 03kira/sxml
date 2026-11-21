@@ -131,13 +131,23 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
-    "last_id": 2294,
-    "last_title": "Breathless",
-    "last_updated": "2026-11-21T05:06:08.776Z"
+    "last_id": 17235,
+    "last_title": "Feeding Boys, Ayaya",
+    "last_updated": "2026-11-21T05:27:17.125Z"
+  },
+  "2004": {
+    "total_titles": 1247,
+    "enriched": 19,
+    "pending": 1228,
+    "parts_count": 1,
+    "active_part": "mdl_enriched_2004.json",
+    "last_id": 2366,
+    "last_title": "2046",
+    "last_updated": "2026-11-21T05:38:43.257Z"
   },
   "2015": {
     "total_titles": 2955,
