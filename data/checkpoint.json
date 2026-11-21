@@ -131,43 +131,23 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
-    "last_id": 17235,
-    "last_title": "Feeding Boys, Ayaya",
-    "last_updated": "2026-11-21T05:27:17.125Z"
-  },
-  "2004": {
-    "total_titles": 1247,
-    "enriched": 1247,
-    "pending": 0,
-    "parts_count": 1,
-    "active_part": "mdl_enriched_2004.json",
-    "last_id": 22291,
-    "last_title": "Star Appeal",
-    "last_updated": "2026-11-21T07:58:39.070Z"
-  },
-  "2005": {
-    "total_titles": 1283,
-    "enriched": 79,
-    "pending": 1204,
-    "parts_count": 1,
-    "active_part": "mdl_enriched_2005.json",
-    "last_id": 1260,
-    "last_title": "Marrying the Mafia II: Enemy-in-Law",
-    "last_updated": "2026-11-21T08:18:14.154Z"
+    "last_id": 2294,
+    "last_title": "Breathless",
+    "last_updated": "2026-11-21T05:06:08.776Z"
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 1539,
-    "pending": 1416,
+    "enriched": 1559,
+    "pending": 1396,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 720629,
-    "last_title": "Mom",
-    "last_updated": "2026-11-21T08:18:30.281Z"
+    "last_id": 49357,
+    "last_title": "U・F・O Ushimado's Fantastic Occurrence",
+    "last_updated": "2026-11-21T08:20:47.415Z"
   },
   "2016": {
     "total_titles": 3621,
