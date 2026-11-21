@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,13 +151,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 899,
-    "pending": 2056,
+    "enriched": 919,
+    "pending": 2036,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 684261,
-    "last_title": "Baka, Siguro, Yata",
-    "last_updated": "2026-11-21T07:05:57.710Z"
+    "last_id": 32053,
+    "last_title": "Flotsam",
+    "last_updated": "2026-11-21T07:08:19.473Z"
   },
   "2016": {
     "total_titles": 3621,
