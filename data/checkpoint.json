@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,23 +151,23 @@
   },
   "2005": {
     "total_titles": 1283,
-    "enriched": 539,
-    "pending": 744,
+    "enriched": 559,
+    "pending": 724,
     "parts_count": 1,
     "active_part": "mdl_enriched_2005.json",
-    "last_id": 60039,
-    "last_title": "Last Take, Last Shot",
-    "last_updated": "2026-11-21T09:09:23.050Z"
+    "last_id": 799966,
+    "last_title": "The River of Love",
+    "last_updated": "2026-11-21T09:11:23.079Z"
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 1959,
-    "pending": 996,
+    "enriched": 1399,
+    "pending": 1556,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 28658,
-    "last_title": "Last Kiss",
-    "last_updated": "2026-11-21T09:08:48.331Z"
+    "last_id": 735789,
+    "last_title": "We Shall Overcome",
+    "last_updated": "2026-11-21T08:02:36.579Z"
   },
   "2016": {
     "total_titles": 3621,
