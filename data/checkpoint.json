@@ -121,8 +121,8 @@
   },
   "2002": {
     "total_titles": 1032,
-    "enriched": 479,
-    "pending": 553,
+    "enriched": 1032,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2002.json",
     "last_id": 5913,
@@ -131,13 +131,13 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 199,
-    "pending": 948,
+    "enriched": 219,
+    "pending": 928,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
-    "last_id": 773437,
-    "last_title": "Roppongi Renkin no Teio: Capone",
-    "last_updated": "2026-11-21T03:41:58.577Z"
+    "last_id": 691239,
+    "last_title": "Ruk Fan Wan Reudoo Nao",
+    "last_updated": "2026-11-21T03:44:09.313Z"
   },
   "2016": {
     "total_titles": 3621,
