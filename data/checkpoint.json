@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,13 +151,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 199,
-    "pending": 2756,
+    "enriched": 219,
+    "pending": 2736,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 13786,
-    "last_title": "Ressha Sentai ToQger Returns: Super ToQ 7gou of Dreams",
-    "last_updated": "2026-11-21T05:40:21.142Z"
+    "last_id": 11112,
+    "last_title": "Forget Me Not",
+    "last_updated": "2026-11-21T05:43:11.530Z"
   },
   "2016": {
     "total_titles": 3621,
