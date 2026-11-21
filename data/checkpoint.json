@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -141,13 +141,13 @@
   },
   "2004": {
     "total_titles": 1247,
-    "enriched": 999,
-    "pending": 248,
+    "enriched": 1019,
+    "pending": 228,
     "parts_count": 1,
     "active_part": "mdl_enriched_2004.json",
-    "last_id": 52671,
-    "last_title": "The Japanese Wife Next Door",
-    "last_updated": "2026-11-21T07:30:17.972Z"
+    "last_id": 5376,
+    "last_title": "Cafe Lumiere",
+    "last_updated": "2026-11-21T07:32:33.637Z"
   },
   "2015": {
     "total_titles": 2955,
