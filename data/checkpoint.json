@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -161,13 +161,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 1819,
-    "pending": 1136,
+    "enriched": 1839,
+    "pending": 1116,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 15155,
-    "last_title": "Lueat Tat Lueat",
-    "last_updated": "2026-11-21T08:50:40.572Z"
+    "last_id": 30913,
+    "last_title": "Room Alone Season 2 Special: Ep.0",
+    "last_updated": "2026-11-21T08:53:16.069Z"
   },
   "2016": {
     "total_titles": 3621,
