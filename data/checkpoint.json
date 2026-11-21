@@ -171,8 +171,8 @@
   },
   "2007": {
     "total_titles": 1471,
-    "enriched": 1471,
-    "pending": 0,
+    "enriched": 1279,
+    "pending": 192,
     "parts_count": 1,
     "active_part": "mdl_enriched_2007.json",
     "last_id": 14694,
@@ -191,13 +191,13 @@
   },
   "2014": {
     "total_titles": 2696,
-    "enriched": 2487,
-    "pending": 209,
+    "enriched": 2507,
+    "pending": 189,
     "parts_count": 1,
     "active_part": "mdl_enriched_2014.json",
-    "last_id": 25242,
-    "last_title": "The Kite And Wind",
-    "last_updated": "2026-11-21T16:35:14.885Z"
+    "last_id": 40513,
+    "last_title": "River Road",
+    "last_updated": "2026-11-21T16:37:24.515Z"
   },
   "2015": {
     "total_titles": 2955,
