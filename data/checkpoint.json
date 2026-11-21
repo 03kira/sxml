@@ -121,8 +121,8 @@
   },
   "2002": {
     "total_titles": 1032,
-    "enriched": 479,
-    "pending": 553,
+    "enriched": 1032,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2002.json",
     "last_id": 5913,
@@ -131,13 +131,13 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 579,
-    "pending": 568,
+    "enriched": 599,
+    "pending": 548,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
-    "last_id": 57311,
-    "last_title": "The Wind Carpet",
-    "last_updated": "2026-11-21T04:23:15.901Z"
+    "last_id": 748939,
+    "last_title": "Kagari Keibuho no Jikenbo 1",
+    "last_updated": "2026-11-21T04:25:27.297Z"
   },
   "2016": {
     "total_titles": 3621,
