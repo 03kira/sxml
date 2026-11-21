@@ -131,33 +131,23 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1039,
-    "pending": 108,
+    "enriched": 1059,
+    "pending": 88,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
-    "last_id": 800726,
-    "last_title": "Unusual Mission",
-    "last_updated": "2026-11-21T05:15:00.623Z"
-  },
-  "2015": {
-    "total_titles": 2955,
-    "enriched": 19,
-    "pending": 2936,
-    "parts_count": 1,
-    "active_part": "mdl_enriched_2015.json",
-    "last_id": 15233,
-    "last_title": "Dr. Storks",
-    "last_updated": "2026-11-21T05:14:23.640Z"
+    "last_id": 809338,
+    "last_title": "Fen Nu De Hu Die",
+    "last_updated": "2026-11-21T05:17:19.065Z"
   },
   "2016": {
     "total_titles": 3621,
-    "enriched": 3621,
-    "pending": 0,
+    "enriched": 2652,
+    "pending": 969,
     "parts_count": 1,
     "active_part": "mdl_enriched_2016.json",
-    "last_id": 23219,
-    "last_title": "Mother's Revenge",
-    "last_updated": "2026-11-21T05:03:00.887Z"
+    "last_id": 27884,
+    "last_title": "We Are Not Human",
+    "last_updated": "2026-11-21T03:14:34.106Z"
   },
   "2017": {
     "total_titles": 3837,
