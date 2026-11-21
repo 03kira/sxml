@@ -161,13 +161,23 @@
   },
   "2006": {
     "total_titles": 1459,
-    "enriched": 319,
-    "pending": 1140,
+    "enriched": 1459,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2006.json",
-    "last_id": 79949,
-    "last_title": "Sakai Family Happiness",
-    "last_updated": "2026-11-21T11:20:59.004Z"
+    "last_id": 10358,
+    "last_title": "Tuya's Marriage",
+    "last_updated": "2026-11-21T13:27:51.296Z"
+  },
+  "2007": {
+    "total_titles": 1471,
+    "enriched": 19,
+    "pending": 1452,
+    "parts_count": 1,
+    "active_part": "mdl_enriched_2007.json",
+    "last_id": 2240,
+    "last_title": "The Family",
+    "last_updated": "2026-11-21T13:39:40.262Z"
   },
   "2014": {
     "total_titles": 2696,
