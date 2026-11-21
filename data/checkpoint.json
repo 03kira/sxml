@@ -175,9 +175,19 @@
     "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2007.json",
-    "last_id": 25367,
-    "last_title": "King of Nanyue Kingdom",
-    "last_updated": "2026-11-21T16:01:29.057Z"
+    "last_id": 14694,
+    "last_title": "In Love We Trust",
+    "last_updated": "2026-11-21T16:22:46.318Z"
+  },
+  "2008": {
+    "total_titles": 1549,
+    "enriched": 159,
+    "pending": 1390,
+    "parts_count": 1,
+    "active_part": "mdl_enriched_2008.json",
+    "last_id": 1509,
+    "last_title": "Shikaotoko Aoniyoshi",
+    "last_updated": "2026-11-21T16:53:34.625Z"
   },
   "2014": {
     "total_titles": 2696,
