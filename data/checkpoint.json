@@ -121,8 +121,8 @@
   },
   "2002": {
     "total_titles": 1032,
-    "enriched": 479,
-    "pending": 553,
+    "enriched": 1032,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2002.json",
     "last_id": 5913,
@@ -131,13 +131,13 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 399,
-    "pending": 748,
+    "enriched": 419,
+    "pending": 728,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
-    "last_id": 10887,
-    "last_title": "Wild Berries",
-    "last_updated": "2026-11-21T04:03:42.607Z"
+    "last_id": 37907,
+    "last_title": "My Troublesome Buddy",
+    "last_updated": "2026-11-21T04:05:55.073Z"
   },
   "2016": {
     "total_titles": 3621,
