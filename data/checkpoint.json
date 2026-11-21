@@ -121,8 +121,8 @@
   },
   "2002": {
     "total_titles": 1032,
-    "enriched": 479,
-    "pending": 553,
+    "enriched": 1032,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2002.json",
     "last_id": 5913,
@@ -131,13 +131,13 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 879,
-    "pending": 268,
+    "enriched": 899,
+    "pending": 248,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
-    "last_id": 2749,
-    "last_title": "Bright Future",
-    "last_updated": "2026-11-21T04:57:01.190Z"
+    "last_id": 4459,
+    "last_title": "My Lucky Star",
+    "last_updated": "2026-11-21T04:59:17.183Z"
   },
   "2016": {
     "total_titles": 3621,
