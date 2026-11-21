@@ -161,8 +161,8 @@
   },
   "2006": {
     "total_titles": 1459,
-    "enriched": 319,
-    "pending": 1140,
+    "enriched": 1459,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2006.json",
     "last_id": 10358,
@@ -171,13 +171,13 @@
   },
   "2007": {
     "total_titles": 1471,
-    "enriched": 619,
-    "pending": 852,
+    "enriched": 639,
+    "pending": 832,
     "parts_count": 1,
     "active_part": "mdl_enriched_2007.json",
-    "last_id": 808878,
-    "last_title": "Women Who Love Women: Conversations in Singapore",
-    "last_updated": "2026-11-21T14:48:07.024Z"
+    "last_id": 46541,
+    "last_title": "Kaidan Shin Mimibukuro Special: Zekkyo Hen",
+    "last_updated": "2026-11-21T14:50:18.297Z"
   },
   "2014": {
     "total_titles": 2696,
