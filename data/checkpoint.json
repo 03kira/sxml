@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,13 +151,13 @@
   },
   "2005": {
     "total_titles": 1283,
-    "enriched": 59,
-    "pending": 1224,
+    "enriched": 79,
+    "pending": 1204,
     "parts_count": 1,
     "active_part": "mdl_enriched_2005.json",
-    "last_id": 1072,
-    "last_title": "Be Strong Geum Soon",
-    "last_updated": "2026-11-21T08:15:41.437Z"
+    "last_id": 1260,
+    "last_title": "Marrying the Mafia II: Enemy-in-Law",
+    "last_updated": "2026-11-21T08:18:14.154Z"
   },
   "2015": {
     "total_titles": 2955,
