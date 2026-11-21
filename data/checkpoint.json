@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -161,13 +161,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 1659,
-    "pending": 1296,
+    "enriched": 1679,
+    "pending": 1276,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 736999,
-    "last_title": "Thicker Than Water",
-    "last_updated": "2026-11-21T08:31:55.757Z"
+    "last_id": 50051,
+    "last_title": "Kim Je Dong's Talk To You: Special",
+    "last_updated": "2026-11-21T08:34:14.163Z"
   },
   "2016": {
     "total_titles": 3621,
