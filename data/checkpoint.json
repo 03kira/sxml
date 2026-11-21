@@ -161,8 +161,8 @@
   },
   "2006": {
     "total_titles": 1459,
-    "enriched": 319,
-    "pending": 1140,
+    "enriched": 1459,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2006.json",
     "last_id": 10358,
@@ -171,13 +171,13 @@
   },
   "2007": {
     "total_titles": 1471,
-    "enriched": 899,
-    "pending": 572,
+    "enriched": 919,
+    "pending": 552,
     "parts_count": 1,
     "active_part": "mdl_enriched_2007.json",
-    "last_id": 760939,
-    "last_title": "Tsugaru Kaikyo Mystery Koro 6",
-    "last_updated": "2026-11-21T15:18:29.845Z"
+    "last_id": 688769,
+    "last_title": "Loke Song Bai Khong Nai Diew",
+    "last_updated": "2026-11-21T15:20:40.051Z"
   },
   "2014": {
     "total_titles": 2696,
