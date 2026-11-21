@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,13 +151,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 319,
-    "pending": 2636,
+    "enriched": 339,
+    "pending": 2616,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 13355,
-    "last_title": "Yume wo Ataeru",
-    "last_updated": "2026-11-21T05:57:29.730Z"
+    "last_id": 15103,
+    "last_title": "Alchemist",
+    "last_updated": "2026-11-21T06:00:10.837Z"
   },
   "2016": {
     "total_titles": 3621,
