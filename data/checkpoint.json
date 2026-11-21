@@ -161,8 +161,8 @@
   },
   "2006": {
     "total_titles": 1459,
-    "enriched": 1459,
-    "pending": 0,
+    "enriched": 319,
+    "pending": 1140,
     "parts_count": 1,
     "active_part": "mdl_enriched_2006.json",
     "last_id": 10358,
@@ -181,13 +181,13 @@
   },
   "2014": {
     "total_titles": 2696,
-    "enriched": 2159,
-    "pending": 537,
+    "enriched": 2179,
+    "pending": 517,
     "parts_count": 1,
     "active_part": "mdl_enriched_2014.json",
-    "last_id": 10635,
-    "last_title": "Twa Tiu Tiann",
-    "last_updated": "2026-11-21T15:46:05.668Z"
+    "last_id": 32043,
+    "last_title": "Turquoise Sky",
+    "last_updated": "2026-11-21T15:48:29.840Z"
   },
   "2015": {
     "total_titles": 2955,
