@@ -161,8 +161,8 @@
   },
   "2006": {
     "total_titles": 1459,
-    "enriched": 319,
-    "pending": 1140,
+    "enriched": 1459,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2006.json",
     "last_id": 10358,
@@ -171,13 +171,13 @@
   },
   "2007": {
     "total_titles": 1471,
-    "enriched": 559,
-    "pending": 912,
+    "enriched": 579,
+    "pending": 892,
     "parts_count": 1,
     "active_part": "mdl_enriched_2007.json",
-    "last_id": 768129,
-    "last_title": "Your Song Season 6: Smile",
-    "last_updated": "2026-11-21T14:41:47.421Z"
+    "last_id": 66357,
+    "last_title": "Durog",
+    "last_updated": "2026-11-21T14:43:48.859Z"
   },
   "2014": {
     "total_titles": 2696,
