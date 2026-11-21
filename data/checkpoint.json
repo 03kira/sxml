@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -141,13 +141,13 @@
   },
   "2004": {
     "total_titles": 1247,
-    "enriched": 579,
-    "pending": 668,
+    "enriched": 599,
+    "pending": 648,
     "parts_count": 1,
     "active_part": "mdl_enriched_2004.json",
-    "last_id": 38259,
-    "last_title": "Yar Bang Cup Hai Kha Yai",
-    "last_updated": "2026-11-21T06:42:45.750Z"
+    "last_id": 38099,
+    "last_title": "Gamgap Rak Gamgap Hua Jai",
+    "last_updated": "2026-11-21T06:44:59.568Z"
   },
   "2015": {
     "total_titles": 2955,
