@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -161,13 +161,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 1399,
-    "pending": 1556,
+    "enriched": 2179,
+    "pending": 776,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 735789,
-    "last_title": "We Shall Overcome",
-    "last_updated": "2026-11-21T08:02:36.579Z"
+    "last_id": 11119,
+    "last_title": "Speed",
+    "last_updated": "2026-11-21T09:36:08.883Z"
   },
   "2016": {
     "total_titles": 3621,
