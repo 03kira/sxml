@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -141,13 +141,13 @@
   },
   "2004": {
     "total_titles": 1247,
-    "enriched": 139,
-    "pending": 1108,
+    "enriched": 159,
+    "pending": 1088,
     "parts_count": 1,
     "active_part": "mdl_enriched_2004.json",
-    "last_id": 13856,
-    "last_title": "When I Turned Nine",
-    "last_updated": "2026-11-21T05:54:03.868Z"
+    "last_id": 32992,
+    "last_title": "The Ravaged House",
+    "last_updated": "2026-11-21T05:56:16.881Z"
   },
   "2015": {
     "total_titles": 2955,
