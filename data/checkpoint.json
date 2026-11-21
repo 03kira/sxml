@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,13 +151,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 959,
-    "pending": 1996,
+    "enriched": 979,
+    "pending": 1976,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 39607,
-    "last_title": "Snap",
-    "last_updated": "2026-11-21T07:12:41.819Z"
+    "last_id": 702751,
+    "last_title": "Rumor Has It",
+    "last_updated": "2026-11-21T07:14:57.687Z"
   },
   "2016": {
     "total_titles": 3621,
