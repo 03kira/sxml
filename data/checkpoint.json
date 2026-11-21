@@ -161,8 +161,8 @@
   },
   "2006": {
     "total_titles": 1459,
-    "enriched": 1459,
-    "pending": 0,
+    "enriched": 319,
+    "pending": 1140,
     "parts_count": 1,
     "active_part": "mdl_enriched_2006.json",
     "last_id": 10358,
@@ -181,13 +181,13 @@
   },
   "2014": {
     "total_titles": 2696,
-    "enriched": 1159,
-    "pending": 1537,
+    "enriched": 1179,
+    "pending": 1517,
     "parts_count": 1,
     "active_part": "mdl_enriched_2014.json",
-    "last_id": 63207,
-    "last_title": "Mauban: Ang resiko",
-    "last_updated": "2026-11-21T13:49:05.578Z"
+    "last_id": 772501,
+    "last_title": "Oshiri",
+    "last_updated": "2026-11-21T13:51:15.112Z"
   },
   "2015": {
     "total_titles": 2955,
