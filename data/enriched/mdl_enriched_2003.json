@@ -88308,5 +88308,4587 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-21T03:33:42.895Z"
+  },
+  {
+    "id": 21152,
+    "slug": "21152-199-shorts",
+    "url": "https://mydramalist.com/21152-199-shorts",
+    "title": "1:99 Shorts",
+    "complete_title": "1:99 Shorts (2003)",
+    "native_title": "1:99 電影行動",
+    "sub_title": "1:99 電影行動 ‧ Movie ‧ 2003",
+    "also_known_as": [
+      "1:99 Short Film Series , Project 1:99 , 一比九十九電影行動"
+    ],
+    "type": "Movie",
+    "country": "Hong Kong",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 10 min.",
+    "duration_minutes": 70,
+    "content_rating": "Not Yet Rated",
+    "rating": 19,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 19,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Shorts made by 11 directors in order to fight against the SARS epidemy that occurred in China and Hong Kong in 2003. The shorts were produced by the Information Service Department of the Government of HK SAR. The aim was to bring back confidence to the HK population. The running-time is 1 to 2 minutes for each short. (Source: IMDB) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/DkW4zo_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/DkW4zo_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/DkW4zo_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/DkW4zo_4f.jpg",
+        "title": "1:99 Shorts (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/yW8ed3_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/yW8ed3_3f.jpg",
+        "title": "1:99 Shorts Hong Kong Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/oQlqRO_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/oQlqRO_3f.jpg",
+        "title": "1:99 Shorts Hong Kong Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/zBkK8e_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/zBkK8e_3f.jpg",
+        "title": "1:99 Shorts Hong Kong Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/81gkA2_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/81gkA2_3f.jpg",
+        "title": "1:99 Shorts Hong Kong Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/b3DkzZ_3s.jpg",
+        "hd_url": "https://i.mydramalist.com/b3DkzZ_3f.jpg",
+        "title": "1:99 Shorts Hong Kong Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/A7blgm.jpg",
+        "hd_url": "https://i.mydramalist.com/A7blgm.jpg",
+        "title": "1:99 Shorts (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Andy Lau",
+          "slug": "people/362-lau-andy",
+          "url": "https://mydramalist.com/people/362-lau-andy",
+          "image_url": "https://i.mydramalist.com/PxZbK8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/PxZbK8_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Sammi Cheng",
+          "slug": "people/662-cheng-sammi",
+          "url": "https://mydramalist.com/people/662-cheng-sammi",
+          "image_url": "https://i.mydramalist.com/1wqj17_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wqj17_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Chui Tien You",
+          "slug": "people/40197-chui-tien-you",
+          "url": "https://mydramalist.com/people/40197-chui-tien-you",
+          "image_url": "https://i.mydramalist.com/Wvxops.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Wvxops.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Eason Chan",
+          "slug": "people/1520-chan-eason",
+          "url": "https://mydramalist.com/people/1520-chan-eason",
+          "image_url": "https://i.mydramalist.com/qPZzP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qPZzP_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Bowie Wu",
+          "slug": "people/4977-wu-bowie",
+          "url": "https://mydramalist.com/people/4977-wu-bowie",
+          "image_url": "https://i.mydramalist.com/9o5PNs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/9o5PNs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Anthony Wong",
+          "slug": "people/1415-wong-anthony",
+          "url": "https://mydramalist.com/people/1415-wong-anthony",
+          "image_url": "https://i.mydramalist.com/wJn7JA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJn7JA_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Aaron Kwok",
+          "slug": "people/1418-kwok-aaron",
+          "url": "https://mydramalist.com/people/1418-kwok-aaron",
+          "image_url": "https://i.mydramalist.com/Rvo2Y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rvo2Y_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Gigi Leung",
+          "slug": "people/1215-leung-gigi",
+          "url": "https://mydramalist.com/people/1215-leung-gigi",
+          "image_url": "https://i.mydramalist.com/1wQx47_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1wQx47_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Tony Leung",
+          "slug": "people/374-leung-tony",
+          "url": "https://mydramalist.com/people/374-leung-tony",
+          "image_url": "https://i.mydramalist.com/4e47pJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4e47pJ_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Carina Lau",
+          "slug": "people/3677-lau-carina",
+          "url": "https://mydramalist.com/people/3677-lau-carina",
+          "image_url": "https://i.mydramalist.com/g0knov_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0knov_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Francis Ng",
+          "slug": "people/3693-ng-francis",
+          "url": "https://mydramalist.com/people/3693-ng-francis",
+          "image_url": "https://i.mydramalist.com/YYWJqB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYWJqB_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Sean Lau",
+          "slug": "people/3675-lau-ching-wan",
+          "url": "https://mydramalist.com/people/3675-lau-ching-wan",
+          "image_url": "https://i.mydramalist.com/LwQqv5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/LwQqv5_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lam Suet",
+          "slug": "people/12916-lam-suet",
+          "url": "https://mydramalist.com/people/12916-lam-suet",
+          "image_url": "https://i.mydramalist.com/rKZb2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rKZb2_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chapman To",
+          "slug": "people/2998-to-chapman",
+          "url": "https://mydramalist.com/people/2998-to-chapman",
+          "image_url": "https://i.mydramalist.com/kA30Y8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kA30Y8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sam Lee",
+          "slug": "people/2602-lee-sam",
+          "url": "https://mydramalist.com/people/2602-lee-sam",
+          "image_url": "https://i.mydramalist.com/W3vgRs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W3vgRs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Carl Ng",
+          "slug": "people/9109-ng-carl",
+          "url": "https://mydramalist.com/people/9109-ng-carl",
+          "image_url": "https://i.mydramalist.com/d2ol0s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d2ol0s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cheung Ying Choi",
+          "slug": "people/8334-cheung-ying-choi",
+          "url": "https://mydramalist.com/people/8334-cheung-ying-choi",
+          "image_url": "https://i.mydramalist.com/qO8j0s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qO8j0s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Niki Chow",
+          "slug": "people/1763-chow-niki",
+          "url": "https://mydramalist.com/people/1763-chow-niki",
+          "image_url": "https://i.mydramalist.com/1w0zlK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1w0zlK_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Cherrie Ying",
+          "slug": "people/1399-ying-cherrie",
+          "url": "https://mydramalist.com/people/1399-ying-cherrie",
+          "image_url": "https://i.mydramalist.com/WADom_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WADom_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Theresa Fu",
+          "slug": "people/6746-fu-theresa",
+          "url": "https://mydramalist.com/people/6746-fu-theresa",
+          "image_url": "https://i.mydramalist.com/6045dK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6045dK_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Dayo Wong",
+          "slug": "people/4025-wong-dayo",
+          "url": "https://mydramalist.com/people/4025-wong-dayo",
+          "image_url": "https://i.mydramalist.com/d0AJQg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d0AJQg_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Josie Ho",
+          "slug": "people/6570-ho-josie",
+          "url": "https://mydramalist.com/people/6570-ho-josie",
+          "image_url": "https://i.mydramalist.com/QpqNAs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QpqNAs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gigi Lai",
+          "slug": "people/2351-lai-gigi",
+          "url": "https://mydramalist.com/people/2351-lai-gigi",
+          "image_url": "https://i.mydramalist.com/2w4yKw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2w4yKw_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Christopher Doyle",
+          "slug": "people/53417-christopher-doyle",
+          "url": "https://mydramalist.com/people/53417-christopher-doyle",
+          "image_url": "https://i.mydramalist.com/p3jQr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/p3jQr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Alfred Cheung",
+          "slug": "people/9913-cheung-alfred",
+          "url": "https://mydramalist.com/people/9913-cheung-alfred",
+          "image_url": "https://i.mydramalist.com/qWzy5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qWzy5s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kristal Tin",
+          "slug": "people/3433-tin-kristal",
+          "url": "https://mydramalist.com/people/3433-tin-kristal",
+          "image_url": "https://i.mydramalist.com/jQXZky_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQXZky_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sandra Ng",
+          "slug": "people/1417-ng-sandra",
+          "url": "https://mydramalist.com/people/1417-ng-sandra",
+          "image_url": "https://i.mydramalist.com/XkdEx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XkdEx_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Paul Wong",
+          "slug": "people/20144-paul-wong",
+          "url": "https://mydramalist.com/people/20144-paul-wong",
+          "image_url": "https://i.mydramalist.com/EVxNm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EVxNm_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Shawn Yue",
+          "slug": "people/1283-yue-shawn",
+          "url": "https://mydramalist.com/people/1283-yue-shawn",
+          "image_url": "https://i.mydramalist.com/WpVxO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WpVxO_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Eric Tsang",
+          "slug": "people/1866-tsang-eric",
+          "url": "https://mydramalist.com/people/1866-tsang-eric",
+          "image_url": "https://i.mydramalist.com/KpK1AX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/KpK1AX_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jacky Cheung",
+          "slug": "people/1370-cheung-jacky",
+          "url": "https://mydramalist.com/people/1370-cheung-jacky",
+          "image_url": "https://i.mydramalist.com/QJNom7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJNom7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Edison Chen",
+          "slug": "people/1414-chen-edison",
+          "url": "https://mydramalist.com/people/1414-chen-edison",
+          "image_url": "https://i.mydramalist.com/YYkoBs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYkoBs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Eugenia Yuen",
+          "slug": "people/78457-eugenia-yuen",
+          "url": "https://mydramalist.com/people/78457-eugenia-yuen",
+          "image_url": "https://i.mydramalist.com/W8RrO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W8RrO_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Yuen Bun",
+          "slug": "people/58435-yuen-bun",
+          "url": "https://mydramalist.com/people/58435-yuen-bun",
+          "image_url": "https://i.mydramalist.com/qEkZ8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qEkZ8_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Joe Cheung",
+          "slug": "people/62859-joe-cheung",
+          "url": "https://mydramalist.com/people/62859-joe-cheung",
+          "image_url": "https://i.mydramalist.com/E0Wvp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/E0Wvp_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Fanny Lee",
+          "slug": "people/80291-fanny-lee",
+          "url": "https://mydramalist.com/people/80291-fanny-lee",
+          "image_url": "https://i.mydramalist.com/4VqNk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4VqNk_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Tsui Hark",
+          "slug": "people/15919-chui-hak",
+          "url": "https://mydramalist.com/people/15919-chui-hak",
+          "image_url": "https://i.mydramalist.com/Wvw0Xm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Wvw0Xm.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Johnnie To",
+          "slug": "people/18275-johnnie-to",
+          "url": "https://mydramalist.com/people/18275-johnnie-to",
+          "image_url": "https://i.mydramalist.com/Y0dgPm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Y0dgPm.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Fruit Chan",
+          "slug": "people/22571-fruit-chan",
+          "url": "https://mydramalist.com/people/22571-fruit-chan",
+          "image_url": "https://i.mydramalist.com/kXxOjm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kXxOjm.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Mabel Cheung",
+          "slug": "people/23552-mabel-cheung",
+          "url": "https://mydramalist.com/people/23552-mabel-cheung",
+          "image_url": "https://i.mydramalist.com/ABKrEv_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABKrEv_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Alex Law",
+          "slug": "people/23553-alex-law",
+          "url": "https://mydramalist.com/people/23553-alex-law",
+          "image_url": "https://i.mydramalist.com/nOmKBx_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nOmKBx_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Alan Mak",
+          "slug": "people/39281-alan-mak",
+          "url": "https://mydramalist.com/people/39281-alan-mak",
+          "image_url": "https://i.mydramalist.com/b37vZN_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b37vZN_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Teddy Chan",
+          "slug": "people/39285-teddy-chan",
+          "url": "https://mydramalist.com/people/39285-teddy-chan",
+          "image_url": "https://i.mydramalist.com/xKJP0m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xKJP0m.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Joe Ma",
+          "slug": "people/71851-joe-ma",
+          "url": "https://mydramalist.com/people/71851-joe-ma",
+          "image_url": "https://i.mydramalist.com/joVVd_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/joVVd_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Denise Ho",
+          "slug": "people/22272-denise-ho",
+          "url": "https://mydramalist.com/people/22272-denise-ho",
+          "image_url": "https://i.mydramalist.com/mjlk3s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mjlk3s.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Lee Lung Yee",
+          "slug": "people/104095-lee-lung-yee",
+          "url": "https://mydramalist.com/people/104095-lee-lung-yee",
+          "image_url": "https://i.mydramalist.com/ABWJb8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABWJb8_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:33:51.899Z"
+  },
+  {
+    "id": 24088,
+    "slug": "24088-wedding-story-my-love-my-oppa",
+    "url": "https://mydramalist.com/24088-wedding-story-my-love-my-oppa",
+    "title": "Wedding Story: My Love My Oppa",
+    "complete_title": "Wedding Story: My Love My Oppa (2003)",
+    "native_title": "나의 사랑 나의 오빠",
+    "sub_title": "나의 사랑 나의 오빠 ‧ Drama ‧ 2003",
+    "also_known_as": [
+      "Naui Sarang Naui Oppa"
+    ],
+    "type": "Drama",
+    "country": "South Korea",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "KBS2",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 15,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 15,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/vwDYq_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/vwDYq_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/vwDYq_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/vwDYq_4f.jpg",
+        "title": "Wedding Story: My Love My Oppa (2003) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Namkoong Min",
+          "slug": "people/513-nam-goong-min",
+          "url": "https://mydramalist.com/people/513-nam-goong-min",
+          "image_url": "https://i.mydramalist.com/JBDVOp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBDVOp_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:33:57.343Z"
+  },
+  {
+    "id": 24089,
+    "slug": "24089-hdtv-literature-mould-flower",
+    "url": "https://mydramalist.com/24089-hdtv-literature-mould-flower",
+    "title": "HDTV Literature: Mould Flower",
+    "complete_title": "HDTV Literature: Mould Flower (2003)",
+    "native_title": "곰팡이꽃",
+    "sub_title": "곰팡이꽃 ‧ Drama ‧ 2003",
+    "also_known_as": [
+      "곰팡이꽃"
+    ],
+    "type": "Drama",
+    "country": "South Korea",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "KBS1",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/KDl2vc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/KDl2vc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/KDl2vc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/KDl2vc.jpg",
+        "title": "HDTV Literature: Mould Flower (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/KDl2vs.jpg",
+        "hd_url": "https://i.mydramalist.com/KDl2vs.jpg",
+        "title": "HDTV Literature: Mould Flower Korean Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/KDl2vm.jpg",
+        "hd_url": "https://i.mydramalist.com/KDl2vm.jpg",
+        "title": "HDTV Literature: Mould Flower (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:34:03.677Z"
+  },
+  {
+    "id": 24379,
+    "slug": "24379-see-pan-din",
+    "url": "https://mydramalist.com/24379-see-pan-din",
+    "title": "See Pan Din",
+    "complete_title": "See Pan Din (2003)",
+    "native_title": "สี่แผ่นดิน",
+    "sub_title": "สี่แผ่นดิน ‧ Drama ‧ 2003",
+    "also_known_as": [
+      "Four Earth , Four Lands , Four Reigns"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": 24,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "Channel 9",
+    "duration_string": "1 hr. 15 min.",
+    "duration_minutes": 75,
+    "content_rating": "Not Yet Rated",
+    "rating": 22,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 22,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Polygamy",
+        "id": "1650"
+      },
+      {
+        "name": "Adapted From A Novel",
+        "id": "133"
+      },
+      {
+        "name": "Family",
+        "id": "29"
+      }
+    ],
+    "synopsis": "It tells the story of Mae Ploy and her multi-generational family, during the reign of King Rama V. ~~ Adapted from the novel by M.R. (Mom Ratchawong) Kukrit Pramoj. English Español magyar / magyar nyelv dansk",
+    "poster_url": "https://i.mydramalist.com/Z4dkjc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Z4dkjc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Z4dkjc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Z4dkjc.jpg",
+        "title": "See Pan Din (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/Z4dkjs.jpg",
+        "hd_url": "https://i.mydramalist.com/Z4dkjs.jpg",
+        "title": "See Pan Din Thai Drama(2003) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "title": "See Pan Din (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "See Pan Din",
+        "slug": "39003-see-pan-din",
+        "url": "https://mydramalist.com/39003-see-pan-din",
+        "relation": "Thai adaptation"
+      },
+      {
+        "title": "See Pan Din",
+        "slug": "39001-see-pan-din",
+        "url": "https://mydramalist.com/39001-see-pan-din",
+        "relation": "Thai adaptation"
+      },
+      {
+        "title": "See Pan Din",
+        "slug": "38999-see-pan-din",
+        "url": "https://mydramalist.com/38999-see-pan-din",
+        "relation": "Thai adaptation"
+      },
+      {
+        "title": "Si Phaen Din",
+        "slug": "29738-see-pan-din",
+        "url": "https://mydramalist.com/29738-see-pan-din",
+        "relation": "Thai adaptation"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Pukkavesh Siriyakorn",
+          "slug": "people/9751-pukkavesh-siriyakorn",
+          "url": "https://mydramalist.com/people/9751-pukkavesh-siriyakorn",
+          "image_url": "https://i.mydramalist.com/B2BY5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B2BY5s.jpg",
+          "character": "Mae Ploy",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Tui Thiraphat Sajakul",
+          "slug": "people/7511-sajakul-thiraphat",
+          "url": "https://mydramalist.com/people/7511-sajakul-thiraphat",
+          "image_url": "https://i.mydramalist.com/pErQB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pErQB_5f.jpg",
+          "character": "Phraya Pokonalam / Khun Prem",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Fluke Krirkphol Masayavanich",
+          "slug": "people/15439-masayavanich-krirkphol",
+          "url": "https://mydramalist.com/people/15439-masayavanich-krirkphol",
+          "image_url": "https://i.mydramalist.com/b2xDes.jpg",
+          "image_hd_url": "https://i.mydramalist.com/b2xDes.jpg",
+          "character": "Oad Prapot",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Chalida Thaochalee",
+          "slug": "people/21914-chalida-thaochalee",
+          "url": "https://mydramalist.com/people/21914-chalida-thaochalee",
+          "image_url": "https://i.mydramalist.com/10qY6s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/10qY6s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chudapa Chantakett",
+          "slug": "people/17510-chudapa-chantakett",
+          "url": "https://mydramalist.com/people/17510-chudapa-chantakett",
+          "image_url": "https://i.mydramalist.com/VXpkxQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VXpkxQ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jab Penpetch Benyakul",
+          "slug": "people/12768-penkul-penpeth",
+          "url": "https://mydramalist.com/people/12768-penkul-penpeth",
+          "image_url": "https://i.mydramalist.com/YYVZVP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YYVZVP_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Krit Shahkrit Yamnam",
+          "slug": "people/1279-yamnarm-chakrit",
+          "url": "https://mydramalist.com/people/1279-yamnarm-chakrit",
+          "image_url": "https://i.mydramalist.com/kQlBr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kQlBr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nui Sujira Arunpipat",
+          "slug": "people/19554-sujira-arunpipat",
+          "url": "https://mydramalist.com/people/19554-sujira-arunpipat",
+          "image_url": "https://i.mydramalist.com/BQyJ1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BQyJ1_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nhing Nirut Sirijanya",
+          "slug": "people/6726-sirichanya-nirut",
+          "url": "https://mydramalist.com/people/6726-sirichanya-nirut",
+          "image_url": "https://i.mydramalist.com/rP5rg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rP5rg_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Trin Settachoke",
+          "slug": "people/20890-tin-settachoke",
+          "url": "https://mydramalist.com/people/20890-tin-settachoke",
+          "image_url": "https://i.mydramalist.com/3oYB5D_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/3oYB5D_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Joe Ninnart Sinchai",
+          "slug": "people/23376-joe-ninnart-sinchai",
+          "url": "https://mydramalist.com/people/23376-joe-ninnart-sinchai",
+          "image_url": "https://i.mydramalist.com/RWny6s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RWny6s.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Puttipong Promsaka Na Sakolnakorn",
+          "slug": "people/7267-puttipong-promsaka-na-sakolnakorn",
+          "url": "https://mydramalist.com/people/7267-puttipong-promsaka-na-sakolnakorn",
+          "image_url": "https://i.mydramalist.com/Lwqdbs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lwqdbs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Daeng Thanya Sophon",
+          "slug": "people/25935-daeng-sophon-thanya",
+          "url": "https://mydramalist.com/people/25935-daeng-sophon-thanya",
+          "image_url": "https://i.mydramalist.com/ZlLvq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZlLvq_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Top Daraneenute Pasutanavin",
+          "slug": "people/12872-pasutanavin-daraneenute",
+          "url": "https://mydramalist.com/people/12872-pasutanavin-daraneenute",
+          "image_url": "https://i.mydramalist.com/6l8WX_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6l8WX_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Sakrat Ruekthamrong",
+          "slug": "people/10053-ruekthamrong-sakrat",
+          "url": "https://mydramalist.com/people/10053-ruekthamrong-sakrat",
+          "image_url": "https://i.mydramalist.com/rrw4m_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rrw4m_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Oat Voravudh Niyomsap",
+          "slug": "people/9785-niyomsup-worawut",
+          "url": "https://mydramalist.com/people/9785-niyomsup-worawut",
+          "image_url": "https://i.mydramalist.com/ZRJWqs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZRJWqs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mai Natha Lloyd",
+          "slug": "people/25757-mai-natha-lloyd",
+          "url": "https://mydramalist.com/people/25757-mai-natha-lloyd",
+          "image_url": "https://i.mydramalist.com/enzyYs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/enzyYs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Pingpong Skaewan Yongjaiyuth",
+          "slug": "people/153886-sakaewan-yongjaiyuth",
+          "url": "https://mydramalist.com/people/153886-sakaewan-yongjaiyuth",
+          "image_url": "https://i.mydramalist.com/NdLxnn_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NdLxnn_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Pattai Deejai Dididi",
+          "slug": "people/25857-pattai-chaidi-dididi",
+          "url": "https://mydramalist.com/people/25857-pattai-chaidi-dididi",
+          "image_url": "https://i.mydramalist.com/RAjVrs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RAjVrs.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Beau Benjasiri Wattana",
+          "slug": "people/105961-beau-benjasiri-wattana",
+          "url": "https://mydramalist.com/people/105961-beau-benjasiri-wattana",
+          "image_url": "https://i.mydramalist.com/pmrEV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pmrEV_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "See Pan Din Episode 1",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "See Pan Din Episode 2",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "See Pan Din Episode 3",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "See Pan Din Episode 4",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "See Pan Din Episode 5",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "See Pan Din Episode 6",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "See Pan Din Episode 7",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "See Pan Din Episode 8",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "See Pan Din Episode 9",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "See Pan Din Episode 10",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "See Pan Din Episode 11",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "See Pan Din Episode 12",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "See Pan Din Episode 13",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "See Pan Din Episode 14",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "See Pan Din Episode 15",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "See Pan Din Episode 16",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/16",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "See Pan Din Episode 17",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/17",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "See Pan Din Episode 18",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/18",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "See Pan Din Episode 19",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/19",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "See Pan Din Episode 20",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/20",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "See Pan Din Episode 21",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/21",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "See Pan Din Episode 22",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/22",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "See Pan Din Episode 23",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/23",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "See Pan Din Episode 24",
+        "url": "https://mydramalist.com/24379-see-pan-din/episode/24",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/Z4dkjm.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T03:34:10.196Z"
+  },
+  {
+    "id": 24904,
+    "slug": "24904-yaowarat",
+    "url": "https://mydramalist.com/24904-yaowarat",
+    "title": "Yaowarat",
+    "complete_title": "Yaowarat (2003)",
+    "native_title": "เยาวราช",
+    "sub_title": "เยาวราช ‧ Movie ‧ 2003",
+    "also_known_as": [
+      "เยาวราช"
+    ],
+    "type": "Movie",
+    "country": "Thailand",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Kao is a gunman for the Pahurad gang. He ends up killing a member of the rival Yaowarat gang in a gunfight. In retaliation, Yaowarat hires the most feared hit man in the country to eliminate Kao. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/JpD6Jc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/JpD6Jc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/JpD6Jc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/JpD6Jc.jpg",
+        "title": "Yaowarat (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/JpD6Js.jpg",
+        "hd_url": "https://i.mydramalist.com/JpD6Js.jpg",
+        "title": "Yaowarat Thai Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/JpD6Jm.jpg",
+        "hd_url": "https://i.mydramalist.com/JpD6Jm.jpg",
+        "title": "Yaowarat (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Krit Shahkrit Yamnam",
+          "slug": "people/1279-yamnarm-chakrit",
+          "url": "https://mydramalist.com/people/1279-yamnarm-chakrit",
+          "image_url": "https://i.mydramalist.com/kQlBr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kQlBr_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:34:17.217Z"
+  },
+  {
+    "id": 25356,
+    "slug": "25356-good-luck-angel",
+    "url": "https://mydramalist.com/25356-good-luck-angel",
+    "title": "Good Luck Angel",
+    "complete_title": "Good Luck Angel (2003)",
+    "native_title": "天使人间道",
+    "sub_title": "天使人间道 ‧ Drama ‧ 2003",
+    "also_known_as": [
+      "Tian Shi Ren Jian Dao , Wang Pai Tian Shi , Wu Jia You Nu , 吾家有女 , 王牌天使"
+    ],
+    "type": "Drama",
+    "country": "Taiwan",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": 20,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 8,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/1ojNdc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1ojNdc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1ojNdc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1ojNdc.jpg",
+        "title": "Good Luck Angel (2003) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Ady An",
+          "slug": "people/634-an-ady",
+          "url": "https://mydramalist.com/people/634-an-ady",
+          "image_url": "https://i.mydramalist.com/BJrkz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BJrkz_5f.jpg",
+          "character": "Kang Jia Rou",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Fan Hsiao Fan",
+          "slug": "people/686-fan-ivy",
+          "url": "https://mydramalist.com/people/686-fan-ivy",
+          "image_url": "https://i.mydramalist.com/qv6j0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qv6j0_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Ke Han Chen",
+          "slug": "people/62931-ke-han-chen",
+          "url": "https://mydramalist.com/people/62931-ke-han-chen",
+          "image_url": "https://i.mydramalist.com/Kp4B0n_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Kp4B0n_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Michael Wong",
+          "slug": "people/119047-michael-wong",
+          "url": "https://mydramalist.com/people/119047-michael-wong",
+          "image_url": "https://i.mydramalist.com/vXoZpD_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXoZpD_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Good Luck Angel Episode 1",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Good Luck Angel Episode 2",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Good Luck Angel Episode 3",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Good Luck Angel Episode 4",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Good Luck Angel Episode 5",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Good Luck Angel Episode 6",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Good Luck Angel Episode 7",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Good Luck Angel Episode 8",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Good Luck Angel Episode 9",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Good Luck Angel Episode 10",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Good Luck Angel Episode 11",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Good Luck Angel Episode 12",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Good Luck Angel Episode 13",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Good Luck Angel Episode 14",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Good Luck Angel Episode 15",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Good Luck Angel Episode 16",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/16",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Good Luck Angel Episode 17",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/17",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Good Luck Angel Episode 18",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/18",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Good Luck Angel Episode 19",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/19",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Good Luck Angel Episode 20",
+        "url": "https://mydramalist.com/25356-good-luck-angel/episode/20",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/1ojNdm.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T03:34:23.301Z"
+  },
+  {
+    "id": 26726,
+    "slug": "26726-the-suicide-manual-2-intermediate-stage",
+    "url": "https://mydramalist.com/26726-the-suicide-manual-2-intermediate-stage",
+    "title": "The Suicide Manual 2: Intermediate Stage",
+    "complete_title": "The Suicide Manual 2: Intermediate Stage (2003)",
+    "native_title": "自殺マニュアル２ 中級編",
+    "sub_title": "自殺マニュアル２ 中級編 ‧ Movie ‧ 2003",
+    "also_known_as": [
+      "Jisatsu manyuaru 2: chuukyuu-hen"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 25 min.",
+    "duration_minutes": 85,
+    "content_rating": "Not Yet Rated",
+    "rating": 16,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 16,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Suicide",
+        "id": "110"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/lOzeJc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/lOzeJc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/lOzeJc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/lOzeJc.jpg",
+        "title": "The Suicide Manual 2: Intermediate Stage (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/lOzeJs.jpg",
+        "hd_url": "https://i.mydramalist.com/lOzeJs.jpg",
+        "title": "The Suicide Manual 2: Intermediate Stage Japanese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/lOzeJm.jpg",
+        "hd_url": "https://i.mydramalist.com/lOzeJm.jpg",
+        "title": "The Suicide Manual 2: Intermediate Stage (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "The Suicide Manual",
+        "slug": "2844-the-suicide-manual",
+        "url": "https://mydramalist.com/2844-the-suicide-manual",
+        "relation": "Japanese prequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Matsuda Masaru",
+          "slug": "people/14199-matsuda-masaru",
+          "url": "https://mydramalist.com/people/14199-matsuda-masaru",
+          "image_url": "https://i.mydramalist.com/mOP45q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/mOP45q_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Daike Yuuko",
+          "slug": "people/15717-daike-yuuko",
+          "url": "https://mydramalist.com/people/15717-daike-yuuko",
+          "image_url": "https://i.mydramalist.com/wJ8r5J_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJ8r5J_5f.jpg",
+          "role_type": "Unknown"
+        },
+        {
+          "name": "Kobayashi Katsuya",
+          "slug": "people/1402-kobayashi-katsuya",
+          "url": "https://mydramalist.com/people/1402-kobayashi-katsuya",
+          "image_url": "https://i.mydramalist.com/WDgq3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WDgq3_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:34:29.844Z"
+  },
+  {
+    "id": 27484,
+    "slug": "27484-hark-liem-prakarn",
+    "url": "https://mydramalist.com/27484-hark-liem-prakarn",
+    "title": "Hark Liem Prakarn",
+    "complete_title": "Hark Liem Prakarn (2003)",
+    "native_title": "หักเหลี่ยมพระกาฬ",
+    "sub_title": "หักเหลี่ยมพระกาฬ ‧ Drama ‧ 2003",
+    "also_known_as": [
+      "Hark Liem Pagrn , Shadow"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": 25,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "Channel 3",
+    "duration_string": "35 min.",
+    "duration_minutes": 35,
+    "content_rating": "Not Yet Rated",
+    "rating": 20,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 20,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Kom is an undercover cop who falls in love with Meena, the only daughter of the drug lord he is trying to put behind bars. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/AY7dPc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/AY7dPc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/AY7dPc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/AY7dPc.jpg",
+        "title": "Hark Liem Prakarn (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/AY7dPs.jpg",
+        "hd_url": "https://i.mydramalist.com/AY7dPs.jpg",
+        "title": "Hark Liem Prakarn Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "title": "Hark Liem Prakarn (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Num Sornram Theappitak",
+          "slug": "people/7390-theppitak-sornram",
+          "url": "https://mydramalist.com/people/7390-theppitak-sornram",
+          "image_url": "https://i.mydramalist.com/xLpOw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/xLpOw_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Joy Rinlanee Sripen",
+          "slug": "people/7339-sripen-rinlanee",
+          "url": "https://mydramalist.com/people/7339-sripen-rinlanee",
+          "image_url": "https://i.mydramalist.com/e6wVp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/e6wVp_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Ton Wasawit Sataphiphat",
+          "slug": "people/9945-ammarat-jakkrit",
+          "url": "https://mydramalist.com/people/9945-ammarat-jakkrit",
+          "image_url": "https://i.mydramalist.com/QbXm2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QbXm2_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Keng Methee Amornwootikul",
+          "slug": "people/42069-bong-methee-amornwootikul",
+          "url": "https://mydramalist.com/people/42069-bong-methee-amornwootikul",
+          "image_url": "https://i.mydramalist.com/pj6oQs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pj6oQs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Amm Siraprapa Sookdamrong",
+          "slug": "people/37387-amm-siraprapa-sookdamrong",
+          "url": "https://mydramalist.com/people/37387-amm-siraprapa-sookdamrong",
+          "image_url": "https://i.mydramalist.com/Eybvm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Eybvm_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Oliver Bever",
+          "slug": "people/10981-beaver-oliver",
+          "url": "https://mydramalist.com/people/10981-beaver-oliver",
+          "image_url": "https://i.mydramalist.com/Az2BPs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Az2BPs.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Um Viyada Umarin",
+          "slug": "people/9656-umarin-wiyada",
+          "url": "https://mydramalist.com/people/9656-umarin-wiyada",
+          "image_url": "https://i.mydramalist.com/81ZqWm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81ZqWm_5f.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Hmu Sompob Benjathikul",
+          "slug": "people/13576-benchathikun-somphop",
+          "url": "https://mydramalist.com/people/13576-benchathikun-somphop",
+          "image_url": "https://i.mydramalist.com/v1vwq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v1vwq_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Benjamas Dalhirunrat",
+          "slug": "people/17511-benchamat-danhiranrat",
+          "url": "https://mydramalist.com/people/17511-benchamat-danhiranrat",
+          "image_url": "https://i.mydramalist.com/O8ZQXP_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8ZQXP_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Hark Liem Prakarn Episode 1",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Hark Liem Prakarn Episode 2",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Hark Liem Prakarn Episode 3",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Hark Liem Prakarn Episode 4",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Hark Liem Prakarn Episode 5",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Hark Liem Prakarn Episode 6",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Hark Liem Prakarn Episode 7",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Hark Liem Prakarn Episode 8",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Hark Liem Prakarn Episode 9",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Hark Liem Prakarn Episode 10",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Hark Liem Prakarn Episode 11",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Hark Liem Prakarn Episode 12",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Hark Liem Prakarn Episode 13",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Hark Liem Prakarn Episode 14",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Hark Liem Prakarn Episode 15",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Hark Liem Prakarn Episode 16",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/16",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Hark Liem Prakarn Episode 17",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/17",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Hark Liem Prakarn Episode 18",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/18",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Hark Liem Prakarn Episode 19",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/19",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Hark Liem Prakarn Episode 20",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/20",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Hark Liem Prakarn Episode 21",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/21",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Hark Liem Prakarn Episode 22",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/22",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Hark Liem Prakarn Episode 23",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/23",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Hark Liem Prakarn Episode 24",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/24",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "Hark Liem Prakarn Episode 25",
+        "url": "https://mydramalist.com/27484-hark-liem-prakarn/episode/25",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/AY7dPm.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T03:34:35.208Z"
+  },
+  {
+    "id": 29569,
+    "slug": "29569-ola-won-kon-rai-som",
+    "url": "https://mydramalist.com/29569-ola-won-kon-rai-som",
+    "title": "Ola Won Kon Rai Som",
+    "complete_title": "Ola Won Kon Rai Som (2003)",
+    "native_title": "อลวนคนไร่ส้ม",
+    "sub_title": "อลวนคนไร่ส้ม ‧ Drama ‧ 2003",
+    "also_known_as": [
+      "The Tumultuous Orange Farm"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": 24,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "Channel 3",
+    "duration_string": "35 min.",
+    "duration_minutes": 35,
+    "content_rating": "Not Yet Rated",
+    "rating": 18,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 18,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "It starts out with an Orange Farm contest. Ek's family and Jib's family do not get along. They're both in the contest. So, the fathers bicker at the beginning and calling the opposite side's oranges \"old\". Which is actually a cover to calling each other old. Then Ek's family makes fun of Jibbecause she didn't go to college out of the country like Ek did. Ek has a little sister named Aon. It leaves off with her and Duang (the \"nanny\") driving to pick up her brother. (Source: AsianFuse Wiki) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/BqlPRc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/BqlPRc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/BqlPRc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/BqlPRc.jpg",
+        "title": "Ola Won Kon Rai Som (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/BqlPRs.jpg",
+        "hd_url": "https://i.mydramalist.com/BqlPRs.jpg",
+        "title": "Ola Won Kon Rai Som Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "title": "Ola Won Kon Rai Som (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Pat Patson Sarindu",
+          "slug": "people/9873-sarindu-patson",
+          "url": "https://mydramalist.com/people/9873-sarindu-patson",
+          "image_url": "https://i.mydramalist.com/od5AOs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/od5AOs.jpg",
+          "character": "Ammarin / \"Ek\"",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Kullasatree Siripongpreeda",
+          "slug": "people/9872-siripongpreeda-kullasatree",
+          "url": "https://mydramalist.com/people/9872-siripongpreeda-kullasatree",
+          "image_url": "https://i.mydramalist.com/5Qk10s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5Qk10s.jpg",
+          "character": "Vasinee / \"Jib\"",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Mam Vichuda Pindum",
+          "slug": "people/9815-pindum-vichuda",
+          "url": "https://mydramalist.com/people/9815-pindum-vichuda",
+          "image_url": "https://i.mydramalist.com/x4AA0r_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4AA0r_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Aew Ampa Phusit",
+          "slug": "people/10054-phoosit-ampha",
+          "url": "https://mydramalist.com/people/10054-phoosit-ampha",
+          "image_url": "https://i.mydramalist.com/l0Yl3E_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0Yl3E_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Krung Srivilai",
+          "slug": "people/15495-srivilai-krung",
+          "url": "https://mydramalist.com/people/15495-srivilai-krung",
+          "image_url": "https://i.mydramalist.com/NvQ4es.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NvQ4es.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Um Viyada Umarin",
+          "slug": "people/9656-umarin-wiyada",
+          "url": "https://mydramalist.com/people/9656-umarin-wiyada",
+          "image_url": "https://i.mydramalist.com/81ZqWm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/81ZqWm_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Pairoj Jaisingha",
+          "slug": "people/28021-pairoj-jaisingha",
+          "url": "https://mydramalist.com/people/28021-pairoj-jaisingha",
+          "image_url": "https://i.mydramalist.com/l0Q7zL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0Q7zL_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Rong Kaomulkadee",
+          "slug": "people/21826-rong-kaomulkadee",
+          "url": "https://mydramalist.com/people/21826-rong-kaomulkadee",
+          "image_url": "https://i.mydramalist.com/RWANVs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RWANVs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Pin Korrapin Puangpo",
+          "slug": "people/93471-pin-korrapin-puangpo",
+          "url": "https://mydramalist.com/people/93471-pin-korrapin-puangpo",
+          "image_url": "https://i.mydramalist.com/EOjW0_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EOjW0_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Ploy Bandhita Srinualnad",
+          "slug": "people/58239-ploy-bandhita-srinualnad",
+          "url": "https://mydramalist.com/people/58239-ploy-bandhita-srinualnad",
+          "image_url": "https://i.mydramalist.com/wrP3p_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wrP3p_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Ola Won Kon Rai Som Episode 1",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Ola Won Kon Rai Som Episode 2",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Ola Won Kon Rai Som Episode 3",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Ola Won Kon Rai Som Episode 4",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Ola Won Kon Rai Som Episode 5",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Ola Won Kon Rai Som Episode 6",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Ola Won Kon Rai Som Episode 7",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Ola Won Kon Rai Som Episode 8",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Ola Won Kon Rai Som Episode 9",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Ola Won Kon Rai Som Episode 10",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Ola Won Kon Rai Som Episode 11",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Ola Won Kon Rai Som Episode 12",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Ola Won Kon Rai Som Episode 13",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Ola Won Kon Rai Som Episode 14",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Ola Won Kon Rai Som Episode 15",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Ola Won Kon Rai Som Episode 16",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/16",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Ola Won Kon Rai Som Episode 17",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/17",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Ola Won Kon Rai Som Episode 18",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/18",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Ola Won Kon Rai Som Episode 19",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/19",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Ola Won Kon Rai Som Episode 20",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/20",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Ola Won Kon Rai Som Episode 21",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/21",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Ola Won Kon Rai Som Episode 22",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/22",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Ola Won Kon Rai Som Episode 23",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/23",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Ola Won Kon Rai Som Episode 24",
+        "url": "https://mydramalist.com/29569-ola-won-kon-rai-som/episode/24",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/BqlPRm.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T03:34:41.980Z"
+  },
+  {
+    "id": 31745,
+    "slug": "31745-catharsis",
+    "url": "https://mydramalist.com/31745-catharsis",
+    "title": "Catharsis",
+    "complete_title": "Catharsis (2003)",
+    "native_title": "カタルシス",
+    "sub_title": "カタルシス ‧ Movie ‧ 2003",
+    "also_known_as": [
+      "カタルシス"
+    ],
+    "type": "Movie",
+    "country": "Japan",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 53 min.",
+    "duration_minutes": 113,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Death",
+        "id": "823"
+      },
+      {
+        "name": "Murder",
+        "id": "270"
+      }
+    ],
+    "synopsis": "Naoki Ono, a 14-year-old boy murders a young girl in the suburbs of Tokyo. As a result, the large family change their names and live apart, while Naoki goes to a reformatory. Towako, his mother, stays away with her youngest son and youngest daughter, while her husband lives with other family. Three years later, Towako requests that the families reunites and go the island of her birth to be with her dying mother. Thus, the family are back together. But things aren't so simple. Katsumi, Naoki's sister hasn't been able to speak since her brother murdered the girl. Little Subaru has also suffered from the selfishness of his brother. And what of their uncle Satoshi and his family, his own son was killed. The family have never been a 'family' before... Could Grandmother bring them all together? (Source: IMDb) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/d00vYb_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/d00vYb_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/d00vYb_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/d00vYb_4f.jpg",
+        "title": "Catharsis (2003) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Onoue Hiroyuki",
+          "slug": "people/1823-onoue-hiroyuki",
+          "url": "https://mydramalist.com/people/1823-onoue-hiroyuki",
+          "image_url": "https://i.mydramalist.com/pd2J7e_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pd2J7e_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Yamaguchi Miyako",
+          "slug": "people/17546-miyako-yamaguchi",
+          "url": "https://mydramalist.com/people/17546-miyako-yamaguchi",
+          "image_url": "https://i.mydramalist.com/qLVZQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qLVZQ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Otaka Rikiya",
+          "slug": "people/73325-otaka-rikiya",
+          "url": "https://mydramalist.com/people/73325-otaka-rikiya",
+          "image_url": "https://i.mydramalist.com/WX235_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WX235_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kawakami Maiko",
+          "slug": "people/21880-kawakami-maiko",
+          "url": "https://mydramalist.com/people/21880-kawakami-maiko",
+          "image_url": "https://i.mydramalist.com/pW0v8s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pW0v8s.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:34:48.875Z"
+  },
+  {
+    "id": 32909,
+    "slug": "32909-gawao-tee-barngpleng",
+    "url": "https://mydramalist.com/32909-gawao-tee-barngpleng",
+    "title": "Gawao Tee Barngpleng",
+    "complete_title": "Gawao Tee Barngpleng (2003)",
+    "native_title": "กาเหว่าที่บางเพลง",
+    "sub_title": "กาเหว่าที่บางเพลง ‧ Drama ‧ 2003",
+    "also_known_as": [
+      "Kawao at Bangpleng"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": 14,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "Channel 3",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 13,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 13,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      },
+      {
+        "name": "Sci-Fi",
+        "id": "27"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Village Setting",
+        "id": "22097"
+      },
+      {
+        "name": "Adapted From A Novel",
+        "id": "133"
+      },
+      {
+        "name": "Alien",
+        "id": "85"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "A village in rural Thailand is celebrating Loy Krathong, when the festivities are disrupted by the descent of a spaceship. Ray beams are fired from the craft and all the village's women find they are suddenly pregnant. Only a few months later the women give birth. The alien offspring have the power to kill by just staring and they have an insatiable appetite for raw meat. (Source: Wikipedia) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/B01X6c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/B01X6c.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/B01X6c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/B01X6c.jpg",
+        "title": "Gawao Tee Barngpleng (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/B01X6s.jpg",
+        "hd_url": "https://i.mydramalist.com/B01X6s.jpg",
+        "title": "Gawao Tee Barngpleng Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/B01X6m.jpg",
+        "hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "title": "Gawao Tee Barngpleng (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Blackbirds at Bangpleng",
+        "slug": "731179-blackbirds-at-bangpleng",
+        "url": "https://mydramalist.com/731179-blackbirds-at-bangpleng",
+        "relation": "Thai adaptation"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Off Pongpat Wachirabunjong",
+          "slug": "people/9549-wachirabunjong-pongpat",
+          "url": "https://mydramalist.com/people/9549-wachirabunjong-pongpat",
+          "image_url": "https://i.mydramalist.com/lEboJs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/lEboJs.jpg",
+          "character": "Praphan",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Kullasatree Siripongpreeda",
+          "slug": "people/9872-siripongpreeda-kullasatree",
+          "url": "https://mydramalist.com/people/9872-siripongpreeda-kullasatree",
+          "image_url": "https://i.mydramalist.com/5Qk10s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/5Qk10s.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Arthit Taongsawatrat",
+          "slug": "people/19663-arthit-taongsawatrat",
+          "url": "https://mydramalist.com/people/19663-arthit-taongsawatrat",
+          "image_url": "https://i.mydramalist.com/0ODWrs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0ODWrs.jpg",
+          "character": "Somrak",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Amp Tanicha Disbutr",
+          "slug": "people/29567-tanicha-disbutr",
+          "url": "https://mydramalist.com/people/29567-tanicha-disbutr",
+          "image_url": "https://i.mydramalist.com/6pq6Ks.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6pq6Ks.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Note Tawat Tatsanaponpinij",
+          "slug": "people/66403-note-tawat-tatsanaponpinij",
+          "url": "https://mydramalist.com/people/66403-note-tawat-tatsanaponpinij",
+          "image_url": "https://i.mydramalist.com/WoL3l_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WoL3l_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ui Kriengkrai Oonhanun",
+          "slug": "people/10902-oonhanun-kriengkrai",
+          "url": "https://mydramalist.com/people/10902-oonhanun-kriengkrai",
+          "image_url": "https://i.mydramalist.com/nAEOWs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/nAEOWs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Ple Jarunee Suksawat",
+          "slug": "people/12130-suksawat-jarunee",
+          "url": "https://mydramalist.com/people/12130-suksawat-jarunee",
+          "image_url": "https://i.mydramalist.com/WKnBm_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WKnBm_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chamaiporn Sitthiworanang",
+          "slug": "people/23437-chamaiporn-sitthiworanang",
+          "url": "https://mydramalist.com/people/23437-chamaiporn-sitthiworanang",
+          "image_url": "https://i.mydramalist.com/B04Zls.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B04Zls.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Pairoj Jaisingha",
+          "slug": "people/28021-pairoj-jaisingha",
+          "url": "https://mydramalist.com/people/28021-pairoj-jaisingha",
+          "image_url": "https://i.mydramalist.com/l0Q7zL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0Q7zL_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Claude Athaseri",
+          "slug": "people/10068-atthaseri-klot",
+          "url": "https://mydramalist.com/people/10068-atthaseri-klot",
+          "image_url": "https://i.mydramalist.com/6vYvKs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6vYvKs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Lek Sa-Ard Piempongsan",
+          "slug": "people/42679-lek-sa-ard-piempongsan",
+          "url": "https://mydramalist.com/people/42679-lek-sa-ard-piempongsan",
+          "image_url": "https://i.mydramalist.com/RJ2wos.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RJ2wos.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mint Paemin Wongbeasujj",
+          "slug": "people/118719-mint-premin-wongbeasaj",
+          "url": "https://mydramalist.com/people/118719-mint-premin-wongbeasaj",
+          "image_url": "https://i.mydramalist.com/WPnyop_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WPnyop_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Jib Benchanat Aksonnantha",
+          "slug": "people/22932-jib-benchanat-aksonnantha",
+          "url": "https://mydramalist.com/people/22932-jib-benchanat-aksonnantha",
+          "image_url": "https://i.mydramalist.com/z7rNOs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/z7rNOs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Nu Surasak Chaiyaat",
+          "slug": "people/21824-surasak-chaiat",
+          "url": "https://mydramalist.com/people/21824-surasak-chaiat",
+          "image_url": "https://i.mydramalist.com/NRkeVY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NRkeVY_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kajornsak Rattananissai",
+          "slug": "people/23178-kajornsak-rattananissai",
+          "url": "https://mydramalist.com/people/23178-kajornsak-rattananissai",
+          "image_url": "https://i.mydramalist.com/Xm60X_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xm60X_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Got Montonn Pariwat",
+          "slug": "people/37055-got-montonn-pariwat",
+          "url": "https://mydramalist.com/people/37055-got-montonn-pariwat",
+          "image_url": "https://i.mydramalist.com/r0BXms.jpg",
+          "image_hd_url": "https://i.mydramalist.com/r0BXms.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "A Witthaya Kamolthitikan",
+          "slug": "people/148562-a-witthaya-kamolthitikan",
+          "url": "https://mydramalist.com/people/148562-a-witthaya-kamolthitikan",
+          "image_url": "https://i.mydramalist.com/JBbpdw_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JBbpdw_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Krailat Kriengkrai",
+          "slug": "people/22069-krailat-kriengkrai",
+          "url": "https://mydramalist.com/people/22069-krailat-kriengkrai",
+          "image_url": "https://i.mydramalist.com/Lx3e3s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lx3e3s.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "Ratree Wittawat",
+          "slug": "people/29581-ratree-wittawat",
+          "url": "https://mydramalist.com/people/29581-ratree-wittawat",
+          "image_url": "https://i.mydramalist.com/ElOvOs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ElOvOs.jpg",
+          "role_type": "Guest Role"
+        },
+        {
+          "name": "X Jaturong Kolimart",
+          "slug": "people/62695-jaturong-kolimart",
+          "url": "https://mydramalist.com/people/62695-jaturong-kolimart",
+          "image_url": "https://i.mydramalist.com/XXJbJ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/XXJbJ_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Jeeja Chanthathanisa Tang",
+          "slug": "people/1407-yanin-witmitanantha",
+          "url": "https://mydramalist.com/people/1407-yanin-witmitanantha",
+          "image_url": "https://i.mydramalist.com/4erP5w_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4erP5w_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Gawao Tee Barngpleng Episode 1",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Gawao Tee Barngpleng Episode 2",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Gawao Tee Barngpleng Episode 3",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Gawao Tee Barngpleng Episode 4",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Gawao Tee Barngpleng Episode 5",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Gawao Tee Barngpleng Episode 6",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Gawao Tee Barngpleng Episode 7",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Gawao Tee Barngpleng Episode 8",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Gawao Tee Barngpleng Episode 9",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Gawao Tee Barngpleng Episode 10",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Gawao Tee Barngpleng Episode 11",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Gawao Tee Barngpleng Episode 12",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Gawao Tee Barngpleng Episode 13",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Gawao Tee Barngpleng Episode 14",
+        "url": "https://mydramalist.com/32909-gawao-tee-barngpleng/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "image_hd_url": "https://i.mydramalist.com/B01X6m.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T03:34:54.626Z"
+  },
+  {
+    "id": 36459,
+    "slug": "36459-pleng-ruk-pleng-puern",
+    "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern",
+    "title": "Pleng Ruk Pleng Puern",
+    "complete_title": "Pleng Ruk Pleng Puern (2003)",
+    "native_title": "เพลงรักเพลงปืน",
+    "sub_title": "เพลงรักเพลงปืน ‧ Drama ‧ 2003",
+    "also_known_as": [
+      "Pleng Ruk Pleng Bpeun"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": 25,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "Channel 3",
+    "duration_string": "45 min.",
+    "duration_minutes": 45,
+    "content_rating": "Not Yet Rated",
+    "rating": 11,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 11,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Action",
+        "id": "1"
+      },
+      {
+        "name": "Music",
+        "id": "7"
+      },
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Adapted From A Novel",
+        "id": "133"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/ElJWpc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ElJWpc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ElJWpc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ElJWpc.jpg",
+        "title": "Pleng Ruk Pleng Puern (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/ElJWps.jpg",
+        "hd_url": "https://i.mydramalist.com/ElJWps.jpg",
+        "title": "Pleng Ruk Pleng Puern Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "title": "Pleng Ruk Pleng Puern (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Pleng Ruk Pleng Bpeun",
+        "slug": "28008-plerng-ruk-plerng-peun",
+        "url": "https://mydramalist.com/28008-plerng-ruk-plerng-peun",
+        "relation": "Thai adaptation"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Tok Suppakorn Kitsuwan",
+          "slug": "people/9585-kitsuwon-supakorn",
+          "url": "https://mydramalist.com/people/9585-kitsuwon-supakorn",
+          "image_url": "https://i.mydramalist.com/EO2Vp_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EO2Vp_5f.jpg",
+          "character": "Sommai / Chaitae",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Namfon Kullanat Kulpreeyawat",
+          "slug": "people/9412-preeyawat-kullanat",
+          "url": "https://mydramalist.com/people/9412-preeyawat-kullanat",
+          "image_url": "https://i.mydramalist.com/Dk4gOq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Dk4gOq_5f.jpg",
+          "character": "Chaweewilai",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Kongkapan Sangsuriya",
+          "slug": "people/23177-kongkapan-sangsuriya",
+          "url": "https://mydramalist.com/people/23177-kongkapan-sangsuriya",
+          "image_url": "https://i.mydramalist.com/VQoEQs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/VQoEQs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Noom Santisuk Promsiri",
+          "slug": "people/9651-promsiri-santisuk",
+          "url": "https://mydramalist.com/people/9651-promsiri-santisuk",
+          "image_url": "https://i.mydramalist.com/jv7Lr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jv7Lr_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Fah Chanika Sucharitkul",
+          "slug": "people/75083-fah-chanika-sucharitkul",
+          "url": "https://mydramalist.com/people/75083-fah-chanika-sucharitkul",
+          "image_url": "https://i.mydramalist.com/WK8rO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WK8rO_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Nantana Weerachon",
+          "slug": "people/73805-nantana-weerachon",
+          "url": "https://mydramalist.com/people/73805-nantana-weerachon",
+          "image_url": "https://i.mydramalist.com/v1o12_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v1o12_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Thongthong Mokjok",
+          "slug": "people/15331-mokjok-thongthong",
+          "url": "https://mydramalist.com/people/15331-mokjok-thongthong",
+          "image_url": "https://i.mydramalist.com/JpNbJs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/JpNbJs.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Pleng Ruk Pleng Puern Episode 1",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Pleng Ruk Pleng Puern Episode 2",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Pleng Ruk Pleng Puern Episode 3",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Pleng Ruk Pleng Puern Episode 4",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Pleng Ruk Pleng Puern Episode 5",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Pleng Ruk Pleng Puern Episode 6",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 7,
+        "title": "Pleng Ruk Pleng Puern Episode 7",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/7",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 8,
+        "title": "Pleng Ruk Pleng Puern Episode 8",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/8",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 9,
+        "title": "Pleng Ruk Pleng Puern Episode 9",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/9",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 10,
+        "title": "Pleng Ruk Pleng Puern Episode 10",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/10",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 11,
+        "title": "Pleng Ruk Pleng Puern Episode 11",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/11",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 12,
+        "title": "Pleng Ruk Pleng Puern Episode 12",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/12",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 13,
+        "title": "Pleng Ruk Pleng Puern Episode 13",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/13",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 14,
+        "title": "Pleng Ruk Pleng Puern Episode 14",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/14",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 15,
+        "title": "Pleng Ruk Pleng Puern Episode 15",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/15",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 16,
+        "title": "Pleng Ruk Pleng Puern Episode 16",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/16",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 17,
+        "title": "Pleng Ruk Pleng Puern Episode 17",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/17",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 18,
+        "title": "Pleng Ruk Pleng Puern Episode 18",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/18",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 19,
+        "title": "Pleng Ruk Pleng Puern Episode 19",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/19",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 20,
+        "title": "Pleng Ruk Pleng Puern Episode 20",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/20",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 21,
+        "title": "Pleng Ruk Pleng Puern Episode 21",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/21",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 22,
+        "title": "Pleng Ruk Pleng Puern Episode 22",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/22",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 23,
+        "title": "Pleng Ruk Pleng Puern Episode 23",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/23",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 24,
+        "title": "Pleng Ruk Pleng Puern Episode 24",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/24",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 25,
+        "title": "Pleng Ruk Pleng Puern Episode 25",
+        "url": "https://mydramalist.com/36459-pleng-ruk-pleng-puern/episode/25",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/ElJWpm.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T03:35:01.191Z"
+  },
+  {
+    "id": 37773,
+    "slug": "37773-naked-angel",
+    "url": "https://mydramalist.com/37773-naked-angel",
+    "title": "Naked Angel",
+    "complete_title": "Naked Angel (2003)",
+    "native_title": "赤裸天使",
+    "sub_title": "赤裸天使 ‧ Movie ‧ 2003",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "Hong Kong",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "R - Restricted Screening (nudity & violence)",
+    "rating": 7,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Mature",
+        "id": "40"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Erotic",
+        "id": "789"
+      },
+      {
+        "name": "Nudity",
+        "id": "696"
+      },
+      {
+        "name": "Extreme Sexual Content",
+        "id": "428"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/pvg4Ec.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pvg4Ec.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pvg4Ec.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pvg4Ec.jpg",
+        "title": "Naked Angel (2003) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [
+        {
+          "name": "Man Yeung",
+          "slug": "people/93635-man-yeung",
+          "url": "https://mydramalist.com/people/93635-man-yeung",
+          "image_url": "https://i.mydramalist.com/Kp4kw8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Kp4kw8_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:35:08.094Z"
+  },
+  {
+    "id": 37827,
+    "slug": "37827-the-new-option-saviour",
+    "url": "https://mydramalist.com/37827-the-new-option-saviour",
+    "title": "The New Option: Saviour",
+    "complete_title": "The New Option: Saviour (2003)",
+    "native_title": "飛虎雄師之救世者",
+    "sub_title": "飛虎雄師之救世者 ‧ Movie ‧ 2003",
+    "also_known_as": [
+      "The New Option - Saviour , 智勇特警"
+    ],
+    "type": "Movie",
+    "country": "Hong Kong",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XwOBXc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XwOBXc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XwOBXc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XwOBXc.jpg",
+        "title": "The New Option: Saviour (2003) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Michael Wong",
+          "slug": "people/1419-wong-michael",
+          "url": "https://mydramalist.com/people/1419-wong-michael",
+          "image_url": "https://i.mydramalist.com/EyWNz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EyWNz_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Raymond Wong",
+          "slug": "people/2229-wong-raymond",
+          "url": "https://mydramalist.com/people/2229-wong-raymond",
+          "image_url": "https://i.mydramalist.com/R5ZKP_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/R5ZKP_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Suki Kwan",
+          "slug": "people/88955-suki-kwan",
+          "url": "https://mydramalist.com/people/88955-suki-kwan",
+          "image_url": "https://i.mydramalist.com/YY25OB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YY25OB_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wang Tian Lin",
+          "slug": "people/51587-wang-tian-lin",
+          "url": "https://mydramalist.com/people/51587-wang-tian-lin",
+          "image_url": "https://i.mydramalist.com/jgR0d_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jgR0d_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Eddie Pang",
+          "slug": "people/7992-pang-eddie",
+          "url": "https://mydramalist.com/people/7992-pang-eddie",
+          "image_url": "https://i.mydramalist.com/0wpA24_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wpA24_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Isabel Chan",
+          "slug": "people/45141-isabel-chan",
+          "url": "https://mydramalist.com/people/45141-isabel-chan",
+          "image_url": "https://i.mydramalist.com/pVP7V_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pVP7V_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Lee Fung",
+          "slug": "people/74803-lee-fung",
+          "url": "https://mydramalist.com/people/74803-lee-fung",
+          "image_url": "https://i.mydramalist.com/4EY66_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4EY66_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Erica Mak",
+          "slug": "people/100951-erica-mak",
+          "url": "https://mydramalist.com/people/100951-erica-mak",
+          "image_url": "https://i.mydramalist.com/Qw5ov_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Qw5ov_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Chan Man Keung",
+          "slug": "people/105089-chan-man-keung",
+          "url": "https://mydramalist.com/people/105089-chan-man-keung",
+          "image_url": "https://i.mydramalist.com/epeNn_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/epeNn_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Man Yun Mei",
+          "slug": "people/75225-man-yun-mei",
+          "url": "https://mydramalist.com/people/75225-man-yun-mei",
+          "image_url": "https://i.mydramalist.com/B4W46_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B4W46_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Lee Pik Kwan",
+          "slug": "people/75593-lee-pik-kwan",
+          "url": "https://mydramalist.com/people/75593-lee-pik-kwan",
+          "image_url": "https://i.mydramalist.com/v1r0B_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v1r0B_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Kwok Suk Man",
+          "slug": "people/104133-kwok-suk-man",
+          "url": "https://mydramalist.com/people/104133-kwok-suk-man",
+          "image_url": "https://i.mydramalist.com/dgJeb_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dgJeb_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Lincoln Lo",
+          "slug": "people/72833-lincoln-lo",
+          "url": "https://mydramalist.com/people/72833-lincoln-lo",
+          "image_url": "https://i.mydramalist.com/wNLWp_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wNLWp_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Real Ting",
+          "slug": "people/83835-real-ting",
+          "url": "https://mydramalist.com/people/83835-real-ting",
+          "image_url": "https://i.mydramalist.com/BWoXl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BWoXl_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:35:13.745Z"
+  },
+  {
+    "id": 37829,
+    "slug": "37829-the-new-option-the-final-showdown",
+    "url": "https://mydramalist.com/37829-the-new-option-the-final-showdown",
+    "title": "The New Option: The Final Showdown",
+    "complete_title": "The New Option: The Final Showdown (2003)",
+    "native_title": "飛虎雄師之英雄本色",
+    "sub_title": "飛虎雄師之英雄本色 ‧ Movie ‧ 2003",
+    "also_known_as": [
+      "The New Option - Point of No Return , The New Option - The Final Showdown , The New Option: Point of No Return"
+    ],
+    "type": "Movie",
+    "country": "Hong Kong",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/jXgxwc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jXgxwc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jXgxwc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jXgxwc.jpg",
+        "title": "The New Option: The Final Showdown (2003) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Suki Kwan",
+          "slug": "people/88955-suki-kwan",
+          "url": "https://mydramalist.com/people/88955-suki-kwan",
+          "image_url": "https://i.mydramalist.com/YY25OB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/YY25OB_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Chiu Yue Ming",
+          "slug": "people/104083-chiu-yue-ming",
+          "url": "https://mydramalist.com/people/104083-chiu-yue-ming",
+          "image_url": "https://i.mydramalist.com/Xpgpd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Xpgpd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Real Ting",
+          "slug": "people/83835-real-ting",
+          "url": "https://mydramalist.com/people/83835-real-ting",
+          "image_url": "https://i.mydramalist.com/BWoXl_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BWoXl_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Eddie Pang",
+          "slug": "people/7992-pang-eddie",
+          "url": "https://mydramalist.com/people/7992-pang-eddie",
+          "image_url": "https://i.mydramalist.com/0wpA24_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/0wpA24_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [
+        {
+          "name": "Wang Tian Lin",
+          "slug": "people/51587-wang-tian-lin",
+          "url": "https://mydramalist.com/people/51587-wang-tian-lin",
+          "image_url": "https://i.mydramalist.com/jgR0d_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jgR0d_5f.jpg",
+          "role_type": "Guest Role"
+        }
+      ],
+      "directors": [
+        {
+          "name": "Gary Mak",
+          "slug": "people/76561-gary-mak",
+          "url": "https://mydramalist.com/people/76561-gary-mak",
+          "image_url": "https://i.mydramalist.com/wQOek_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wQOek_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Erica Mak",
+          "slug": "people/100951-erica-mak",
+          "url": "https://mydramalist.com/people/100951-erica-mak",
+          "image_url": "https://i.mydramalist.com/Qw5ov_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Qw5ov_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Man Yun Mei",
+          "slug": "people/75225-man-yun-mei",
+          "url": "https://mydramalist.com/people/75225-man-yun-mei",
+          "image_url": "https://i.mydramalist.com/B4W46_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B4W46_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Lee Pik Kwan",
+          "slug": "people/75593-lee-pik-kwan",
+          "url": "https://mydramalist.com/people/75593-lee-pik-kwan",
+          "image_url": "https://i.mydramalist.com/v1r0B_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v1r0B_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Kwok Suk Man",
+          "slug": "people/104133-kwok-suk-man",
+          "url": "https://mydramalist.com/people/104133-kwok-suk-man",
+          "image_url": "https://i.mydramalist.com/dgJeb_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dgJeb_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Lincoln Lo",
+          "slug": "people/72833-lincoln-lo",
+          "url": "https://mydramalist.com/people/72833-lincoln-lo",
+          "image_url": "https://i.mydramalist.com/wNLWp_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wNLWp_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Lee Lung Yee",
+          "slug": "people/104095-lee-lung-yee",
+          "url": "https://mydramalist.com/people/104095-lee-lung-yee",
+          "image_url": "https://i.mydramalist.com/ABWJb8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ABWJb8_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:35:19.072Z"
+  },
+  {
+    "id": 38197,
+    "slug": "38197-kaw-morn-bai-nun-tee-tur-fun-yam-nun",
+    "url": "https://mydramalist.com/38197-kaw-morn-bai-nun-tee-tur-fun-yam-nun",
+    "title": "Kaw Morn Bai Nun Tee Tur Fun Yam Nun",
+    "complete_title": "Kaw Morn Bai Nun Tee Tur Fun Yam Nun (2003)",
+    "native_title": "ขอหมอนใบนั้นที่เธอฝันยามหนุน",
+    "sub_title": "ขอหมอนใบนั้นที่เธอฝันยามหนุน ‧ Drama ‧ 2003",
+    "also_known_as": [
+      "ขอหมอนใบนั้นที่เธอฝันยามหนุน"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "Channel 9",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 8,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/wn34Nc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/wn34Nc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/wn34Nc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/wn34Nc.jpg",
+        "title": "Kaw Morn Bai Nun Tee Tur Fun Yam Nun (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/wn34Ns.jpg",
+        "hd_url": "https://i.mydramalist.com/wn34Ns.jpg",
+        "title": "Kaw Morn Bai Nun Tee Tur Fun Yam Nun Thai Drama(2003) photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/wn34Nm.jpg",
+        "hd_url": "https://i.mydramalist.com/wn34Nm.jpg",
+        "title": "Kaw Morn Bai Nun Tee Tur Fun Yam Nun (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Kaw Morn Bai Nun Tee Tur Fun Yam Nun",
+        "slug": "38195-kaw-morn-bai-nun-tee-tur-fun-yam-nun",
+        "url": "https://mydramalist.com/38195-kaw-morn-bai-nun-tee-tur-fun-yam-nun",
+        "relation": "Thai parent story"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "San Panomkorn Tungtatsawat",
+          "slug": "people/15479-tungtatsawat-panomkorn",
+          "url": "https://mydramalist.com/people/15479-tungtatsawat-panomkorn",
+          "image_url": "https://i.mydramalist.com/BpgQzs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BpgQzs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Pim Pimmada Boriruksuppakorn",
+          "slug": "people/8220-boriruksuppakorn-pimmada",
+          "url": "https://mydramalist.com/people/8220-boriruksuppakorn-pimmada",
+          "image_url": "https://i.mydramalist.com/yWddO3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/yWddO3_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Pu Montree Jenuksorn",
+          "slug": "people/9580-janeaksorn-montri",
+          "url": "https://mydramalist.com/people/9580-janeaksorn-montri",
+          "image_url": "https://i.mydramalist.com/X6Lrd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/X6Lrd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Daeng Thanya Sophon",
+          "slug": "people/25935-daeng-sophon-thanya",
+          "url": "https://mydramalist.com/people/25935-daeng-sophon-thanya",
+          "image_url": "https://i.mydramalist.com/ZlLvq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZlLvq_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Top Naphon Phromsuwan",
+          "slug": "people/23389-naphon-phromsuwan",
+          "url": "https://mydramalist.com/people/23389-naphon-phromsuwan",
+          "image_url": "https://i.mydramalist.com/6nPBPs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6nPBPs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Patt Napapa Thantrakul",
+          "slug": "people/8852-thantrakul-napapa",
+          "url": "https://mydramalist.com/people/8852-thantrakul-napapa",
+          "image_url": "https://i.mydramalist.com/73VW4B_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73VW4B_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Benjamas Dalhirunrat",
+          "slug": "people/17511-benchamat-danhiranrat",
+          "url": "https://mydramalist.com/people/17511-benchamat-danhiranrat",
+          "image_url": "https://i.mydramalist.com/O8ZQXP_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8ZQXP_5f.jpg",
+          "role_type": "Screenwriter"
+        },
+        {
+          "name": "Sirilux Srisukon",
+          "slug": "people/23975-sirilux-srisukon",
+          "url": "https://mydramalist.com/people/23975-sirilux-srisukon",
+          "image_url": "https://i.mydramalist.com/d45gKm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/d45gKm.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:35:24.473Z"
+  },
+  {
+    "id": 40367,
+    "slug": "40367-the-girl-with-red-shoe",
+    "url": "https://mydramalist.com/40367-the-girl-with-red-shoe",
+    "title": "The Girl with Red Shoe",
+    "complete_title": "The Girl with Red Shoe (2003)",
+    "native_title": "빨간 구두 아가씨",
+    "sub_title": "빨간 구두 아가씨 ‧ Movie ‧ 2003",
+    "also_known_as": [
+      "빨간 구두 아가씨"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "16 min.",
+    "duration_minutes": 16,
+    "content_rating": "Not Yet Rated",
+    "rating": 7,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "A blue truck is parked off a highway road. The driver wakes up from a nap and discovers a teenage girl sitting next to him. Their unexpected encounter is awkward at first, but it unfolds into a long trip that will change their lives. (Source: Koreanfilm) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/wKlxbc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/wKlxbc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/wKlxbc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/wKlxbc.jpg",
+        "title": "The Girl with Red Shoe (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/wKlxbs.jpg",
+        "hd_url": "https://i.mydramalist.com/wKlxbs.jpg",
+        "title": "The Girl with Red Shoe Korean Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/wKlxbm.jpg",
+        "hd_url": "https://i.mydramalist.com/wKlxbm.jpg",
+        "title": "The Girl with Red Shoe (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Kim Bo Ra",
+          "slug": "people/7925-kim-bo-ra",
+          "url": "https://mydramalist.com/people/7925-kim-bo-ra",
+          "image_url": "https://i.mydramalist.com/dDWQW_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dDWQW_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:35:31.271Z"
+  },
+  {
+    "id": 41821,
+    "slug": "41821-18-80-phuean-si-maimi-sua",
+    "url": "https://mydramalist.com/41821-18-80-phuean-si-maimi-sua",
+    "title": "18-80 Phuean Si Maimi Sua",
+    "complete_title": "18-80 Phuean Si Maimi Sua (2003)",
+    "native_title": "18-80 เพื่อนซี้ไม่มีซั้ว",
+    "sub_title": "18-80 เพื่อนซี้ไม่มีซั้ว ‧ Drama ‧ 2003",
+    "also_known_as": [
+      "18/80 Peurn See Mai Mee Sua"
+    ],
+    "type": "Drama",
+    "country": "Thailand",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": 0,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": "Channel 3",
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 7,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/BxZr5c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/BxZr5c.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/BxZr5c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/BxZr5c.jpg",
+        "title": "18-80 Phuean Si Maimi Sua (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/BxZr5s.jpg",
+        "hd_url": "https://i.mydramalist.com/BxZr5s.jpg",
+        "title": "18-80 Phuean Si Maimi Sua Thai Drama photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/BxZr5m.jpg",
+        "hd_url": "https://i.mydramalist.com/BxZr5m.jpg",
+        "title": "18-80 Phuean Si Maimi Sua (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Louis Scott",
+          "slug": "people/8024-scott-louis",
+          "url": "https://mydramalist.com/people/8024-scott-louis",
+          "image_url": "https://i.mydramalist.com/dqKdz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dqKdz_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Note Tawat Tatsanaponpinij",
+          "slug": "people/66403-note-tawat-tatsanaponpinij",
+          "url": "https://mydramalist.com/people/66403-note-tawat-tatsanaponpinij",
+          "image_url": "https://i.mydramalist.com/WoL3l_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WoL3l_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Gybzy Wanida Termthanaporn",
+          "slug": "people/13683-termthanaporn-wanida",
+          "url": "https://mydramalist.com/people/13683-termthanaporn-wanida",
+          "image_url": "https://i.mydramalist.com/jwK5J_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jwK5J_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Toi Setha Sirachaya",
+          "slug": "people/9770-sirachaya-setha",
+          "url": "https://mydramalist.com/people/9770-sirachaya-setha",
+          "image_url": "https://i.mydramalist.com/Jj76ws.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Jj76ws.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kirk Schiller",
+          "slug": "people/15591-schiller-kirk",
+          "url": "https://mydramalist.com/people/15591-schiller-kirk",
+          "image_url": "https://i.mydramalist.com/NvxjWs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/NvxjWs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Rawit Riwin",
+          "slug": "people/19669-rawit-riwin",
+          "url": "https://mydramalist.com/people/19669-rawit-riwin",
+          "image_url": "https://i.mydramalist.com/7gOANs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/7gOANs.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Kai Supranee Charoenpol",
+          "slug": "people/19514-supranee-jayrinpon",
+          "url": "https://mydramalist.com/people/19514-supranee-jayrinpon",
+          "image_url": "https://i.mydramalist.com/l0KgAx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0KgAx_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Belle Mananya Limsatien",
+          "slug": "people/87303-bell-manunya-limsatien",
+          "url": "https://mydramalist.com/people/87303-bell-manunya-limsatien",
+          "image_url": "https://i.mydramalist.com/ZxBXW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZxBXW_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:35:36.648Z"
+  },
+  {
+    "id": 41857,
+    "slug": "41857-twenty-millimeter-thick",
+    "url": "https://mydramalist.com/41857-twenty-millimeter-thick",
+    "title": "Twenty Millimeter Thick",
+    "complete_title": "Twenty Millimeter Thick (2003)",
+    "native_title": "20mm 두꺼운",
+    "sub_title": "20mm 두꺼운 ‧ Movie ‧ 2003",
+    "also_known_as": [
+      "20 mm Thick , 20, Digital Short Film Omnibus Project , 20mm Dukkeoun , Igong, Digital Danpyeon Omnibus Project , Igong, Dijiteol Danpyeon Omnibeoseu Peurojekteu Igong , 이공, 異共, 디지털 단편 옴니버스 프로젝트 이공"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "6 min.",
+    "duration_minutes": 6,
+    "content_rating": "Not Yet Rated",
+    "rating": 6,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 6,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "Independent Film",
+        "id": "1525"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/1qZLbc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1qZLbc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1qZLbc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1qZLbc.jpg",
+        "title": "Twenty Millimeter Thick (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/1qZLbs.jpg",
+        "hd_url": "https://i.mydramalist.com/1qZLbs.jpg",
+        "title": "Twenty Millimeter Thick Korean Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/1qZLbm.jpg",
+        "hd_url": "https://i.mydramalist.com/1qZLbm.jpg",
+        "title": "Twenty Millimeter Thick (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Park Gwan Soo",
+          "slug": "people/21297-park-gwan-soo",
+          "url": "https://mydramalist.com/people/21297-park-gwan-soo",
+          "image_url": "https://i.mydramalist.com/vp8rB_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vp8rB_5f.jpg",
+          "role_type": "Director"
+        },
+        {
+          "name": "Lee Seung Hyun",
+          "slug": "people/10124-lee-seung-hyun",
+          "url": "https://mydramalist.com/people/10124-lee-seung-hyun",
+          "image_url": "https://i.mydramalist.com/8Q6RDm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/8Q6RDm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [
+        {
+          "name": "Derek Son Tae Woong",
+          "slug": "people/103715-derek-son-tae-woong",
+          "url": "https://mydramalist.com/people/103715-derek-son-tae-woong",
+          "image_url": "https://i.mydramalist.com/ZO35L_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/ZO35L_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Jo Seong Woo",
+          "slug": "people/69385-jo-seon-gu",
+          "url": "https://mydramalist.com/people/69385-jo-seon-gu",
+          "image_url": "https://i.mydramalist.com/Rng1Y_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rng1Y_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Kim Woo Il",
+          "slug": "people/104697-kim-woo-il",
+          "url": "https://mydramalist.com/people/104697-kim-woo-il",
+          "image_url": "https://i.mydramalist.com/6XWv0_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/6XWv0_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:35:43.389Z"
+  },
+  {
+    "id": 42163,
+    "slug": "42163-the-bike-boy",
+    "url": "https://mydramalist.com/42163-the-bike-boy",
+    "title": "The Bike Boy",
+    "complete_title": "The Bike Boy (2003)",
+    "native_title": "자전거 소년",
+    "sub_title": "자전거 소년 ‧ Movie ‧ 2003",
+    "also_known_as": [
+      "Jajeongeo Sonyeon"
+    ],
+    "type": "Movie",
+    "country": "South Korea",
+    "year": 2003,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "41 min.",
+    "duration_minutes": 41,
+    "content_rating": "13+ - Teens 13 or older",
+    "rating": 7,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 7,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Youth",
+        "id": "24"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "The boy who enters puberty begins to feel strange feelings for the girl from one day, and the girl also expresses her affection for the boy as if it were not. The boy thinks that the best way for him to see the girl is to ride a bicycle that he cherishes. He prepares various things and appears to the girl, and the girl also secretly presents a gift for the boy. (Source: Daum) English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/QNyqAc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/QNyqAc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/QNyqAc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/QNyqAc.jpg",
+        "title": "The Bike Boy (2003) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/QNyqAs.jpg",
+        "hd_url": "https://i.mydramalist.com/QNyqAs.jpg",
+        "title": "The Bike Boy Korean Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/QNyqAm.jpg",
+        "hd_url": "https://i.mydramalist.com/QNyqAm.jpg",
+        "title": "The Bike Boy (2003)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Yoo Ji Tae",
+          "slug": "people/279-yoo-ji-tae",
+          "url": "https://mydramalist.com/people/279-yoo-ji-tae",
+          "image_url": "https://i.mydramalist.com/eeyxe_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eeyxe_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Jo Seong Woo",
+          "slug": "people/69385-jo-seon-gu",
+          "url": "https://mydramalist.com/people/69385-jo-seon-gu",
+          "image_url": "https://i.mydramalist.com/Rng1Y_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rng1Y_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T03:35:49.166Z"
   }
 ]
