@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,13 +151,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 779,
-    "pending": 2176,
+    "enriched": 799,
+    "pending": 2156,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 48373,
-    "last_title": "Metropolitan Police Mobile Investigation Unit 216 V: Dawn That I Haven't Seen Yet",
-    "last_updated": "2026-11-21T06:52:33.382Z"
+    "last_id": 61817,
+    "last_title": "Betelnut Girls",
+    "last_updated": "2026-11-21T06:54:46.313Z"
   },
   "2016": {
     "total_titles": 3621,
