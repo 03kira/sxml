@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -161,13 +161,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 1719,
-    "pending": 1236,
+    "enriched": 1739,
+    "pending": 1216,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 733631,
-    "last_title": "Hokkaido Kei Jiken File: Keibuho Gojo Seiko 3",
-    "last_updated": "2026-11-21T08:38:45.507Z"
+    "last_id": 42519,
+    "last_title": "The Case Files of Tax Investigator Madogiwa Tarou 28",
+    "last_updated": "2026-11-21T08:41:04.056Z"
   },
   "2016": {
     "total_titles": 3621,
