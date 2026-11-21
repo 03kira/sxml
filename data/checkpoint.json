@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,13 +151,13 @@
   },
   "2005": {
     "total_titles": 1283,
-    "enriched": 479,
-    "pending": 804,
+    "enriched": 499,
+    "pending": 784,
     "parts_count": 1,
     "active_part": "mdl_enriched_2005.json",
-    "last_id": 762545,
-    "last_title": "If Only You Love Me",
-    "last_updated": "2026-11-21T09:02:58.287Z"
+    "last_id": 754845,
+    "last_title": "Honto ni Atta! Noroi no Video 17",
+    "last_updated": "2026-11-21T09:05:08.065Z"
   },
   "2015": {
     "total_titles": 2955,
