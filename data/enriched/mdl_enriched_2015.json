@@ -1349042,5 +1349042,2291 @@
     },
     "episode_list": [],
     "scraped_at": "2026-11-21T10:43:44.606Z"
+  },
+  {
+    "id": 16557,
+    "slug": "16557-heart-for-heaven",
+    "url": "https://mydramalist.com/16557-heart-for-heaven",
+    "title": "Heart for Heaven",
+    "complete_title": "Heart for Heaven (2015)",
+    "native_title": "一念天堂",
+    "sub_title": "一念天堂 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "Yi Nian Tian Tang"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 42 min.",
+    "duration_minutes": 102,
+    "content_rating": "Not Yet Rated",
+    "rating": 7.529,
+    "scored_by": 6,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 29,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/1dZWRc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1dZWRc.jpg",
+    "trailer_id": "7252",
+    "trailers": [
+      {
+        "id": "7252",
+        "title": "Heart for Heaven Official Trailer",
+        "url": "https://v.mydramalist.com/201/201d546992726352471cfea6b0df0a48.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/1dZWRc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1dZWRc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1dZWRc.jpg",
+        "title": "Heart for Heaven (2015) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/1dZWRs.jpg",
+        "hd_url": "https://i.mydramalist.com/1dZWRs.jpg",
+        "title": "Heart for Heaven Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/1dZWRm.jpg",
+        "hd_url": "https://i.mydramalist.com/1dZWRm.jpg",
+        "title": "Heart for Heaven (2015)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Shen Teng",
+          "slug": "people/11295-shen-teng",
+          "url": "https://mydramalist.com/people/11295-shen-teng",
+          "image_url": "https://i.mydramalist.com/WREnO_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WREnO_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Ma Li",
+          "slug": "people/22206-ma-li",
+          "url": "https://mydramalist.com/people/22206-ma-li",
+          "image_url": "https://i.mydramalist.com/eEAAQs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eEAAQs.jpg",
+          "character": "Ma Xiao Li",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Lam Suet",
+          "slug": "people/12916-lam-suet",
+          "url": "https://mydramalist.com/people/12916-lam-suet",
+          "image_url": "https://i.mydramalist.com/rKZb2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/rKZb2_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Liu Xin",
+          "slug": "people/35939-liu-xin",
+          "url": "https://mydramalist.com/people/35939-liu-xin",
+          "image_url": "https://i.mydramalist.com/vZnkZ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vZnkZ_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Huang Nuan Nuan",
+          "slug": "people/113319-huang-nuan-nuan",
+          "url": "https://mydramalist.com/people/113319-huang-nuan-nuan",
+          "image_url": "https://i.mydramalist.com/BXLxA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BXLxA_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Du Xiao Yu",
+          "slug": "people/32897-du-xiao-yu",
+          "url": "https://mydramalist.com/people/32897-du-xiao-yu",
+          "image_url": "https://i.mydramalist.com/BK0b5_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BK0b5_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Li Xiao",
+          "slug": "people/108857-li-xiao",
+          "url": "https://mydramalist.com/people/108857-li-xiao",
+          "image_url": "https://i.mydramalist.com/73Emob_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73Emob_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "An Han Jin",
+          "slug": "people/14509-an-han-jin",
+          "url": "https://mydramalist.com/people/14509-an-han-jin",
+          "image_url": "https://i.mydramalist.com/1om6Qs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1om6Qs.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:43:55.971Z"
+  },
+  {
+    "id": 24931,
+    "slug": "24931-the-prospector",
+    "url": "https://mydramalist.com/24931-the-prospector",
+    "title": "The Prospector",
+    "complete_title": "The Prospector (2015)",
+    "native_title": "探秘者",
+    "sub_title": "探秘者 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "Make Explorations"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 29 min.",
+    "duration_minutes": 89,
+    "content_rating": "Not Yet Rated",
+    "rating": 8,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/LpqeDc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/LpqeDc.jpg",
+    "trailer_id": "9280",
+    "trailers": [
+      {
+        "id": "9280",
+        "title": "The Prospector Official Trailer",
+        "url": "https://v.mydramalist.com/30d/30da0bc6079da3eb93bb7d1c1faa7a70_1000x562.mp4",
+        "thumbnail_url": "https://i.mydramalist.com/LpqeDc.jpg",
+        "type": "mp4"
+      }
+    ],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/LpqeDc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/LpqeDc.jpg",
+        "title": "The Prospector (2015) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/LpqeDs.jpg",
+        "hd_url": "https://i.mydramalist.com/LpqeDs.jpg",
+        "title": "The Prospector Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/LpqeDm.jpg",
+        "hd_url": "https://i.mydramalist.com/LpqeDm.jpg",
+        "title": "The Prospector (2015)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Lawrence Ng",
+          "slug": "people/4935-ng-lawrence",
+          "url": "https://mydramalist.com/people/4935-ng-lawrence",
+          "image_url": "https://i.mydramalist.com/l0Kbo4_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0Kbo4_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wang Tao Tao",
+          "slug": "people/47245-wang-tao-tao",
+          "url": "https://mydramalist.com/people/47245-wang-tao-tao",
+          "image_url": "https://i.mydramalist.com/2XjXd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2XjXd_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Mao Fang Yuan",
+          "slug": "people/10056-mao-fang-yuan",
+          "url": "https://mydramalist.com/people/10056-mao-fang-yuan",
+          "image_url": "https://i.mydramalist.com/g0Lzdr_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/g0Lzdr_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:44:02.601Z"
+  },
+  {
+    "id": 25344,
+    "slug": "25344-living-hope",
+    "url": "https://mydramalist.com/25344-living-hope",
+    "title": "Living Hope",
+    "complete_title": "Living Hope (2015)",
+    "native_title": "情为何物",
+    "sub_title": "情为何物 ‧ Movie ‧ 2015",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 28 min.",
+    "duration_minutes": 88,
+    "content_rating": "Not Yet Rated",
+    "rating": 13,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 13,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Neurodevelopmental Disorder",
+        "id": "24743"
+      },
+      {
+        "name": "Autism",
+        "id": "628"
+      },
+      {
+        "name": "Disability",
+        "id": "626"
+      }
+    ],
+    "synopsis": "The film tells the story of a ninety-year-old woman and a hundred-year-old partner in the nursing home, every day patiently tell their own stories, they live in their own world. The 18-year-old girl, who was locked in her home by her father every day, was an autistic person. She was often in the hallucination; her head was breathing, her family's fish always dying and her days were clear. Old woman finally one day with his own story away. Centenarians still chatter about their own stories. Autistic girls one day changed the trajectory of her life, life along the respective trajectory in the intermittent. English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/zNAqec.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/zNAqec.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/zNAqec.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/zNAqec.jpg",
+        "title": "Living Hope (2015) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/zNAqes.jpg",
+        "hd_url": "https://i.mydramalist.com/zNAqes.jpg",
+        "title": "Living Hope Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/zNAqem.jpg",
+        "hd_url": "https://i.mydramalist.com/zNAqem.jpg",
+        "title": "Living Hope (2015)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:44:09.451Z"
+  },
+  {
+    "id": 29120,
+    "slug": "29120-tencent-k-pop-live",
+    "url": "https://mydramalist.com/29120-tencent-k-pop-live",
+    "title": "Tencent K-Pop Live",
+    "complete_title": "Tencent K-Pop Live (2015)",
+    "sub_title": "‧ TV Program ‧ 2015",
+    "also_known_as": [
+      "Tencent K-Pop Live Music"
+    ],
+    "type": "TV Program",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": 6,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 30 min.",
+    "duration_minutes": 90,
+    "content_rating": "Not Yet Rated",
+    "rating": 26,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 26,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Music",
+        "id": "7"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Apink",
+        "id": "2239"
+      },
+      {
+        "name": "Pop Music",
+        "id": "29420"
+      },
+      {
+        "name": "Wanna.B",
+        "id": "12895"
+      },
+      {
+        "name": "Stellar",
+        "id": "12831"
+      },
+      {
+        "name": "A.Cian",
+        "id": "12451"
+      },
+      {
+        "name": "Hello Venus",
+        "id": "10927"
+      },
+      {
+        "name": "APRIL",
+        "id": "6367"
+      },
+      {
+        "name": "Dal Shabet",
+        "id": "4437"
+      },
+      {
+        "name": "F(x)",
+        "id": "2695"
+      },
+      {
+        "name": "SISTAR",
+        "id": "2629"
+      }
+    ],
+    "synopsis": "Catch all your K-pop groups in this exciting live-broadcast concert series! “Tencent K-Pop Live” is a monthly live broadcast concert series organized for Chinese fans of K-pop by Tencent, a Chinese information technology company, and Cantara Global, a content distribution company. Only six episodes aired in 2015 with the following groups: Episode 1: Apink; Hello Venus; Playback Episode 2: BEAST/B2ST; Nine Muses Episode 3: f(x); Dal Shabet; April Episode 4: Girls Generation; A-cian; Wanna B Episode 5: SISTAR; Fame Us Episode 6: Nine Muses; Stellar; CLC (Source: Viki) English Español magyar / magyar nyelv dansk",
+    "poster_url": "https://i.mydramalist.com/13kBbc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/13kBbc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/13kBbc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/13kBbc.jpg",
+        "title": "Tencent K-Pop Live (2015) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/13kBbs.jpg",
+        "hd_url": "https://i.mydramalist.com/13kBbs.jpg",
+        "title": "Tencent K-Pop Live Chinese TV Program photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/13kBbm.jpg",
+        "hd_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "title": "Tencent K-Pop Live (2015)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Park Cho Rong",
+          "slug": "people/4270-park-cho-rong",
+          "url": "https://mydramalist.com/people/4270-park-cho-rong",
+          "image_url": "https://i.mydramalist.com/dqmwA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/dqmwA_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Yoon Bo Mi",
+          "slug": "people/4446-yoon-bo-mi",
+          "url": "https://mydramalist.com/people/4446-yoon-bo-mi",
+          "image_url": "https://i.mydramalist.com/eZ4gW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eZ4gW_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Jung Eun Ji",
+          "slug": "people/3843-jung-eun-ji",
+          "url": "https://mydramalist.com/people/3843-jung-eun-ji",
+          "image_url": "https://i.mydramalist.com/LwRVkx_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/LwRVkx_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Son Na Eun",
+          "slug": "people/4418-son-na-eun",
+          "url": "https://mydramalist.com/people/4418-son-na-eun",
+          "image_url": "https://i.mydramalist.com/eZenK_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/eZenK_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Kim Nam Joo",
+          "slug": "people/10854-kim-nam-joo",
+          "url": "https://mydramalist.com/people/10854-kim-nam-joo",
+          "image_url": "https://i.mydramalist.com/O8JxPL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8JxPL_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Oh Ha Young",
+          "slug": "people/14562-oh-ha-young",
+          "url": "https://mydramalist.com/people/14562-oh-ha-young",
+          "image_url": "https://i.mydramalist.com/pwVgQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pwVgQ_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Yoon Doo Joon",
+          "slug": "people/1608-yoon-doo-joon",
+          "url": "https://mydramalist.com/people/1608-yoon-doo-joon",
+          "image_url": "https://i.mydramalist.com/73jLVL_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73jLVL_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Jang Hyun Seung",
+          "slug": "people/18390-jang-hyun-seung",
+          "url": "https://mydramalist.com/people/18390-jang-hyun-seung",
+          "image_url": "https://i.mydramalist.com/QJnl4Y_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QJnl4Y_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Yong Jun Hyung",
+          "slug": "people/2558-yong-jun-hyung",
+          "url": "https://mydramalist.com/people/2558-yong-jun-hyung",
+          "image_url": "https://i.mydramalist.com/vXJvBB_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/vXJvBB_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Yang Yo Seob",
+          "slug": "people/9966-yang-yo-seob",
+          "url": "https://mydramalist.com/people/9966-yang-yo-seob",
+          "image_url": "https://i.mydramalist.com/4e12rY_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4e12rY_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Lee Gi Kwang",
+          "slug": "people/1642-lee-gi-kwang",
+          "url": "https://mydramalist.com/people/1642-lee-gi-kwang",
+          "image_url": "https://i.mydramalist.com/wJVmrb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJVmrb_5f.jpg",
+          "role_type": "Guest"
+        },
+        {
+          "name": "Son Dong Woon",
+          "slug": "people/16713-son-dong-woon",
+          "url": "https://mydramalist.com/people/16713-son-dong-woon",
+          "image_url": "https://i.mydramalist.com/O8W7Y3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/O8W7Y3_5f.jpg",
+          "role_type": "Guest"
+        }
+      ]
+    },
+    "episode_list": [
+      {
+        "episode_number": 1,
+        "title": "Tencent K-Pop Live Episode 1",
+        "url": "https://mydramalist.com/29120-tencent-k-pop-live/episode/1",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 2,
+        "title": "Tencent K-Pop Live Episode 2",
+        "url": "https://mydramalist.com/29120-tencent-k-pop-live/episode/2",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 3,
+        "title": "Tencent K-Pop Live Episode 3",
+        "url": "https://mydramalist.com/29120-tencent-k-pop-live/episode/3",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 4,
+        "title": "Tencent K-Pop Live Episode 4",
+        "url": "https://mydramalist.com/29120-tencent-k-pop-live/episode/4",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 5,
+        "title": "Tencent K-Pop Live Episode 5",
+        "url": "https://mydramalist.com/29120-tencent-k-pop-live/episode/5",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "summary": null
+      },
+      {
+        "episode_number": 6,
+        "title": "Tencent K-Pop Live Episode 6",
+        "url": "https://mydramalist.com/29120-tencent-k-pop-live/episode/6",
+        "air_date": null,
+        "rating": 0,
+        "votes": 0,
+        "image_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "image_hd_url": "https://i.mydramalist.com/13kBbm.jpg",
+        "summary": null
+      }
+    ],
+    "scraped_at": "2026-11-21T10:44:15.452Z"
+  },
+  {
+    "id": 41867,
+    "slug": "41867-zai-ai-24-xiao-shi",
+    "url": "https://mydramalist.com/41867-zai-ai-24-xiao-shi",
+    "title": "Zai Ai 24 Xiao Shi",
+    "complete_title": "Zai Ai 24 Xiao Shi (2015)",
+    "native_title": "再爱24小时",
+    "sub_title": "再爱24小时 ‧ Movie ‧ 2015",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 26 min.",
+    "duration_minutes": 86,
+    "content_rating": "Not Yet Rated",
+    "rating": 3,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 3,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/wK7jbc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/wK7jbc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/wK7jbc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/wK7jbc.jpg",
+        "title": "Zai Ai 24 Xiao Shi (2015) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/wK7jbs.jpg",
+        "hd_url": "https://i.mydramalist.com/wK7jbs.jpg",
+        "title": "Zai Ai 24 Xiao Shi Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/wK7jbm.jpg",
+        "hd_url": "https://i.mydramalist.com/wK7jbm.jpg",
+        "title": "Zai Ai 24 Xiao Shi (2015)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Cynthia Ma",
+          "slug": "people/46297-cynthia-ma",
+          "url": "https://mydramalist.com/people/46297-cynthia-ma",
+          "image_url": "https://i.mydramalist.com/QlN7W_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/QlN7W_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Lai Shuai Ming",
+          "slug": "people/46295-lai-shuai-ming",
+          "url": "https://mydramalist.com/people/46295-lai-shuai-ming",
+          "image_url": "https://i.mydramalist.com/Bgxbb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Bgxbb_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wang Yang",
+          "slug": "people/70485-wang-yang",
+          "url": "https://mydramalist.com/people/70485-wang-yang",
+          "image_url": "https://i.mydramalist.com/47Wr1_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/47Wr1_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:44:21.951Z"
+  },
+  {
+    "id": 47275,
+    "slug": "47275-under-the-rail",
+    "url": "https://mydramalist.com/47275-under-the-rail",
+    "title": "Under the Rail",
+    "complete_title": "Under the Rail (2015)",
+    "native_title": "钢轨之下",
+    "sub_title": "钢轨之下 ‧ Movie ‧ 2015",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "22 min.",
+    "duration_minutes": 22,
+    "content_rating": "Not Yet Rated",
+    "rating": 1,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 1,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Mystery",
+        "id": "11"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "Investigation",
+        "id": "42"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/E24ppc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/E24ppc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/E24ppc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/E24ppc.jpg",
+        "title": "Under the Rail (2015) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/E24pps.jpg",
+        "hd_url": "https://i.mydramalist.com/E24pps.jpg",
+        "title": "Under the Rail Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/E24ppm.jpg",
+        "hd_url": "https://i.mydramalist.com/E24ppm.jpg",
+        "title": "Under the Rail (2015)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:44:28.218Z"
+  },
+  {
+    "id": 68535,
+    "slug": "68535-a-straight-journey-days-and-nights-in-their-kingdom",
+    "url": "https://mydramalist.com/68535-a-straight-journey-days-and-nights-in-their-kingdom",
+    "title": "A Straight Journey: Days and Nights in their Kingdom",
+    "complete_title": "A Straight Journey: Days and Nights in their Kingdom (2015)",
+    "native_title": "从黑夜到白天",
+    "sub_title": "从黑夜到白天 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "Cong Hei Ve Dao Bai Tian"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "22 min.",
+    "duration_minutes": 22,
+    "content_rating": "Not Yet Rated",
+    "rating": 32,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 32,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Documentary",
+        "id": "35"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "LGBTQ+",
+        "id": "1045"
+      }
+    ],
+    "synopsis": "In China, a husband-and-wife photographer duo travelled 11 cities to interview 48 gays and lesbians and their families. (Source: GagaOOLala) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/jg2nb_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jg2nb_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jg2nb_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jg2nb_4f.jpg",
+        "title": "A Straight Journey: Days and Nights in their Kingdom (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:44:33.984Z"
+  },
+  {
+    "id": 70725,
+    "slug": "70725-eliminate-college-students",
+    "url": "https://mydramalist.com/70725-eliminate-college-students",
+    "title": "Eliminate College students",
+    "complete_title": "Eliminate College students (2015)",
+    "native_title": "消灭大学生",
+    "sub_title": "消灭大学生 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "New Year's Eve"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 35 min.",
+    "duration_minutes": 95,
+    "content_rating": "Not Yet Rated",
+    "rating": 8,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Black Comedy",
+        "id": "1047"
+      }
+    ],
+    "synopsis": "Un vendedor mayor entró en el dormitorio de la universidad. Coincidió con la cena de Nochevieja de los estudiantes. Los estudiantes invitaron calurosamente al vendedor a entrar para calentar. Todos tomaron una copa y charlaron. Los estudiantes gradualmente se interesaron en la \"pasta de dientes antirrobo\" del vendedor. Sin embargo, las cosas se desarrollaron lentamente en una dirección aterradora. La comunicación entre todos y el vendedor se convirtió lentamente en un insulto para el vendedor mayor. Todos extendieron toda su ira hacia el vendedor por el extraño compañero de habitación del dormitorio, y la escena se salió de control. ... (Fuente: Baidu) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/EQWL7_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/EQWL7_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/EQWL7_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/EQWL7_4f.jpg",
+        "title": "Eliminate College students (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Peng Yu Si",
+          "slug": "people/13630-peng-yu-si",
+          "url": "https://mydramalist.com/people/13630-peng-yu-si",
+          "image_url": "https://i.mydramalist.com/x4gd6q_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/x4gd6q_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:44:39.332Z"
+  },
+  {
+    "id": 75089,
+    "slug": "75089-unique-way",
+    "url": "https://mydramalist.com/75089-unique-way",
+    "title": "Unique Way",
+    "complete_title": "Unique Way (2015)",
+    "native_title": "无二之旅",
+    "sub_title": "无二之旅 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "No Two , 無二之旅"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "10 min.",
+    "duration_minutes": 10,
+    "content_rating": "G - All Ages",
+    "rating": 56,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 56,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "Tourism Industry",
+        "id": "29224"
+      },
+      {
+        "name": "City Setting",
+        "id": "22373"
+      },
+      {
+        "name": "Moving On",
+        "id": "22103"
+      },
+      {
+        "name": "Young Adult Female Lead",
+        "id": "19247"
+      },
+      {
+        "name": "Young Adult Male Lead",
+        "id": "19245"
+      },
+      {
+        "name": "Supportive Male Lead",
+        "id": "14169"
+      },
+      {
+        "name": "Healing",
+        "id": "1241"
+      },
+      {
+        "name": "Traveling",
+        "id": "1053"
+      },
+      {
+        "name": "Heartbreak",
+        "id": "670"
+      }
+    ],
+    "synopsis": "Falling in love for two and a half years, Qin Yu finally ushered in the first trip with her boyfriend. Unexpectedly, the long-awaited romantic Italy ended up in sadness because of frequent quarrels during the journey. After a year, Qin Yu once again set foot on this land, accompanied by a new face. He is gentle, considerate, and meticulous. He knows all her preferences and solves all her travel problems. Does such a perfect boyfriend really exist? Is this an opportunity to embrace a new relationship English Français magyar / magyar nyelv עברית / עִבְרִית",
+    "poster_url": "https://i.mydramalist.com/BNgNV_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/BNgNV_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/BNgNV_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/BNgNV_4f.jpg",
+        "title": "Unique Way (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Bai Jing Ting",
+          "slug": "people/7762-bai-jing-ting",
+          "url": "https://mydramalist.com/people/7762-bai-jing-ting",
+          "image_url": "https://i.mydramalist.com/jQjpnd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jQjpnd_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Su Xin",
+          "slug": "people/35307-su-xin",
+          "url": "https://mydramalist.com/people/35307-su-xin",
+          "image_url": "https://i.mydramalist.com/q4epd_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/q4epd_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:44:44.994Z"
+  },
+  {
+    "id": 681597,
+    "slug": "681597-water-margin-heroes-lu-jin-yi-shi-wen-gong",
+    "url": "https://mydramalist.com/681597-water-margin-heroes-lu-jin-yi-shi-wen-gong",
+    "title": "Water Margin Heroes: Lu Jun Yi and Shi Wen Gong",
+    "complete_title": "Water Margin Heroes: Lu Jun Yi and Shi Wen Gong (2015)",
+    "native_title": "卢俊义生擒史文恭",
+    "sub_title": "卢俊义生擒史文恭 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "Captured Alive , Water Margin Heroes: Lu Jin Yi & Shi Wen Gong , Water Margin Heroes: Lu Junyi & Shi Wengong , 水浒人物谱: 卢俊义生擒史文恭 , 水浒人物谱之卢俊义生擒史文恭"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 46 min.",
+    "duration_minutes": 106,
+    "content_rating": "Not Yet Rated",
+    "rating": 8,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 8,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Wuxia",
+        "id": "20"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Historical Fiction",
+        "id": "3399"
+      },
+      {
+        "name": "Song Dynasty",
+        "id": "1382"
+      },
+      {
+        "name": "Adapted From A Novel",
+        "id": "133"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/dZNX5_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/dZNX5_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/dZNX5_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/dZNX5_4f.jpg",
+        "title": "Water Margin Heroes: Lu Jun Yi and Shi Wen Gong (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sang Wei Lin",
+          "slug": "people/27697-sang-wei-lin",
+          "url": "https://mydramalist.com/people/27697-sang-wei-lin",
+          "image_url": "https://i.mydramalist.com/p4m4Qs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/p4m4Qs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Chunyu Shan Shan",
+          "slug": "people/28079-chunyu-shan-shan",
+          "url": "https://mydramalist.com/people/28079-chunyu-shan-shan",
+          "image_url": "https://i.mydramalist.com/Rx6nV_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Rx6nV_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Shi Yuan Ting",
+          "slug": "people/22988-shi-yuan-ting",
+          "url": "https://mydramalist.com/people/22988-shi-yuan-ting",
+          "image_url": "https://i.mydramalist.com/v7z7g_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/v7z7g_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang De Hui",
+          "slug": "people/27689-zhang-de-hui",
+          "url": "https://mydramalist.com/people/27689-zhang-de-hui",
+          "image_url": "https://i.mydramalist.com/jRXq8_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jRXq8_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Da",
+          "slug": "people/31243-li-da",
+          "url": "https://mydramalist.com/people/31243-li-da",
+          "image_url": "https://i.mydramalist.com/jVr1ys.jpg",
+          "image_hd_url": "https://i.mydramalist.com/jVr1ys.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Li Zhen Qi",
+          "slug": "people/100677-li-zhen-qi",
+          "url": "https://mydramalist.com/people/100677-li-zhen-qi",
+          "image_url": "https://i.mydramalist.com/4K58K_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/4K58K_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Liu Xin Yi",
+          "slug": "people/27275-liu-xin-yi",
+          "url": "https://mydramalist.com/people/27275-liu-xin-yi",
+          "image_url": "https://i.mydramalist.com/EPYWlm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EPYWlm.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Shi Nai An",
+          "slug": "people/66231-shi-nai-an",
+          "url": "https://mydramalist.com/people/66231-shi-nai-an",
+          "image_url": "https://i.mydramalist.com/RpDQ6_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RpDQ6_5f.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:44:50.614Z"
+  },
+  {
+    "id": 697357,
+    "slug": "697357-journey",
+    "url": "https://mydramalist.com/697357-journey",
+    "title": "Journey",
+    "complete_title": "Journey (2015)",
+    "native_title": "之旅",
+    "sub_title": "之旅 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "Zhi Lu"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "",
+    "duration_minutes": null,
+    "content_rating": "Not Yet Rated",
+    "rating": 10,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 10,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/Qk1V2_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/Qk1V2_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/Qk1V2_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/Qk1V2_4f.jpg",
+        "title": "Journey (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Liang Jing",
+          "slug": "people/5013-liang-jing",
+          "url": "https://mydramalist.com/people/5013-liang-jing",
+          "image_url": "https://i.mydramalist.com/2wDkWR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2wDkWR_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Gong Bei Bi",
+          "slug": "people/8276-gong-beibi",
+          "url": "https://mydramalist.com/people/8276-gong-beibi",
+          "image_url": "https://i.mydramalist.com/1xrnz_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/1xrnz_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [
+        {
+          "name": "Ren Bao Ru",
+          "slug": "people/51807-ren-bao-ru",
+          "url": "https://mydramalist.com/people/51807-ren-bao-ru",
+          "image_url": "https://i.mydramalist.com/WejbW_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WejbW_5f.jpg",
+          "role_type": "Screenwriter"
+        }
+      ],
+      "others": [
+        {
+          "name": "Peter Kam",
+          "slug": "people/85537-peter-kam",
+          "url": "https://mydramalist.com/people/85537-peter-kam",
+          "image_url": "https://i.mydramalist.com/EwlLO_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EwlLO_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Zhang Yi Mou",
+          "slug": "people/15941-zhang-yimou",
+          "url": "https://mydramalist.com/people/15941-zhang-yimou",
+          "image_url": "https://i.mydramalist.com/kjBnr_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/kjBnr_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Jackie Chan",
+          "slug": "people/695-chan-jackie",
+          "url": "https://mydramalist.com/people/695-chan-jackie",
+          "image_url": "https://i.mydramalist.com/01Pbrm.jpg",
+          "image_hd_url": "https://i.mydramalist.com/01Pbrm.jpg",
+          "role_type": "Cast"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:44:56.551Z"
+  },
+  {
+    "id": 718265,
+    "slug": "718265-black-and-white-road",
+    "url": "https://mydramalist.com/718265-black-and-white-road",
+    "title": "Black and White Road",
+    "complete_title": "Black and White Road (2015)",
+    "native_title": "黑白有道",
+    "sub_title": "黑白有道 ‧ Movie ‧ 2015",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 20 min.",
+    "duration_minutes": 80,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/ZyKKj_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ZyKKj_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ZyKKj_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ZyKKj_4f.jpg",
+        "title": "Black and White Road (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Gao Xuan Ming",
+          "slug": "people/49355-gao-xuan-ming",
+          "url": "https://mydramalist.com/people/49355-gao-xuan-ming",
+          "image_url": "https://i.mydramalist.com/zBVzBe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/zBVzBe_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Duan Ran",
+          "slug": "people/66559-duan-ran",
+          "url": "https://mydramalist.com/people/66559-duan-ran",
+          "image_url": "https://i.mydramalist.com/Lw63b7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lw63b7_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Xu Hao Ran",
+          "slug": "people/91141-xu-hao-ran",
+          "url": "https://mydramalist.com/people/91141-xu-hao-ran",
+          "image_url": "https://i.mydramalist.com/keOOg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/keOOg_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Zhang Hao",
+          "slug": "people/98017-zhang-hao",
+          "url": "https://mydramalist.com/people/98017-zhang-hao",
+          "image_url": "https://i.mydramalist.com/2y5Pk_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/2y5Pk_5f.jpg",
+          "role_type": "Support Role"
+        },
+        {
+          "name": "Chen Qiang Sheng",
+          "slug": "people/160554-chen-qiang-sheng",
+          "url": "https://mydramalist.com/people/160554-chen-qiang-sheng",
+          "image_url": "https://i.mydramalist.com/l0b2Qv_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/l0b2Qv_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:45:02.469Z"
+  },
+  {
+    "id": 718295,
+    "slug": "718295-no-cheap-way-2",
+    "url": "https://mydramalist.com/718295-no-cheap-way-2",
+    "title": "No Cheap Way 2",
+    "complete_title": "No Cheap Way 2 (2015)",
+    "native_title": "無賤道2雙色爭艷",
+    "sub_title": "無賤道2雙色爭艷 ‧ Movie ‧ 2015",
+    "also_known_as": [],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 3 min.",
+    "duration_minutes": 63,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Romance",
+        "id": "19"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/pLJ5E_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/pLJ5E_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/pLJ5E_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/pLJ5E_4f.jpg",
+        "title": "No Cheap Way 2 (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Liu Xiao Qiao",
+          "slug": "people/24413-liu-xiao-qiao",
+          "url": "https://mydramalist.com/people/24413-liu-xiao-qiao",
+          "image_url": "https://i.mydramalist.com/B083Rs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/B083Rs.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Xu Hao Ran",
+          "slug": "people/91141-xu-hao-ran",
+          "url": "https://mydramalist.com/people/91141-xu-hao-ran",
+          "image_url": "https://i.mydramalist.com/keOOg_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/keOOg_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Duan Ran",
+          "slug": "people/66559-duan-ran",
+          "url": "https://mydramalist.com/people/66559-duan-ran",
+          "image_url": "https://i.mydramalist.com/Lw63b7_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/Lw63b7_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:45:07.951Z"
+  },
+  {
+    "id": 720363,
+    "slug": "720363-yu-ni-tong-hang",
+    "url": "https://mydramalist.com/720363-yu-ni-tong-hang",
+    "title": "Yu Ni Tong Hang",
+    "complete_title": "Yu Ni Tong Hang (2015)",
+    "native_title": "与你同行",
+    "sub_title": "与你同行 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "與你同行"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 27 min.",
+    "duration_minutes": 87,
+    "content_rating": "Not Yet Rated",
+    "rating": 5,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 5,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/XqyxJ_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/XqyxJ_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/XqyxJ_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/XqyxJ_4f.jpg",
+        "title": "Yu Ni Tong Hang (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Guo Jia Ming",
+          "slug": "people/30701-guo-jia-ming",
+          "url": "https://mydramalist.com/people/30701-guo-jia-ming",
+          "image_url": "https://i.mydramalist.com/73RLQe_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/73RLQe_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Ai Xiao Qi",
+          "slug": "people/13562-ai-xiao-qi",
+          "url": "https://mydramalist.com/people/13562-ai-xiao-qi",
+          "image_url": "https://i.mydramalist.com/wJ3wdb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wJ3wdb_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Tong Yue",
+          "slug": "people/20802-tong-yue",
+          "url": "https://mydramalist.com/people/20802-tong-yue",
+          "image_url": "https://i.mydramalist.com/EqJNW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EqJNW_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:45:13.856Z"
+  },
+  {
+    "id": 722095,
+    "slug": "722095-northeast-brothers",
+    "url": "https://mydramalist.com/722095-northeast-brothers",
+    "title": "Northeast Brothers",
+    "complete_title": "Northeast Brothers (2015)",
+    "native_title": "东北兄弟之千予千成",
+    "sub_title": "东北兄弟之千予千成 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "東北兄弟之千予千成"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "Not Yet Rated",
+    "rating": 2,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 2,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Thriller",
+        "id": "8"
+      },
+      {
+        "name": "Romance",
+        "id": "19"
+      },
+      {
+        "name": "Crime",
+        "id": "21"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/jnAZw_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jnAZw_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jnAZw_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jnAZw_4f.jpg",
+        "title": "Northeast Brothers (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Li Jun Ting",
+          "slug": "people/95283-li-jun-ting",
+          "url": "https://mydramalist.com/people/95283-li-jun-ting",
+          "image_url": "https://i.mydramalist.com/wdlmA_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/wdlmA_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Zhou Sheng Bo",
+          "slug": "people/95275-zhou-sheng-bo",
+          "url": "https://mydramalist.com/people/95275-zhou-sheng-bo",
+          "image_url": "https://i.mydramalist.com/pJ8WQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pJ8WQ_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [
+        {
+          "name": "Zhou Sheng Bo",
+          "slug": "people/95275-zhou-sheng-bo",
+          "url": "https://mydramalist.com/people/95275-zhou-sheng-bo",
+          "image_url": "https://i.mydramalist.com/pJ8WQ_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/pJ8WQ_5f.jpg",
+          "role_type": "Director"
+        }
+      ],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:45:19.799Z"
+  },
+  {
+    "id": 735917,
+    "slug": "735917-the-stepmother",
+    "url": "https://mydramalist.com/735917-the-stepmother",
+    "title": "The Stepmother",
+    "complete_title": "The Stepmother (2015)",
+    "native_title": "酸菜",
+    "sub_title": "酸菜 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "Suan Cai"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "25 min.",
+    "duration_minutes": 25,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Life",
+        "id": "22"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Short Film",
+        "id": "1238"
+      }
+    ],
+    "synopsis": "Thirty-four-year-old Li Min, who has been six or seven months pregnant, works with men in a coal preparation plant. Gao Rui's father is away all year round. In a house without men, Gao Rui and her stepmother are mutually exclusive. After being pregnant, Li Min especially likes to eat sauerkraut, and specially put a sauerkraut tank in the house, so there are all kinds of conflicts with Gao Rui. Gao Rui wants to drive her stepmother out of her home, and Li Min wants to send Gao Rui to the school for boarding. (Source: Chinese = Baidu || Translation = MyDramaList) English magyar / magyar nyelv עברית / עִבְרִית dansk",
+    "poster_url": "https://i.mydramalist.com/ek2xn_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/ek2xn_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/ek2xn_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/ek2xn_4f.jpg",
+        "title": "The Stepmother (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Zhang Yao",
+          "slug": "people/18850-zhang-yao",
+          "url": "https://mydramalist.com/people/18850-zhang-yao",
+          "image_url": "https://i.mydramalist.com/gOO0Wq_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/gOO0Wq_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Yang Shu Feng",
+          "slug": "people/107929-yang-shu-feng",
+          "url": "https://mydramalist.com/people/107929-yang-shu-feng",
+          "image_url": "https://i.mydramalist.com/W2DKW_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/W2DKW_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:45:26.176Z"
+  },
+  {
+    "id": 776999,
+    "slug": "776999-fish-eye",
+    "url": "https://mydramalist.com/776999-fish-eye",
+    "title": "Fish Eye",
+    "complete_title": "Fish Eye (2015)",
+    "native_title": "鱼眼",
+    "sub_title": "鱼眼 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "Yu Yan , 魚眼"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "15 min.",
+    "duration_minutes": 15,
+    "content_rating": "Not Yet Rated",
+    "rating": 4,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 4,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Drama",
+        "id": "25"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Co-produced",
+        "id": "3959"
+      },
+      {
+        "name": "Short Film",
+        "id": "1238"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      }
+    ],
+    "synopsis": "Amid a string of hideous homicides, a housemaid heads to the isolated home of her eccentric new client who has a long set of unbreakable rules. What could possibly be hiding a solitary man with a taste for fish, and a collection of knives? (Source: IMDb) ~~ Co-production with the U.S.A. English हिन्दी Español Português (Brasil)",
+    "poster_url": "https://i.mydramalist.com/jQ3kAr_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/jQ3kAr_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/jQ3kAr_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/jQ3kAr_4f.jpg",
+        "title": "Fish Eye (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:45:31.808Z"
+  },
+  {
+    "id": 800728,
+    "slug": "800728-secret-love",
+    "url": "https://mydramalist.com/800728-secret-love",
+    "title": "Secret Love",
+    "complete_title": "Secret Love (2015)",
+    "native_title": "秘爱",
+    "sub_title": "秘爱 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "Mi Ai , 祕愛"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 19 min.",
+    "duration_minutes": 79,
+    "content_rating": "18+ Restricted (violence & profanity)",
+    "rating": 10,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 10,
+    "favorites": 0,
+    "genres": [],
+    "tags": [],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/YYVq8z_4c.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/YYVq8z_4f.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/YYVq8z_4c.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/YYVq8z_4f.jpg",
+        "title": "Secret Love (2015) poster"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Chen Kai Rui",
+          "slug": "people/91149-chen-kai-rui",
+          "url": "https://mydramalist.com/people/91149-chen-kai-rui",
+          "image_url": "https://i.mydramalist.com/BYOZR_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/BYOZR_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:45:37.327Z"
+  },
+  {
+    "id": 22964,
+    "slug": "22964-happy-jinlian-pan",
+    "url": "https://mydramalist.com/22964-happy-jinlian-pan",
+    "title": "Happy Jinlian-Pan",
+    "complete_title": "Happy Jinlian-Pan (2015)",
+    "native_title": "喜气洋洋小金莲",
+    "sub_title": "喜气洋洋小金莲 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "Happy Jin Lian Pan , The Plum in the Golden Vase , Xi Qi Yang Yang Xiao Jin Lian"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "1 hr. 43 min.",
+    "duration_minutes": 103,
+    "content_rating": "18+ Restricted (violence & profanity)",
+    "rating": 16,
+    "scored_by": 0,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 16,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Comedy",
+        "id": "17"
+      }
+    ],
+    "tags": [],
+    "synopsis": "Based on the life of fictional character Pan Jin Lian from 17th-century Chinese novel \"Jin Ping Mei (金瓶梅)\" aka \"The Plum in the Golden Vase\". English magyar / magyar nyelv dansk Norsk",
+    "poster_url": "https://i.mydramalist.com/A7lyEc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/A7lyEc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/A7lyEc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/A7lyEc.jpg",
+        "title": "Happy Jinlian-Pan (2015) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/A7lyEs.jpg",
+        "hd_url": "https://i.mydramalist.com/A7lyEs.jpg",
+        "title": "Happy Jinlian-Pan Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/A7lyEm.jpg",
+        "hd_url": "https://i.mydramalist.com/A7lyEm.jpg",
+        "title": "Happy Jinlian-Pan (2015)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Wang Chuang",
+          "slug": "people/11050-wang-chuang",
+          "url": "https://mydramalist.com/people/11050-wang-chuang",
+          "image_url": "https://i.mydramalist.com/EyoVQ_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EyoVQ_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Jia Hai Tao",
+          "slug": "people/37249-jia-hai-tao",
+          "url": "https://mydramalist.com/people/37249-jia-hai-tao",
+          "image_url": "https://i.mydramalist.com/EPNwOs.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EPNwOs.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": [
+        {
+          "name": "Lanling Xiaoxiao Sheng",
+          "slug": "people/66195-lanling-xiaoxiao-sheng",
+          "url": "https://mydramalist.com/people/66195-lanling-xiaoxiao-sheng",
+          "image_url": "https://i.mydramalist.com/EozBO_5m.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EozBO_5f.jpg",
+          "role_type": "Cast"
+        },
+        {
+          "name": "Yan Wei Er",
+          "slug": "people/55981-yan-wei-er",
+          "url": "https://mydramalist.com/people/55981-yan-wei-er",
+          "image_url": "https://i.mydramalist.com/qPYr2_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/qPYr2_5f.jpg",
+          "role_type": "Unknown"
+        }
+      ]
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:45:43.282Z"
+  },
+  {
+    "id": 37055,
+    "slug": "37055-tomb-of-the-dragon-deception",
+    "url": "https://mydramalist.com/37055-tomb-of-the-dragon-deception",
+    "title": "Tomb of the Dragon Deception",
+    "complete_title": "Tomb of the Dragon Deception (2015)",
+    "native_title": "盗墓诡影之寻龙点穴",
+    "sub_title": "盗墓诡影之寻龙点穴 ‧ Movie ‧ 2015",
+    "also_known_as": [
+      "Dao Mu Gui Ying Zhi Xun Long Dian Xue"
+    ],
+    "type": "Movie",
+    "country": "China",
+    "year": 2015,
+    "status": "Aired",
+    "episodes": null,
+    "aired_string": "",
+    "aired_start": null,
+    "aired_end": null,
+    "aired_on": [],
+    "original_network": null,
+    "duration_string": "60 min.",
+    "duration_minutes": 60,
+    "content_rating": "Not Yet Rated",
+    "rating": 6.826,
+    "scored_by": 5,
+    "ranked": 99999,
+    "popularity": 99999,
+    "watchers": 26,
+    "favorites": 0,
+    "genres": [
+      {
+        "name": "Horror",
+        "id": "14"
+      },
+      {
+        "name": "Wuxia",
+        "id": "20"
+      },
+      {
+        "name": "Fantasy",
+        "id": "32"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Tomb Raiding",
+        "id": "2101"
+      },
+      {
+        "name": "Martial Arts",
+        "id": "26"
+      },
+      {
+        "name": "Historical",
+        "id": "10"
+      },
+      {
+        "name": "Adventure",
+        "id": "5"
+      },
+      {
+        "name": "Suspense",
+        "id": "4"
+      },
+      {
+        "name": "Action",
+        "id": "1"
+      }
+    ],
+    "synopsis": "English Español Português (Brasil) 한국어",
+    "poster_url": "https://i.mydramalist.com/1pq8Qc.jpg?v=1",
+    "poster_hd_url": "https://i.mydramalist.com/1pq8Qc.jpg",
+    "trailer_id": null,
+    "trailers": [],
+    "streaming_providers": [],
+    "photos": [
+      {
+        "url": "https://i.mydramalist.com/1pq8Qc.jpg?v=1",
+        "hd_url": "https://i.mydramalist.com/1pq8Qc.jpg",
+        "title": "Tomb of the Dragon Deception (2015) poster"
+      },
+      {
+        "url": "https://i.mydramalist.com/1pq8Qs.jpg",
+        "hd_url": "https://i.mydramalist.com/1pq8Qs.jpg",
+        "title": "Tomb of the Dragon Deception Chinese Movie photo"
+      },
+      {
+        "url": "https://i.mydramalist.com/1pq8Qm.jpg",
+        "hd_url": "https://i.mydramalist.com/1pq8Qm.jpg",
+        "title": "Tomb of the Dragon Deception (2015)"
+      }
+    ],
+    "reviews": [],
+    "recommendations": [],
+    "next_episode": null,
+    "related_content": [
+      {
+        "title": "Dao Mu Gui Ying Zhi Jiu Xing Yong Wang Mu",
+        "slug": "37057-dao-mu-gui-ying-zhi-jiu-xing-yong-wang-mu",
+        "url": "https://mydramalist.com/37057-dao-mu-gui-ying-zhi-jiu-xing-yong-wang-mu",
+        "relation": "Chinese sequel"
+      }
+    ],
+    "cast": {
+      "main_roles": [
+        {
+          "name": "Sui Cun Yi",
+          "slug": "people/89985-sui-cun-yi",
+          "url": "https://mydramalist.com/people/89985-sui-cun-yi",
+          "image_url": "https://i.mydramalist.com/RKg6R_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/RKg6R_5f.jpg",
+          "role_type": "Main Role"
+        },
+        {
+          "name": "Ge Wen Xi",
+          "slug": "people/90037-ge-wen-xi",
+          "url": "https://mydramalist.com/people/90037-ge-wen-xi",
+          "image_url": "https://i.mydramalist.com/WkOz3_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/WkOz3_5f.jpg",
+          "role_type": "Main Role"
+        }
+      ],
+      "support_roles": [
+        {
+          "name": "Wang Xiao Tian",
+          "slug": "people/67397-wang-xiao-tian",
+          "url": "https://mydramalist.com/people/67397-wang-xiao-tian",
+          "image_url": "https://i.mydramalist.com/EWYkb_5s.jpg",
+          "image_hd_url": "https://i.mydramalist.com/EWYkb_5f.jpg",
+          "role_type": "Support Role"
+        }
+      ],
+      "guest_roles": [],
+      "directors": [],
+      "screenwriters": [],
+      "others": []
+    },
+    "episode_list": [],
+    "scraped_at": "2026-11-21T10:45:48.952Z"
   }
 ]
