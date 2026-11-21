@@ -121,8 +121,8 @@
   },
   "2002": {
     "total_titles": 1032,
-    "enriched": 1032,
-    "pending": 0,
+    "enriched": 479,
+    "pending": 553,
     "parts_count": 1,
     "active_part": "mdl_enriched_2002.json",
     "last_id": 5913,
@@ -141,13 +141,13 @@
   },
   "2016": {
     "total_titles": 3621,
-    "enriched": 3092,
-    "pending": 529,
+    "enriched": 3112,
+    "pending": 509,
     "parts_count": 1,
     "active_part": "mdl_enriched_2016.json",
-    "last_id": 754509,
-    "last_title": "Gender in Bias out",
-    "last_updated": "2026-11-21T04:06:56.971Z"
+    "last_id": 748623,
+    "last_title": "Horror Story: The Murder House",
+    "last_updated": "2026-11-21T04:09:02.889Z"
   },
   "2017": {
     "total_titles": 3837,
