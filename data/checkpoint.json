@@ -151,13 +151,23 @@
   },
   "2005": {
     "total_titles": 1283,
-    "enriched": 859,
-    "pending": 424,
+    "enriched": 1283,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2005.json",
-    "last_id": 55757,
-    "last_title": "Chaloey Barb",
-    "last_updated": "2026-11-21T09:44:35.578Z"
+    "last_id": 20112,
+    "last_title": "Withered in a Blooming Season",
+    "last_updated": "2026-11-21T10:33:28.171Z"
+  },
+  "2006": {
+    "total_titles": 1459,
+    "enriched": 19,
+    "pending": 1440,
+    "parts_count": 1,
+    "active_part": "mdl_enriched_2006.json",
+    "last_id": 680,
+    "last_title": "Hwang Jin Yi",
+    "last_updated": "2026-11-21T10:44:47.803Z"
   },
   "2015": {
     "total_titles": 2955,
