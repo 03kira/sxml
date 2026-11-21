@@ -121,8 +121,8 @@
   },
   "2002": {
     "total_titles": 1032,
-    "enriched": 1032,
-    "pending": 0,
+    "enriched": 479,
+    "pending": 553,
     "parts_count": 1,
     "active_part": "mdl_enriched_2002.json",
     "last_id": 5913,
@@ -141,13 +141,13 @@
   },
   "2016": {
     "total_titles": 3621,
-    "enriched": 3352,
-    "pending": 269,
+    "enriched": 3372,
+    "pending": 249,
     "parts_count": 1,
     "active_part": "mdl_enriched_2016.json",
-    "last_id": 23021,
-    "last_title": "The Beauty Face",
-    "last_updated": "2026-11-21T04:34:05.351Z"
+    "last_id": 21204,
+    "last_title": "Murder at Honeymoon Hotel",
+    "last_updated": "2026-11-21T04:36:05.480Z"
   },
   "2017": {
     "total_titles": 3837,
