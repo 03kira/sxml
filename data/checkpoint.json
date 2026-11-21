@@ -161,8 +161,8 @@
   },
   "2006": {
     "total_titles": 1459,
-    "enriched": 319,
-    "pending": 1140,
+    "enriched": 1459,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2006.json",
     "last_id": 10358,
@@ -171,13 +171,13 @@
   },
   "2007": {
     "total_titles": 1471,
-    "enriched": 239,
-    "pending": 1232,
+    "enriched": 259,
+    "pending": 1212,
     "parts_count": 1,
     "active_part": "mdl_enriched_2007.json",
-    "last_id": 23193,
-    "last_title": "Dead Air",
-    "last_updated": "2026-11-21T14:07:19.156Z"
+    "last_id": 55753,
+    "last_title": "Hub Khao Gin Khon",
+    "last_updated": "2026-11-21T14:09:34.101Z"
   },
   "2014": {
     "total_titles": 2696,
