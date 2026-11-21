@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -141,13 +141,13 @@
   },
   "2004": {
     "total_titles": 1247,
-    "enriched": 759,
-    "pending": 488,
+    "enriched": 779,
+    "pending": 468,
     "parts_count": 1,
     "active_part": "mdl_enriched_2004.json",
-    "last_id": 788308,
-    "last_title": "In My Heart",
-    "last_updated": "2026-11-21T07:02:51.690Z"
+    "last_id": 14279,
+    "last_title": "Pisaj",
+    "last_updated": "2026-11-21T07:05:05.407Z"
   },
   "2015": {
     "total_titles": 2955,
