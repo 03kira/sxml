@@ -121,8 +121,8 @@
   },
   "2002": {
     "total_titles": 1032,
-    "enriched": 1032,
-    "pending": 0,
+    "enriched": 479,
+    "pending": 553,
     "parts_count": 1,
     "active_part": "mdl_enriched_2002.json",
     "last_id": 5913,
@@ -141,13 +141,13 @@
   },
   "2016": {
     "total_titles": 3621,
-    "enriched": 3272,
-    "pending": 349,
+    "enriched": 3292,
+    "pending": 329,
     "parts_count": 1,
     "active_part": "mdl_enriched_2016.json",
-    "last_id": 735803,
-    "last_title": "Donkey Magistrate: The Tiger Hunt",
-    "last_updated": "2026-11-21T04:25:43.785Z"
+    "last_id": 737107,
+    "last_title": "Bio Mermaid",
+    "last_updated": "2026-11-21T04:27:48.082Z"
   },
   "2017": {
     "total_titles": 3837,
