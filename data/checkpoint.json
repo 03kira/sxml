@@ -151,8 +151,8 @@
   },
   "2005": {
     "total_titles": 1283,
-    "enriched": 1283,
-    "pending": 0,
+    "enriched": 859,
+    "pending": 424,
     "parts_count": 1,
     "active_part": "mdl_enriched_2005.json",
     "last_id": 20112,
@@ -171,13 +171,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 2882,
-    "pending": 73,
+    "enriched": 2902,
+    "pending": 53,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 788696,
-    "last_title": "Smog Journeys",
-    "last_updated": "2026-11-21T11:09:12.808Z"
+    "last_id": 27127,
+    "last_title": "Only You",
+    "last_updated": "2026-11-21T11:11:28.693Z"
   },
   "2016": {
     "total_titles": 3621,
