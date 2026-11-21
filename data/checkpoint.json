@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 959,
-    "pending": 188,
+    "enriched": 1147,
+    "pending": 0,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -141,13 +141,13 @@
   },
   "2004": {
     "total_titles": 1247,
-    "enriched": 459,
-    "pending": 788,
+    "enriched": 479,
+    "pending": 768,
     "parts_count": 1,
     "active_part": "mdl_enriched_2004.json",
-    "last_id": 764759,
-    "last_title": "Ekimae Taxi Yukemuri Jiken Annai 2",
-    "last_updated": "2026-11-21T06:29:15.754Z"
+    "last_id": 723637,
+    "last_title": "Love to Love Season 4",
+    "last_updated": "2026-11-21T06:31:34.409Z"
   },
   "2015": {
     "total_titles": 2955,
