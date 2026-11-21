@@ -151,8 +151,8 @@
   },
   "2005": {
     "total_titles": 1283,
-    "enriched": 1283,
-    "pending": 0,
+    "enriched": 859,
+    "pending": 424,
     "parts_count": 1,
     "active_part": "mdl_enriched_2005.json",
     "last_id": 20112,
@@ -171,13 +171,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 2742,
-    "pending": 213,
+    "enriched": 2762,
+    "pending": 193,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 718297,
-    "last_title": "Girlfriend is President",
-    "last_updated": "2026-11-21T10:54:15.476Z"
+    "last_id": 41215,
+    "last_title": "Twin Spirit",
+    "last_updated": "2026-11-21T10:56:23.532Z"
   },
   "2016": {
     "total_titles": 3621,
