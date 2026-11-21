@@ -131,8 +131,8 @@
   },
   "2003": {
     "total_titles": 1147,
-    "enriched": 1147,
-    "pending": 0,
+    "enriched": 959,
+    "pending": 188,
     "parts_count": 1,
     "active_part": "mdl_enriched_2003.json",
     "last_id": 17235,
@@ -151,13 +151,13 @@
   },
   "2015": {
     "total_titles": 2955,
-    "enriched": 719,
-    "pending": 2236,
+    "enriched": 739,
+    "pending": 2216,
     "parts_count": 1,
     "active_part": "mdl_enriched_2015.json",
-    "last_id": 695877,
-    "last_title": "The Last Ship Home",
-    "last_updated": "2026-11-21T06:46:12.750Z"
+    "last_id": 728983,
+    "last_title": "Box",
+    "last_updated": "2026-11-21T06:48:15.386Z"
   },
   "2016": {
     "total_titles": 3621,
