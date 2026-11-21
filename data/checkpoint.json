@@ -121,8 +121,8 @@
   },
   "2002": {
     "total_titles": 1032,
-    "enriched": 1032,
-    "pending": 0,
+    "enriched": 479,
+    "pending": 553,
     "parts_count": 1,
     "active_part": "mdl_enriched_2002.json",
     "last_id": 5913,
@@ -141,13 +141,13 @@
   },
   "2016": {
     "total_titles": 3621,
-    "enriched": 3412,
-    "pending": 209,
+    "enriched": 3432,
+    "pending": 189,
     "parts_count": 1,
     "active_part": "mdl_enriched_2016.json",
-    "last_id": 687865,
-    "last_title": "Something In Blue",
-    "last_updated": "2026-11-21T04:40:16.927Z"
+    "last_id": 747617,
+    "last_title": "Xi Ha Xi You Zhi Wu Zhi Shan",
+    "last_updated": "2026-11-21T04:42:23.018Z"
   },
   "2017": {
     "total_titles": 3837,
