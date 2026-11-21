@@ -121,8 +121,8 @@
   },
   "2002": {
     "total_titles": 1032,
-    "enriched": 1032,
-    "pending": 0,
+    "enriched": 479,
+    "pending": 553,
     "parts_count": 1,
     "active_part": "mdl_enriched_2002.json",
     "last_id": 5913,
@@ -141,13 +141,13 @@
   },
   "2016": {
     "total_titles": 3621,
-    "enriched": 3532,
-    "pending": 89,
+    "enriched": 3552,
+    "pending": 69,
     "parts_count": 1,
     "active_part": "mdl_enriched_2016.json",
-    "last_id": 25876,
-    "last_title": "Girl’s Summer",
-    "last_updated": "2026-11-21T04:53:09.641Z"
+    "last_id": 21407,
+    "last_title": "Cock and Bull",
+    "last_updated": "2026-11-21T04:55:28.601Z"
   },
   "2017": {
     "total_titles": 3837,
